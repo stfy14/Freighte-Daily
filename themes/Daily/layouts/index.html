@@ -1,0 +1,162 @@
+{{ define "main" }}
+  {{ $today := now }}
+  {{ $data := site.Data.destroyed_freighters }}
+  {{ $timeFormatKill := "15:04" }}
+
+  <div class="columns">
+    {{ range $i := seq 0 5 }}
+      {{ $daysAgo := $i }}
+      {{ if eq $i 5 }}
+        <div class="col archive-multiple-days">
+            {{ $offset5 := int $daysAgo }}
+            {{ $targetDate5 := $today.AddDate 0 0 (int (mul $offset5 -1)) }}
+            {{ $dayStart5 := $targetDate5.Truncate (time.ParseDuration "24h") }}
+            {{ $dayEnd5 := $dayStart5.AddDate 0 0 1 }}
+            {{ $killsForDay5 := slice }}
+            {{ $totalValueDay5 := 0.0 }}
+            {{ range $data }}
+              {{ $killTimeObj := false }}
+              {{ with .kill_time }}
+                {{ $killTimeObj = time . }}
+              {{ end }}
+              {{ if $killTimeObj }}
+                {{ if and (ge $killTimeObj $dayStart5) (lt $killTimeObj $dayEnd5) }}
+                  {{ $killsForDay5 = $killsForDay5 | append . }}
+                  {{ $totalValueDay5 = add $totalValueDay5 (float .total_value) }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            <div class="arch-day">
+              <h3>{{ partial "formatDateRussian.html" (dict "Date" $targetDate5) }} — {{ partial "formatISK.html" $totalValueDay5 }}</h3>
+              <div class="scrollable-kill-item-list">
+                <ul class="kill-item-list">
+                  {{ if gt (len $killsForDay5) 0 }}
+                    {{ range $killsForDay5 }}
+                      <li class="kill-item">
+                        <div class="kill-item-details">
+                          <a target="_blank" rel="noopener noreferrer" href={{ .zkb_url }}>
+                          {{ with .kill_time }}{{ (time .).Format $timeFormatKill }}{{ end }} — 
+                          <em>{{ .victim.character_name }}</em> из <em>{{ .victim.corporation_name }}</em><br>
+                          потерял {{ partial "formatISK.html" (float .total_value) }} <em>{{ .ship_type_name }}</em>
+                          </a>
+                        </div>
+                      </li>
+                    {{ end }}
+                  {{ else }}
+                    <li>Убийств в этот день не замечено</li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+            {{ $offset6 := int (add $daysAgo 1) }}
+            {{ $targetDate6 := $today.AddDate 0 0 (int (mul $offset6 -1)) }}
+            {{ $dayStart6 := $targetDate6.Truncate (time.ParseDuration "24h") }}
+            {{ $dayEnd6 := $dayStart6.AddDate 0 0 1 }}
+            {{ $killsForDay6 := slice }}
+            {{ $totalValueDay6 := 0.0 }}
+            {{ range $data }}
+              {{ $killTimeObj := false }}
+              {{ with .kill_time }}
+                {{ $killTimeObj = time . }}
+              {{ end }}
+              {{ if $killTimeObj }}
+                {{ if and (ge $killTimeObj $dayStart6) (lt $killTimeObj $dayEnd6) }}
+                  {{ $killsForDay6 = $killsForDay6 | append . }}
+                  {{ $totalValueDay6 = add $totalValueDay6 (float .total_value) }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            <div class="arch-day">
+              <hr class="bottom-border">
+              <h3>{{ partial "formatDateRussian.html" (dict "Date" $targetDate6) }} — {{ partial "formatISK.html" $totalValueDay6 }}</h3>
+              <div class="scrollable-kill-item-list">
+                <ul class="kill-item-list">
+                  {{ if gt (len $killsForDay6) 0 }}
+                    {{ range $killsForDay6 }}
+                      <li class="kill-item">
+                        <div class="kill-item-details">
+                          <a target="_blank" rel="noopener noreferrer" href={{ .zkb_url }}>
+                          {{ with .kill_time }}{{ (time .).Format $timeFormatKill }}{{ end }} —
+                          <em>{{ .victim.character_name }}</em> из <em>{{ .victim.corporation_name }}</em><br>
+                          потерял {{ partial "formatISK.html" (float .total_value) }} <em>{{ .ship_type_name }}</em>
+                          </a>
+                        </div>
+                      </li>
+                    {{ end }}
+                  {{ else }}
+                    <li>Убийств в этот день не замечено</li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+        </div> 
+      {{ else }} 
+        {{ $offsetCurrent := int $daysAgo }}
+        {{ $currentDate := $today.AddDate 0 0 (int (mul $offsetCurrent -1)) }}
+        {{ $dayStart := $currentDate.Truncate (time.ParseDuration "24h") }}
+        {{ $dayEnd := $dayStart.AddDate 0 0 1 }}
+        {{ $killsForColumn := slice }}
+        {{ $totalValueColumn := 0.0 }}
+        {{ range $data }}
+          {{ $killTimeObj := false }}
+          {{ with .kill_time }}
+            {{ $killTimeObj = time . }}
+          {{ end }}
+          {{ if $killTimeObj }}
+            {{ if and (ge $killTimeObj $dayStart) (lt $killTimeObj $dayEnd) }}
+              {{ $killsForColumn = $killsForColumn | append . }}
+              {{ $totalValueColumn = add $totalValueColumn (float .total_value) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ $columnExtraClass := "1" }}
+        {{ if eq $daysAgo 1 }}
+          {{ $columnExtraClass = "1" }}
+        {{ end }}
+        {{ if eq $daysAgo 2 }}
+          {{ $columnExtraClass = "3" }}
+        {{ end }}
+        {{ if eq $daysAgo 3 }}
+          {{ $columnExtraClass = "4" }}
+        {{ end }}
+        {{ if eq $daysAgo 4 }}
+          {{ $columnExtraClass = "5" }}
+        {{ end }}
+        <div class="col {{ $columnExtraClass }}">
+          {{ $columnTitle := "" }}
+          {{ if eq $daysAgo 0 }}
+            {{ $columnTitle = T "Today" }}
+          {{ else if eq $daysAgo 1 }}
+            {{ $columnTitle = T "Testerday" }}
+          {{ else }}
+            {{ $columnTitle = partial "formatDateRussian.html" (dict "Date" $currentDate) }}
+          {{ end }}
+          <h2>{{ $columnTitle }} — {{ partial "formatISK.html" $totalValueColumn }}</h2>
+          <div class="scrollable-kill-item-list">
+            <ul class="kill-item-list">
+              {{ if gt (len $killsForColumn) 0 }}
+                {{ range $killsForColumn }}
+                  <li class="kill-item">
+                    {{ if eq $daysAgo 0}}
+                    <img src="https://images.evetech.net/types/{{ .ship_type_id }}/render?size=128" alt="{{ .ship_type_name }}" height="128" width="128">
+                    {{ else }}
+                    {{ end}}
+                    <div class="kill-item-details">
+                      <a target="_blank" rel="noopener noreferrer" href={{ .zkb_url }}>
+                      <time>{{ with .kill_time }}{{ (time .).Format $timeFormatKill }}{{ end }}</time> —
+                      <strong>{{ .victim.character_name }}</strong> из <em>{{ .victim.corporation_name }}</em><br>
+                      потерял {{ partial "formatISK.html" (float .total_value) }} <strong>{{ .ship_type_name }}</strong>
+                      </a>
+                    </div>
+                  </li>
+                {{ end }}
+              {{ else }}
+                <li>Убийств в этот день не замечено</li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

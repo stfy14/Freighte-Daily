@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>{{ .Site.Title }}</title>
+  {{ $styles := resources.Get "css/newspaper.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}">
+</head>
+<body>
+  {{ partial "header.html" . }}
+  <hr class="top-border">
+  <hr class="bottom-border">
+  {{ block "main" . }}{{ end }}
+</body>
+</html>

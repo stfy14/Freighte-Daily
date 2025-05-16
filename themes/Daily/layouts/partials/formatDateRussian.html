@@ -1,0 +1,9 @@
+{{ $dateObject := .Date }}
+{{ $day := $dateObject.Format "2" }}
+{{ $monthKey := lower ($dateObject.Format "January") }}
+{{ $monthKeyGenitive := printf "%s_genitive" $monthKey }}
+{{ $year := $dateObject.Format "2006" }}
+
+{{ $localizedMonth := T $monthKeyGenitive | default ($dateObject.Format "January") }}
+
+{{ printf "%s %s %s" $day $localizedMonth $year }}

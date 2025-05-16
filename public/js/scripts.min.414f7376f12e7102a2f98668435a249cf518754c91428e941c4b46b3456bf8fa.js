@@ -1,0 +1,1 @@
+window.addEventListener("resize",function(){var e=document.querySelector(".scrollable-kill-item-list"),t=e.scrollHeight>e.clientHeight;e.style.overflowY=t?"auto":"hidden"})

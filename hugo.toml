@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'ru-RU'
+theme = 'Daily'
+disableKinds = ["taxonomy"]
+
+title = 'Freighter Daily'
+[params]
+  subtitle = "Ежедневник уничтоженных фрейтеров"
+  #credit = "Создано с использованием "
+  #credit_clickable = "zKillBoard"
+  #credit_url = "https://zkillboard.com/"\
+[languages]
+  [languages.ru]
+    languageName = "Русский"
+    weight = 1
