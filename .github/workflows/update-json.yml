@@ -4,7 +4,7 @@ on:
   schedule:
     # Запуск каждый час
     - cron: '0 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   update_data:
@@ -15,21 +15,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up 
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
-        run: pip install -r requests 
+          python-version: '3.x' 
 
-      - name: Run Update JSON
-        run: |
-          python ./update_data.py
+      - name: Install Python dependencies
+        run: pip install requests 
+
+      - name: Run Update JSON script
+        run: python ./update_data.py
 
       - name: Check for changes
         id: git_check
         run: |
-          git diff --quiet HEAD -- ./data/destroyed_freighters.json
-          if [ $? -ne 0 ]; then
+          # Проверяем, есть ли изменения в файле относительно HEAD
+          if ! git diff --quiet HEAD -- ./data/destroyed_freighters.json; then
             echo "JSON file has changed."
             echo "changed=true" >> $GITHUB_OUTPUT
           else
