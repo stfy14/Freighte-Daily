@@ -30,6 +30,7 @@ defaults:
 jobs:
   # Build job
   build:
+    if: "!contains(github.event.head_commit.message, '[skip ci]') && !contains(github.event.head_commit.message, '[ci skip]')"
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.147.2
