@@ -1301,57 +1301,5 @@
       "alliance_name": null,
       "ship_type_name": "Oracle"
     }
-  },
-  {
-    "killmail_id": 127032987,
-    "killmail_hash": "96109421363f342de0997048a2c495b83dd3a894",
-    "kill_time": "2025-05-12T12:12:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 31001834,
-    "solar_system_name": "J114031",
-    "region_name": "D-R00022",
-    "victim": {
-      "character_id": 97203987,
-      "character_name": "CHOPOBKA",
-      "corporation_id": 98679428,
-      "corporation_name": "SCREECHING GRASS",
-      "alliance_id": 99010320,
-      "alliance_name": "Bully Brigade"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127032987/",
-    "total_value": 4457733270.6,
-    "final_attacker": {
-      "character_name": "Saren Arterus",
-      "corporation_name": "Exit-Strategy",
-      "alliance_name": "Unchained Alliance",
-      "ship_type_name": "Absolution"
-    }
-  },
-  {
-    "killmail_id": 127032724,
-    "killmail_hash": "dcb8d3b22e0a9b12157d7538405bfb144536e0d4",
-    "kill_time": "2025-05-12T11:57:54Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 31001168,
-    "solar_system_name": "J101354",
-    "region_name": "C-R00012",
-    "victim": {
-      "character_id": 95977952,
-      "character_name": "Tammy Crimson",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127032724/",
-    "total_value": 2218443909.63,
-    "final_attacker": {
-      "character_name": "Summer Glau Crimson",
-      "corporation_name": "The Stellar Paradox",
-      "alliance_name": "I Showed You My Probes... Please Respond...",
-      "ship_type_name": "Cenotaph"
-    }
   }
 ]
