@@ -989,57 +989,5 @@
       "alliance_name": "The Initiative.",
       "ship_type_name": "Brutix Navy Issue"
     }
-  },
-  {
-    "killmail_id": 127110365,
-    "killmail_hash": "bc704996dc5660ea3623f3aed184c4a2375dd0e3",
-    "kill_time": "2025-05-15T16:18:31Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000181,
-    "solar_system_name": "Korsiki",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123389003,
-      "character_name": "BrokenFemur",
-      "corporation_id": 98800564,
-      "corporation_name": "TravelingMen Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127110365/",
-    "total_value": 26537052665.92,
-    "final_attacker": {
-      "character_name": "fcyno5",
-      "corporation_name": "Totoro Time",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127108524,
-    "killmail_hash": "fe39846e58efbfb9f528361aa0b663c7ec507d3d",
-    "kill_time": "2025-05-15T14:20:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002048,
-    "solar_system_name": "Bei",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2116616324,
-      "character_name": "Kito Isayeki",
-      "corporation_id": 98744234,
-      "corporation_name": "Legally Questionable Activities",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127108524/",
-    "total_value": 1971082435.19,
-    "final_attacker": {
-      "character_name": "Spatterjay Hoop",
-      "corporation_name": "Heretic Army",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Broadsword"
-    }
   }
 ]
