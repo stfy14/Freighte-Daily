@@ -986,58 +986,5 @@
       "alliance_name": null,
       "ship_type_name": "Oracle"
     }
-  },
-  {
-    "killmail_id": 127128272,
-    "killmail_hash": "263cff0b456d30d16bc6c6d3f1a0fa1dfe87d3c2",
-    "kill_time": "2025-05-16T11:38:20Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118741874,
-      "character_name": "ip Stareine",
-      "corporation_id": 98707601,
-      "corporation_name": "ip mayo Production",
-      "alliance_id": 99011267,
-      "alliance_name": "Siege Green Friends"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127128272/",
-    "total_value": 44762245174.93,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle",
-      "damage_done": "Unknown Ship"
-    }
-  },
-  {
-    "killmail_id": 127126607,
-    "killmail_hash": "2a7b242da53aac2f0d116acbfe5d7e7d767ce980",
-    "kill_time": "2025-05-16T09:05:00Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114103115,
-      "character_name": "carbondnb",
-      "corporation_id": 98746891,
-      "corporation_name": "The Exotic Dancers",
-      "alliance_id": 99013739,
-      "alliance_name": "Heirs To The Pleasurehub"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127126607/",
-    "total_value": 3802413923.72,
-    "final_attacker": {
-      "character_name": "Facial Fracture Daphiti",
-      "corporation_name": "PLEX ME NOW",
-      "alliance_name": "Nourv Gate Security Commission",
-      "ship_type_name": "Zirnitra"
-    }
   }
 ]
