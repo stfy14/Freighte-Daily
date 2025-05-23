@@ -1039,59 +1039,5 @@
       "alliance_name": "Nourv Gate Security Commission",
       "ship_type_name": "Zirnitra"
     }
-  },
-  {
-    "killmail_id": 127125211,
-    "killmail_hash": "0dc389bcf7c759379a2cfef0b503226e36de3057",
-    "kill_time": "2025-05-16T06:36:06Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000156,
-    "solar_system_name": "Josameto",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 92669112,
-      "character_name": "Dakkon Crenshinabon",
-      "corporation_id": 935907718,
-      "corporation_name": "Destructive Influence",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127125211/",
-    "total_value": 34221487086.78,
-    "final_attacker": {
-      "character_name": "Nado 23 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Oracle",
-      "damage_done": "Setele's Modified Thermal Coating"
-    }
-  },
-  {
-    "killmail_id": 127124965,
-    "killmail_hash": "8b7ba91cf3d0a760b7376f098ae7393bf7d43a7d",
-    "kill_time": "2025-05-16T06:19:41Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 96904181,
-      "character_name": "Welsh Eos",
-      "corporation_id": 98003272,
-      "corporation_name": "Drama Llamas",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127124965/",
-    "total_value": 22461215616.28,
-    "final_attacker": {
-      "character_name": "Fool Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier",
-      "damage_done": "Dual 150mm Prototype Gauss Gun"
-    }
   }
 ]
