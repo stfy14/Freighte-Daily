@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127345435,
+    "killmail_hash": "afe19c2f13e71ed36291d234efadac4535e417a6",
+    "kill_time": "2025-05-25T06:24:02Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 1407498828,
+      "character_name": "Jean Trevalle",
+      "corporation_id": 98169165,
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127345435/",
+    "total_value": 2253507308.41,
+    "final_attacker": {
+      "character_name": "Shisken",
+      "corporation_name": "ChuangShi",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 127344210,
+    "killmail_hash": "141cdbd68c5febaab8f405be7a7b648119406d7c",
+    "kill_time": "2025-05-25T04:59:47Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003726,
+    "solar_system_name": "Y-MPWL",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2120766873,
+      "character_name": "Suryong Baek",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127344210/",
+    "total_value": 3342859903.11,
+    "final_attacker": {
+      "character_name": "Ethien Green",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
     "killmail_id": 127332787,
     "killmail_hash": "5065ce058b6e09c3da2d53559751810d497c21b8",
     "kill_time": "2025-05-24T19:23:34Z",
@@ -881,58 +933,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Safety.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127176972,
-    "killmail_hash": "0b9b3ba19cc7cf067d577c364dad53b26ef3c0f2",
-    "kill_time": "2025-05-18T05:00:56Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000155,
-    "solar_system_name": "Obanen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121076922,
-      "character_name": "Jocko Soapyfingers",
-      "corporation_id": 98800564,
-      "corporation_name": "TravelingMen Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127176972/",
-    "total_value": 15995490661.12,
-    "final_attacker": {
-      "character_name": "Nado 32 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127176970,
-    "killmail_hash": "8bcb7b56b2212e40778d2cb54709993f57bb4fd2",
-    "kill_time": "2025-05-18T05:00:42Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000155,
-    "solar_system_name": "Obanen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123389003,
-      "character_name": "BrokenFemur",
-      "corporation_id": 98800564,
-      "corporation_name": "TravelingMen Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127176970/",
-    "total_value": 50446889373.16,
-    "final_attacker": {
-      "character_name": "Nado 7 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Oracle"
     }
   }
 ]
