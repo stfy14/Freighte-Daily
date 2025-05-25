@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127332787,
+    "killmail_hash": "5065ce058b6e09c3da2d53559751810d497c21b8",
+    "kill_time": "2025-05-24T19:23:34Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000669,
+    "solar_system_name": "N3-JBX",
+    "region_name": "Scalding Pass",
+    "victim": {
+      "character_id": 92136460,
+      "character_name": "Contendere Mernher",
+      "corporation_id": 98637264,
+      "corporation_name": "Sensible People",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127332787/",
+    "total_value": 3302834622.49,
+    "final_attacker": {
+      "character_name": "Gerard Menvuca",
+      "corporation_name": "Horde Vanguard.",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 127332701,
     "killmail_hash": "14e7808d64d8ae9769c1e8df163c6ac6d20dcf50",
     "kill_time": "2025-05-24T19:20:30Z",
@@ -959,32 +985,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127170223,
-    "killmail_hash": "4fc2ca12de964ccc6728036775027f8e3e64a322",
-    "kill_time": "2025-05-17T22:12:10Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1839220114,
-      "character_name": "Levin Denso",
-      "corporation_id": 1649851008,
-      "corporation_name": "Denso Industrial",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127170223/",
-    "total_value": 2223417593.65,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
     }
   }
 ]
