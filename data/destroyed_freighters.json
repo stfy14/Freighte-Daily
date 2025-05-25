@@ -934,57 +934,5 @@
       "alliance_name": "Safety.",
       "ship_type_name": "Oracle"
     }
-  },
-  {
-    "killmail_id": 127175830,
-    "killmail_hash": "9ab84394917a9968072a349270afc0ab7e2fa334",
-    "kill_time": "2025-05-18T03:44:05Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94668878,
-      "character_name": "Scarlet Goshawk",
-      "corporation_id": 98520048,
-      "corporation_name": "sub nasum tuum",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127175830/",
-    "total_value": 11276131399.57,
-    "final_attacker": {
-      "character_name": "Nado 10 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127174857,
-    "killmail_hash": "9594aea85adfedde948338b714f0450980b88b59",
-    "kill_time": "2025-05-18T02:34:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117631966,
-      "character_name": "Thomas Fairchild",
-      "corporation_id": 98406814,
-      "corporation_name": "Victory or Whatever",
-      "alliance_id": 99012398,
-      "alliance_name": "Nourv Gate Security Commission"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127174857/",
-    "total_value": 48147663504.98,
-    "final_attacker": {
-      "character_name": "zLegion M",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
   }
 ]
