@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127419467,
+    "killmail_hash": "6558a38a079faf1991e8447be5611370730bf12d",
+    "kill_time": "2025-05-28T00:06:50Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000181,
+    "solar_system_name": "Korsiki",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96589378,
+      "character_name": "Zotnam",
+      "corporation_id": 98528488,
+      "corporation_name": "Solaryon Dynamics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127419467/",
+    "total_value": 2435799509.05,
+    "final_attacker": {
+      "character_name": "fcyno5",
+      "corporation_name": "Totoro Time",
+      "alliance_name": "Insidious.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127411510,
     "killmail_hash": "a4db7f9ab27ed3970cdd5fd575fa48c491b135e8",
     "kill_time": "2025-05-27T18:10:34Z",
@@ -1062,58 +1088,6 @@
       "character_name": "Blan",
       "corporation_name": "Best Cool Stories",
       "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127242528,
-    "killmail_hash": "65e7c6e46de05eb303d1c711d58115082a8a46ef",
-    "kill_time": "2025-05-20T22:00:06Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112946857,
-      "character_name": "Hohus Tichim",
-      "corporation_id": 98701513,
-      "corporation_name": "PrimeEvil",
-      "alliance_id": 1614483120,
-      "alliance_name": "Bright Side of Death"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127242528/",
-    "total_value": 22473401549.8,
-    "final_attacker": {
-      "character_name": "Funkert",
-      "corporation_name": "Stimulus",
-      "alliance_name": "Rote Kapelle",
-      "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 127240996,
-    "killmail_hash": "077780a976fc353be60392d521cc10fb6058fbda",
-    "kill_time": "2025-05-20T20:28:35Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30045337,
-    "solar_system_name": "Ikoskio",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2122723121,
-      "character_name": "GhandY2",
-      "corporation_id": 98740637,
-      "corporation_name": "Imperio Galactico",
-      "alliance_id": 99012717,
-      "alliance_name": "Imperio Galactico."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127240996/",
-    "total_value": 2249115798.31,
-    "final_attacker": {
-      "character_name": "Absolut McClure",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
     }
   }
