@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127424751,
+    "killmail_hash": "694dfd4b3bc42b24e098a45e32fefeb17d8c4356",
+    "kill_time": "2025-05-28T04:28:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2114740025,
+      "character_name": "Dustrag",
+      "corporation_id": 98604928,
+      "corporation_name": "Imafraude",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127424751/",
+    "total_value": 8292892349.11,
+    "final_attacker": {
+      "character_name": "Yellow'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127423919,
     "killmail_hash": "05583b49bc916c9fddc41fe203cbb732707bb247",
     "kill_time": "2025-05-28T03:25:55Z",
@@ -1063,32 +1089,6 @@
       "corporation_name": "Tactical Farmers.",
       "alliance_name": "Pandemic Horde",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127250110,
-    "killmail_hash": "62001279cfbb6f3c3276c11be38d3c8e6952d861",
-    "kill_time": "2025-05-21T09:15:38Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2116682632,
-      "character_name": "JiTa Guomin",
-      "corporation_id": 98744888,
-      "corporation_name": "Temple Knights 24th Branch",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127250110/",
-    "total_value": 7356738918.06,
-    "final_attacker": {
-      "character_name": "Darainos Trild",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": null,
-      "ship_type_name": "Gnosis"
     }
   }
 ]
