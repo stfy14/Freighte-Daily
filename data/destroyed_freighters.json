@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127456757,
+    "killmail_hash": "2fb357ea395867e679f7dd28ad0a9f7a81e88261",
+    "kill_time": "2025-05-29T12:39:35Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 755876330,
+      "character_name": "Tommy McPhee",
+      "corporation_id": 1239884823,
+      "corporation_name": "Noir.",
+      "alliance_id": 495729389,
+      "alliance_name": "Shadow Cartel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127456757/",
+    "total_value": 2505886618.58,
+    "final_attacker": {
+      "character_name": "Belt Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127447072,
     "killmail_hash": "2a4ffb9e35f90eb50d2040c05c8fefb5e999d61e",
     "kill_time": "2025-05-29T00:58:34Z",
@@ -1375,32 +1401,6 @@
       "corporation_name": "The Priesthood",
       "alliance_name": "WeR4",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 127272342,
-    "killmail_hash": "6e017b25a5f9625e9e86a64226bcc10b3e29134c",
-    "kill_time": "2025-05-22T10:05:30Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30004759,
-    "solar_system_name": "1DQ1-A",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 328169774,
-      "character_name": "Doniition",
-      "corporation_id": 98728984,
-      "corporation_name": "Kalter Stahl 26",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127272342/",
-    "total_value": 9354840231.91,
-    "final_attacker": {
-      "character_name": "Sparkas",
-      "corporation_name": "Tactical Farmers.",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
