@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127540367,
+    "killmail_hash": "a37803e2dc533991e378c9d34c342c6e6c6f0014",
+    "kill_time": "2025-06-01T06:25:55Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95423005,
+      "character_name": "Julia Enderas",
+      "corporation_id": 98774251,
+      "corporation_name": "Ferrata Cohortis",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127540367/",
+    "total_value": 10041889452.23,
+    "final_attacker": {
+      "character_name": "NaughtyNinja",
+      "corporation_name": "The Monsters Inc",
+      "alliance_name": "It's a Skill Issue",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 127538024,
     "killmail_hash": "93e62a3f3eb300f9d1d426b6779f5772edb24612",
     "kill_time": "2025-06-01T04:16:34Z",
@@ -1869,84 +1895,6 @@
       "corporation_name": "Fusion Enterprises Ltd",
       "alliance_name": "Pandemic Horde",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127347249,
-    "killmail_hash": "f26955b92366209e2c9f6d423ba88c19e946d77e",
-    "kill_time": "2025-05-25T08:19:52Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003071,
-    "solar_system_name": "Anka",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 2112422346,
-      "character_name": "bushdoctor bob",
-      "corporation_id": 98550083,
-      "corporation_name": "Block 1F",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127347249/",
-    "total_value": 3385245559.86,
-    "final_attacker": {
-      "character_name": "Jessie Burrows",
-      "corporation_name": "BobVult",
-      "alliance_name": null,
-      "ship_type_name": "Cyclone"
-    }
-  },
-  {
-    "killmail_id": 127345435,
-    "killmail_hash": "afe19c2f13e71ed36291d234efadac4535e417a6",
-    "kill_time": "2025-05-25T06:24:02Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 1407498828,
-      "character_name": "Jean Trevalle",
-      "corporation_id": 98169165,
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127345435/",
-    "total_value": 2253507308.41,
-    "final_attacker": {
-      "character_name": "Shisken",
-      "corporation_name": "ChuangShi",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127344210,
-    "killmail_hash": "141cdbd68c5febaab8f405be7a7b648119406d7c",
-    "kill_time": "2025-05-25T04:59:47Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003726,
-    "solar_system_name": "Y-MPWL",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2120766873,
-      "character_name": "Suryong Baek",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127344210/",
-    "total_value": 3342859903.11,
-    "final_attacker": {
-      "character_name": "Ethien Green",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Sin"
     }
   }
 ]
