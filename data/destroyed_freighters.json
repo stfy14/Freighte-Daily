@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127550540,
+    "killmail_hash": "4cccb1b30afbdd8234dd8cace17809d51d6a93ce",
+    "kill_time": "2025-06-01T14:32:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003563,
+    "solar_system_name": "Misaba",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 993468993,
+      "character_name": "UH40",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127550540/",
+    "total_value": 2383892530.74,
+    "final_attacker": {
+      "character_name": "Miglater",
+      "corporation_name": "Arton Customer Service",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 127548247,
+    "killmail_hash": "5a928da4743f37f724f817db9148e333e58ffa8e",
+    "kill_time": "2025-06-01T13:16:30Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002542,
+    "solar_system_name": "Auga",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 95785921,
+      "character_name": "Kill Kurt",
+      "corporation_id": 98692879,
+      "corporation_name": "Russo Turiso",
+      "alliance_id": 99007969,
+      "alliance_name": "THE RUSSIA"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127548247/",
+    "total_value": 2188612748.64,
+    "final_attacker": {
+      "character_name": "Docteur West",
+      "corporation_name": "Post Mortem Services",
+      "alliance_name": "Highsec Security",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 127543314,
     "killmail_hash": "d32c91391db0cf15247608e8b2a75cad24baf5b8",
     "kill_time": "2025-06-01T09:18:06Z",
@@ -1843,84 +1895,6 @@
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127357429,
-    "killmail_hash": "dd6131099ee7b214924f1a4f379a4a7eb35be7c5",
-    "kill_time": "2025-05-25T15:43:38Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116801044,
-      "character_name": "SpodSquad3",
-      "corporation_id": 98707560,
-      "corporation_name": "Optimistic Wasteland Inc.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127357429/",
-    "total_value": 10396549091.8,
-    "final_attacker": {
-      "character_name": "The Keepstar",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 127356535,
-    "killmail_hash": "0be0b81325ab0683a4ff93b1e3d519aeb5cace11",
-    "kill_time": "2025-05-25T15:14:01Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95986946,
-      "character_name": "Diler G",
-      "corporation_id": 98577736,
-      "corporation_name": "HI-sec Training Center",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127356535/",
-    "total_value": 2597974183.13,
-    "final_attacker": {
-      "character_name": "You Gunn LuvMiNuts",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127352431,
-    "killmail_hash": "dd99b2a916ca5eab6012abe60958cdf14aae7ff0",
-    "kill_time": "2025-05-25T13:08:24Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 94466001,
-      "character_name": "usimisako",
-      "corporation_id": 98575203,
-      "corporation_name": "Dark Venture Corporation",
-      "alliance_id": 99010980,
-      "alliance_name": "Kitchen Sinkhole"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127352431/",
-    "total_value": 7756502052.7,
-    "final_attacker": {
-      "character_name": "Norrec Vizjerei",
-      "corporation_name": "Portia Squad",
-      "alliance_name": "Daughters of Ane",
-      "ship_type_name": "Paladin"
     }
   }
 ]
