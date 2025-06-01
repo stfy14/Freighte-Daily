@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127543314,
+    "killmail_hash": "d32c91391db0cf15247608e8b2a75cad24baf5b8",
+    "kill_time": "2025-06-01T09:18:06Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2112949454,
+      "character_name": "Cira Aivoras",
+      "corporation_id": 98795447,
+      "corporation_name": "Bloodsworn",
+      "alliance_id": 99013962,
+      "alliance_name": "The Pioneers Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127543314/",
+    "total_value": 8889016210.95,
+    "final_attacker": {
+      "character_name": "Johnny Molou",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127540367,
     "killmail_hash": "a37803e2dc533991e378c9d34c342c6e6c6f0014",
     "kill_time": "2025-06-01T06:25:55Z",
@@ -49,6 +75,32 @@
       "corporation_name": "Temple of Tuvan Orth",
       "alliance_name": "Guardians of Tranquility",
       "ship_type_name": "Abaddon"
+    }
+  },
+  {
+    "killmail_id": 127536203,
+    "killmail_hash": "8a2fb98be08ddc5eb141e0acd92d5be48eba505a",
+    "kill_time": "2025-06-01T02:43:59Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003530,
+    "solar_system_name": "Raravath",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2119753923,
+      "character_name": "Market Girl 6",
+      "corporation_id": 98737208,
+      "corporation_name": "Corporation For Mineral Acquisition And Banking",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127536203/",
+    "total_value": 9164182989.68,
+    "final_attacker": {
+      "character_name": "Decimus James",
+      "corporation_name": "The Raravathians",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Bane"
     }
   },
   {
@@ -1869,32 +1921,6 @@
       "corporation_name": "Portia Squad",
       "alliance_name": "Daughters of Ane",
       "ship_type_name": "Paladin"
-    }
-  },
-  {
-    "killmail_id": 127350557,
-    "killmail_hash": "10cc82b8d8b430f536508ae4a222e7f1f688484d",
-    "kill_time": "2025-05-25T11:42:05Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004012,
-    "solar_system_name": "8QT-H4",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 1194877094,
-      "character_name": "LexLan",
-      "corporation_id": 98695005,
-      "corporation_name": "Splintered Dreams",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127350557/",
-    "total_value": 8752363887.48,
-    "final_attacker": {
-      "character_name": "Bitfrombehind",
-      "corporation_name": "Fusion Enterprises Ltd",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
