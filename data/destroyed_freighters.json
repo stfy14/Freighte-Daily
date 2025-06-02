@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127581781,
+    "killmail_hash": "33cc6697d92731654688590835485a423c4e9841",
+    "kill_time": "2025-06-02T16:05:52Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2118917109,
+      "character_name": "Arkom Kingdom",
+      "corporation_id": 98403734,
+      "corporation_name": "Subsidy H.R.S.",
+      "alliance_id": 99009885,
+      "alliance_name": "Xagenic Freymvork"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127581781/",
+    "total_value": 2373831779.61,
+    "final_attacker": {
+      "character_name": "Aoife Divine",
+      "corporation_name": "BlackCore Tactics",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 127580624,
+    "killmail_hash": "bc75537b8d0799e37933f3b97465e54f867a046a",
+    "kill_time": "2025-06-02T15:08:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93677941,
+      "character_name": "Rednaxx Stone",
+      "corporation_id": 98214967,
+      "corporation_name": "No Donuts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127580624/",
+    "total_value": 8200707627.33,
+    "final_attacker": {
+      "character_name": "Regina Bong",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127580242,
+    "killmail_hash": "9bb35cc62330fc64f0c8c672aa1be6d358e554d2",
+    "kill_time": "2025-06-02T14:47:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123365803,
+      "character_name": "Mun Hakomairos",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127580242/",
+    "total_value": 2945851028.17,
+    "final_attacker": {
+      "character_name": "Enderas Otsolem",
+      "corporation_name": "Fountain Hunter",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127576054,
     "killmail_hash": "afd5fa5af7929c64761b620507e5906fe44c5759",
     "kill_time": "2025-06-02T11:46:46Z",
@@ -1973,32 +2051,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 127385258,
-    "killmail_hash": "f5392a3cb13f8ac1850a2469a562271c5729297b",
-    "kill_time": "2025-05-26T15:57:33Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119524868,
-      "character_name": "Harcock",
-      "corporation_id": 98743151,
-      "corporation_name": "Hark Cor",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127385258/",
-    "total_value": 9750247727.3,
-    "final_attacker": {
-      "character_name": "Devious Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Hound"
     }
   }
 ]
