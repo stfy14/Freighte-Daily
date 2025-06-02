@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127564613,
+    "killmail_hash": "7f3902196949ce52990a60c6ba395ba533b23112",
+    "kill_time": "2025-06-01T22:39:21Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95935812,
+      "character_name": "Valerria VonKessell",
+      "corporation_id": 826119375,
+      "corporation_name": "The Nietzian Way",
+      "alliance_id": 99013187,
+      "alliance_name": "The Obsidian Front - Reborn"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127564613/",
+    "total_value": 2222121226.08,
+    "final_attacker": {
+      "character_name": "IhavethePower Of GodAndAnime",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127562745,
+    "killmail_hash": "2a0671414a07c55055974855cee232b7daa6519c",
+    "kill_time": "2025-06-01T21:05:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002964,
+    "solar_system_name": "Esescama",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2115713067,
+      "character_name": "Afrothunder Arnoux",
+      "corporation_id": 98242799,
+      "corporation_name": "Societas Imperialis Sceptri Coronaeque",
+      "alliance_id": 99008816,
+      "alliance_name": "Khimi Harar"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127562745/",
+    "total_value": 16843828142.79,
+    "final_attacker": {
+      "character_name": "Johnny Auditore",
+      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 127561253,
+    "killmail_hash": "9269abe380d43b6462da78046119bc08586b193e",
+    "kill_time": "2025-06-01T20:19:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 94083382,
+      "character_name": "Adora Anderson",
+      "corporation_id": 693106145,
+      "corporation_name": "ExoGen Foundation",
+      "alliance_id": 99010709,
+      "alliance_name": "New Miner's Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127561253/",
+    "total_value": 45920103198.74,
+    "final_attacker": {
+      "character_name": "White'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127559959,
     "killmail_hash": "7264a97fa30269b63ed3d59ded88a8898f6d170f",
     "kill_time": "2025-06-01T19:45:44Z",
@@ -1921,58 +1999,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Safety.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127370519,
-    "killmail_hash": "293b11c37f536caad93bb1b77113f04bd94eeb24",
-    "kill_time": "2025-05-26T00:31:07Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1568842057,
-      "character_name": "Iron Dent",
-      "corporation_id": 1714811055,
-      "corporation_name": "Hard as Nails",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127370519/",
-    "total_value": 2872737554.56,
-    "final_attacker": {
-      "character_name": "Gate Tax Specialist",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127368034,
-    "killmail_hash": "987ace0051d648b913c8813177883b86b92399ac",
-    "kill_time": "2025-05-25T22:06:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95577564,
-      "character_name": "Dura Saunders",
-      "corporation_id": 98788614,
-      "corporation_name": "BIack Sun Syndicate",
-      "alliance_id": 99013692,
-      "alliance_name": "Independent Miners Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127368034/",
-    "total_value": 9221691413.37,
-    "final_attacker": {
-      "character_name": "Timeloh Regho",
-      "corporation_name": "R.E.M.N.A.N.T.S",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
