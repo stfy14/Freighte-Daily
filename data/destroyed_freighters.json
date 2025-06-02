@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127572588,
+    "killmail_hash": "b0cac6bce390544a45cbb242523636200841ee89",
+    "kill_time": "2025-06-02T07:25:10Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 1122924554,
+      "character_name": "Eowyn Atares",
+      "corporation_id": 98051967,
+      "corporation_name": "Galactic Collision",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127572588/",
+    "total_value": 9780045723.23,
+    "final_attacker": {
+      "character_name": "Brown'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127568895,
+    "killmail_hash": "8fef3b761fda08c98ae0ea1ed34e7207889c428f",
+    "kill_time": "2025-06-02T02:58:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123386726,
+      "character_name": "Poila Yotosala",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127568895/",
+    "total_value": 4681880189.44,
+    "final_attacker": {
+      "character_name": "Brown'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127565769,
     "killmail_hash": "567e47546884e00dfc2ef3a3e47ec9eae1cb78cd",
     "kill_time": "2025-06-01T23:42:13Z",
@@ -1895,58 +1947,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Safety.",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 127374982,
-    "killmail_hash": "8fcc6a6bd143ae88a85dd6ba398b7eff37d15a77",
-    "kill_time": "2025-05-26T05:15:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122157574,
-      "character_name": "Morfaeus",
-      "corporation_id": 98766720,
-      "corporation_name": "Sleeping in the dark",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127374982/",
-    "total_value": 5280191334.54,
-    "final_attacker": {
-      "character_name": "Fool Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127374467,
-    "killmail_hash": "8323de0d196604cce83951bed1a882b9dc593ec1",
-    "kill_time": "2025-05-26T04:40:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122157574,
-      "character_name": "Morfaeus",
-      "corporation_id": 98766720,
-      "corporation_name": "Sleeping in the dark",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127374467/",
-    "total_value": 7433849444.54,
-    "final_attacker": {
-      "character_name": "Abhored Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
