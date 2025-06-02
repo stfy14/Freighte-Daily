@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127565769,
+    "killmail_hash": "567e47546884e00dfc2ef3a3e47ec9eae1cb78cd",
+    "kill_time": "2025-06-01T23:42:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114441305,
+      "character_name": "Xgeua May",
+      "corporation_id": 98790332,
+      "corporation_name": "Lokinshi Operations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127565769/",
+    "total_value": 11346051523.77,
+    "final_attacker": {
+      "character_name": "Abfallprodukt der Gesellschaft",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127564613,
     "killmail_hash": "7f3902196949ce52990a60c6ba395ba533b23112",
     "kill_time": "2025-06-01T22:39:21Z",
@@ -1918,84 +1944,6 @@
     "total_value": 7433849444.54,
     "final_attacker": {
       "character_name": "Abhored Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127373331,
-    "killmail_hash": "8b852212301d065c6718932d51315aa77e0eaaf7",
-    "kill_time": "2025-05-26T03:20:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000128,
-    "solar_system_name": "Tuuriainas",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2004428182,
-      "character_name": "Urken ZIM",
-      "corporation_id": 2046365210,
-      "corporation_name": "Brig Inc.",
-      "alliance_id": 1641039452,
-      "alliance_name": "Brig Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127373331/",
-    "total_value": 15880030432.99,
-    "final_attacker": {
-      "character_name": "Nado Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127372593,
-    "killmail_hash": "f9f6ce3b77fe75effd2b4700b07466a303ff9b23",
-    "kill_time": "2025-05-26T02:37:15Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1091281788,
-      "character_name": "Callista Harrison",
-      "corporation_id": 349468365,
-      "corporation_name": "Ronin Interstellar Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127372593/",
-    "total_value": 2206009592.06,
-    "final_attacker": {
-      "character_name": "Comp Aivoras",
-      "corporation_name": "Totoro Time",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127372253,
-    "killmail_hash": "6135aca67249249d702f1b10b2f64b59ae6299f3",
-    "kill_time": "2025-05-26T02:18:24Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94362155,
-      "character_name": "Fern Kitsuen",
-      "corporation_id": 98750086,
-      "corporation_name": "The MetroPlex",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127372253/",
-    "total_value": 9383952032.2,
-    "final_attacker": {
-      "character_name": "Fool Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Safety.",
       "ship_type_name": "Purifier"
