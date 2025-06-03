@@ -2078,57 +2078,5 @@
       "alliance_name": "Insidious.",
       "ship_type_name": "Purifier"
     }
-  },
-  {
-    "killmail_id": 127411510,
-    "killmail_hash": "a4db7f9ab27ed3970cdd5fd575fa48c491b135e8",
-    "kill_time": "2025-05-27T18:10:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 97216938,
-      "character_name": "Doodlebop Thornberry",
-      "corporation_id": 98497733,
-      "corporation_name": "Drop the Soap",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127411510/",
-    "total_value": 15641809387.55,
-    "final_attacker": {
-      "character_name": "Shaco Top",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": null,
-      "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 127411328,
-    "killmail_hash": "6f7a8c90c42d3ac71171049d431c3c8467fdaa92",
-    "kill_time": "2025-05-27T18:04:08Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 94174521,
-      "character_name": "K1NG Hakaari",
-      "corporation_id": 98780909,
-      "corporation_name": "Eagle and Lion Corporate Agents",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127411328/",
-    "total_value": 6204267348.47,
-    "final_attacker": {
-      "character_name": "Ezekial Haven",
-      "corporation_name": "BlackCore Tactics",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Oracle"
-    }
   }
 ]
