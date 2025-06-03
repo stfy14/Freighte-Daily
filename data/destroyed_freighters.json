@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127592955,
+    "killmail_hash": "428b595596c15e5356ce442cbb598f1036e3a210",
+    "kill_time": "2025-06-03T01:52:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123446697,
+      "character_name": "Siri233",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127592955/",
+    "total_value": 2217374905.81,
+    "final_attacker": {
+      "character_name": "Kirto Kazuto",
+      "corporation_name": "Bustin Space Rocks INC.",
+      "alliance_name": "Caldari Alliance",
+      "ship_type_name": "Armageddon"
+    }
+  },
+  {
+    "killmail_id": 127589845,
+    "killmail_hash": "2698dcec9ba040f9717d645b92d2aeaa3726d29d",
+    "kill_time": "2025-06-02T22:25:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 90529485,
+      "character_name": "Shavlen Charante",
+      "corporation_id": 98704165,
+      "corporation_name": "Salacious Literal Mega Potential Group",
+      "alliance_id": 99013232,
+      "alliance_name": "Twenty Thousand Leagues Out of the SEA."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127589845/",
+    "total_value": 4517704934.64,
+    "final_attacker": {
+      "character_name": "MaybeNinja",
+      "corporation_name": "The Monsters Inc",
+      "alliance_name": "It's a Skill Issue",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 127581781,
     "killmail_hash": "33cc6697d92731654688590835485a423c4e9841",
     "kill_time": "2025-06-02T16:05:52Z",
@@ -1947,58 +1999,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127396024,
-    "killmail_hash": "7677c8f683b26fe6c9825cacfb04b6a36c0ff99e",
-    "kill_time": "2025-05-26T23:06:39Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1319947840,
-      "character_name": "Sylvester Alone",
-      "corporation_id": 98137659,
-      "corporation_name": "Pool of Radiance",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127396024/",
-    "total_value": 7426149198.89,
-    "final_attacker": {
-      "character_name": "Creme Rinse",
-      "corporation_name": "R.E.M.N.A.N.T.S",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127394509,
-    "killmail_hash": "e8c858ac200ec05ce3c564c48506a7c0511fd21b",
-    "kill_time": "2025-05-26T21:27:32Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117750471,
-      "character_name": "Mal'achi X",
-      "corporation_id": 98777549,
-      "corporation_name": "Deliberately Ignoring Common Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127394509/",
-    "total_value": 12584680477.61,
-    "final_attacker": {
-      "character_name": "Seething Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
