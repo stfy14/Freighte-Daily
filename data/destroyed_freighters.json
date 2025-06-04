@@ -494,6 +494,32 @@
     }
   },
   {
+    "killmail_id": 127574672,
+    "killmail_hash": "9f0f1d7b3a74920a3f9db95f7b35b762b89771b7",
+    "kill_time": "2025-06-02T10:00:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1604396462,
+      "character_name": "Casandra Lion",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127574672/",
+    "total_value": 3998615476.05,
+    "final_attacker": {
+      "character_name": "Prime Admiral",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127572588,
     "killmail_hash": "b0cac6bce390544a45cbb242523636200841ee89",
     "kill_time": "2025-06-02T07:25:10Z",
