@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127618133,
+    "killmail_hash": "b5c6a5f6177aea16b6f684b5e3a84b7affb2d544",
+    "kill_time": "2025-06-04T01:59:40Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 872114854,
+      "character_name": "Insomnious",
+      "corporation_id": 1294842096,
+      "corporation_name": "Zero Tolerance Corp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127618133/",
+    "total_value": 3912381398.9,
+    "final_attacker": {
+      "character_name": "Should HaveHad Tank",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127617361,
     "killmail_hash": "7260fec3e5a7dc2f6cde4017b368d1c1b8f1b462",
     "kill_time": "2025-06-04T01:01:47Z",
@@ -2103,58 +2129,6 @@
       "corporation_name": "Teutate raiders",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127424751,
-    "killmail_hash": "694dfd4b3bc42b24e098a45e32fefeb17d8c4356",
-    "kill_time": "2025-05-28T04:28:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2114740025,
-      "character_name": "Dustrag",
-      "corporation_id": 98604928,
-      "corporation_name": "Imafraude",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127424751/",
-    "total_value": 8292892349.11,
-    "final_attacker": {
-      "character_name": "Yellow'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127423919,
-    "killmail_hash": "05583b49bc916c9fddc41fe203cbb732707bb247",
-    "kill_time": "2025-05-28T03:25:55Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1081199041,
-      "character_name": "lashit",
-      "corporation_id": 98347651,
-      "corporation_name": "Thandarra",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127423919/",
-    "total_value": 24901273908.93,
-    "final_attacker": {
-      "character_name": "Badass Ninja",
-      "corporation_name": "The Monsters Inc",
-      "alliance_name": "It's a Skill Issue",
-      "ship_type_name": "Oracle"
     }
   }
 ]
