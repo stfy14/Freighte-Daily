@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127635685,
+    "killmail_hash": "243077851fdb6aae5ee817868def26bbef4f059f",
+    "kill_time": "2025-06-04T19:57:43Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117799883,
+      "character_name": "Onier Erouf Antollare",
+      "corporation_id": 98801676,
+      "corporation_name": "Hole Explorers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127635685/",
+    "total_value": 2876010101.23,
+    "final_attacker": {
+      "character_name": "l am Gundam",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 127632166,
+    "killmail_hash": "4a3288237bf517f631191a8ad5afff1103815982",
+    "kill_time": "2025-06-04T17:40:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2122245775,
+      "character_name": "Kiala Anzomi",
+      "corporation_id": 98786278,
+      "corporation_name": "Fellowship Force",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127632166/",
+    "total_value": 3407694738.96,
+    "final_attacker": {
+      "character_name": "Brown'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127630962,
+    "killmail_hash": "4ab1a83bc64eddfee6099196eb2b994b29bde0ca",
+    "kill_time": "2025-06-04T16:36:45Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001388,
+    "solar_system_name": "Mara",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 96214763,
+      "character_name": "Dirk Taren",
+      "corporation_id": 98731442,
+      "corporation_name": "Centurion Economic Enterprises",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127630962/",
+    "total_value": 4321069728.35,
+    "final_attacker": {
+      "character_name": "Wertstaar Maulerant",
+      "corporation_name": "Noble House Inc.",
+      "alliance_name": "Caldari Alliance",
+      "ship_type_name": "Stratios"
+    }
+  },
+  {
     "killmail_id": 127622079,
     "killmail_hash": "265435c6c3391e74dc51bbf2f18bb440a358692f",
     "kill_time": "2025-06-04T06:25:25Z",
@@ -2025,110 +2103,6 @@
       "corporation_name": "Totoro Time",
       "alliance_name": "Insidious.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127441347,
-    "killmail_hash": "60ab070b9460babf4d73b09604cd4f9a90a10000",
-    "kill_time": "2025-05-28T20:19:10Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002756,
-    "solar_system_name": "Ishomilken",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91402718,
-      "character_name": "Bokeh Solette",
-      "corporation_id": 831002760,
-      "corporation_name": "The Black Rabbits",
-      "alliance_id": 99009710,
-      "alliance_name": "The Gurlstas Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127441347/",
-    "total_value": 9375722272.07,
-    "final_attacker": {
-      "character_name": "NaDa Red",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 127440964,
-    "killmail_hash": "0e3f0742c40f388cd13d121f1fa33c678c1836e6",
-    "kill_time": "2025-05-28T20:04:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 964382281,
-      "character_name": "SubZero305",
-      "corporation_id": 98802039,
-      "corporation_name": "FCM Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127440964/",
-    "total_value": 8108213374.26,
-    "final_attacker": {
-      "character_name": "FonsterKajare",
-      "corporation_name": "Armaggedon Inc.",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 127438909,
-    "killmail_hash": "98e3b684f037630169563c50494fa03aa845a691",
-    "kill_time": "2025-05-28T18:54:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30004233,
-    "solar_system_name": "Shirshocin",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 366474713,
-      "character_name": "Rablys",
-      "corporation_id": 98621824,
-      "corporation_name": "Sanctuary Institute of Research and Developpment",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127438909/",
-    "total_value": 29653855669.6,
-    "final_attacker": {
-      "character_name": "Aisha Kim",
-      "corporation_name": "STEEL EGG",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 127437107,
-    "killmail_hash": "adc731c6adf2347d121af575401043f4c94f8c83",
-    "kill_time": "2025-05-28T17:49:05Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002539,
-    "solar_system_name": "Siseide",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2114707446,
-      "character_name": "Jimothy Argo",
-      "corporation_id": 1224108786,
-      "corporation_name": "1st National Bank of Zimbabwe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127437107/",
-    "total_value": 9433622396.25,
-    "final_attacker": {
-      "character_name": "Jenham",
-      "corporation_name": "Balls Deep Inc.",
-      "alliance_name": "Minmatar Fleet Alliance",
-      "ship_type_name": "Widow"
     }
   }
 ]
