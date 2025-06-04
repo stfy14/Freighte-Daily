@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127622079,
+    "killmail_hash": "265435c6c3391e74dc51bbf2f18bb440a358692f",
+    "kill_time": "2025-06-04T06:25:25Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002767,
+    "solar_system_name": "Kubinen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 206299889,
+      "character_name": "Robert Vodac",
+      "corporation_id": 98776101,
+      "corporation_name": "Hi-Sec Huggers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127622079/",
+    "total_value": 2390502628.24,
+    "final_attacker": {
+      "character_name": "Zumber Shi",
+      "corporation_name": "Tax Opportunity",
+      "alliance_name": null,
+      "ship_type_name": "Lachesis"
+    }
+  },
+  {
     "killmail_id": 127618133,
     "killmail_hash": "b5c6a5f6177aea16b6f684b5e3a84b7affb2d544",
     "kill_time": "2025-06-04T01:59:40Z",
