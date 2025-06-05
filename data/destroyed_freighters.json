@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 127641638,
+    "killmail_hash": "125b1eb1116e15a3c245fc98e9c0d4705bb84540",
+    "kill_time": "2025-06-05T00:10:47Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2072626044,
+      "character_name": "Felix Isatia",
+      "corporation_id": 98453769,
+      "corporation_name": "Caldari Black Hand",
+      "alliance_id": 99013000,
+      "alliance_name": "Caldari Tactical Operations Command"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127641638/",
+    "total_value": 4068955030.75,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127641576,
+    "killmail_hash": "a12012f245d6883a22d8924e6c49f8a4ff90a464",
+    "kill_time": "2025-06-05T00:07:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002634,
+    "solar_system_name": "Balle",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121598801,
+      "character_name": "Idilafer Gunk Albosa",
+      "corporation_id": 98804261,
+      "corporation_name": "TORGU3 Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127641576/",
+    "total_value": 2241044786.37,
+    "final_attacker": {
+      "character_name": "MeisterDaDa",
+      "corporation_name": "Phantom Brigade Ger",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 127639182,
+    "killmail_hash": "6f67a1bc4cbaac1cf73bf6ed25a4413414ae2c39",
+    "kill_time": "2025-06-04T21:38:28Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123072675,
+      "character_name": "Cosmic Rocket",
+      "corporation_id": 98637328,
+      "corporation_name": "Special Finance Section",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127639182/",
+    "total_value": 7599330108.54,
+    "final_attacker": {
+      "character_name": "Regina Bong",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127636804,
+    "killmail_hash": "bde9cb962d2b5b72602ac513702af1bdf8a88b97",
+    "kill_time": "2025-06-04T20:25:42Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000191,
+    "solar_system_name": "Walvalin",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 815318954,
+      "character_name": "Nebulha",
+      "corporation_id": 98665073,
+      "corporation_name": "X-Business",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127636804/",
+    "total_value": 13151590757.07,
+    "final_attacker": {
+      "character_name": "Spodumain Slurper",
+      "corporation_name": "ROID CRACKERS",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127636751,
+    "killmail_hash": "3fca88cade2b55b1f0861ea857b749fdc19b9aad",
+    "kill_time": "2025-06-04T20:24:28Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000191,
+    "solar_system_name": "Walvalin",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 962205923,
+      "character_name": "Yeriel",
+      "corporation_id": 98665073,
+      "corporation_name": "X-Business",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127636751/",
+    "total_value": 20097963283.18,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127635685,
     "killmail_hash": "243077851fdb6aae5ee817868def26bbef4f059f",
     "kill_time": "2025-06-04T19:57:43Z",
@@ -1947,162 +2077,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127447072,
-    "killmail_hash": "2a4ffb9e35f90eb50d2040c05c8fefb5e999d61e",
-    "kill_time": "2025-05-29T00:58:34Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 31001800,
-    "solar_system_name": "J224031",
-    "region_name": "D-R00022",
-    "victim": {
-      "character_id": 2118458475,
-      "character_name": "UdontKNowM3",
-      "corporation_id": 98640845,
-      "corporation_name": "The Inf3cted",
-      "alliance_id": 99011277,
-      "alliance_name": "Pathog3n"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127447072/",
-    "total_value": 4053223005.26,
-    "final_attacker": {
-      "character_name": "Imur Xadi",
-      "corporation_name": "S I L E N C E",
-      "alliance_name": "Absence of Audible Sound",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 127444762,
-    "killmail_hash": "b6801d33a10676a1b62e0e8b5c403568173536cf",
-    "kill_time": "2025-05-28T22:41:48Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005268,
-    "solar_system_name": "Gonditsa",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 1734802058,
-      "character_name": "REMO McTAGGERT",
-      "corporation_id": 528223998,
-      "corporation_name": "Mutualy Assured Destruction Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127444762/",
-    "total_value": 2228447173.99,
-    "final_attacker": {
-      "character_name": "Liam John",
-      "corporation_name": "Voidhounds",
-      "alliance_name": "Pretenders",
-      "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 127443940,
-    "killmail_hash": "c500803aba5820b528c1f56c43a1029ce7a0aa93",
-    "kill_time": "2025-05-28T21:53:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123414610,
-      "character_name": "Zalmander",
-      "corporation_id": 98803861,
-      "corporation_name": "ZalmaCorp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127443940/",
-    "total_value": 7202428950.92,
-    "final_attacker": {
-      "character_name": "V4ld3Sp4R",
-      "corporation_name": "Brazilian Templars",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 127443313,
-    "killmail_hash": "1174433b5d70c61df584435c382c58727657e3bc",
-    "kill_time": "2025-05-28T21:26:45Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2120606429,
-      "character_name": "NoxV3",
-      "corporation_id": 98804708,
-      "corporation_name": "Miners of Destruction Union",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127443313/",
-    "total_value": 2501243054.99,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 127442501,
-    "killmail_hash": "cdfce42bc0903f810f80c7375fe92f5c93e78e46",
-    "kill_time": "2025-05-28T20:51:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001155,
-    "solar_system_name": "U-QVWD",
-    "region_name": "Catch",
-    "victim": {
-      "character_id": 582631082,
-      "character_name": "Nerv Moretta",
-      "corporation_id": 98555208,
-      "corporation_name": "CRUZADOS",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127442501/",
-    "total_value": 10535585419.96,
-    "final_attacker": {
-      "character_name": "Don Hubba",
-      "corporation_name": "Fusion Enterprises Ltd",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127441489,
-    "killmail_hash": "ac8453521e61520dda21bf584f42fdbc2f1a2956",
-    "kill_time": "2025-05-28T20:22:32Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122703455,
-      "character_name": "Bobby Lee McGee",
-      "corporation_id": 98795358,
-      "corporation_name": "Hole Some",
-      "alliance_id": 99012781,
-      "alliance_name": "I Showed You My Probes... Please Respond..."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127441489/",
-    "total_value": 7907671529.48,
-    "final_attacker": {
-      "character_name": "Ostingle Tectum",
-      "corporation_name": "Totoro Time",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
