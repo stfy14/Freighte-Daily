@@ -2156,57 +2156,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 127486842,
-    "killmail_hash": "7bd35a7e2b3fe956c36defa05530c9efad5da2ec",
-    "kill_time": "2025-05-30T15:27:19Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002633,
-    "solar_system_name": "Du Annes",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91775499,
-      "character_name": "YoToke",
-      "corporation_id": 98552667,
-      "corporation_name": "Jorund Cartel.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127486842/",
-    "total_value": 4357930488.35,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Guristas",
-      "alliance_name": null,
-      "ship_type_name": "♦ Caracal"
-    }
-  },
-  {
-    "killmail_id": 127485963,
-    "killmail_hash": "6cb86ebba15fab1803db92e857b6b86f78720b4e",
-    "kill_time": "2025-05-30T14:52:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2121742625,
-      "character_name": "James Alexander Anderson",
-      "corporation_id": 98749607,
-      "corporation_name": "Counter Spell",
-      "alliance_id": 99013440,
-      "alliance_name": "Eve Industrial Complex"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127485963/",
-    "total_value": 1953995555.65,
-    "final_attacker": {
-      "character_name": "Ezekial Haven",
-      "corporation_name": "BlackCore Tactics",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Oracle"
-    }
   }
 ]
