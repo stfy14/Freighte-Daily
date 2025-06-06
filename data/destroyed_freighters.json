@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127683313,
+    "killmail_hash": "4cdc0e4e2fb6ba2c9fd7fe1b5a39583b71a08d24",
+    "kill_time": "2025-06-06T19:15:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123133304,
+      "character_name": "Ann Calypso",
+      "corporation_id": 98557184,
+      "corporation_name": "Quantum Force Inc.",
+      "alliance_id": 99010004,
+      "alliance_name": "DammFam"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127683313/",
+    "total_value": 3981662051.53,
+    "final_attacker": {
+      "character_name": "l am Gundam",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 127681566,
+    "killmail_hash": "6b289a73cb959d73746c7807a72b323c231d0532",
+    "kill_time": "2025-06-06T17:59:54Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2060638958,
+      "character_name": "Thmad Amis",
+      "corporation_id": 1383527286,
+      "corporation_name": "Praetoria Holdings",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127681566/",
+    "total_value": 8089500931.86,
+    "final_attacker": {
+      "character_name": "Professor Edgelord",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 127671791,
     "killmail_hash": "a69d8ed5bbce111b268235d274efd6f47d6fa9dc",
     "kill_time": "2025-06-06T08:35:12Z",
@@ -517,6 +569,32 @@
       "corporation_name": "Noble House Inc.",
       "alliance_name": "Caldari Alliance",
       "ship_type_name": "Stratios"
+    }
+  },
+  {
+    "killmail_id": 127626606,
+    "killmail_hash": "3ed63d88b8db4d41995dc0acba8f98699fda3394",
+    "kill_time": "2025-06-04T12:54:40Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002964,
+    "solar_system_name": "Esescama",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2122395908,
+      "character_name": "Kusaria Motoko",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127626606/",
+    "total_value": 9606980130.51,
+    "final_attacker": {
+      "character_name": "Wyatt Princip",
+      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
@@ -2129,32 +2207,6 @@
       "corporation_name": "SoT",
       "alliance_name": "DarkSide.",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 127491911,
-    "killmail_hash": "43d63f53481a9d379ddf56aaf678da48066fe807",
-    "kill_time": "2025-05-30T18:34:11Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118389085,
-      "character_name": "Orb Kevlar",
-      "corporation_id": 98799774,
-      "corporation_name": "Sentinels of Silence",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127491911/",
-    "total_value": 12024668028.36,
-    "final_attacker": {
-      "character_name": "Herbiderpi",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
