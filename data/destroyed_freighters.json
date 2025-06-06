@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 127665571,
+    "killmail_hash": "99c6c49719b50dc560c51385c7b28188f6121216",
+    "kill_time": "2025-06-06T00:24:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001446,
+    "solar_system_name": "Otsasai",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2117358122,
+      "character_name": "SHENFENG TEAM",
+      "corporation_id": 98535868,
+      "corporation_name": "ChuangShi",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127665571/",
+    "total_value": 2451993713.55,
+    "final_attacker": {
+      "character_name": "Spodumain Slurper",
+      "corporation_name": "ROID CRACKERS",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127663291,
+    "killmail_hash": "98218ce9139f852d9b80814c8c59a5d751d3a782",
+    "kill_time": "2025-06-05T22:06:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2118726929,
+      "character_name": "Ozmar Cornelius",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127663291/",
+    "total_value": 5351556091.7,
+    "final_attacker": {
+      "character_name": "Grey Ignis",
+      "corporation_name": "Tarnished Dragon",
+      "alliance_name": "Le Goobers",
+      "ship_type_name": "Ikitursa"
+    }
+  },
+  {
+    "killmail_id": 127663093,
+    "killmail_hash": "f1d3fcaacec7bd4162ad14bacb2f0776b9def611",
+    "kill_time": "2025-06-05T21:53:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91139213,
+      "character_name": "Tirian Ratcliffe",
+      "corporation_id": 98591269,
+      "corporation_name": "New Eden Tactical Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127663093/",
+    "total_value": 3537853159.38,
+    "final_attacker": {
+      "character_name": "Sergey Kurganov1979",
+      "corporation_name": "engineering technologies for carbon-based life in",
+      "alliance_name": "Russian Communists Alliance",
+      "ship_type_name": "Stabber Fleet Issue"
+    }
+  },
+  {
+    "killmail_id": 127662999,
+    "killmail_hash": "48f0c7a6832c6fb5c6c5821abd9cb9b871369f42",
+    "kill_time": "2025-06-05T21:47:35Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002764,
+    "solar_system_name": "Hatakani",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95607219,
+      "character_name": "Nusis Qura",
+      "corporation_id": 98798125,
+      "corporation_name": "The K Corporation",
+      "alliance_id": 99014106,
+      "alliance_name": "Snail Church"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127662999/",
+    "total_value": 2229623497.23,
+    "final_attacker": {
+      "character_name": "PurgerAdrenaline",
+      "corporation_name": "Brazilian Templars",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Vigilant"
+    }
+  },
+  {
+    "killmail_id": 127662723,
+    "killmail_hash": "53f3cb796b45b45cc0dcdc1af3af2508f4db93a7",
+    "kill_time": "2025-06-05T21:30:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117890211,
+      "character_name": "DestroyerGR",
+      "corporation_id": 98659777,
+      "corporation_name": "The Kingdom of Bretonia",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127662723/",
+    "total_value": 11267323773.61,
+    "final_attacker": {
+      "character_name": "Little Miss Jealous",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 127662121,
+    "killmail_hash": "0962d39268a76b4e31c9624f4bce7b2928c6c79f",
+    "kill_time": "2025-06-05T20:54:30Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96187468,
+      "character_name": "Jakee From StateFarm",
+      "corporation_id": 98800522,
+      "corporation_name": "StateFarm Insurance.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127662121/",
+    "total_value": 16573815097.75,
+    "final_attacker": {
+      "character_name": "Dr4kka",
+      "corporation_name": "Brazilian Templars",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 127652528,
     "killmail_hash": "4f97c277f5a953d85cc35034ce1b2a5672ab0b34",
     "kill_time": "2025-06-05T13:35:48Z",
@@ -2025,58 +2181,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127469299,
-    "killmail_hash": "e1215b7751a3887ae9d745cf52684a53e830e707",
-    "kill_time": "2025-05-29T21:29:33Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95376490,
-      "character_name": "HarekJack Freir",
-      "corporation_id": 98804282,
-      "corporation_name": "Happy Trader Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127469299/",
-    "total_value": 2694131593.16,
-    "final_attacker": {
-      "character_name": "Captain Jean-LucPicard",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127467762,
-    "killmail_hash": "d0204fdab8446e34cf0eb0b0413e6ae9ba9b4ab6",
-    "kill_time": "2025-05-29T20:24:55Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94594839,
-      "character_name": "Kadaj Ulquiorra",
-      "corporation_id": 98662498,
-      "corporation_name": "Tredecim.",
-      "alliance_id": 99013869,
-      "alliance_name": "V.I.R.A.L"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127467762/",
-    "total_value": 2483716656.21,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Federation Navy",
-      "alliance_name": null,
-      "ship_type_name": "Federation Navy First Sergeant"
     }
   }
 ]
