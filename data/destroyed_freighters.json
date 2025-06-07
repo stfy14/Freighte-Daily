@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127695068,
+    "killmail_hash": "cdea9b891257f1566f622827206567943cd6dd14",
+    "kill_time": "2025-06-07T05:36:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003299,
+    "solar_system_name": "T-LIWS",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 2123490017,
+      "character_name": "rdunlap",
+      "corporation_id": 1000170,
+      "corporation_name": "Republic Military School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127695068/",
+    "total_value": 2195157227.36,
+    "final_attacker": {
+      "character_name": "Mina Shirakawa",
+      "corporation_name": "Boondocks Industrial",
+      "alliance_name": "Intaki-Business Logistics Union",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 127693619,
     "killmail_hash": "692e8958e989f5a8e349d2651627ed0eabbc43b6",
     "kill_time": "2025-06-07T04:08:50Z",
@@ -2076,32 +2102,6 @@
       "character_name": "Michael Owenn",
       "corporation_name": "Arknights.",
       "alliance_name": "Fraternity.",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127506650,
-    "killmail_hash": "7dd42f6555765410d885449836eb3b152f56bacc",
-    "kill_time": "2025-05-31T05:37:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123293704,
-      "character_name": "Besinutur Kaundur",
-      "corporation_id": 98800137,
-      "corporation_name": "Luminar Cargo Solutions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127506650/",
-    "total_value": 5811541389.31,
-    "final_attacker": {
-      "character_name": "Pink'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   }
