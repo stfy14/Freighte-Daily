@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127732830,
+    "killmail_hash": "9cfc8c82adc3dc488d0fb02b0314b027e0db7f8a",
+    "kill_time": "2025-06-08T12:05:15Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2118810910,
+      "character_name": "Oriviboror",
+      "corporation_id": 98751127,
+      "corporation_name": "Stinky Dinky",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127732830/",
+    "total_value": 8959872318.49,
+    "final_attacker": {
+      "character_name": "Mayso 37",
+      "corporation_name": "jUST DO It..",
+      "alliance_name": null,
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 127727845,
     "killmail_hash": "6a0d099cf52dea72228331063816d550be430245",
     "kill_time": "2025-06-08T07:05:12Z",
@@ -1973,32 +1999,6 @@
       "corporation_name": "Post Mortem Services",
       "alliance_name": "Highsec Security",
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127543314,
-    "killmail_hash": "d32c91391db0cf15247608e8b2a75cad24baf5b8",
-    "kill_time": "2025-06-01T09:18:06Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2112949454,
-      "character_name": "Cira Aivoras",
-      "corporation_id": 98795447,
-      "corporation_name": "Bloodsworn",
-      "alliance_id": 99013962,
-      "alliance_name": "The Pioneers Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127543314/",
-    "total_value": 8889016210.95,
-    "final_attacker": {
-      "character_name": "Johnny Molou",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
