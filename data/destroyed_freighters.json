@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127723597,
+    "killmail_hash": "e6953abdac9972967c04fa6cd9d55f8fc9535594",
+    "kill_time": "2025-06-08T02:56:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004600,
+    "solar_system_name": "C-N4OD",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 2115787682,
+      "character_name": "XIANYU002",
+      "corporation_id": 98715582,
+      "corporation_name": "Emperor Scythes",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127723597/",
+    "total_value": 4211438388.37,
+    "final_attacker": {
+      "character_name": "Malcomtempt",
+      "corporation_name": "Savage Salvage",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127721625,
     "killmail_hash": "78c4b3628a3ec5f6cb7a921ce2806899ccd43829",
     "kill_time": "2025-06-08T01:28:49Z",
@@ -1895,84 +1921,6 @@
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127538024,
-    "killmail_hash": "93e62a3f3eb300f9d1d426b6779f5772edb24612",
-    "kill_time": "2025-06-01T04:16:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121140735,
-      "character_name": "Grown Baby",
-      "corporation_id": 98738015,
-      "corporation_name": "The Monsters Inc",
-      "alliance_id": 99011908,
-      "alliance_name": "It's a Skill Issue"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127538024/",
-    "total_value": 9452578221.98,
-    "final_attacker": {
-      "character_name": "zeropoi",
-      "corporation_name": "Temple of Tuvan Orth",
-      "alliance_name": "Guardians of Tranquility",
-      "ship_type_name": "Abaddon"
-    }
-  },
-  {
-    "killmail_id": 127537499,
-    "killmail_hash": "e1beeb5805163d5003d8838f34319fd03e8dcfad",
-    "kill_time": "2025-06-01T03:53:26Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94948838,
-      "character_name": "CRAZYhippy42 Cobain",
-      "corporation_id": 98577856,
-      "corporation_name": "OREHOLD inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127537499/",
-    "total_value": 2048391068.94,
-    "final_attacker": {
-      "character_name": "IhavethePower Of GodAndAnime",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127536203,
-    "killmail_hash": "8a2fb98be08ddc5eb141e0acd92d5be48eba505a",
-    "kill_time": "2025-06-01T02:43:59Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003530,
-    "solar_system_name": "Raravath",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2119753923,
-      "character_name": "Market Girl 6",
-      "corporation_id": 98737208,
-      "corporation_name": "Corporation For Mineral Acquisition And Banking",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127536203/",
-    "total_value": 9164182989.68,
-    "final_attacker": {
-      "character_name": "Decimus James",
-      "corporation_name": "The Raravathians",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Bane"
     }
   }
 ]
