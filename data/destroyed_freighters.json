@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127721625,
+    "killmail_hash": "78c4b3628a3ec5f6cb7a921ce2806899ccd43829",
+    "kill_time": "2025-06-08T01:28:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002791,
+    "solar_system_name": "Sirppala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123445984,
+      "character_name": "Adrienne H",
+      "corporation_id": 98388312,
+      "corporation_name": "Pandemic Horde Inc.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127721625/",
+    "total_value": 11489567947.07,
+    "final_attacker": {
+      "character_name": "carlosgace",
+      "corporation_name": "Brazilian Templars",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 127715062,
+    "killmail_hash": "532d2c464d9fd8ff1c4aaeefaa472618b2b15a04",
+    "kill_time": "2025-06-07T20:26:16Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 100713734,
+      "character_name": "Magnabyte",
+      "corporation_id": 98003102,
+      "corporation_name": "Hammer Securities",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127715062/",
+    "total_value": 12773151598.69,
+    "final_attacker": {
+      "character_name": "Bitch of blaster",
+      "corporation_name": "Brazilian Templars",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 127712671,
     "killmail_hash": "5e7ca61688d0eace765d85380eb5db42a45ad0f0",
     "kill_time": "2025-06-07T19:06:31Z",
@@ -1921,188 +1973,6 @@
       "corporation_name": "The Raravathians",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 127533209,
-    "killmail_hash": "254ef0b1e7a1a40a908b7f27f7b00b8ce0f16a86",
-    "kill_time": "2025-06-01T00:29:53Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1638674657,
-      "character_name": "Mauricius L'Mante",
-      "corporation_id": 98661654,
-      "corporation_name": "Northern Freight Unlimited",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127533209/",
-    "total_value": 15460236207.1,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 127533176,
-    "killmail_hash": "e105d7df6c7f81f2492cf95d2081b23499bbc537",
-    "kill_time": "2025-06-01T00:28:02Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 840816549,
-      "character_name": "Gagan Sandrider",
-      "corporation_id": 98661654,
-      "corporation_name": "Northern Freight Unlimited",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127533176/",
-    "total_value": 13460847278.59,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127532340,
-    "killmail_hash": "e02accb5280a2285b92bf7972d2b6c394d42e2f2",
-    "kill_time": "2025-05-31T23:47:23Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003522,
-    "solar_system_name": "Sarum Prime",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 93840815,
-      "character_name": "Vulxanis Viceroy",
-      "corporation_id": 98323146,
-      "corporation_name": "Offworld Trading Company",
-      "alliance_id": 99008816,
-      "alliance_name": "Khimi Harar"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127532340/",
-    "total_value": 6401550143.85,
-    "final_attacker": {
-      "character_name": "pigznzen",
-      "corporation_name": "worlds hottest dentists",
-      "alliance_name": null,
-      "ship_type_name": "Ikitursa"
-    }
-  },
-  {
-    "killmail_id": 127531783,
-    "killmail_hash": "c350cca800b44b2cfaf62a75080dbf427964d568",
-    "kill_time": "2025-05-31T23:25:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 96778683,
-      "character_name": "Druhall From",
-      "corporation_id": 98686431,
-      "corporation_name": "Fixers Corporation",
-      "alliance_id": 99013177,
-      "alliance_name": "Pillars of Liberty"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127531783/",
-    "total_value": 21369496394.45,
-    "final_attacker": {
-      "character_name": "Sebastian Charantes",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 127530421,
-    "killmail_hash": "d0a7702d44c0c5950aaa645776c5778d46e7a339",
-    "kill_time": "2025-05-31T22:14:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121417084,
-      "character_name": "Lord Teknorc",
-      "corporation_id": 98740637,
-      "corporation_name": "Imperio Galactico",
-      "alliance_id": 99012717,
-      "alliance_name": "Imperio Galactico."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127530421/",
-    "total_value": 8163855400.68,
-    "final_attacker": {
-      "character_name": "Boss Ninja",
-      "corporation_name": "The Monsters Inc",
-      "alliance_name": "It's a Skill Issue",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127529371,
-    "killmail_hash": "98dda912d953191f09c663e52b59663d7ca70ddf",
-    "kill_time": "2025-05-31T21:37:49Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92998536,
-      "character_name": "Lauren Bamelius",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127529371/",
-    "total_value": 4562578833.43,
-    "final_attacker": {
-      "character_name": "AerisCC",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Drake"
-    }
-  },
-  {
-    "killmail_id": 127528462,
-    "killmail_hash": "266b4f73ebfa29603d7b8ac314481adf78eb19c3",
-    "kill_time": "2025-05-31T21:06:12Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003032,
-    "solar_system_name": "Meves",
-    "region_name": "Everyshore",
-    "victim": {
-      "character_id": 2122777202,
-      "character_name": "Darth IX",
-      "corporation_id": 98356728,
-      "corporation_name": "Quale Imperium",
-      "alliance_id": 99013823,
-      "alliance_name": "Cat Scratch Fevers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127528462/",
-    "total_value": 2090433128.2,
-    "final_attacker": {
-      "character_name": "worgar weltschmerz",
-      "corporation_name": "worlds hottest dentists",
-      "alliance_name": null,
-      "ship_type_name": "Golem"
     }
   }
 ]
