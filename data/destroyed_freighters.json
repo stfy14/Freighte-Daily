@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127736051,
+    "killmail_hash": "2e66ca676146798ad9ad917fb7cd79a45826d765",
+    "kill_time": "2025-06-08T13:56:15Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002538,
+    "solar_system_name": "Vard",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 149027055,
+      "character_name": "Bargelina",
+      "corporation_id": 98705678,
+      "corporation_name": "Minmatar Fleet Logistics",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127736051/",
+    "total_value": 40133640264.09,
+    "final_attacker": {
+      "character_name": "Jay Makin",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
     "killmail_id": 127732830,
     "killmail_hash": "9cfc8c82adc3dc488d0fb02b0314b027e0db7f8a",
     "kill_time": "2025-06-08T12:05:15Z",
@@ -1947,58 +1973,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Safety.",
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127550540,
-    "killmail_hash": "4cccb1b30afbdd8234dd8cace17809d51d6a93ce",
-    "kill_time": "2025-06-01T14:32:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003563,
-    "solar_system_name": "Misaba",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 993468993,
-      "character_name": "UH40",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127550540/",
-    "total_value": 2383892530.74,
-    "final_attacker": {
-      "character_name": "Miglater",
-      "corporation_name": "Arton Customer Service",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 127548247,
-    "killmail_hash": "5a928da4743f37f724f817db9148e333e58ffa8e",
-    "kill_time": "2025-06-01T13:16:30Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 95785921,
-      "character_name": "Kill Kurt",
-      "corporation_id": 98692879,
-      "corporation_name": "Russo Turiso",
-      "alliance_id": 99007969,
-      "alliance_name": "THE RUSSIA"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127548247/",
-    "total_value": 2188612748.64,
-    "final_attacker": {
-      "character_name": "Docteur West",
-      "corporation_name": "Post Mortem Services",
-      "alliance_name": "Highsec Security",
-      "ship_type_name": "Brutix Navy Issue"
     }
   }
 ]
