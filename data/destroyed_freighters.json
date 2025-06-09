@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127755582,
+    "killmail_hash": "27f50a0700e5409251632aaf6cf47a723d0d94b0",
+    "kill_time": "2025-06-09T02:58:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2118223044,
+      "character_name": "DarkerDY",
+      "corporation_id": 98764547,
+      "corporation_name": "The Huaxia Empire",
+      "alliance_id": 495729389,
+      "alliance_name": "Shadow Cartel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127755582/",
+    "total_value": 9517006094.06,
+    "final_attacker": {
+      "character_name": "Radeon RX 69420",
+      "corporation_name": "Navi 21",
+      "alliance_name": null,
+      "ship_type_name": "Fortizar"
+    }
+  },
+  {
     "killmail_id": 127750759,
     "killmail_hash": "3966616f0a8d439e7b276f216bdc0a0dfb3469de",
     "kill_time": "2025-06-08T21:45:25Z",
@@ -1942,32 +1968,6 @@
     },
     "zkb_url": "https://zkillboard.com/kill/127572588/",
     "total_value": 9780045723.23,
-    "final_attacker": {
-      "character_name": "Brown'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127568895,
-    "killmail_hash": "8fef3b761fda08c98ae0ea1ed34e7207889c428f",
-    "kill_time": "2025-06-02T02:58:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123386726,
-      "character_name": "Poila Yotosala",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127568895/",
-    "total_value": 4681880189.44,
     "final_attacker": {
       "character_name": "Brown'Crayon",
       "corporation_name": "Box of Colors",
