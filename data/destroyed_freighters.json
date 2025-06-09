@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127750759,
+    "killmail_hash": "3966616f0a8d439e7b276f216bdc0a0dfb3469de",
+    "kill_time": "2025-06-08T21:45:25Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121689254,
+      "character_name": "Somatperfect",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127750759/",
+    "total_value": 1985688402.34,
+    "final_attacker": {
+      "character_name": "KayLe",
+      "corporation_name": "Noble House Inc.",
+      "alliance_name": "Caldari Alliance",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 127748116,
     "killmail_hash": "e600082e5bebdc7811751788358c49557f2b4fc5",
     "kill_time": "2025-06-08T20:07:52Z",
@@ -1947,110 +1973,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127565769,
-    "killmail_hash": "567e47546884e00dfc2ef3a3e47ec9eae1cb78cd",
-    "kill_time": "2025-06-01T23:42:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114441305,
-      "character_name": "Xgeua May",
-      "corporation_id": 98790332,
-      "corporation_name": "Lokinshi Operations",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127565769/",
-    "total_value": 11346051523.77,
-    "final_attacker": {
-      "character_name": "Abfallprodukt der Gesellschaft",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127564613,
-    "killmail_hash": "7f3902196949ce52990a60c6ba395ba533b23112",
-    "kill_time": "2025-06-01T22:39:21Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95935812,
-      "character_name": "Valerria VonKessell",
-      "corporation_id": 826119375,
-      "corporation_name": "The Nietzian Way",
-      "alliance_id": 99013187,
-      "alliance_name": "The Obsidian Front - Reborn"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127564613/",
-    "total_value": 2222121226.08,
-    "final_attacker": {
-      "character_name": "IhavethePower Of GodAndAnime",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127564089,
-    "killmail_hash": "1cfc6810bb208586e449e34457ea38815eb91130",
-    "kill_time": "2025-06-01T22:05:24Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 621775221,
-      "character_name": "unit 4",
-      "corporation_id": 98674321,
-      "corporation_name": "GameConcepts LLC",
-      "alliance_id": 99010281,
-      "alliance_name": "GameTheory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127564089/",
-    "total_value": 19335060079.61,
-    "final_attacker": {
-      "character_name": "P-66 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 127562745,
-    "killmail_hash": "2a0671414a07c55055974855cee232b7daa6519c",
-    "kill_time": "2025-06-01T21:05:54Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002964,
-    "solar_system_name": "Esescama",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2115713067,
-      "character_name": "Afrothunder Arnoux",
-      "corporation_id": 98242799,
-      "corporation_name": "Societas Imperialis Sceptri Coronaeque",
-      "alliance_id": 99008816,
-      "alliance_name": "Khimi Harar"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127562745/",
-    "total_value": 16843828142.79,
-    "final_attacker": {
-      "character_name": "Johnny Auditore",
-      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
