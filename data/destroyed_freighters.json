@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127759680,
+    "killmail_hash": "81fd9cf39c421db26d9795513b8ee28c4318b3e3",
+    "kill_time": "2025-06-09T08:50:32Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 267311187,
+      "character_name": "Shawdog",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127759680/",
+    "total_value": 2310093633.16,
+    "final_attacker": {
+      "character_name": "Hanson Sun",
+      "corporation_name": "Sylvanas Windrunner United Fleet",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 127755582,
     "killmail_hash": "27f50a0700e5409251632aaf6cf47a723d0d94b0",
     "kill_time": "2025-06-09T02:58:10Z",
@@ -1869,84 +1895,6 @@
       "corporation_name": "Fountain Hunter",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127576054,
-    "killmail_hash": "afd5fa5af7929c64761b620507e5906fe44c5759",
-    "kill_time": "2025-06-02T11:46:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000185,
-    "solar_system_name": "Airaken",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122123977,
-      "character_name": "Jackie Daytonaa",
-      "corporation_id": 98724374,
-      "corporation_name": "Cheescake Incorporated",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127576054/",
-    "total_value": 10603922899.42,
-    "final_attacker": {
-      "character_name": "Scum Hunter",
-      "corporation_name": "ScumLord Excavation and Evisceration",
-      "alliance_name": "Scumlords",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127575528,
-    "killmail_hash": "47ee6fd4c7fb9e4d36b9345fc198734ebc63f953",
-    "kill_time": "2025-06-02T11:20:40Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002866,
-    "solar_system_name": "1S-SU1",
-    "region_name": "The Kalevala Expanse",
-    "victim": {
-      "character_id": 93255682,
-      "character_name": "Heavysh",
-      "corporation_id": 98525196,
-      "corporation_name": "Time System",
-      "alliance_id": 99002003,
-      "alliance_name": "No Value"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127575528/",
-    "total_value": 10392221588.56,
-    "final_attacker": {
-      "character_name": "kai strom",
-      "corporation_name": "Aegis Victorium",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127574672,
-    "killmail_hash": "9f0f1d7b3a74920a3f9db95f7b35b762b89771b7",
-    "kill_time": "2025-06-02T10:00:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1604396462,
-      "character_name": "Casandra Lion",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127574672/",
-    "total_value": 3998615476.05,
-    "final_attacker": {
-      "character_name": "Prime Admiral",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
