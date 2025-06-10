@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127793727,
+    "killmail_hash": "4847a4f002e8a54e2dbab65465f1b732144ac12a",
+    "kill_time": "2025-06-10T18:56:23Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002866,
+    "solar_system_name": "1S-SU1",
+    "region_name": "The Kalevala Expanse",
+    "victim": {
+      "character_id": 1941941398,
+      "character_name": "PK jitasitter",
+      "corporation_id": 935907718,
+      "corporation_name": "Destructive Influence",
+      "alliance_id": 1727758877,
+      "alliance_name": "Northern Coalition."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127793727/",
+    "total_value": 12127849515.5,
+    "final_attacker": {
+      "character_name": "John Savvage",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127792707,
+    "killmail_hash": "0e121b3ccb7724868aabd587c05765e882e89420",
+    "kill_time": "2025-06-10T18:08:23Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 948121543,
+      "character_name": "Hephayine Yaykinios",
+      "corporation_id": 416915755,
+      "corporation_name": "Efficient Imaginative Enterprise",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127792707/",
+    "total_value": 2189967486.72,
+    "final_attacker": {
+      "character_name": "Proxey",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127791111,
+    "killmail_hash": "d96c5b697d44be8d9b457ef07d9a4ac6d6b38f63",
+    "kill_time": "2025-06-10T16:41:48Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002634,
+    "solar_system_name": "Balle",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2117819346,
+      "character_name": "whitesocksmatter",
+      "corporation_id": 98804261,
+      "corporation_name": "TORGU3 Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127791111/",
+    "total_value": 2413459574.12,
+    "final_attacker": {
+      "character_name": "MeisterDaDa",
+      "corporation_name": "Phantom Brigade Ger",
+      "alliance_name": null,
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 127782942,
     "killmail_hash": "111d17e20ac0a17b4283115c810d292edf41e13e",
     "kill_time": "2025-06-10T07:16:51Z",
