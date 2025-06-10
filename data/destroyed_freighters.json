@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127782942,
+    "killmail_hash": "111d17e20ac0a17b4283115c810d292edf41e13e",
+    "kill_time": "2025-06-10T07:16:51Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000110,
+    "solar_system_name": "Bekirdod",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 925406005,
+      "character_name": "RYLOK",
+      "corporation_id": 98693015,
+      "corporation_name": "Absolute Order XXVII",
+      "alliance_id": 99011119,
+      "alliance_name": "Absolute Glory"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127782942/",
+    "total_value": 9483050673.24,
+    "final_attacker": {
+      "character_name": "grassy 420",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127780539,
     "killmail_hash": "419ed1c65ec6e382ee68792b7a5835eb850b57e2",
     "kill_time": "2025-06-10T03:27:09Z",
@@ -1765,32 +1791,6 @@
       "corporation_name": "Temple of Tuvan Orth",
       "alliance_name": "Guardians of Tranquility",
       "ship_type_name": "Cynabal"
-    }
-  },
-  {
-    "killmail_id": 127597808,
-    "killmail_hash": "d0f0b06aa81565d5264be62e5cb1661d6e2b47bb",
-    "kill_time": "2025-06-03T08:15:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001277,
-    "solar_system_name": "N5Y-4N",
-    "region_name": "Venal",
-    "victim": {
-      "character_id": 2118608389,
-      "character_name": "SistineFibel",
-      "corporation_id": 98588384,
-      "corporation_name": "YeLuo-XingHai",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127597808/",
-    "total_value": 1958905109.7,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Guristas Production",
-      "alliance_name": null,
-      "ship_type_name": "♦ Raven"
     }
   }
 ]
