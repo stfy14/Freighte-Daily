@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127809923,
+    "killmail_hash": "259976a8215428b6662a7f4c49ec9ef6c4b353c6",
+    "kill_time": "2025-06-11T15:12:33Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2117653913,
+      "character_name": "greenyknight",
+      "corporation_id": 98169165,
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127809923/",
+    "total_value": 9293400115.58,
+    "final_attacker": {
+      "character_name": "petertje35",
+      "corporation_name": "Rabble Inc.",
+      "alliance_name": "Northern Coalition.",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 127801904,
+    "killmail_hash": "8a688f5a0e39f91ccb1746a83309dcbd5898918a",
+    "kill_time": "2025-06-11T03:42:11Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93206614,
+      "character_name": "Makkan S'jet",
+      "corporation_id": 98270436,
+      "corporation_name": "North Slope Heavy Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127801904/",
+    "total_value": 5719649480.93,
+    "final_attacker": {
+      "character_name": "fcyno16",
+      "corporation_name": "Totoro Time",
+      "alliance_name": "Insidious.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127793727,
     "killmail_hash": "4847a4f002e8a54e2dbab65465f1b732144ac12a",
     "kill_time": "2025-06-10T18:56:23Z",
@@ -335,6 +387,32 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Safety.",
       "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 127737175,
+    "killmail_hash": "2d7e8494a509b33485767a45d5bd94ebc6daf835",
+    "kill_time": "2025-06-08T14:27:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002964,
+    "solar_system_name": "Esescama",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 95570987,
+      "character_name": "Lianna Cesaille",
+      "corporation_id": 98265990,
+      "corporation_name": "DND Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127737175/",
+    "total_value": 16333530029.06,
+    "final_attacker": {
+      "character_name": "Billy Oswald",
+      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
@@ -1505,32 +1583,6 @@
       "corporation_name": "Noble House Inc.",
       "alliance_name": "Caldari Alliance",
       "ship_type_name": "Stratios"
-    }
-  },
-  {
-    "killmail_id": 127626606,
-    "killmail_hash": "3ed63d88b8db4d41995dc0acba8f98699fda3394",
-    "kill_time": "2025-06-04T12:54:40Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002964,
-    "solar_system_name": "Esescama",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2122395908,
-      "character_name": "Kusaria Motoko",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127626606/",
-    "total_value": 9606980130.51,
-    "final_attacker": {
-      "character_name": "Wyatt Princip",
-      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
