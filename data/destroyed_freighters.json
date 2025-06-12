@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127830222,
+    "killmail_hash": "05fc997416a54cd3584f1a4ca0489f8f9b39ffab",
+    "kill_time": "2025-06-12T15:03:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002560,
+    "solar_system_name": "Gultratren",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 93600017,
+      "character_name": "Mr Morzhoff",
+      "corporation_id": 98786925,
+      "corporation_name": "Intergalactic Economic Security Agency",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127830222/",
+    "total_value": 10677388059.88,
+    "final_attacker": {
+      "character_name": "Diddy Meerkat",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127812742,
     "killmail_hash": "3578e12858f1ad35fda877f4fbc0ffce83c6272a",
     "kill_time": "2025-06-11T17:58:44Z",
@@ -1297,32 +1323,6 @@
       "corporation_name": "Brazilian Templars",
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 127652528,
-    "killmail_hash": "4f97c277f5a953d85cc35034ce1b2a5672ab0b34",
-    "kill_time": "2025-06-05T13:35:48Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 1051309585,
-      "character_name": "Nivinyrral",
-      "corporation_id": 98754359,
-      "corporation_name": "RCI. Buyback",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127652528/",
-    "total_value": 12286594722.27,
-    "final_attacker": {
-      "character_name": "Illyasviel Von Eizbern",
-      "corporation_name": "MASS",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
