@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127842066,
+    "killmail_hash": "215ebb2c9e4937b040a2b1fdf95f90b5cc5c20c2",
+    "kill_time": "2025-06-13T03:34:06Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003276,
+    "solar_system_name": "FD-MLJ",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 2122996820,
+      "character_name": "Crank 'dat Hogg",
+      "corporation_id": 98091430,
+      "corporation_name": "Wok The Dog",
+      "alliance_id": 99002448,
+      "alliance_name": "Naga Please."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127842066/",
+    "total_value": 6893212920.81,
+    "final_attacker": {
+      "character_name": "Thingymawotzit",
+      "corporation_name": "Dirty Vagrants",
+      "alliance_name": "Intergalactic Space Hobos",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127842065,
+    "killmail_hash": "b026196d9b55e531c6c47a703c8172d250e804bb",
+    "kill_time": "2025-06-13T03:34:05Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 31002270,
+    "solar_system_name": "J123432",
+    "region_name": "E-R00028",
+    "victim": {
+      "character_id": 2123354855,
+      "character_name": "Acidberg Plexstein",
+      "corporation_id": 98316453,
+      "corporation_name": "Outfit 418",
+      "alliance_id": 99010265,
+      "alliance_name": "Blue Loot Not Included"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127842065/",
+    "total_value": 2491633651.77,
+    "final_attacker": {
+      "character_name": "Alteru",
+      "corporation_name": "Diamond Dogs.",
+      "alliance_name": "Mercenaires Sans Frontieres.",
+      "ship_type_name": "Zirnitra"
+    }
+  },
+  {
+    "killmail_id": 127840924,
+    "killmail_hash": "c72404723dc904d609b42a4e99f5a5ad89c917d1",
+    "kill_time": "2025-06-13T02:06:47Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 1493869925,
+      "character_name": "salam halabin",
+      "corporation_id": 98805294,
+      "corporation_name": "Halabin Industrial Services",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127840924/",
+    "total_value": 10356090618.76,
+    "final_attacker": {
+      "character_name": "Olive'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127837526,
     "killmail_hash": "658ca336b486f2db9bc91cae2b33641e61b6f91d",
     "kill_time": "2025-06-12T21:28:56Z",
@@ -1245,32 +1323,6 @@
       "corporation_name": "Candy From Stranger",
       "alliance_name": "Cannonball Diplomacy",
       "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 127666934,
-    "killmail_hash": "df86c3984303ca0847f960e9913aa1bfb4b9f340",
-    "kill_time": "2025-06-06T02:12:52Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 93425681,
-      "character_name": "Jinva Qinnar",
-      "corporation_id": 98221294,
-      "corporation_name": "BGE Prophets Productions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127666934/",
-    "total_value": 5709283019.87,
-    "final_attacker": {
-      "character_name": "Dats'Alotta Damage",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
