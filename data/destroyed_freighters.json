@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127874605,
+    "killmail_hash": "3c0e88238cf25efb4ba57427f28f8340cc3f88a2",
+    "kill_time": "2025-06-14T14:11:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121102787,
+      "character_name": "Puksen Otsada",
+      "corporation_id": 98750909,
+      "corporation_name": "Voidbringer Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127874605/",
+    "total_value": 10887302630.1,
+    "final_attacker": {
+      "character_name": "You Gunn LuvMiNuts",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127871034,
     "killmail_hash": "afc8188ad1c74f0e6def3494be15d93495f36d6a",
     "kill_time": "2025-06-14T10:53:16Z",
@@ -1219,162 +1245,6 @@
       "corporation_name": "Nomads of Republic",
       "alliance_name": "Smile 'n' Wave",
       "ship_type_name": "Stabber Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 127708334,
-    "killmail_hash": "7445e021e2193280e1ee4112af40f44ec57aba71",
-    "kill_time": "2025-06-07T16:20:08Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117506685,
-      "character_name": "Secundus Continuum",
-      "corporation_id": 98802397,
-      "corporation_name": "Herring Hauling",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127708334/",
-    "total_value": 17327710237.47,
-    "final_attacker": {
-      "character_name": "KI-45 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 127707139,
-    "killmail_hash": "0ded82976dd09f9f1ef259a0f121b8afbcc42bea",
-    "kill_time": "2025-06-07T15:33:13Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2120020689,
-      "character_name": "NeverTryMe",
-      "corporation_id": 98325373,
-      "corporation_name": "Running with Dogs",
-      "alliance_id": 99010877,
-      "alliance_name": "Out of the Blue."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127707139/",
-    "total_value": 9481365734.75,
-    "final_attacker": {
-      "character_name": "Anima Shy",
-      "corporation_name": "Commonwealth Mercenaries",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Absolution"
-    }
-  },
-  {
-    "killmail_id": 127706323,
-    "killmail_hash": "2894c9c08edc6d65b0e03f170f4e0d8ae50b097d",
-    "kill_time": "2025-06-07T15:03:16Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 91837422,
-      "character_name": "Trip Eriker",
-      "corporation_id": 98262734,
-      "corporation_name": "Positive-Impact",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127706323/",
-    "total_value": 9016770936.72,
-    "final_attacker": {
-      "character_name": "Deceive Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127705660,
-    "killmail_hash": "87b8bcd34fd1354ab64009f7e3123f43d23845ab",
-    "kill_time": "2025-06-07T14:39:02Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122418297,
-      "character_name": "TY-10",
-      "corporation_id": 98804577,
-      "corporation_name": "Fish Fall Express",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127705660/",
-    "total_value": 25017943012.33,
-    "final_attacker": {
-      "character_name": "Irked Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127705501,
-    "killmail_hash": "f2222c61dd0c4dc08bc8283558fe96117b965de5",
-    "kill_time": "2025-06-07T14:32:34Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004667,
-    "solar_system_name": "JI-K5H",
-    "region_name": "Paragon Soul",
-    "victim": {
-      "character_id": 96374733,
-      "character_name": "Nicou Zeitmen",
-      "corporation_id": 98689072,
-      "corporation_name": "Remlok Industries",
-      "alliance_id": 99011223,
-      "alliance_name": "Sigma Grindset"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127705501/",
-    "total_value": 7010974036.81,
-    "final_attacker": {
-      "character_name": "Larnier Ormand",
-      "corporation_name": "Ronin ONE",
-      "alliance_name": "Ronin Reloaded",
-      "ship_type_name": "Drekavac"
-    }
-  },
-  {
-    "killmail_id": 127703498,
-    "killmail_hash": "cdae0adc27ef2f8db9cfb55d5d6c4a6a9aec6617",
-    "kill_time": "2025-06-07T13:29:28Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30005102,
-    "solar_system_name": "0FG-KS",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 1583409141,
-      "character_name": "Noto Virham",
-      "corporation_id": 98335809,
-      "corporation_name": "The Northerners",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127703498/",
-    "total_value": 9671512423.82,
-    "final_attacker": {
-      "character_name": "ZIMPLE123",
-      "corporation_name": "Stardust-Guardian",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Manticore"
     }
   }
 ]
