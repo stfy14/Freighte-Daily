@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127862027,
+    "killmail_hash": "71caae3f980c371f8886f3e41c2863c0fc0fd63f",
+    "kill_time": "2025-06-14T00:58:49Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1405018764,
+      "character_name": "I Roxy",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127862027/",
+    "total_value": 8779198034.22,
+    "final_attacker": {
+      "character_name": "zLegion I",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127861629,
+    "killmail_hash": "2eb07c30801eb004627e81c9f0ebedece4a50fec",
+    "kill_time": "2025-06-14T00:32:07Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96187468,
+      "character_name": "Jakee From StateFarm",
+      "corporation_id": 98800522,
+      "corporation_name": "StateFarm Insurance.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127861629/",
+    "total_value": 7029159367.35,
+    "final_attacker": {
+      "character_name": "Bored And Violent",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127850926,
     "killmail_hash": "faf38a7a464af4a0312f3d435aa19783b6f6cd8a",
     "kill_time": "2025-06-13T15:21:30Z",
@@ -1271,32 +1323,6 @@
       "corporation_name": "Executive Innovations",
       "alliance_name": "Desolate.",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 127691012,
-    "killmail_hash": "2d032db9b6d41330972b829dbbdae766acf85c5b",
-    "kill_time": "2025-06-07T01:37:06Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 742779875,
-      "character_name": "Inquisitor Faolan",
-      "corporation_id": 98686431,
-      "corporation_name": "Fixers Corporation",
-      "alliance_id": 99013177,
-      "alliance_name": "Pillars of Liberty"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127691012/",
-    "total_value": 6232276486.51,
-    "final_attacker": {
-      "character_name": "Grey'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
