@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127863623,
+    "killmail_hash": "31cdba434719e3b7c09e68709313a989c03bf0af",
+    "kill_time": "2025-06-14T02:54:17Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123446697,
+      "character_name": "Siri233",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127863623/",
+    "total_value": 7287988017.42,
+    "final_attacker": {
+      "character_name": "TACAN",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127862027,
     "killmail_hash": "71caae3f980c371f8886f3e41c2863c0fc0fd63f",
     "kill_time": "2025-06-14T00:58:49Z",
@@ -1271,58 +1297,6 @@
       "corporation_name": "Boondocks Industrial",
       "alliance_name": "Intaki-Business Logistics Union",
       "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127693619,
-    "killmail_hash": "692e8958e989f5a8e349d2651627ed0eabbc43b6",
-    "kill_time": "2025-06-07T04:08:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2117900837,
-      "character_name": "Imobios Fletch",
-      "corporation_id": 98451927,
-      "corporation_name": "HALO - United Nations Space Command",
-      "alliance_id": 99011119,
-      "alliance_name": "Absolute Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127693619/",
-    "total_value": 1977679385.7,
-    "final_attacker": {
-      "character_name": "Teal'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127692005,
-    "killmail_hash": "02925d1f2098824ed3845475be10dd09317cd361",
-    "kill_time": "2025-06-07T02:36:28Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000017,
-    "solar_system_name": "Futzchag",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2123490017,
-      "character_name": "rdunlap",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127692005/",
-    "total_value": 1960705825.53,
-    "final_attacker": {
-      "character_name": "Molliey",
-      "corporation_name": "Executive Innovations",
-      "alliance_name": "Desolate.",
-      "ship_type_name": "Leshak"
     }
   }
 ]
