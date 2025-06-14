@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127867764,
+    "killmail_hash": "62ff2bb874210033807bfb5b1fca0f2ede41debc",
+    "kill_time": "2025-06-14T07:24:43Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 440705426,
+      "character_name": "tetrinius",
+      "corporation_id": 98806551,
+      "corporation_name": "Golden dragon strike force",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127867764/",
+    "total_value": 7056764512.61,
+    "final_attacker": {
+      "character_name": "White'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127866794,
+    "killmail_hash": "e91e629a4b88393c4ff42dde4fed0efbdfd4e181",
+    "kill_time": "2025-06-14T06:09:12Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 475811406,
+      "character_name": "Doctor Whiteface",
+      "corporation_id": 98768693,
+      "corporation_name": "Dyson Mizuno Mercantile",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127866794/",
+    "total_value": 6469803201.57,
+    "final_attacker": {
+      "character_name": "Red'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127866538,
+    "killmail_hash": "0f4745ecc3d87bbdab1dff8a2f49fe8075e510c7",
+    "kill_time": "2025-06-14T05:50:54Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113259767,
+      "character_name": "Zeke Diesel",
+      "corporation_id": 98806620,
+      "corporation_name": "CreepShow K162",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127866538/",
+    "total_value": 2035224824.01,
+    "final_attacker": {
+      "character_name": "Robin Wick",
+      "corporation_name": "Obsidian Armament",
+      "alliance_name": "Another Corp Expelled",
+      "ship_type_name": "Golem"
+    }
+  },
+  {
     "killmail_id": 127863623,
     "killmail_hash": "31cdba434719e3b7c09e68709313a989c03bf0af",
     "kill_time": "2025-06-14T02:54:17Z",
@@ -1270,32 +1348,6 @@
       "character_name": "Hail'Waylien",
       "corporation_name": "ANZAC ALLIANCE",
       "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127695068,
-    "killmail_hash": "cdea9b891257f1566f622827206567943cd6dd14",
-    "kill_time": "2025-06-07T05:36:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003299,
-    "solar_system_name": "T-LIWS",
-    "region_name": "Syndicate",
-    "victim": {
-      "character_id": 2123490017,
-      "character_name": "rdunlap",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127695068/",
-    "total_value": 2195157227.36,
-    "final_attacker": {
-      "character_name": "Mina Shirakawa",
-      "corporation_name": "Boondocks Industrial",
-      "alliance_name": "Intaki-Business Logistics Union",
       "ship_type_name": "Exequror Navy Issue"
     }
   }
