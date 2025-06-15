@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127898316,
+    "killmail_hash": "1dbe0acb6a9068812932f538d594e9d8b934d6e5",
+    "kill_time": "2025-06-15T12:20:31Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004759,
+    "solar_system_name": "1DQ1-A",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 1649134142,
+      "character_name": "Stephen Bolton",
+      "corporation_id": 98718076,
+      "corporation_name": "GSF Logistics and Posting Reserves",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127898316/",
+    "total_value": 2208503349.72,
+    "final_attacker": {
+      "character_name": "Maruk Ihnati",
+      "corporation_name": "Coreli Corporation",
+      "alliance_name": "Pandemic Legion",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 127898065,
+    "killmail_hash": "5e34d6b7b6950ff5a044986b573e2090634a80b1",
+    "kill_time": "2025-06-15T12:06:36Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004936,
+    "solar_system_name": "VYO-68",
+    "region_name": "Period Basis",
+    "victim": {
+      "character_id": 2121581732,
+      "character_name": "AUG U",
+      "corporation_id": 98738067,
+      "corporation_name": "Why So Sage",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127898065/",
+    "total_value": 10496109615.84,
+    "final_attacker": {
+      "character_name": "Dobrynia",
+      "corporation_name": "Fastifly",
+      "alliance_name": "Skuffed Rout",
+      "ship_type_name": "Stabber Fleet Issue"
+    }
+  },
+  {
+    "killmail_id": 127897643,
+    "killmail_hash": "1f205b96eeb33bf3db5bbb52bcd733786b2b1045",
+    "kill_time": "2025-06-15T11:45:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 1069219809,
+      "character_name": "Warry",
+      "corporation_id": 98763510,
+      "corporation_name": "Last Sol Fire Operations",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127897643/",
+    "total_value": 2184768778.75,
+    "final_attacker": {
+      "character_name": "Aharon Omaristos",
+      "corporation_name": "The Northerners",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127894462,
     "killmail_hash": "b9117be67cca43a9a3b303943d57bf873834b647",
     "kill_time": "2025-06-15T08:05:07Z",
@@ -1505,32 +1583,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Tengu"
-    }
-  },
-  {
-    "killmail_id": 127732830,
-    "killmail_hash": "9cfc8c82adc3dc488d0fb02b0314b027e0db7f8a",
-    "kill_time": "2025-06-08T12:05:15Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118810910,
-      "character_name": "Oriviboror",
-      "corporation_id": 98751127,
-      "corporation_name": "Stinky Dinky",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127732830/",
-    "total_value": 8959872318.49,
-    "final_attacker": {
-      "character_name": "Mayso 37",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Praxis"
     }
   }
 ]
