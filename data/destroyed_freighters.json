@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127901351,
+    "killmail_hash": "fab38871ca61b5ca871c6f72f6dec98b3ab1c88f",
+    "kill_time": "2025-06-15T14:10:46Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2123279270,
+      "character_name": "Debra Morgan 0690",
+      "corporation_id": 98695839,
+      "corporation_name": "South Sun Industries",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127901351/",
+    "total_value": 10934698431.72,
+    "final_attacker": {
+      "character_name": "Priest Creed",
+      "corporation_name": "The Northerners",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127898316,
     "killmail_hash": "1dbe0acb6a9068812932f538d594e9d8b934d6e5",
     "kill_time": "2025-06-15T12:20:31Z",
@@ -1505,84 +1531,6 @@
       "corporation_name": "Harmonist",
       "alliance_name": "Parallaxis Alliance",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127737970,
-    "killmail_hash": "343073d9da33a993072b523dc7b7e2438fa4b5d5",
-    "kill_time": "2025-06-08T14:52:01Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 90025808,
-      "character_name": "Rovdyr",
-      "corporation_id": 98514900,
-      "corporation_name": "Shuttle Constructions",
-      "alliance_id": 99013941,
-      "alliance_name": "James Webb Space Telescope"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127737970/",
-    "total_value": 16628326684.54,
-    "final_attacker": {
-      "character_name": "Swipe Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 127737175,
-    "killmail_hash": "2d7e8494a509b33485767a45d5bd94ebc6daf835",
-    "kill_time": "2025-06-08T14:27:37Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002964,
-    "solar_system_name": "Esescama",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 95570987,
-      "character_name": "Lianna Cesaille",
-      "corporation_id": 98265990,
-      "corporation_name": "DND Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127737175/",
-    "total_value": 16333530029.06,
-    "final_attacker": {
-      "character_name": "Billy Oswald",
-      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 127736051,
-    "killmail_hash": "2e66ca676146798ad9ad917fb7cd79a45826d765",
-    "kill_time": "2025-06-08T13:56:15Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002538,
-    "solar_system_name": "Vard",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 149027055,
-      "character_name": "Bargelina",
-      "corporation_id": 98705678,
-      "corporation_name": "Minmatar Fleet Logistics",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127736051/",
-    "total_value": 40133640264.09,
-    "final_attacker": {
-      "character_name": "Jay Makin",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Tengu"
     }
   }
 ]
