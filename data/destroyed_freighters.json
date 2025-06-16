@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127931021,
+    "killmail_hash": "00ed364e4ed18c2cc4fd3ccf55c975ac125f9a1e",
+    "kill_time": "2025-06-16T19:24:57Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001276,
+    "solar_system_name": "6W-HRH",
+    "region_name": "Venal",
+    "victim": {
+      "character_id": 2115254108,
+      "character_name": "Itsumi Sagiri",
+      "corporation_id": 98699728,
+      "corporation_name": "M-IOI-M",
+      "alliance_id": 99011181,
+      "alliance_name": "East Wind."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127931021/",
+    "total_value": 10672740699.24,
+    "final_attacker": {
+      "character_name": "Viktor Pvolman",
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_name": "Hard Knocks Citizens",
+      "ship_type_name": "Drekavac"
+    }
+  },
+  {
+    "killmail_id": 127930216,
+    "killmail_hash": "3bbd0a603ec61dd554ac808a11221cafa15545ff",
+    "kill_time": "2025-06-16T18:46:57Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002764,
+    "solar_system_name": "Hatakani",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 785695430,
+      "character_name": "Tooko",
+      "corporation_id": 98753600,
+      "corporation_name": "S.O.E. EVE",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127930216/",
+    "total_value": 9408784574.78,
+    "final_attacker": {
+      "character_name": "Lea Alar",
+      "corporation_name": "State Protectorate",
+      "alliance_name": null,
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 127927311,
+    "killmail_hash": "4addcd7a00afd751e0de6d2c024fc96bdfa6fe11",
+    "kill_time": "2025-06-16T16:29:44Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004766,
+    "solar_system_name": "39P-1J",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2119123494,
+      "character_name": "EgonEX",
+      "corporation_id": 98561505,
+      "corporation_name": "Hemus",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127927311/",
+    "total_value": 5405506563.82,
+    "final_attacker": {
+      "character_name": "sod0lonly",
+      "corporation_name": "Tactical Farmers.",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127924367,
     "killmail_hash": "cf7104f03eca5406b4bc7a92932b557345e9d5fe",
     "kill_time": "2025-06-16T14:02:23Z",
@@ -1687,32 +1765,6 @@
       "corporation_name": "Obsidian Armament",
       "alliance_name": "Another Corp Expelled",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127771407,
-    "killmail_hash": "3a8d797da1773e50c9359a8b06b6d145fbb8c0d5",
-    "kill_time": "2025-06-09T18:41:32Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30012715,
-    "solar_system_name": "Odotte",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121893381,
-      "character_name": "Steve Ninetynine",
-      "corporation_id": 98758017,
-      "corporation_name": "Cryonic Origin",
-      "alliance_id": 99013786,
-      "alliance_name": "Cryonic Origin Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127771407/",
-    "total_value": 2040491754.5,
-    "final_attacker": {
-      "character_name": "KlugeP Kashuken",
-      "corporation_name": "Exiled Kings",
-      "alliance_name": "Pain And Compliance",
-      "ship_type_name": "Svipul"
     }
   }
 ]
