@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127924367,
+    "killmail_hash": "cf7104f03eca5406b4bc7a92932b557345e9d5fe",
+    "kill_time": "2025-06-16T14:02:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003978,
+    "solar_system_name": "P-ZMZV",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2114598445,
+      "character_name": "Maggie K",
+      "corporation_id": 98547771,
+      "corporation_name": "B.O.P Supplication For Glorious",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/127924367/",
+    "total_value": 2860164987.28,
+    "final_attacker": {
+      "character_name": "Alternative Muv-Luv",
+      "corporation_name": "25yrs old man playing genshin impact at 4am",
+      "alliance_name": null,
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 127923840,
+    "killmail_hash": "4b736da265850138dc7ccc3a63b1128811866cff",
+    "kill_time": "2025-06-16T13:34:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004759,
+    "solar_system_name": "1DQ1-A",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2119497728,
+      "character_name": "fighter trainee",
+      "corporation_id": 98593679,
+      "corporation_name": "Humpback Whale Logistic",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127923840/",
+    "total_value": 2425099790.55,
+    "final_attacker": {
+      "character_name": "Maruk Ihnati",
+      "corporation_name": "Coreli Corporation",
+      "alliance_name": "Pandemic Legion",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 127923584,
+    "killmail_hash": "5f01c8f69e4ec97ba9ddc059ed614bc6f54a31a3",
+    "kill_time": "2025-06-16T13:21:16Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004759,
+    "solar_system_name": "1DQ1-A",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2116811730,
+      "character_name": "Rhaai",
+      "corporation_id": 1187207583,
+      "corporation_name": "Shocky Industries Ltd.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127923584/",
+    "total_value": 10456667727.66,
+    "final_attacker": {
+      "character_name": "sod0lonly",
+      "corporation_name": "Tactical Farmers.",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 127921383,
     "killmail_hash": "ed8f5fa1fcc41a6c8b99d3dc6f3ffbfd4a1772b9",
     "kill_time": "2025-06-16T09:45:59Z",
