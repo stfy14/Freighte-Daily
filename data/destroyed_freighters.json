@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127943647,
+    "killmail_hash": "3569ab3bfa081cbdc577119a8c12bbe441c9c74a",
+    "kill_time": "2025-06-17T12:52:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001260,
+    "solar_system_name": "4-07MU",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 92274630,
+      "character_name": "Kievde Dutchman",
+      "corporation_id": 1324429368,
+      "corporation_name": "NED-Clan",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127943647/",
+    "total_value": 19107975266.54,
+    "final_attacker": {
+      "character_name": "Moeko Yogukawa",
+      "corporation_name": "The Northerners",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 127941693,
+    "killmail_hash": "053d006071d1e7fb696f3510e516a6092b17b4ac",
+    "kill_time": "2025-06-17T09:50:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2118478320,
+      "character_name": "Rei Sheva Yamamoto",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127941693/",
+    "total_value": 2728471224.54,
+    "final_attacker": {
+      "character_name": "Nicoulou Hinken",
+      "corporation_name": "Teutate raiders",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127940291,
     "killmail_hash": "24fd5e6c9873d026218ef7867c7a0140c7e02375",
     "kill_time": "2025-06-17T07:17:44Z",
