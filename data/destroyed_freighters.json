@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127938113,
+    "killmail_hash": "a7d04b3f7c23eae623f267c25022832d2e2956c0",
+    "kill_time": "2025-06-17T03:33:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2115871526,
+      "character_name": "starky Free",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127938113/",
+    "total_value": 7937032648.3,
+    "final_attacker": {
+      "character_name": "Molly Murderface",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 127932620,
     "killmail_hash": "5a0b6a6a5efdfd9d9f510bff3d794a4699f6230a",
     "kill_time": "2025-06-16T20:40:15Z",
@@ -1764,32 +1790,6 @@
       "character_name": "grassy 420",
       "corporation_name": "Anoikis Equilibrium",
       "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127780539,
-    "killmail_hash": "419ed1c65ec6e382ee68792b7a5835eb850b57e2",
-    "kill_time": "2025-06-10T03:27:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90611449,
-      "character_name": "Express Panda",
-      "corporation_id": 1000006,
-      "corporation_name": "Deep Core Mining Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127780539/",
-    "total_value": 3760194080.82,
-    "final_attacker": {
-      "character_name": "Sel1ah",
-      "corporation_name": "Obsidian Armament",
-      "alliance_name": "Another Corp Expelled",
       "ship_type_name": "Redeemer"
     }
   }
