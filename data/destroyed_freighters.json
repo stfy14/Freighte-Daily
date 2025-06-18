@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127964855,
+    "killmail_hash": "0bd9ba679080fee6e39be44b3d1b7b5d454c5c98",
+    "kill_time": "2025-06-18T13:30:59Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001446,
+    "solar_system_name": "Otsasai",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2119196342,
+      "character_name": "Belllalala",
+      "corporation_id": 98507124,
+      "corporation_name": "S.F Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127964855/",
+    "total_value": 11232406229.6,
+    "final_attacker": {
+      "character_name": "wgqqqqqq",
+      "corporation_name": "AWAKE LIONS",
+      "alliance_name": "Invidia Gloriae Comes",
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
     "killmail_id": 127962263,
     "killmail_hash": "f235bdbbf242fd95910d0fa48a908db36ab792aa",
     "kill_time": "2025-06-18T09:36:29Z",
@@ -1973,32 +1999,6 @@
       "corporation_name": "Domain Security Services",
       "alliance_name": null,
       "ship_type_name": "Kikimora"
-    }
-  },
-  {
-    "killmail_id": 127809923,
-    "killmail_hash": "259976a8215428b6662a7f4c49ec9ef6c4b353c6",
-    "kill_time": "2025-06-11T15:12:33Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2117653913,
-      "character_name": "greenyknight",
-      "corporation_id": 98169165,
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127809923/",
-    "total_value": 9293400115.58,
-    "final_attacker": {
-      "character_name": "petertje35",
-      "corporation_name": "Rabble Inc.",
-      "alliance_name": "Northern Coalition.",
-      "ship_type_name": "Loki"
     }
   }
 ]
