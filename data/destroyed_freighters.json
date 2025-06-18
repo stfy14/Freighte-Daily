@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127971977,
+    "killmail_hash": "ce77652efe832c386bf3a149b283907c4d6865d5",
+    "kill_time": "2025-06-18T20:23:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2121423837,
+      "character_name": "Merc Nosse",
+      "corporation_id": 98559450,
+      "corporation_name": "DanJev United",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127971977/",
+    "total_value": 6081876773.96,
+    "final_attacker": {
+      "character_name": "Illyasviel Von Eizbern",
+      "corporation_name": "MASS",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 127968546,
+    "killmail_hash": "88e751f448f8db41fb9ce77fa68e7dd6355ba4ad",
+    "kill_time": "2025-06-18T17:13:08Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004754,
+    "solar_system_name": "PUIG-F",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 524799226,
+      "character_name": "Cassius Brutus",
+      "corporation_id": 98718236,
+      "corporation_name": "Astrum Mechanica",
+      "alliance_id": 150097440,
+      "alliance_name": "Get Off My Lawn"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127968546/",
+    "total_value": 2019978065.12,
+    "final_attacker": {
+      "character_name": "Storm Husky",
+      "corporation_name": "Horde Armada",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127964855,
     "killmail_hash": "0bd9ba679080fee6e39be44b3d1b7b5d454c5c98",
     "kill_time": "2025-06-18T13:30:59Z",
@@ -1973,32 +2025,6 @@
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127812742,
-    "killmail_hash": "3578e12858f1ad35fda877f4fbc0ffce83c6272a",
-    "kill_time": "2025-06-11T17:58:44Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002991,
-    "solar_system_name": "Uadelah",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2121228651,
-      "character_name": "Mack ox tuck",
-      "corporation_id": 98646452,
-      "corporation_name": "Absolute Order VIII",
-      "alliance_id": 99009758,
-      "alliance_name": "Absolute Will"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127812742/",
-    "total_value": 2571139442.85,
-    "final_attacker": {
-      "character_name": "Asalola Sunji",
-      "corporation_name": "Domain Security Services",
-      "alliance_name": null,
-      "ship_type_name": "Kikimora"
     }
   }
 ]
