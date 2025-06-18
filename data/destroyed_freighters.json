@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 127954379,
+    "killmail_hash": "194e7f05c1770fed50427820bd161435336df299",
+    "kill_time": "2025-06-17T21:52:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 676397968,
+      "character_name": "Ling Wa",
+      "corporation_id": 98718365,
+      "corporation_name": "Advanced Nutters and Logistics",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127954379/",
+    "total_value": 5358217404.93,
+    "final_attacker": {
+      "character_name": "N'jai Hill",
+      "corporation_name": "Deaths Consortium",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 127953748,
+    "killmail_hash": "2f4824086d32394ad2604997a27ee6f79c3ddd9a",
+    "kill_time": "2025-06-17T21:21:44Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2117389841,
+      "character_name": "Archangel89",
+      "corporation_id": 98559450,
+      "corporation_name": "DanJev United",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127953748/",
+    "total_value": 13465424744.42,
+    "final_attacker": {
+      "character_name": "Lilithena Erquilenne",
+      "corporation_name": "Rogue Inferno.",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 127952637,
+    "killmail_hash": "915f391e1defd895d74cce8a9965b8768d1191a5",
+    "kill_time": "2025-06-17T20:30:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002590,
+    "solar_system_name": "9-IIBL",
+    "region_name": "Impass",
+    "victim": {
+      "character_id": 94768485,
+      "character_name": "Naeyi",
+      "corporation_id": 109788662,
+      "corporation_name": "Merch Industrial",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127952637/",
+    "total_value": 2708744398.17,
+    "final_attacker": {
+      "character_name": "Sam Fuller",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 127947465,
     "killmail_hash": "ba020037be5794188cdbc88582c7cfdf0dbfa045",
     "kill_time": "2025-06-17T16:23:56Z",
