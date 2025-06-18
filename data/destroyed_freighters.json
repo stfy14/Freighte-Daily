@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 127958057,
+    "killmail_hash": "369ed7a13aea8dfbe9a4ebc846a74dd0f63dadee",
+    "kill_time": "2025-06-18T02:08:20Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121158527,
+      "character_name": "MR 0CHRE",
+      "corporation_id": 98793472,
+      "corporation_name": "Raging Dwarfs with Mohawks from Outerspace",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127958057/",
+    "total_value": 5522759298.21,
+    "final_attacker": {
+      "character_name": "Wud Dah Lewt",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127957721,
+    "killmail_hash": "ab220425e0dbde1572da6f4540c6b86c139de262",
+    "kill_time": "2025-06-18T01:41:32Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91141589,
+      "character_name": "Jun Tsero",
+      "corporation_id": 98793472,
+      "corporation_name": "Raging Dwarfs with Mohawks from Outerspace",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127957721/",
+    "total_value": 5664223243.93,
+    "final_attacker": {
+      "character_name": "ErMahGerd DahLewt",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 127954379,
     "killmail_hash": "194e7f05c1770fed50427820bd161435336df299",
     "kill_time": "2025-06-17T21:52:20Z",
@@ -1921,32 +1973,6 @@
       "corporation_name": "Rabble Inc.",
       "alliance_name": "Northern Coalition.",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 127801904,
-    "killmail_hash": "8a688f5a0e39f91ccb1746a83309dcbd5898918a",
-    "kill_time": "2025-06-11T03:42:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93206614,
-      "character_name": "Makkan S'jet",
-      "corporation_id": 98270436,
-      "corporation_name": "North Slope Heavy Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127801904/",
-    "total_value": 5719649480.93,
-    "final_attacker": {
-      "character_name": "fcyno16",
-      "corporation_name": "Totoro Time",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
