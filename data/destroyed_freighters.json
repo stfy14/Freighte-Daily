@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 127975436,
+    "killmail_hash": "945be80a89093406982133891013c12c879ab9bf",
+    "kill_time": "2025-06-19T01:23:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002066,
+    "solar_system_name": "Arnher",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122825793,
+      "character_name": "Llabtaem Repinuj",
+      "corporation_id": 98792038,
+      "corporation_name": "The Bleak Lands Supply and Provisions",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127975436/",
+    "total_value": 10516822686.25,
+    "final_attacker": {
+      "character_name": "KAGERO2",
+      "corporation_name": "Descendants of Shen Nong",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 127974135,
+    "killmail_hash": "de8514b6eea5186451357bd050ecd5cdf833e156",
+    "kill_time": "2025-06-18T23:31:26Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121551124,
+      "character_name": "Manolo Acosta",
+      "corporation_id": 98552432,
+      "corporation_name": "Hijos de la Luna",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127974135/",
+    "total_value": 6852130006.31,
+    "final_attacker": {
+      "character_name": "Assplosion Kboom",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 127973481,
+    "killmail_hash": "a203f36e697a522cbebf7bc8e5ce48de5db9df99",
+    "kill_time": "2025-06-18T22:27:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004244,
+    "solar_system_name": "Onanam",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 2120941835,
+      "character_name": "Thoure Athonille",
+      "corporation_id": 98572065,
+      "corporation_name": "Miners Trade Company",
+      "alliance_id": 99013192,
+      "alliance_name": "Imperial Empire"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127973481/",
+    "total_value": 1954100312.19,
+    "final_attacker": {
+      "character_name": "Igor Gorodbin",
+      "corporation_name": "RadioActivia",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 127973116,
+    "killmail_hash": "37831fc2750b0f45e0f4ddb28598291df33d986b",
+    "kill_time": "2025-06-18T21:39:24Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30005038,
+    "solar_system_name": "Kor-Azor Prime",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 2117217451,
+      "character_name": "Avicularia Purpurea",
+      "corporation_id": 98297722,
+      "corporation_name": "Space Colony",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127973116/",
+    "total_value": 2631773054.99,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Amarr Civil Service",
+      "alliance_name": null,
+      "ship_type_name": "Amarr Surveillance General Major"
+    }
+  },
+  {
+    "killmail_id": 127972814,
+    "killmail_hash": "eb8383629c9f094ff3e8beccae8ebe576939c27a",
+    "kill_time": "2025-06-18T21:16:35Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 95745164,
+      "character_name": "Miquel Chavez",
+      "corporation_id": 98728984,
+      "corporation_name": "Kalter Stahl 26",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127972814/",
+    "total_value": 10321479096.44,
+    "final_attacker": {
+      "character_name": "Strawberry Bananas",
+      "corporation_name": "Infinite Point",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127971977,
     "killmail_hash": "ce77652efe832c386bf3a149b283907c4d6865d5",
     "kill_time": "2025-06-18T20:23:43Z",
@@ -1999,32 +2129,6 @@
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
       "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127820466,
-    "killmail_hash": "005d49c2887183e3c09a2a10a3b5874bd3ed0091",
-    "kill_time": "2025-06-12T01:37:02Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1102620626,
-      "character_name": "Trellac",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127820466/",
-    "total_value": 3334992461.12,
-    "final_attacker": {
-      "character_name": "Wut A ResistHole",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
