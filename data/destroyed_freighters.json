@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127977507,
+    "killmail_hash": "80fb5c8c278d933d496550b942dd8c3929bbb2ab",
+    "kill_time": "2025-06-19T03:19:34Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004725,
+    "solar_system_name": "E3OI-U",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2121926429,
+      "character_name": "Komtanni Pecarri",
+      "corporation_id": 98776033,
+      "corporation_name": "Red Board",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127977507/",
+    "total_value": 2157539701.94,
+    "final_attacker": {
+      "character_name": "N'jai Hill",
+      "corporation_name": "Deaths Consortium",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 127975436,
     "killmail_hash": "945be80a89093406982133891013c12c879ab9bf",
     "kill_time": "2025-06-19T01:23:10Z",
@@ -2103,32 +2129,6 @@
       "corporation_name": "Beyond Redemption Corp",
       "alliance_name": "Beyond Redemption.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127821286,
-    "killmail_hash": "c08de06d325273a784662dbb3d227341e18ef0ee",
-    "kill_time": "2025-06-12T02:40:16Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115642410,
-      "character_name": "rabrk tnt",
-      "corporation_id": 98615039,
-      "corporation_name": "xlaw",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127821286/",
-    "total_value": 15927570431.42,
-    "final_attacker": {
-      "character_name": "Judge Jury Executioner",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Exequror Navy Issue"
     }
   }
 ]
