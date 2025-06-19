@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 127983266,
+    "killmail_hash": "d38d3c2a973715ed52a5b46b9d8a9fbef0abadd9",
+    "kill_time": "2025-06-19T12:08:14Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003563,
+    "solar_system_name": "Misaba",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2121770903,
+      "character_name": "Takaaki Kasahara",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/127983266/",
+    "total_value": 2551784509.72,
+    "final_attacker": {
+      "character_name": "Yskari",
+      "corporation_name": "Crielere Cloaking Technologies",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
     "killmail_id": 127979474,
     "killmail_hash": "4ba961877e646087ca7b57305cb657d9e7adef07",
     "kill_time": "2025-06-19T06:03:50Z",
