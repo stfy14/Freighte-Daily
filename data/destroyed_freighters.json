@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128008473,
+    "killmail_hash": "0d0643690dd69cc38dadb60d31fb2000825d58ac",
+    "kill_time": "2025-06-20T13:33:50Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004009,
+    "solar_system_name": "49-U6U",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2115119617,
+      "character_name": "Letto Britva",
+      "corporation_id": 98753997,
+      "corporation_name": "The New Heavenly Kingdom",
+      "alliance_id": 1411711376,
+      "alliance_name": "Legion of xXDEATHXx"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128008473/",
+    "total_value": 13999888509.81,
+    "final_attacker": {
+      "character_name": "Strawberry Bananas",
+      "corporation_name": "Infinite Point",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128002444,
     "killmail_hash": "e5696845d3d9d8c3ebf375783d2f50448485c079",
     "kill_time": "2025-06-20T05:15:09Z",
@@ -2231,32 +2257,6 @@
     "final_attacker": {
       "character_name": "Bored And Violent",
       "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127850926,
-    "killmail_hash": "faf38a7a464af4a0312f3d435aa19783b6f6cd8a",
-    "kill_time": "2025-06-13T15:21:30Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 94071966,
-      "character_name": "Albeno Tank",
-      "corporation_id": 98012857,
-      "corporation_name": "Obsidian Crusaders",
-      "alliance_id": 99013568,
-      "alliance_name": "S0B Citizens Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127850926/",
-    "total_value": 8714945412.98,
-    "final_attacker": {
-      "character_name": "Beige'Crayon",
-      "corporation_name": "Box of Colors",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
