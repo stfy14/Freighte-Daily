@@ -2260,57 +2260,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 127846952,
-    "killmail_hash": "2d6eb6b9c5953b2bae1ca268dc3d9447df5c7d13",
-    "kill_time": "2025-06-13T12:09:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 460420392,
-      "character_name": "Spiess",
-      "corporation_id": 98747987,
-      "corporation_name": "Silence of Dark",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127846952/",
-    "total_value": 9226209549.38,
-    "final_attacker": {
-      "character_name": "Faylee Freir",
-      "corporation_name": "Abusing Game Mechanics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 127845288,
-    "killmail_hash": "161de65588777a1285f29d3c58aa2d8f1f06dc39",
-    "kill_time": "2025-06-13T09:32:17Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30005132,
-    "solar_system_name": "Z-ENUD",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 2117906585,
-      "character_name": "GrayMan Shadow",
-      "corporation_id": 98619206,
-      "corporation_name": "OutLaws Corporation",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127845288/",
-    "total_value": 10534784530.57,
-    "final_attacker": {
-      "character_name": "Mallicos",
-      "corporation_name": "Special law enforcement department",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Caracal Navy Issue"
-    }
   }
 ]
