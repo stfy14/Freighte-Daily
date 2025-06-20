@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128002444,
+    "killmail_hash": "e5696845d3d9d8c3ebf375783d2f50448485c079",
+    "kill_time": "2025-06-20T05:15:09Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 566881330,
+      "character_name": "Daelic Shadowolf",
+      "corporation_id": 98442926,
+      "corporation_name": "HIgh Sec Care Bears",
+      "alliance_id": 99003006,
+      "alliance_name": "Brothers of Tangra"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128002444/",
+    "total_value": 2787490758.94,
+    "final_attacker": {
+      "character_name": "Nyarr lathotep",
+      "corporation_name": "E.T.C",
+      "alliance_name": null,
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 128001312,
     "killmail_hash": "f3cd114c7a9687c8a1d7997163fb680b907c8ab4",
     "kill_time": "2025-06-20T03:35:19Z",
@@ -153,6 +179,32 @@
       "corporation_name": "Coreli Corporation",
       "alliance_name": "Pandemic Legion",
       "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 127985560,
+    "killmail_hash": "6fabe144fa3d0046171fb19a92d349b2bd0d9148",
+    "kill_time": "2025-06-19T14:06:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002282,
+    "solar_system_name": "Bhizheba",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 95400144,
+      "character_name": "Deathadre Shield",
+      "corporation_id": 98382548,
+      "corporation_name": "Destroyer of Worlds Inc.",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/127985560/",
+    "total_value": 12108468982.45,
+    "final_attacker": {
+      "character_name": "Xiaohui Yan",
+      "corporation_name": "E.T.C",
+      "alliance_name": null,
+      "ship_type_name": "Loki"
     }
   },
   {
