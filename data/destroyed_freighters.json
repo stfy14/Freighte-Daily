@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128024790,
+    "killmail_hash": "b91f49cb1d6e3a2c0fc25c7c9d8497b408a76dd7",
+    "kill_time": "2025-06-21T03:39:31Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004696,
+    "solar_system_name": "G-M4GK",
+    "region_name": "Paragon Soul",
+    "victim": {
+      "character_id": 96727211,
+      "character_name": "Anne Ageeth",
+      "corporation_id": 98509949,
+      "corporation_name": "Shadow of Dragon",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128024790/",
+    "total_value": 2155062027.22,
+    "final_attacker": {
+      "character_name": "Jimmy Michaels",
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_name": "Hard Knocks Citizens",
+      "ship_type_name": "Sleipnir"
+    }
+  },
+  {
     "killmail_id": 128019481,
     "killmail_hash": "aa5798afe68f5d10ec39e2dc8b69df6d501d36bb",
     "kill_time": "2025-06-20T22:08:46Z",
@@ -2363,32 +2389,6 @@
       "corporation_name": "Obsidian Armament",
       "alliance_name": "Another Corp Expelled",
       "ship_type_name": "Golem"
-    }
-  },
-  {
-    "killmail_id": 127863623,
-    "killmail_hash": "31cdba434719e3b7c09e68709313a989c03bf0af",
-    "kill_time": "2025-06-14T02:54:17Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123446697,
-      "character_name": "Siri233",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127863623/",
-    "total_value": 7287988017.42,
-    "final_attacker": {
-      "character_name": "TACAN",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
