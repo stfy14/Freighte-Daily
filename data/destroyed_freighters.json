@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128019481,
+    "killmail_hash": "aa5798afe68f5d10ec39e2dc8b69df6d501d36bb",
+    "kill_time": "2025-06-20T22:08:46Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 1291496803,
+      "character_name": "dilpikle",
+      "corporation_id": 98657999,
+      "corporation_name": "Rage Confederacy",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128019481/",
+    "total_value": 4809925037.4,
+    "final_attacker": {
+      "character_name": "Dreamstalker",
+      "corporation_name": "Aurora.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 128019321,
+    "killmail_hash": "1981f353061d9ffc30eb9d40f100606ce989b6dd",
+    "kill_time": "2025-06-20T22:03:22Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 891425674,
+      "character_name": "DALE0404",
+      "corporation_id": 98693015,
+      "corporation_name": "Absolute Order XXVII",
+      "alliance_id": 99011119,
+      "alliance_name": "Absolute Glory"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128019321/",
+    "total_value": 1993427150.15,
+    "final_attacker": {
+      "character_name": "You Gunn LuvMiNuts",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128016332,
     "killmail_hash": "cf51bfd5debbd359289f04dd288c3e55cf4a58d5",
     "kill_time": "2025-06-20T19:51:12Z",
@@ -2334,58 +2386,6 @@
     "total_value": 7287988017.42,
     "final_attacker": {
       "character_name": "TACAN",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127862027,
-    "killmail_hash": "71caae3f980c371f8886f3e41c2863c0fc0fd63f",
-    "kill_time": "2025-06-14T00:58:49Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1405018764,
-      "character_name": "I Roxy",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127862027/",
-    "total_value": 8779198034.22,
-    "final_attacker": {
-      "character_name": "zLegion I",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127861629,
-    "killmail_hash": "2eb07c30801eb004627e81c9f0ebedece4a50fec",
-    "kill_time": "2025-06-14T00:32:07Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96187468,
-      "character_name": "Jakee From StateFarm",
-      "corporation_id": 98800522,
-      "corporation_name": "StateFarm Insurance.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127861629/",
-    "total_value": 7029159367.35,
-    "final_attacker": {
-      "character_name": "Bored And Violent",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
