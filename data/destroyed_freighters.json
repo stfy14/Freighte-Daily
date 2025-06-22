@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128051261,
+    "killmail_hash": "9afd1df11c51caa7154ba2694ab370bbff114f14",
+    "kill_time": "2025-06-22T01:18:25Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 93566054,
+      "character_name": "Varvara Majune",
+      "corporation_id": 98755360,
+      "corporation_name": "Black Rose Inc.",
+      "alliance_id": 99012770,
+      "alliance_name": "Black Rose."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128051261/",
+    "total_value": 5775475804.54,
+    "final_attacker": {
+      "character_name": "Wiscussy",
+      "corporation_name": "BlackCore Tactics",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 128048677,
+    "killmail_hash": "e5b5966ee9b0043ca2b4669ca9c8d9b16a9cc159",
+    "kill_time": "2025-06-21T22:37:27Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93494361,
+      "character_name": "Christies Zed",
+      "corporation_id": 98806166,
+      "corporation_name": "Logiman1701",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128048677/",
+    "total_value": 11270914926.95,
+    "final_attacker": {
+      "character_name": "Cannibal Khan",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128045475,
     "killmail_hash": "e8fa64e42f67710a2e05fb0dadc901f7a91627cb",
     "kill_time": "2025-06-21T20:24:30Z",
@@ -2285,136 +2337,6 @@
       "corporation_name": "Horde Armada",
       "alliance_name": "Pandemic Horde",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127888727,
-    "killmail_hash": "bc7fd120ec09a191fb56948020b66c30404130b5",
-    "kill_time": "2025-06-15T01:56:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116732295,
-      "character_name": "Misanthrope Beeblebrox",
-      "corporation_id": 98798926,
-      "corporation_name": "Sandbaggers..",
-      "alliance_id": 99008301,
-      "alliance_name": "Beanstalk Inc."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127888727/",
-    "total_value": 5222389929.81,
-    "final_attacker": {
-      "character_name": "zLegion Q",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127887454,
-    "killmail_hash": "0554bd4bb0a8132f2aa939611adb569cd8411434",
-    "kill_time": "2025-06-15T00:23:06Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 479781701,
-      "character_name": "Ignatio Delgado",
-      "corporation_id": 98806287,
-      "corporation_name": "Arcadia Industrial Defense",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127887454/",
-    "total_value": 2184400688.94,
-    "final_attacker": {
-      "character_name": "BillyMays ButWait YeeeKaboom",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 127886964,
-    "killmail_hash": "4259dfcd5727cdf28f993086d6c265cfd9aea8c3",
-    "kill_time": "2025-06-14T23:46:33Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2122147633,
-      "character_name": "Yoyo Shepard",
-      "corporation_id": 98360827,
-      "corporation_name": "Buy and Sell",
-      "alliance_id": 1742306959,
-      "alliance_name": "ORPHANS OF EVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127886964/",
-    "total_value": 3615039693.65,
-    "final_attacker": {
-      "character_name": "Attila TheHung",
-      "corporation_name": "Banana-Republic.",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 127885836,
-    "killmail_hash": "8d014f48632cd0e2106df9dbf7f69974d1edf502",
-    "kill_time": "2025-06-14T22:27:26Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004030,
-    "solar_system_name": "B-7DFU",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 96176860,
-      "character_name": "PeekABoo5",
-      "corporation_id": 98239554,
-      "corporation_name": "Fliegenbub Industries",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127885836/",
-    "total_value": 2225414102.87,
-    "final_attacker": {
-      "character_name": "Drist Duorden",
-      "corporation_name": "The Northerners",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 127884686,
-    "killmail_hash": "aec4792dc8744740ae80d7bfc14d0c1c0121d81a",
-    "kill_time": "2025-06-14T21:35:35Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2112130600,
-      "character_name": "Waicadu State",
-      "corporation_id": 98660949,
-      "corporation_name": "German Elite Force 5",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127884686/",
-    "total_value": 1955547495.94,
-    "final_attacker": {
-      "character_name": "Dj Mui",
-      "corporation_name": "10 Potatoes",
-      "alliance_name": null,
-      "ship_type_name": "Gnosis"
     }
   }
 ]
