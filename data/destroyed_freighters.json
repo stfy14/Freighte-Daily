@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128093608,
+    "killmail_hash": "069bee76d25df60b54457997371f7586396b4f73",
+    "kill_time": "2025-06-23T19:03:43Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000169,
+    "solar_system_name": "Ihakana",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96560788,
+      "character_name": "Likari Gengod",
+      "corporation_id": 98769958,
+      "corporation_name": "Intergalactic Republic Of Wadiya",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128093608/",
+    "total_value": 11474807115.69,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 128092820,
+    "killmail_hash": "45fbfe484f5352e0a3a86c418dabf36437907308",
+    "kill_time": "2025-06-23T18:29:30Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1255023095,
+      "character_name": "Raa Sun",
+      "corporation_id": 1266832466,
+      "corporation_name": "Drunken Beaver Mining",
+      "alliance_id": 99014058,
+      "alliance_name": "Gnawthority"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128092820/",
+    "total_value": 11100805019.23,
+    "final_attacker": {
+      "character_name": "Timeloh Regho",
+      "corporation_name": "Brazilian Templars",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128088584,
     "killmail_hash": "79e327ea545a4fd6752f498820448208503bd74d",
     "kill_time": "2025-06-23T14:32:54Z",
@@ -1999,58 +2051,6 @@
       "corporation_name": "Succession",
       "alliance_name": null,
       "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 127931021,
-    "killmail_hash": "00ed364e4ed18c2cc4fd3ccf55c975ac125f9a1e",
-    "kill_time": "2025-06-16T19:24:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001276,
-    "solar_system_name": "6W-HRH",
-    "region_name": "Venal",
-    "victim": {
-      "character_id": 2115254108,
-      "character_name": "Itsumi Sagiri",
-      "corporation_id": 98699728,
-      "corporation_name": "M-IOI-M",
-      "alliance_id": 99011181,
-      "alliance_name": "East Wind."
-    },
-    "zkb_url": "https://zkillboard.com/kill/127931021/",
-    "total_value": 10672740699.24,
-    "final_attacker": {
-      "character_name": "Viktor Pvolman",
-      "corporation_name": "Hard Knocks Inc.",
-      "alliance_name": "Hard Knocks Citizens",
-      "ship_type_name": "Drekavac"
-    }
-  },
-  {
-    "killmail_id": 127930216,
-    "killmail_hash": "3bbd0a603ec61dd554ac808a11221cafa15545ff",
-    "kill_time": "2025-06-16T18:46:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002764,
-    "solar_system_name": "Hatakani",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 785695430,
-      "character_name": "Tooko",
-      "corporation_id": 98753600,
-      "corporation_name": "S.O.E. EVE",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127930216/",
-    "total_value": 9408784574.78,
-    "final_attacker": {
-      "character_name": "Lea Alar",
-      "corporation_name": "State Protectorate",
-      "alliance_name": null,
-      "ship_type_name": "Loki"
     }
   }
 ]
