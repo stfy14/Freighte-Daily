@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128078895,
+    "killmail_hash": "ca2f084c940e0fa5c4f31794169d974e6f3f7177",
+    "kill_time": "2025-06-23T01:04:32Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002643,
+    "solar_system_name": "Faurent",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 93723897,
+      "character_name": "Liquid Muutaras",
+      "corporation_id": 98422635,
+      "corporation_name": "Talocan Warfare Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128078895/",
+    "total_value": 31636619129.46,
+    "final_attacker": {
+      "character_name": "FoxThrot",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 128075646,
+    "killmail_hash": "ef690425287b9931216c53bfb7b8994f749b94bf",
+    "kill_time": "2025-06-22T21:20:22Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2120528027,
+      "character_name": "LoudAmp",
+      "corporation_id": 98748599,
+      "corporation_name": "Kenshin Industries.",
+      "alliance_id": 99012843,
+      "alliance_name": "Kenshin Shogunate."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128075646/",
+    "total_value": 7989374530.07,
+    "final_attacker": {
+      "character_name": "Sallyvan",
+      "corporation_name": "jUST DO It..",
+      "alliance_name": null,
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
     "killmail_id": 128071518,
     "killmail_hash": "32205106ee1f37bab782805109cdc864d450c243",
     "kill_time": "2025-06-22T19:02:12Z",
@@ -2103,136 +2155,6 @@
       "corporation_name": "E.T.C",
       "alliance_name": null,
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127916329,
-    "killmail_hash": "c2be314ffee4d86c1f9941c47e16b84a1918a9a2",
-    "kill_time": "2025-06-16T01:53:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122530654,
-      "character_name": "Rotker2",
-      "corporation_id": 98613748,
-      "corporation_name": "Silver Fog Dragon Ride",
-      "alliance_id": 99012995,
-      "alliance_name": "Dragon Riders Legion"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127916329/",
-    "total_value": 2167999623.06,
-    "final_attacker": {
-      "character_name": "Aida Intta Aishai",
-      "corporation_name": "E.T.C",
-      "alliance_name": "E.T.C-01",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127915737,
-    "killmail_hash": "6f6fb057b7e38f5bd8ac8b68dcb9520aedd36679",
-    "kill_time": "2025-06-16T01:10:41Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90816979,
-      "character_name": "Ledi lena",
-      "corporation_id": 98565410,
-      "corporation_name": "Ledi lena Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127915737/",
-    "total_value": 5498073323.38,
-    "final_attacker": {
-      "character_name": "Mona Murderface",
-      "corporation_name": "Abusing Game Mechanics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 127913306,
-    "killmail_hash": "b8715c248aa1b1410669aac3fd63576fccecfa69",
-    "kill_time": "2025-06-15T22:00:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003982,
-    "solar_system_name": "K-L690",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 492731881,
-      "character_name": "Tourville",
-      "corporation_id": 98668936,
-      "corporation_name": "The Awoken",
-      "alliance_id": 150097440,
-      "alliance_name": "Get Off My Lawn"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127913306/",
-    "total_value": 3463154967.66,
-    "final_attacker": {
-      "character_name": "Bones Outten",
-      "corporation_name": "Infinite Point",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 127912648,
-    "killmail_hash": "d6a8ff6ec0c67abb01e00c83603c4627820b5335",
-    "kill_time": "2025-06-15T21:29:14Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2121975075,
-      "character_name": "AssasinTriglavian",
-      "corporation_id": 98776033,
-      "corporation_name": "Red Board",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127912648/",
-    "total_value": 4075758717.53,
-    "final_attacker": {
-      "character_name": "Wachutu",
-      "corporation_name": "Bohemian Veterans",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127911972,
-    "killmail_hash": "00d5b9bb46e0453655a6e6340f3f3efdfd3dd415",
-    "kill_time": "2025-06-15T20:59:51Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001356,
-    "solar_system_name": "Dantumi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123526445,
-      "character_name": "Jorik Tarnagur",
-      "corporation_id": 98806726,
-      "corporation_name": "Zenith Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127911972/",
-    "total_value": 2184670308.73,
-    "final_attacker": {
-      "character_name": "Byron Pfister",
-      "corporation_name": "Bustin Space Rocks INC.",
-      "alliance_name": "Caldari Alliance",
-      "ship_type_name": "Praxis"
     }
   }
 ]
