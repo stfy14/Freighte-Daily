@@ -2130,57 +2130,5 @@
       "alliance_name": "Pandemic Horde",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 127921383,
-    "killmail_hash": "ed8f5fa1fcc41a6c8b99d3dc6f3ffbfd4a1772b9",
-    "kill_time": "2025-06-16T09:45:59Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002187,
-    "solar_system_name": "Amarr",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 980283052,
-      "character_name": "Guru Degriz",
-      "corporation_id": 98169165,
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127921383/",
-    "total_value": 2180904607.69,
-    "final_attacker": {
-      "character_name": "Zero Zark",
-      "corporation_name": "E.T.C",
-      "alliance_name": null,
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127921126,
-    "killmail_hash": "5cf68ea17b7d0051c818aecdf69a4fa246b52d5a",
-    "kill_time": "2025-06-16T09:22:32Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003491,
-    "solar_system_name": "Ashab",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2118036894,
-      "character_name": "Bailrosul",
-      "corporation_id": 98651050,
-      "corporation_name": "Absolute Order XVIII",
-      "alliance_id": 99009758,
-      "alliance_name": "Absolute Will"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127921126/",
-    "total_value": 2065252146.22,
-    "final_attacker": {
-      "character_name": "Zero Zark",
-      "corporation_name": "E.T.C",
-      "alliance_name": null,
-      "ship_type_name": "Brutix Navy Issue"
-    }
   }
 ]
