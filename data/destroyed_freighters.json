@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128108896,
+    "killmail_hash": "e1e2baaa7f8b05ddfeb338d8660e461116059989",
+    "kill_time": "2025-06-24T14:21:31Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002576,
+    "solar_system_name": "Hrondmund",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 93482873,
+      "character_name": "Apollo Okaski",
+      "corporation_id": 98751723,
+      "corporation_name": "The Nanite Repair Paste Company",
+      "alliance_id": 99014068,
+      "alliance_name": "EUR0TRASH"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128108896/",
+    "total_value": 4369417104.52,
+    "final_attacker": {
+      "character_name": "SUICIDAL Larsen",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 128107709,
+    "killmail_hash": "c069018d623f1838482b5ee70d1a1e4c345161dd",
+    "kill_time": "2025-06-24T13:21:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004806,
+    "solar_system_name": "DT-PXH",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 91365575,
+      "character_name": "Edwin Orlenard",
+      "corporation_id": 98279775,
+      "corporation_name": "Deep Space Conquerors",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128107709/",
+    "total_value": 9366440484.46,
+    "final_attacker": {
+      "character_name": "Roby13",
+      "corporation_name": "People's Democratic Republic of Gatecamping",
+      "alliance_name": "Muh Zkill...",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 128105542,
     "killmail_hash": "9c79450419c46d30c1e9253558d4cbbfbf45cdab",
     "kill_time": "2025-06-24T09:54:22Z",
@@ -1973,58 +2025,6 @@
       "corporation_name": "Shadow Legion X",
       "alliance_name": "Seriously Suspicious",
       "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 127947465,
-    "killmail_hash": "ba020037be5794188cdbc88582c7cfdf0dbfa045",
-    "kill_time": "2025-06-17T16:23:56Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 96731321,
-      "character_name": "Tec Dragon",
-      "corporation_id": 98651213,
-      "corporation_name": "PulaLeeroy Br",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127947465/",
-    "total_value": 9334610847.27,
-    "final_attacker": {
-      "character_name": "Syco Phantic",
-      "corporation_name": "Girls Lie But Zkill Doesn't",
-      "alliance_name": "Pandemic Legion",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 127943740,
-    "killmail_hash": "5e5724c0e90b6433cfc1d8d68afc4246477b70a4",
-    "kill_time": "2025-06-17T12:57:57Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004785,
-    "solar_system_name": "Y5C-YD",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2121181479,
-      "character_name": "Asha Soldati",
-      "corporation_id": 98765559,
-      "corporation_name": "Virtus Crusade Multipass Chapter",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127943740/",
-    "total_value": 2205247194.35,
-    "final_attacker": {
-      "character_name": "jjustcrusin",
-      "corporation_name": "Tactical Farmers.",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
