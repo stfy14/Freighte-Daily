@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128098566,
+    "killmail_hash": "34c0bce40664c44a9edaba8cdcd12fd3f0532631",
+    "kill_time": "2025-06-23T23:42:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005133,
+    "solar_system_name": "MJ-5F9",
+    "region_name": "Perrigen Falls",
+    "victim": {
+      "character_id": 2117240535,
+      "character_name": "Sandrea de Mont",
+      "corporation_id": 98589727,
+      "corporation_name": "Storm Chasers.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128098566/",
+    "total_value": 16181249557.43,
+    "final_attacker": {
+      "character_name": "Narcotic XIII",
+      "corporation_name": "Gladiators of Rage",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Thrasher Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 128093608,
     "killmail_hash": "069bee76d25df60b54457997371f7586396b4f73",
     "kill_time": "2025-06-23T19:03:43Z",
@@ -2025,32 +2051,6 @@
       "corporation_name": "Abusing Game Mechanics",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 127932620,
-    "killmail_hash": "5a0b6a6a5efdfd9d9f510bff3d794a4699f6230a",
-    "kill_time": "2025-06-16T20:40:15Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003557,
-    "solar_system_name": "Sieh",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 92263726,
-      "character_name": "Jita Gogolowska",
-      "corporation_id": 98512754,
-      "corporation_name": "Space Claws",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127932620/",
-    "total_value": 9210581979.91,
-    "final_attacker": {
-      "character_name": "Widow's Wail",
-      "corporation_name": "Succession",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
     }
   }
 ]
