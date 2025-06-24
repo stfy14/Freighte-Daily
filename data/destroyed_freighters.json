@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128100515,
+    "killmail_hash": "c7ca7c86b8e7e953ef5f8edded6cb1307623be50",
+    "kill_time": "2025-06-24T02:41:02Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003328,
+    "solar_system_name": "BY-S36",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 2112072729,
+      "character_name": "Ghost Buelle",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128100515/",
+    "total_value": 2261574574.43,
+    "final_attacker": {
+      "character_name": "Logan Isu",
+      "corporation_name": "Southern Cross Monopoly",
+      "alliance_name": "Flying Dangerous",
+      "ship_type_name": "Kikimora"
+    }
+  },
+  {
     "killmail_id": 128098566,
     "killmail_hash": "34c0bce40664c44a9edaba8cdcd12fd3f0532631",
     "kill_time": "2025-06-23T23:42:50Z",
@@ -2025,32 +2051,6 @@
       "corporation_name": "E.T.C",
       "alliance_name": null,
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 127938113,
-    "killmail_hash": "a7d04b3f7c23eae623f267c25022832d2e2956c0",
-    "kill_time": "2025-06-17T03:33:38Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115871526,
-      "character_name": "starky Free",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/127938113/",
-    "total_value": 7937032648.3,
-    "final_attacker": {
-      "character_name": "Molly Murderface",
-      "corporation_name": "Abusing Game Mechanics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
