@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128125592,
+    "killmail_hash": "49229ca5048676a59b9a371d9ea4e9413345f7f4",
+    "kill_time": "2025-06-25T09:14:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005132,
+    "solar_system_name": "Z-ENUD",
+    "region_name": "Perrigen Falls",
+    "victim": {
+      "character_id": 96737369,
+      "character_name": "tim Igunen",
+      "corporation_id": 98589727,
+      "corporation_name": "Storm Chasers.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128125592/",
+    "total_value": 2124465907.15,
+    "final_attacker": {
+      "character_name": "Zarvia Caldera",
+      "corporation_name": "Amongst The Void",
+      "alliance_name": null,
+      "ship_type_name": "Sleipnir"
+    }
+  },
+  {
     "killmail_id": 128122929,
     "killmail_hash": "4694b49003413b760774489248bc927081372361",
     "kill_time": "2025-06-25T04:44:51Z",
@@ -1895,32 +1921,6 @@
       "corporation_name": "AWAKE LIONS",
       "alliance_name": "Invidia Gloriae Comes",
       "ship_type_name": "Retribution"
-    }
-  },
-  {
-    "killmail_id": 127962263,
-    "killmail_hash": "f235bdbbf242fd95910d0fa48a908db36ab792aa",
-    "kill_time": "2025-06-18T09:36:29Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004807,
-    "solar_system_name": "UALX-3",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2115360236,
-      "character_name": "Fallen leaves KFC",
-      "corporation_id": 98524939,
-      "corporation_name": "Sing Hua",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127962263/",
-    "total_value": 8866070621.68,
-    "final_attacker": {
-      "character_name": "ClimaxChild raygu",
-      "corporation_name": "Primal Instinct Inc.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Manticore"
     }
   }
 ]
