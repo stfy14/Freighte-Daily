@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128136118,
+    "killmail_hash": "a34460399d4b253370592809284a01f5cdcf4860",
+    "kill_time": "2025-06-25T19:50:32Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31000005,
+    "solar_system_name": "Thera",
+    "region_name": "G-R00031",
+    "victim": {
+      "character_id": 94134491,
+      "character_name": "stickman-1",
+      "corporation_id": 1504994727,
+      "corporation_name": "Zima Corp",
+      "alliance_id": 1411711376,
+      "alliance_name": "Legion of xXDEATHXx"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128136118/",
+    "total_value": 6601535030.1,
+    "final_attacker": {
+      "character_name": "Fica",
+      "corporation_name": "Kernow Liberation Army",
+      "alliance_name": "Kuggar was here",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 128128109,
     "killmail_hash": "a0d98505b4df3be7d4884485b1eebeb567045ace",
     "kill_time": "2025-06-25T13:02:22Z",
@@ -1867,58 +1893,6 @@
     "final_attacker": {
       "character_name": "Strawberry Bananas",
       "corporation_name": "Infinite Point",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127971977,
-    "killmail_hash": "ce77652efe832c386bf3a149b283907c4d6865d5",
-    "kill_time": "2025-06-18T20:23:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2121423837,
-      "character_name": "Merc Nosse",
-      "corporation_id": 98559450,
-      "corporation_name": "DanJev United",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127971977/",
-    "total_value": 6081876773.96,
-    "final_attacker": {
-      "character_name": "Illyasviel Von Eizbern",
-      "corporation_name": "MASS",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 127968546,
-    "killmail_hash": "88e751f448f8db41fb9ce77fa68e7dd6355ba4ad",
-    "kill_time": "2025-06-18T17:13:08Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004754,
-    "solar_system_name": "PUIG-F",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 524799226,
-      "character_name": "Cassius Brutus",
-      "corporation_id": 98718236,
-      "corporation_name": "Astrum Mechanica",
-      "alliance_id": 150097440,
-      "alliance_name": "Get Off My Lawn"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127968546/",
-    "total_value": 2019978065.12,
-    "final_attacker": {
-      "character_name": "Storm Husky",
-      "corporation_name": "Horde Armada",
       "alliance_name": "Pandemic Horde",
       "ship_type_name": "Purifier"
     }
