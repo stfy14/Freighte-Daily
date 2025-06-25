@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128122410,
+    "killmail_hash": "dcf437aa33bc6f75815c4a456c25cf26dd43430b",
+    "kill_time": "2025-06-25T03:59:56Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113219771,
+      "character_name": "Sorin Yaken",
+      "corporation_id": 98538277,
+      "corporation_name": "Rub and Stub Buyback service",
+      "alliance_id": 99011239,
+      "alliance_name": "Ligma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128122410/",
+    "total_value": 5380227302.71,
+    "final_attacker": {
+      "character_name": "Faylee Freir",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128118407,
     "killmail_hash": "d67422a24fa41ed19b8fc715d05dc9ec52aa3a6f",
     "kill_time": "2025-06-24T22:34:04Z",
@@ -1869,32 +1895,6 @@
       "corporation_name": "Primal Instinct Inc.",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 127958348,
-    "killmail_hash": "8f3a8636e0b20bf4611c1dd438910118c450cfa6",
-    "kill_time": "2025-06-18T02:29:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001435,
-    "solar_system_name": "Ohbochi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122624459,
-      "character_name": "Fuhkyah",
-      "corporation_id": 98693006,
-      "corporation_name": "Absolute Order XXI",
-      "alliance_id": 99011119,
-      "alliance_name": "Absolute Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127958348/",
-    "total_value": 1954636471.72,
-    "final_attacker": {
-      "character_name": "Spodumain Slurper",
-      "corporation_name": "ROID CRACKERS",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
