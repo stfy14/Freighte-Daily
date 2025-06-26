@@ -1688,57 +1688,5 @@
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Marshal"
     }
-  },
-  {
-    "killmail_id": 127979474,
-    "killmail_hash": "4ba961877e646087ca7b57305cb657d9e7adef07",
-    "kill_time": "2025-06-19T06:03:50Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004759,
-    "solar_system_name": "1DQ1-A",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 224048271,
-      "character_name": "Ramzas",
-      "corporation_id": 98390683,
-      "corporation_name": "Hogyoku",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127979474/",
-    "total_value": 15000599114.52,
-    "final_attacker": {
-      "character_name": "Craisorul Muntilor",
-      "corporation_name": "Coreli Corporation",
-      "alliance_name": "Pandemic Legion",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 127979052,
-    "killmail_hash": "44a43e74ff7131fa211d652062d0354ad6aaa1b9",
-    "kill_time": "2025-06-19T05:25:52Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004759,
-    "solar_system_name": "1DQ1-A",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 839217219,
-      "character_name": "Veltona",
-      "corporation_id": 98390683,
-      "corporation_name": "Hogyoku",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127979052/",
-    "total_value": 16047115809.53,
-    "final_attacker": {
-      "character_name": "Orsea Vozye",
-      "corporation_name": "Coreli Corporation",
-      "alliance_name": "Pandemic Legion",
-      "ship_type_name": "Widow"
-    }
   }
 ]
