@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128155821,
+    "killmail_hash": "cf0de8414e3ade69d8a438ed6fecf95302685171",
+    "kill_time": "2025-06-26T19:05:00Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002029,
+    "solar_system_name": "B-9C24",
+    "region_name": "Pure Blind",
+    "victim": {
+      "character_id": 2118998942,
+      "character_name": "Kebashi Nolen",
+      "corporation_id": 98297722,
+      "corporation_name": "Space Colony",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128155821/",
+    "total_value": 2467666106.33,
+    "final_attacker": {
+      "character_name": "Daddy WutDo",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
     "killmail_id": 128148062,
     "killmail_hash": "9ed7727483a41ca91daf9f5eac6575fc385b16fa",
     "kill_time": "2025-06-26T11:45:20Z",
@@ -1557,58 +1583,6 @@
       "corporation_name": "Brazilian Templars",
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 127992270,
-    "killmail_hash": "de3080c30d80c790cecde2958f998ad37a2dd9c4",
-    "kill_time": "2025-06-19T18:58:21Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004807,
-    "solar_system_name": "UALX-3",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 94310117,
-      "character_name": "Psixollon Norwayman",
-      "corporation_id": 244898283,
-      "corporation_name": "OEG",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127992270/",
-    "total_value": 2918030993.12,
-    "final_attacker": {
-      "character_name": "RUBitRED",
-      "corporation_name": "Aurora.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 127990869,
-    "killmail_hash": "17c513390703f99d264fc6a208ebf83a88f6ed88",
-    "kill_time": "2025-06-19T18:10:28Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004725,
-    "solar_system_name": "E3OI-U",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 90626764,
-      "character_name": "Guima Tar",
-      "corporation_id": 98028546,
-      "corporation_name": "Forcas armadas",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/127990869/",
-    "total_value": 4987656542.88,
-    "final_attacker": {
-      "character_name": "Joshua Foiritain",
-      "corporation_name": "Coreli Corporation",
-      "alliance_name": "Pandemic Legion",
-      "ship_type_name": "Widow"
     }
   }
 ]
