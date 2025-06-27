@@ -1480,57 +1480,5 @@
       "alliance_name": null,
       "ship_type_name": "Exequror Navy Issue"
     }
-  },
-  {
-    "killmail_id": 128001312,
-    "killmail_hash": "f3cd114c7a9687c8a1d7997163fb680b907c8ab4",
-    "kill_time": "2025-06-20T03:35:19Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004960,
-    "solar_system_name": "TN25-J",
-    "region_name": "Period Basis",
-    "victim": {
-      "character_id": 2114901091,
-      "character_name": "Try Labia",
-      "corporation_id": 98169165,
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128001312/",
-    "total_value": 12709387326.02,
-    "final_attacker": {
-      "character_name": "MDNJPN",
-      "corporation_name": "Lazerhawks",
-      "alliance_name": "L A Z E R H A W K S",
-      "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 128001196,
-    "killmail_hash": "108bddeda83a736936c0707d53adf79ca88f8316",
-    "kill_time": "2025-06-20T03:26:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91427188,
-      "character_name": "Sara Stormborn",
-      "corporation_id": 98657074,
-      "corporation_name": "Southern Sons Heavy Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128001196/",
-    "total_value": 7667959851.07,
-    "final_attacker": {
-      "character_name": "Maggie Murderface",
-      "corporation_name": "Scholar Rattus Protecticus",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
   }
 ]
