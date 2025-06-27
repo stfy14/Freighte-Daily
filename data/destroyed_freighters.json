@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128171881,
+    "killmail_hash": "222991c17b39cde014d1d456b7090687c0138936",
+    "kill_time": "2025-06-27T15:00:42Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30004495,
+    "solar_system_name": "UO9-YG",
+    "region_name": "Outer Ring",
+    "victim": {
+      "character_id": 2115299829,
+      "character_name": "milk Otichoda",
+      "corporation_id": 98799091,
+      "corporation_name": "Outer Ring Adventures",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128171881/",
+    "total_value": 1971624887.99,
+    "final_attacker": {
+      "character_name": "Qalteqar",
+      "corporation_name": "GeoCorp.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Skiff"
+    }
+  },
+  {
     "killmail_id": 128165744,
     "killmail_hash": "fd47ca636da4e6e131f6e74f219d37a12a8b0d5b",
     "kill_time": "2025-06-27T06:51:39Z",
@@ -1453,32 +1479,6 @@
       "corporation_name": "Science and Trade Institute",
       "alliance_name": null,
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 128008473,
-    "killmail_hash": "0d0643690dd69cc38dadb60d31fb2000825d58ac",
-    "kill_time": "2025-06-20T13:33:50Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004009,
-    "solar_system_name": "49-U6U",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 2115119617,
-      "character_name": "Letto Britva",
-      "corporation_id": 98753997,
-      "corporation_name": "The New Heavenly Kingdom",
-      "alliance_id": 1411711376,
-      "alliance_name": "Legion of xXDEATHXx"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128008473/",
-    "total_value": 13999888509.81,
-    "final_attacker": {
-      "character_name": "Strawberry Bananas",
-      "corporation_name": "Infinite Point",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
