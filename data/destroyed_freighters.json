@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128203003,
+    "killmail_hash": "b4119d9bcda1611436b3bef3f4d58279b2b26dba",
+    "kill_time": "2025-06-28T19:55:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002130,
+    "solar_system_name": "ZJA-6U",
+    "region_name": "Immensea",
+    "victim": {
+      "character_id": 496846948,
+      "character_name": "kennyscorpion",
+      "corporation_id": 98409330,
+      "corporation_name": "Ascendance",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128203003/",
+    "total_value": 1960337243.39,
+    "final_attacker": {
+      "character_name": "zethx",
+      "corporation_name": "Verlate.",
+      "alliance_name": "Verlate",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128193686,
     "killmail_hash": "f2e8014bb6ceb06a3faa5dc86bf674fba68a7d9d",
     "kill_time": "2025-06-28T13:33:15Z",
@@ -1089,84 +1115,6 @@
       "corporation_name": "R.E.M.N.A.N.T.S",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 128045475,
-    "killmail_hash": "e8fa64e42f67710a2e05fb0dadc901f7a91627cb",
-    "kill_time": "2025-06-21T20:24:30Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004739,
-    "solar_system_name": "M5-CGW",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 1455916118,
-      "character_name": "Stalker tsk",
-      "corporation_id": 98448738,
-      "corporation_name": "Q-Zar",
-      "alliance_id": 99012019,
-      "alliance_name": "Can i bring my Drake..."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128045475/",
-    "total_value": 4065411739.67,
-    "final_attacker": {
-      "character_name": "Saan Kado",
-      "corporation_name": "A Blessed Bean",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 128045149,
-    "killmail_hash": "7d5234857a8f20c7bddb8255eb42c781fbdaf7c0",
-    "kill_time": "2025-06-21T20:10:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002295,
-    "solar_system_name": "D3S-EA",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 2115729463,
-      "character_name": "Holo Kavees",
-      "corporation_id": 98790350,
-      "corporation_name": "Unprofitable Ventures Inc.",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128045149/",
-    "total_value": 3829272574.37,
-    "final_attacker": {
-      "character_name": "Ballistik196",
-      "corporation_name": "SpaceFire Holding",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Thrasher"
-    }
-  },
-  {
-    "killmail_id": 128042736,
-    "killmail_hash": "69c0438c926e073f73b9f1a9ad11309cca959ea9",
-    "kill_time": "2025-06-21T18:36:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117023123,
-      "character_name": "Thor Odnson",
-      "corporation_id": 98720165,
-      "corporation_name": "Sons of Anarchy M.C.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128042736/",
-    "total_value": 6069027166.01,
-    "final_attacker": {
-      "character_name": "Ivanova Irina",
-      "corporation_name": "GentlemanClub",
-      "alliance_name": "Invidia Gloriae Comes",
-      "ship_type_name": "Brutix"
     }
   }
 ]
