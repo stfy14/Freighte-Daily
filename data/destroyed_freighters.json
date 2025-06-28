@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128180217,
+    "killmail_hash": "bc39ebc21673e404581bdeeabfe4846485b3b8dc",
+    "kill_time": "2025-06-27T21:39:41Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30004600,
+    "solar_system_name": "C-N4OD",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 2116305270,
+      "character_name": "Mcsurprise Saraki",
+      "corporation_id": 370979777,
+      "corporation_name": "League of Gentlemen",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128180217/",
+    "total_value": 10705367277.6,
+    "final_attacker": {
+      "character_name": "Xzi Shihari",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 128175689,
     "killmail_hash": "3a6caa0a1bed9af79357cbd78497b41c2cfa110d",
     "kill_time": "2025-06-27T18:27:22Z",
@@ -1323,58 +1349,6 @@
       "corporation_name": "Hard Knocks Inc.",
       "alliance_name": "Hard Knocks Citizens",
       "ship_type_name": "Sleipnir"
-    }
-  },
-  {
-    "killmail_id": 128019481,
-    "killmail_hash": "aa5798afe68f5d10ec39e2dc8b69df6d501d36bb",
-    "kill_time": "2025-06-20T22:08:46Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004807,
-    "solar_system_name": "UALX-3",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 1291496803,
-      "character_name": "dilpikle",
-      "corporation_id": 98657999,
-      "corporation_name": "Rage Confederacy",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128019481/",
-    "total_value": 4809925037.4,
-    "final_attacker": {
-      "character_name": "Dreamstalker",
-      "corporation_name": "Aurora.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 128019321,
-    "killmail_hash": "1981f353061d9ffc30eb9d40f100606ce989b6dd",
-    "kill_time": "2025-06-20T22:03:22Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 891425674,
-      "character_name": "DALE0404",
-      "corporation_id": 98693015,
-      "corporation_name": "Absolute Order XXVII",
-      "alliance_id": 99011119,
-      "alliance_name": "Absolute Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128019321/",
-    "total_value": 1993427150.15,
-    "final_attacker": {
-      "character_name": "You Gunn LuvMiNuts",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
