@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128184449,
+    "killmail_hash": "6ce8f00b0a744e047bba5af604cc84d688016dbb",
+    "kill_time": "2025-06-28T02:26:36Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 92006952,
+      "character_name": "sandy yu",
+      "corporation_id": 98270393,
+      "corporation_name": "Kernite Kollectors",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128184449/",
+    "total_value": 7279375086.69,
+    "final_attacker": {
+      "character_name": "Molly Murderface",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128180217,
     "killmail_hash": "bc39ebc21673e404581bdeeabfe4846485b3b8dc",
     "kill_time": "2025-06-27T21:39:41Z",
@@ -1323,32 +1349,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128024790,
-    "killmail_hash": "b91f49cb1d6e3a2c0fc25c7c9d8497b408a76dd7",
-    "kill_time": "2025-06-21T03:39:31Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004696,
-    "solar_system_name": "G-M4GK",
-    "region_name": "Paragon Soul",
-    "victim": {
-      "character_id": 96727211,
-      "character_name": "Anne Ageeth",
-      "corporation_id": 98509949,
-      "corporation_name": "Shadow of Dragon",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128024790/",
-    "total_value": 2155062027.22,
-    "final_attacker": {
-      "character_name": "Jimmy Michaels",
-      "corporation_name": "Hard Knocks Inc.",
-      "alliance_name": "Hard Knocks Citizens",
-      "ship_type_name": "Sleipnir"
     }
   }
 ]
