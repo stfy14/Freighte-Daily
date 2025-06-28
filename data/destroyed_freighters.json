@@ -1246,57 +1246,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Revelation"
     }
-  },
-  {
-    "killmail_id": 128033287,
-    "killmail_hash": "4a3967d30ee05a6df6810fa4eda67ffc2828f980",
-    "kill_time": "2025-06-21T12:32:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2123005287,
-      "character_name": "Xaviar Repinuj",
-      "corporation_id": 98792038,
-      "corporation_name": "The Bleak Lands Supply and Provisions",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128033287/",
-    "total_value": 2939670295.66,
-    "final_attacker": {
-      "character_name": "Tau AD",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cynabal"
-    }
-  },
-  {
-    "killmail_id": 128030969,
-    "killmail_hash": "bde7da30d0fb6719cc581ee26f6358836fb83d89",
-    "kill_time": "2025-06-21T09:40:11Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2121733112,
-      "character_name": "MrLongSlong5",
-      "corporation_id": 98798702,
-      "corporation_name": "Obscura Group LLC",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128030969/",
-    "total_value": 3098774512.01,
-    "final_attacker": {
-      "character_name": "Makahaga Katelo",
-      "corporation_name": "The God Hand.",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Brutix Navy Issue"
-    }
   }
 ]
