@@ -1298,57 +1298,5 @@
       "alliance_name": "Ahbazon-Prime",
       "ship_type_name": "Brutix Navy Issue"
     }
-  },
-  {
-    "killmail_id": 128029769,
-    "killmail_hash": "cd329939a6c7ea17585b548ca8e019953ce6be2e",
-    "kill_time": "2025-06-21T08:12:55Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122099337,
-      "character_name": "Jised Darmazaf",
-      "corporation_id": 1634775132,
-      "corporation_name": "UK Corp",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128029769/",
-    "total_value": 4923509823.44,
-    "final_attacker": {
-      "character_name": "zLegion I",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128028555,
-    "killmail_hash": "11bbd2b86061d1590a69851184531de5068911ef",
-    "kill_time": "2025-06-21T06:43:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1412153237,
-      "character_name": "Olese",
-      "corporation_id": 1137967009,
-      "corporation_name": "Draconian Nature",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128028555/",
-    "total_value": 3377487379.69,
-    "final_attacker": {
-      "character_name": "zLegion F",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
