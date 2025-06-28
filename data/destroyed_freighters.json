@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128193686,
+    "killmail_hash": "f2e8014bb6ceb06a3faa5dc86bf674fba68a7d9d",
+    "kill_time": "2025-06-28T13:33:15Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004009,
+    "solar_system_name": "49-U6U",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2120943513,
+      "character_name": "Rosa Wolke",
+      "corporation_id": 98626190,
+      "corporation_name": "Kirschkern Spucker",
+      "alliance_id": 99012849,
+      "alliance_name": "Invidia consilium perdit"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128193686/",
+    "total_value": 10746791082.6,
+    "final_attacker": {
+      "character_name": "Sparkas",
+      "corporation_name": "Tactical Farmers.",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128184449,
     "killmail_hash": "6ce8f00b0a744e047bba5af604cc84d688016dbb",
     "kill_time": "2025-06-28T02:26:36Z",
@@ -1141,110 +1167,6 @@
       "corporation_name": "GentlemanClub",
       "alliance_name": "Invidia Gloriae Comes",
       "ship_type_name": "Brutix"
-    }
-  },
-  {
-    "killmail_id": 128038129,
-    "killmail_hash": "8cf48086e7f0bdd9cc3f005b5df7af222d425199",
-    "kill_time": "2025-06-21T15:32:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122496459,
-      "character_name": "Tunip The Vegimal",
-      "corporation_id": 98582333,
-      "corporation_name": "Last Stand Enterprises",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128038129/",
-    "total_value": 8914571939.89,
-    "final_attacker": {
-      "character_name": "Commander Dark",
-      "corporation_name": "The Terrifying League Of Dog Fort",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128037256,
-    "killmail_hash": "597a999ed15a5a9b6021f32105cc320b35ef2acd",
-    "kill_time": "2025-06-21T15:05:27Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1206671899,
-      "character_name": "rallena dekard",
-      "corporation_id": 851877753,
-      "corporation_name": "oxydium",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128037256/",
-    "total_value": 6518801012.26,
-    "final_attacker": {
-      "character_name": "Wut A ResistHole",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128035776,
-    "killmail_hash": "741e8955c972b9975787cf0a153d121c12b2b308",
-    "kill_time": "2025-06-21T14:04:35Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 92293552,
-      "character_name": "stilet kda",
-      "corporation_id": 98745845,
-      "corporation_name": "Fighting Club Seafood Market",
-      "alliance_id": 99005393,
-      "alliance_name": "Blades of Grass"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128035776/",
-    "total_value": 13169850511.66,
-    "final_attacker": {
-      "character_name": "The Keepstar",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 128035763,
-    "killmail_hash": "187c1c957800aee19b1d70063cac1a6c01fd69d7",
-    "kill_time": "2025-06-21T14:04:01Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2112156402,
-      "character_name": "Hich",
-      "corporation_id": 98306027,
-      "corporation_name": "SpaceFire Holding",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128035763/",
-    "total_value": 9441076072.4,
-    "final_attacker": {
-      "character_name": "The Keepstar",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Revelation"
     }
   }
 ]
