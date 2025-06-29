@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128219338,
+    "killmail_hash": "30f7dbbc5d93a5848581ea14a0362efbb025916a",
+    "kill_time": "2025-06-29T07:26:17Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2114322694,
+      "character_name": "Grimm Titor",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128219338/",
+    "total_value": 1975395906.07,
+    "final_attacker": {
+      "character_name": "Hanson Sun1",
+      "corporation_name": "Sylvanas Windrunner United Fleet",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 128215041,
     "killmail_hash": "0a1c1f788d4f7f5b9f99fc785774186892ff12c1",
     "kill_time": "2025-06-29T02:06:45Z",
@@ -985,110 +1011,6 @@
       "corporation_name": "Alfa Corporation",
       "alliance_name": "Fanatic Legion.",
       "ship_type_name": "Zirnitra"
-    }
-  },
-  {
-    "killmail_id": 128057040,
-    "killmail_hash": "3a2d7cc68304d16415c0afaf84573dae1f8ba5e0",
-    "kill_time": "2025-06-22T07:48:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1765520560,
-      "character_name": "ealf",
-      "corporation_id": 98798932,
-      "corporation_name": "Ore and Order",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128057040/",
-    "total_value": 9661417729.28,
-    "final_attacker": {
-      "character_name": "Innocent Baby",
-      "corporation_name": "The Monsters Inc",
-      "alliance_name": "It's a Skill Issue",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 128056265,
-    "killmail_hash": "0f52f3de9a3db7449ee90c7dc847b75f3ce0f768",
-    "kill_time": "2025-06-22T07:02:17Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123299612,
-      "character_name": "Titus Wilson",
-      "corporation_id": 98802921,
-      "corporation_name": "Wilson Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128056265/",
-    "total_value": 5057295535.93,
-    "final_attacker": {
-      "character_name": "Braingirl",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128055451,
-    "killmail_hash": "781dd2c185621861fe0c1e938da0dd5fe61a44fc",
-    "kill_time": "2025-06-22T06:12:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114542977,
-      "character_name": "Borusik",
-      "corporation_id": 98572759,
-      "corporation_name": "Ostrov v okeane",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128055451/",
-    "total_value": 17743511198.89,
-    "final_attacker": {
-      "character_name": "zLegion B",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128054316,
-    "killmail_hash": "4bbdaa21c089fcd4fbb13fee54e2ec0aa058394a",
-    "kill_time": "2025-06-22T04:53:31Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120528027,
-      "character_name": "LoudAmp",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128054316/",
-    "total_value": 6096371088.36,
-    "final_attacker": {
-      "character_name": "Hanson Sun1",
-      "corporation_name": "Sylvanas Windrunner United Fleet",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Praxis"
     }
   }
 ]
