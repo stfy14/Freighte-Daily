@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128243809,
+    "killmail_hash": "b1f7f0c7367894cafa77473b0eb7f64e71e1e656",
+    "kill_time": "2025-06-30T08:10:00Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003556,
+    "solar_system_name": "Arton",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 90484164,
+      "character_name": "Son'ka Odesskaya",
+      "corporation_id": 98695851,
+      "corporation_name": "Everyb00dy Lies",
+      "alliance_id": 1411711376,
+      "alliance_name": "Legion of xXDEATHXx"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128243809/",
+    "total_value": 23648139192.32,
+    "final_attacker": {
+      "character_name": "necromania",
+      "corporation_name": "Mueki Misute.",
+      "alliance_name": "Domain Research and Mining Inst. Logistics",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
     "killmail_id": 128240856,
     "killmail_hash": "0f89d53bcc59ca5f49d40310cafca103fd8a5646",
     "kill_time": "2025-06-30T03:01:24Z",
@@ -1037,32 +1063,6 @@
       "corporation_name": "E.T.C",
       "alliance_name": "E.T.C-02",
       "ship_type_name": "Catalyst Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 128082554,
-    "killmail_hash": "73ffd31a5b8b6d843b65226f651190c866c2c789",
-    "kill_time": "2025-06-23T05:55:53Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 90885530,
-      "character_name": "Archer en Tilavine",
-      "corporation_id": 98803958,
-      "corporation_name": "Penny Brigade",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128082554/",
-    "total_value": 3929317860.25,
-    "final_attacker": {
-      "character_name": "Navy'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
