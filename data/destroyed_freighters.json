@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128240856,
+    "killmail_hash": "0f89d53bcc59ca5f49d40310cafca103fd8a5646",
+    "kill_time": "2025-06-30T03:01:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95828758,
+      "character_name": "Hari Utanga",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128240856/",
+    "total_value": 2026469053.86,
+    "final_attacker": {
+      "character_name": "Byron Pfister",
+      "corporation_name": "Bustin Space Ships INC.",
+      "alliance_name": "Coalition Of Pirates",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 128239095,
     "killmail_hash": "1384af5bb601eb9b435c7528733193ee1b95a9e7",
     "kill_time": "2025-06-30T00:31:24Z",
@@ -1037,32 +1063,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128079821,
-    "killmail_hash": "aaf72b0d74f819b1a065f10e7bb5f123e4635f33",
-    "kill_time": "2025-06-23T02:20:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002964,
-    "solar_system_name": "Esescama",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 1047542522,
-      "character_name": "admiral warnock",
-      "corporation_id": 98805499,
-      "corporation_name": "No Forms Gone",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128079821/",
-    "total_value": 23031566201.84,
-    "final_attacker": {
-      "character_name": "Jim Kenway",
-      "corporation_name": "New Eden Logistics Expediation Services Ltd.",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
