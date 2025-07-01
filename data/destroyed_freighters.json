@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128254285,
+    "killmail_hash": "772cbb0f7883bf7e519a1aa1b18acf3dd3195ec0",
+    "kill_time": "2025-06-30T20:24:51Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30045344,
+    "solar_system_name": "Nennamaila",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2118743023,
+      "character_name": "shruggedloki0527",
+      "corporation_id": 98770960,
+      "corporation_name": "Sharp Shooters",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128254285/",
+    "total_value": 2707276055.22,
+    "final_attacker": {
+      "character_name": "Shad Kkep",
+      "corporation_name": "State Protectorate",
+      "alliance_name": null,
+      "ship_type_name": "Scythe"
+    }
+  },
+  {
     "killmail_id": 128249265,
     "killmail_hash": "567f5cf9a4e612987a2f649af412e1b578d33103",
     "kill_time": "2025-06-30T15:49:00Z",
@@ -1115,32 +1141,6 @@
       "corporation_name": "Southern Cross Monopoly",
       "alliance_name": "Flying Dangerous",
       "ship_type_name": "Kikimora"
-    }
-  },
-  {
-    "killmail_id": 128098566,
-    "killmail_hash": "34c0bce40664c44a9edaba8cdcd12fd3f0532631",
-    "kill_time": "2025-06-23T23:42:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005133,
-    "solar_system_name": "MJ-5F9",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 2117240535,
-      "character_name": "Sandrea de Mont",
-      "corporation_id": 98589727,
-      "corporation_name": "Storm Chasers.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128098566/",
-    "total_value": 16181249557.43,
-    "final_attacker": {
-      "character_name": "Narcotic XIII",
-      "corporation_name": "Gladiators of Rage",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Thrasher Fleet Issue"
     }
   }
 ]
