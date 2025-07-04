@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 128317775,
+    "killmail_hash": "7fc9a858a28fd2f731350de65c85eecd045e958d",
+    "kill_time": "2025-07-04T01:02:33Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120986687,
+      "character_name": "Scruffy Nerfherderr",
+      "corporation_id": 98583931,
+      "corporation_name": "Interstellar Evolved",
+      "alliance_id": 99011268,
+      "alliance_name": "Reeloaded."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128317775/",
+    "total_value": 8722841769.79,
+    "final_attacker": {
+      "character_name": "Destruction and Hate",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128315582,
+    "killmail_hash": "39c5826d3154f34cf2b9b92d70140b35af64347a",
+    "kill_time": "2025-07-03T21:55:30Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 297069085,
+      "character_name": "Natas Dog",
+      "corporation_id": 667531913,
+      "corporation_name": "GoonWaffe",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128315582/",
+    "total_value": 8040545722.93,
+    "final_attacker": {
+      "character_name": "Progray",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 128314038,
+    "killmail_hash": "0932e23cda0eed3025e236ef42a60fad894c16ce",
+    "kill_time": "2025-07-03T20:44:39Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 148997587,
+      "character_name": "shoricu",
+      "corporation_id": 98093166,
+      "corporation_name": "Gang Bang You're Dead",
+      "alliance_id": 99007262,
+      "alliance_name": "Wrecktical Supremacy."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128314038/",
+    "total_value": 23354802316.19,
+    "final_attacker": {
+      "character_name": "Ch4rli3",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128312295,
     "killmail_hash": "18bc20f6cab47fdea2689c8c7fc4febccb78bb5c",
     "kill_time": "2025-07-03T19:34:54Z",
