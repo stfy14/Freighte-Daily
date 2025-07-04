@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128322669,
+    "killmail_hash": "5b93575f391c3caa3ebf90ca0cced49cce9f9b44",
+    "kill_time": "2025-07-04T07:37:55Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122222973,
+      "character_name": "BozaTinaChuckSmallPP",
+      "corporation_id": 98806336,
+      "corporation_name": "Pleasantly Present Pheasants and Peasants Reacting",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128322669/",
+    "total_value": 9936812075.32,
+    "final_attacker": {
+      "character_name": "Bored And Violent",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128319669,
     "killmail_hash": "f890b147e407653aa1e20425299fffe5003ac831",
     "kill_time": "2025-07-04T03:18:32Z",
@@ -1297,32 +1323,6 @@
       "corporation_name": "GeoCorp.",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Skiff"
-    }
-  },
-  {
-    "killmail_id": 128165744,
-    "killmail_hash": "fd47ca636da4e6e131f6e74f219d37a12a8b0d5b",
-    "kill_time": "2025-06-27T06:51:39Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123147819,
-      "character_name": "RUROUNI-KENSHIN",
-      "corporation_id": 98792974,
-      "corporation_name": "KISS of DEATH Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128165744/",
-    "total_value": 2382052768.33,
-    "final_attacker": {
-      "character_name": "zenokus",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Loki"
     }
   }
 ]
