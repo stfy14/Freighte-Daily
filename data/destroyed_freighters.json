@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 128380430,
+    "killmail_hash": "87f40179eae83c5c7eece7a2171294367e970d96",
+    "kill_time": "2025-07-06T16:07:01Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002349,
+    "solar_system_name": "E8-432",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2112619217,
+      "character_name": "Mefras Sargo",
+      "corporation_id": 98609309,
+      "corporation_name": "Arctic Guard",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128380430/",
+    "total_value": 2153771533.64,
+    "final_attacker": {
+      "character_name": "Darkdog02",
+      "corporation_name": "The Bannermen",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 128380426,
+    "killmail_hash": "ab9795c1923956cd15b29fc77798057e78b6a2d5",
+    "kill_time": "2025-07-06T16:06:36Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002349,
+    "solar_system_name": "E8-432",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2113455699,
+      "character_name": "T62 T-50-2",
+      "corporation_id": 98609309,
+      "corporation_name": "Arctic Guard",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128380426/",
+    "total_value": 2153771533.64,
+    "final_attacker": {
+      "character_name": "King Omega",
+      "corporation_name": "DEFCON.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 128379975,
+    "killmail_hash": "a90acb15da9ff018b0011018c9b448ddf1f0a67e",
+    "kill_time": "2025-07-06T15:51:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2121990247,
+      "character_name": "Liam Blackthorn",
+      "corporation_id": 98769748,
+      "corporation_name": "Roseworks Consortium",
+      "alliance_id": 99012770,
+      "alliance_name": "Black Rose."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128379975/",
+    "total_value": 8885902713.34,
+    "final_attacker": {
+      "character_name": "Kristoff Doppelganger",
+      "corporation_name": "Jump 2 Beacon",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128379667,
+    "killmail_hash": "59ef4005e00ee975f906bd07ee741c04dc3007fe",
+    "kill_time": "2025-07-06T15:38:13Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30004722,
+    "solar_system_name": "319-3D",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 157830930,
+      "character_name": "Brijh2o",
+      "corporation_id": 98785282,
+      "corporation_name": "Militant Industrialists LLC",
+      "alliance_id": 99013981,
+      "alliance_name": "Militant Consortium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128379667/",
+    "total_value": 30009106858.17,
+    "final_attacker": {
+      "character_name": "LY Prometheus",
+      "corporation_name": "ChuangShi",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 128364895,
     "killmail_hash": "15a651c5bfc29f04203449874a5b367b3b1e6b08",
     "kill_time": "2025-07-06T00:02:54Z",
@@ -1505,58 +1609,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128228696,
-    "killmail_hash": "14198f84360b50691360077d999c42585b011f33",
-    "kill_time": "2025-06-29T15:47:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002029,
-    "solar_system_name": "B-9C24",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 1798106993,
-      "character_name": "Joto Khan",
-      "corporation_id": 98785282,
-      "corporation_name": "Militant Industrialists LLC",
-      "alliance_id": 99013981,
-      "alliance_name": "Militant Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128228696/",
-    "total_value": 2154460379.81,
-    "final_attacker": {
-      "character_name": "Daddy WutDo",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 128228609,
-    "killmail_hash": "1e385750fe1af6736cfa86e9092b395fb1923e48",
-    "kill_time": "2025-06-29T15:42:28Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002029,
-    "solar_system_name": "B-9C24",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 2123033519,
-      "character_name": "Velara Ebonwyrm",
-      "corporation_id": 98785282,
-      "corporation_name": "Militant Industrialists LLC",
-      "alliance_id": 99013981,
-      "alliance_name": "Militant Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128228609/",
-    "total_value": 3794309460.89,
-    "final_attacker": {
-      "character_name": "Daddy WutDo",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
