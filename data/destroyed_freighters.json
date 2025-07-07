@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128394716,
+    "killmail_hash": "0e74ad1de42ee39aa02a6bd4ce2f23a99eccaded",
+    "kill_time": "2025-07-07T07:05:18Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 93253832,
+      "character_name": "Vanilla Dali",
+      "corporation_id": 98790508,
+      "corporation_name": "Moonlight Mouse Hole",
+      "alliance_id": 99014050,
+      "alliance_name": "Lunar Luminescence"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128394716/",
+    "total_value": 9605462407.28,
+    "final_attacker": {
+      "character_name": "Kubirzar",
+      "corporation_name": "jUST DO It..",
+      "alliance_name": null,
+      "ship_type_name": "Nidhoggur"
+    }
+  },
+  {
     "killmail_id": 128391277,
     "killmail_hash": "461a2cac3a251b2b093a3064a8bf83b3b2b4ef84",
     "kill_time": "2025-07-07T01:25:13Z",
@@ -1635,32 +1661,6 @@
       "corporation_name": "jUST DO It..",
       "alliance_name": null,
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 128243809,
-    "killmail_hash": "b1f7f0c7367894cafa77473b0eb7f64e71e1e656",
-    "kill_time": "2025-06-30T08:10:00Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003556,
-    "solar_system_name": "Arton",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 90484164,
-      "character_name": "Son'ka Odesskaya",
-      "corporation_id": 98695851,
-      "corporation_name": "Everyb00dy Lies",
-      "alliance_id": 1411711376,
-      "alliance_name": "Legion of xXDEATHXx"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128243809/",
-    "total_value": 23648139192.32,
-    "final_attacker": {
-      "character_name": "necromania",
-      "corporation_name": "Mueki Misute.",
-      "alliance_name": "Domain Research and Mining Inst. Logistics",
-      "ship_type_name": "Marshal"
     }
   }
 ]
