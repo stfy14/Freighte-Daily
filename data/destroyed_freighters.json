@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128416862,
+    "killmail_hash": "7b71b3358cb6a97aedd71042f1113e8cb9f45b17",
+    "kill_time": "2025-07-08T11:42:36Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 264430952,
+      "character_name": "Skende1",
+      "corporation_id": 98366055,
+      "corporation_name": "Ministry of Offense",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128416862/",
+    "total_value": 9399957406.06,
+    "final_attacker": {
+      "character_name": "DETURK",
+      "corporation_name": "The Graduates",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 128416077,
+    "killmail_hash": "a7d09cb603d3d3c2bbccfcbc2f0f8b1c78298be3",
+    "kill_time": "2025-07-08T10:00:02Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002193,
+    "solar_system_name": "Kehour",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 96007496,
+      "character_name": "Jelly Cloud",
+      "corporation_id": 98797504,
+      "corporation_name": "Thomas Mining Collective",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128416077/",
+    "total_value": 2153768323.64,
+    "final_attacker": {
+      "character_name": "Pipo Leclown",
+      "corporation_name": "E.T.C",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128412131,
     "killmail_hash": "5736df3b5af786042863fa3af9b2210b45bade34",
     "kill_time": "2025-07-08T03:07:31Z",
