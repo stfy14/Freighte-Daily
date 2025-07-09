@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128439918,
+    "killmail_hash": "2fcc546a68379aaf7a4925da3343a189c19a39fe",
+    "kill_time": "2025-07-09T16:48:33Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1348004437,
+      "character_name": "Dukeof War",
+      "corporation_id": 98684151,
+      "corporation_name": "DOGE ARMY",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128439918/",
+    "total_value": 21491701210.09,
+    "final_attacker": {
+      "character_name": "Wiscussy",
+      "corporation_name": "BlackCore Tactics",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 128434241,
     "killmail_hash": "5a0342f9236c7209236ad363630f83e3fbdfe0ff",
     "kill_time": "2025-07-09T08:42:53Z",
@@ -1505,110 +1531,6 @@
       "corporation_name": "R.E.M.N.A.N.T.S",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 128293254,
-    "killmail_hash": "e31e9bcf86c265556d4001ea07dbf4ea869388ed",
-    "kill_time": "2025-07-02T20:04:01Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 149027055,
-      "character_name": "Bargelina",
-      "corporation_id": 98705678,
-      "corporation_name": "Minmatar Fleet Logistics",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128293254/",
-    "total_value": 17518102946.63,
-    "final_attacker": {
-      "character_name": "Sonic 37",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 128292463,
-    "killmail_hash": "163cfb5d2752d5f01f4be95e828e7402cc794a40",
-    "kill_time": "2025-07-02T19:34:13Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2034660066,
-      "character_name": "bob8",
-      "corporation_id": 98620289,
-      "corporation_name": "Ascendance Rising",
-      "alliance_id": 99010444,
-      "alliance_name": "Ascendance.."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128292463/",
-    "total_value": 2414141278.38,
-    "final_attacker": {
-      "character_name": "Captain Zed",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
-    }
-  },
-  {
-    "killmail_id": 128290315,
-    "killmail_hash": "0fa732159d95fa89bf81c430402b52ac38eb16e3",
-    "kill_time": "2025-07-02T17:41:33Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002723,
-    "solar_system_name": "Otou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2120736562,
-      "character_name": "Curryt",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128290315/",
-    "total_value": 2167948634.79,
-    "final_attacker": {
-      "character_name": "Enara Sharisa",
-      "corporation_name": "MAFIA EVE",
-      "alliance_name": null,
-      "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 128289772,
-    "killmail_hash": "e3c277273bcaafbeb8e859088538d3f87cb88c48",
-    "kill_time": "2025-07-02T17:09:13Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112366542,
-      "character_name": "Oldman Teejay",
-      "corporation_id": 98764120,
-      "corporation_name": "Eviction-Scout Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128289772/",
-    "total_value": 2152657804.55,
-    "final_attacker": {
-      "character_name": "Herbiderpi",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
