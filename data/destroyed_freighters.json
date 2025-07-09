@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128434241,
+    "killmail_hash": "5a0342f9236c7209236ad363630f83e3fbdfe0ff",
+    "kill_time": "2025-07-09T08:42:53Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2115897739,
+      "character_name": "FML Purvanen",
+      "corporation_id": 98718341,
+      "corporation_name": "Illuminated",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128434241/",
+    "total_value": 9239549997.49,
+    "final_attacker": {
+      "character_name": "Gwendoline Boirelle",
+      "corporation_name": "Teutate raiders",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 128433010,
     "killmail_hash": "f499a21ae480593c55b192ffa6f1476c88292f16",
     "kill_time": "2025-07-09T06:30:49Z",
