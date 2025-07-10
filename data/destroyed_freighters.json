@@ -1506,57 +1506,5 @@
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 128312295,
-    "killmail_hash": "18bc20f6cab47fdea2689c8c7fc4febccb78bb5c",
-    "kill_time": "2025-07-03T19:34:54Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2123534269,
-      "character_name": "PandionidaeZ",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128312295/",
-    "total_value": 2466341184.86,
-    "final_attacker": {
-      "character_name": "Ezekial Haven",
-      "corporation_name": "BlackCore Tactics",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 128309695,
-    "killmail_hash": "beef92727f6b44ea2cca68e13a064ead1dc76155",
-    "kill_time": "2025-07-03T17:30:35Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001826,
-    "solar_system_name": "NEU-UD",
-    "region_name": "Outer Passage",
-    "victim": {
-      "character_id": 2122183757,
-      "character_name": "PolosatiyKot",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128309695/",
-    "total_value": 1973333720.02,
-    "final_attacker": {
-      "character_name": "Yujiro Gaint Hanma",
-      "corporation_name": "Buldjat inc.",
-      "alliance_name": "ZERG REBORN",
-      "ship_type_name": "Proteus"
-    }
   }
 ]
