@@ -1272,57 +1272,5 @@
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 128347162,
-    "killmail_hash": "82af716e3a8fec9f0baaa7971e9f7380270dc473",
-    "kill_time": "2025-07-05T11:29:09Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002050,
-    "solar_system_name": "Hagilur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2114868203,
-      "character_name": "Xicurius Waltz",
-      "corporation_id": 98682531,
-      "corporation_name": "Exploiting fiscal loopholes",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128347162/",
-    "total_value": 2012323588.22,
-    "final_attacker": {
-      "character_name": "Triffnixxx",
-      "corporation_name": "URSA PRIMUS",
-      "alliance_name": "URSA.",
-      "ship_type_name": "Tengu"
-    }
-  },
-  {
-    "killmail_id": 128345962,
-    "killmail_hash": "58a0097741f3f3519870de1af6e7c3267ca9e1eb",
-    "kill_time": "2025-07-05T09:48:36Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000113,
-    "solar_system_name": "Astabih",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 765354682,
-      "character_name": "Salsa Dip",
-      "corporation_id": 397943965,
-      "corporation_name": "Phoenix Division",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128345962/",
-    "total_value": 9667171161.04,
-    "final_attacker": {
-      "character_name": "Ieyumi Yatolila",
-      "corporation_name": "Strategic Insanity.",
-      "alliance_name": "Disaster Strikes",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
