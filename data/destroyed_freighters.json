@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 128510520,
+    "killmail_hash": "e6d98df54e3241019e9b1523297300e319ea4e51",
+    "kill_time": "2025-07-13T00:07:00Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003067,
+    "solar_system_name": "Huola",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 2122346094,
+      "character_name": "Francisco Danny Roxo",
+      "corporation_id": 98773256,
+      "corporation_name": "US-SOCOM",
+      "alliance_id": 99013706,
+      "alliance_name": "Global Federations"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128510520/",
+    "total_value": 5767874362.22,
+    "final_attacker": {
+      "character_name": "Nargrave",
+      "corporation_name": "DAWGS Corp.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 128508051,
+    "killmail_hash": "ec561cf1c333af7e9931551dd4aea8ab030534fe",
+    "kill_time": "2025-07-12T21:34:41Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003166,
+    "solar_system_name": "WT-2J9",
+    "region_name": "Esoteria",
+    "victim": {
+      "character_id": 91905789,
+      "character_name": "Juntte",
+      "corporation_id": 98497495,
+      "corporation_name": "RUCIHIIII",
+      "alliance_id": 99003995,
+      "alliance_name": "Invidia Gloriae Comes"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128508051/",
+    "total_value": 4899149221.41,
+    "final_attacker": {
+      "character_name": "Leany Umangiar",
+      "corporation_name": "Theoretical Mass",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Omen Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 128506886,
+    "killmail_hash": "e52ccdc59c291f414b58fc7e2c881fd57a5bfe57",
+    "kill_time": "2025-07-12T20:39:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2115299829,
+      "character_name": "milk Otichoda",
+      "corporation_id": 98799091,
+      "corporation_name": "Outer Ring Adventures",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128506886/",
+    "total_value": 5021605723.71,
+    "final_attacker": {
+      "character_name": "Teh Tripple",
+      "corporation_name": "BRAWLS DEEP",
+      "alliance_name": "HYPE-TRAIN",
+      "ship_type_name": "Curse"
+    }
+  },
+  {
     "killmail_id": 128501058,
     "killmail_hash": "2cba3d87ea3ec577cbfb6061192edfa9e55c7bd6",
     "kill_time": "2025-07-12T16:59:51Z",
@@ -1141,110 +1219,6 @@
       "corporation_name": "ChuangShi",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 128364895,
-    "killmail_hash": "15a651c5bfc29f04203449874a5b367b3b1e6b08",
-    "kill_time": "2025-07-06T00:02:54Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1451419029,
-      "character_name": "Warpin A'wai",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128364895/",
-    "total_value": 5838603758.02,
-    "final_attacker": {
-      "character_name": "banzo 8",
-      "corporation_name": "Hight sec safe",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 128364894,
-    "killmail_hash": "8e6b032a842451c9291f111c26eb6d0e268d8a04",
-    "kill_time": "2025-07-06T00:02:48Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004042,
-    "solar_system_name": "DY-F70",
-    "region_name": "Cloud Ring",
-    "victim": {
-      "character_id": 1401278940,
-      "character_name": "Repression Namaste",
-      "corporation_id": 98795819,
-      "corporation_name": "Solos Nexus",
-      "alliance_id": 741557221,
-      "alliance_name": "RAZOR Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128364894/",
-    "total_value": 3207490888.64,
-    "final_attacker": {
-      "character_name": "jayuk1",
-      "corporation_name": "Tactical Tea Baggers",
-      "alliance_name": "Triumvirate.",
-      "ship_type_name": "Stiletto"
-    }
-  },
-  {
-    "killmail_id": 128364399,
-    "killmail_hash": "aec4dd8471ae51f43fafc8c347d0c18af5ae9f62",
-    "kill_time": "2025-07-05T23:28:02Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2122183757,
-      "character_name": "PolosatiyKot",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128364399/",
-    "total_value": 1965037594.5,
-    "final_attacker": {
-      "character_name": "Xtra Squishy lol",
-      "corporation_name": "DAWGS Corp.",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 128363252,
-    "killmail_hash": "57ff7772914592266dc7722d5c52552fc9e07ebc",
-    "kill_time": "2025-07-05T22:29:18Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004807,
-    "solar_system_name": "UALX-3",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2114122114,
-      "character_name": "Huang Soultaker",
-      "corporation_id": 98524939,
-      "corporation_name": "Sing Hua",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128363252/",
-    "total_value": 11925215579.87,
-    "final_attacker": {
-      "character_name": "Jouko anax",
-      "corporation_name": "E N I G M A",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Manticore"
     }
   }
 ]
