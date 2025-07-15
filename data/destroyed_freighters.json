@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128558657,
+    "killmail_hash": "a35daf1147859b793a55824c04ad650875a74d87",
+    "kill_time": "2025-07-15T03:14:23Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121015008,
+      "character_name": "Lucian Loxforn",
+      "corporation_id": 98761471,
+      "corporation_name": "2 Days to Mine",
+      "alliance_id": 99013637,
+      "alliance_name": "The Worst Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128558657/",
+    "total_value": 7580574803.74,
+    "final_attacker": {
+      "character_name": "Belt Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128556658,
     "killmail_hash": "59a45a7c0e435ee74473c8352759a702f4650a69",
     "kill_time": "2025-07-15T00:27:06Z",
@@ -47,6 +73,32 @@
     "final_attacker": {
       "character_name": "Bath Salt Babe",
       "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 128555077,
+    "killmail_hash": "dc53e3e6abf15e4c0c2a5e1640f143a0e952e0d2",
+    "kill_time": "2025-07-14T21:58:12Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 145119083,
+      "character_name": "Vyger",
+      "corporation_id": 98808125,
+      "corporation_name": "Hooker Squad",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128555077/",
+    "total_value": 13724139601.65,
+    "final_attacker": {
+      "character_name": "Police Inspector",
+      "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
@@ -1349,32 +1401,6 @@
       "corporation_name": "E.T.C",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 128412131,
-    "killmail_hash": "5736df3b5af786042863fa3af9b2210b45bade34",
-    "kill_time": "2025-07-08T03:07:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002042,
-    "solar_system_name": "KU5R-W",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 96802052,
-      "character_name": "Pavel Starover",
-      "corporation_id": 98783859,
-      "corporation_name": "Eve Academy Corporation",
-      "alliance_id": 99013216,
-      "alliance_name": "Nomad Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128412131/",
-    "total_value": 2153350703.64,
-    "final_attacker": {
-      "character_name": "Hans Zwaardhandler",
-      "corporation_name": "Resilience.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Vexor Navy Issue"
     }
   }
 ]
