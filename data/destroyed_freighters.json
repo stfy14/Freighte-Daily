@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128556658,
+    "killmail_hash": "59a45a7c0e435ee74473c8352759a702f4650a69",
+    "kill_time": "2025-07-15T00:27:06Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121094292,
+      "character_name": "redbeard88",
+      "corporation_id": 98790011,
+      "corporation_name": "GRIEVERS",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128556658/",
+    "total_value": 6028743422,
+    "final_attacker": {
+      "character_name": "Nyawira",
+      "corporation_name": "Brazilian Templars",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 128556260,
+    "killmail_hash": "76826c1ccb2cf025fa7b59125b983407c902f380",
+    "kill_time": "2025-07-14T23:50:24Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2115618884,
+      "character_name": "Roland Retkes",
+      "corporation_id": 98757461,
+      "corporation_name": "Ethernal Universee",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128556260/",
+    "total_value": 4385530120.14,
+    "final_attacker": {
+      "character_name": "Bath Salt Babe",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128552693,
     "killmail_hash": "4d9897fc4153931398a213dee751226077ec2608",
     "kill_time": "2025-07-14T19:44:23Z",
@@ -1323,32 +1375,6 @@
       "corporation_name": "Resilience.",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Vexor Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 128410951,
-    "killmail_hash": "2cd0a239f55e03eed940c44021c4f2096a3ad3a8",
-    "kill_time": "2025-07-08T01:29:32Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91345127,
-      "character_name": "Jordan SuperNinja Spaceship",
-      "corporation_id": 98805504,
-      "corporation_name": "SuperNinja Spaceship Moving Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128410951/",
-    "total_value": 18584762339.72,
-    "final_attacker": {
-      "character_name": "Mona Murderface",
-      "corporation_name": "Abusing Game Mechanics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
