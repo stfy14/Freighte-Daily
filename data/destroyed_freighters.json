@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128591077,
+    "killmail_hash": "ec436c1af133d9520c83e11fa46779ad0bef1e33",
+    "kill_time": "2025-07-16T19:57:17Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000019,
+    "solar_system_name": "Podion",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2116968849,
+      "character_name": "Radchen",
+      "corporation_id": 98628176,
+      "corporation_name": "Helgast Militarum",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128591077/",
+    "total_value": 9355580552.27,
+    "final_attacker": {
+      "character_name": "Adoree Airuta",
+      "corporation_name": "Hostile.",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 128588158,
+    "killmail_hash": "b2e7ea066833f0cff416eea4ea1ded373ab36b4b",
+    "kill_time": "2025-07-16T17:46:26Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002866,
+    "solar_system_name": "1S-SU1",
+    "region_name": "The Kalevala Expanse",
+    "victim": {
+      "character_id": 818133536,
+      "character_name": "Major Bates",
+      "corporation_id": 98388312,
+      "corporation_name": "Pandemic Horde Inc.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128588158/",
+    "total_value": 5505562034.01,
+    "final_attacker": {
+      "character_name": "a153",
+      "corporation_name": "University of Caille",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128583818,
     "killmail_hash": "bf7e878e6af888390005202832c42d9965eed09c",
     "kill_time": "2025-07-16T13:28:58Z",
@@ -1349,32 +1401,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128439918,
-    "killmail_hash": "2fcc546a68379aaf7a4925da3343a189c19a39fe",
-    "kill_time": "2025-07-09T16:48:33Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 1348004437,
-      "character_name": "Dukeof War",
-      "corporation_id": 98684151,
-      "corporation_name": "DOGE ARMY",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128439918/",
-    "total_value": 21491701210.09,
-    "final_attacker": {
-      "character_name": "Wiscussy",
-      "corporation_name": "BlackCore Tactics",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Oracle"
     }
   }
 ]
