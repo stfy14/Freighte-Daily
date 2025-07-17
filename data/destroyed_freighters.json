@@ -1066,6 +1066,32 @@
     }
   },
   {
+    "killmail_id": 128504216,
+    "killmail_hash": "22a5163d3f006af18d5177f7f3bb9dfc0e360ce3",
+    "kill_time": "2025-07-12T19:08:52Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2113044969,
+      "character_name": "Damian Inamorato",
+      "corporation_id": 98675159,
+      "corporation_name": "Astrotol",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128504216/",
+    "total_value": 3438952093.68,
+    "final_attacker": {
+      "character_name": "Rabid Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Safety.",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128501058,
     "killmail_hash": "2cba3d87ea3ec577cbfb6061192edfa9e55c7bd6",
     "kill_time": "2025-07-12T16:59:51Z",
@@ -1323,32 +1349,6 @@
       "corporation_name": "Know-Nothings",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Hurricane"
-    }
-  },
-  {
-    "killmail_id": 128463067,
-    "killmail_hash": "bbe6fc1212048193a34eb7f097f8ef93aac587b9",
-    "kill_time": "2025-07-10T20:22:02Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122800891,
-      "character_name": "Vessier Clout",
-      "corporation_id": 98651048,
-      "corporation_name": "Absolute Order XVI",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128463067/",
-    "total_value": 1961977931.52,
-    "final_attacker": {
-      "character_name": "Spodumain Slurper",
-      "corporation_name": "ROID CRACKERS",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
