@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128597526,
+    "killmail_hash": "cf639cfb879b15a2054024b0fa0606dbbb877bd7",
+    "kill_time": "2025-07-17T03:42:24Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90232069,
+      "character_name": "5partacu5",
+      "corporation_id": 98788614,
+      "corporation_name": "BIack Sun Syndicate",
+      "alliance_id": 99013692,
+      "alliance_name": "Independent Miners Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128597526/",
+    "total_value": 18290382549.05,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128596811,
+    "killmail_hash": "04e0eba7fe1cbd5734fa935f18b83b0d134ebd91",
+    "kill_time": "2025-07-17T02:58:16Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96278396,
+      "character_name": "Risaran Usaki",
+      "corporation_id": 98644650,
+      "corporation_name": "Kybernauts",
+      "alliance_id": 99010431,
+      "alliance_name": "Kybernauts Clade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128596811/",
+    "total_value": 6201625559.05,
+    "final_attacker": {
+      "character_name": "Anedde Bong",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128595540,
     "killmail_hash": "9b859ce324c10cfdc58ffe7028cea437ccf2262a",
     "kill_time": "2025-07-17T01:08:28Z",
@@ -20,6 +72,32 @@
     "total_value": 3689488553.6,
     "final_attacker": {
       "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128595098,
+    "killmail_hash": "eb68201ab654c9d3fd2a0cec5d66a531d72c5b86",
+    "kill_time": "2025-07-17T00:25:30Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93780703,
+      "character_name": "Jen Dinkle",
+      "corporation_id": 98699988,
+      "corporation_name": "SLUMERICA",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128595098/",
+    "total_value": 5487947810.71,
+    "final_attacker": {
+      "character_name": "zLegion Q",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -1271,32 +1349,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128449304,
-    "killmail_hash": "884407af886527adff5a0f1c1cfcf1af478d58f3",
-    "kill_time": "2025-07-10T02:32:33Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 152764253,
-      "character_name": "A VANISH",
-      "corporation_id": 1085381835,
-      "corporation_name": "Poseidon Omega Corperation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128449304/",
-    "total_value": 2313049085.88,
-    "final_attacker": {
-      "character_name": "Cam Taylor",
-      "corporation_name": "HI-Lao Xiang Bie Zou",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
     }
   }
 ]
