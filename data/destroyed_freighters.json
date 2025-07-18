@@ -26,6 +26,32 @@
     }
   },
   {
+    "killmail_id": 128614833,
+    "killmail_hash": "ac16fb3dc166159f2a06e8295e3fadaf29eefec6",
+    "kill_time": "2025-07-18T01:58:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 288596320,
+      "character_name": "RatMan Caladari",
+      "corporation_id": 98478461,
+      "corporation_name": "Dank MEME Yacht Club",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128614833/",
+    "total_value": 4007154955.84,
+    "final_attacker": {
+      "character_name": "zLegion O",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128614525,
     "killmail_hash": "ef0901ac78ab6e19b851d5cc3d720c83f4b63011",
     "kill_time": "2025-07-18T01:38:40Z",
@@ -49,6 +75,32 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128611592,
+    "killmail_hash": "35abaa6dd9e73b7def8a38aa07eacf00cc8b9bfd",
+    "kill_time": "2025-07-17T21:31:22Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30045319,
+    "solar_system_name": "Eha",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2121286816,
+      "character_name": "Bars Agani",
+      "corporation_id": 773499566,
+      "corporation_name": "The Graduates",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128611592/",
+    "total_value": 4680581040.85,
+    "final_attacker": {
+      "character_name": "Oakatsura",
+      "corporation_name": "Mercury Arms Inc.",
+      "alliance_name": "Ghostbirds",
+      "ship_type_name": "Alligator"
     }
   },
   {
