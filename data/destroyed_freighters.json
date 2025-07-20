@@ -130,6 +130,32 @@
     }
   },
   {
+    "killmail_id": 128661906,
+    "killmail_hash": "79f76d1404109b93a00894febd76a537cecd074c",
+    "kill_time": "2025-07-20T02:31:16Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113201688,
+      "character_name": "stark Haginen",
+      "corporation_id": 98792548,
+      "corporation_name": "koneslp Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128661906/",
+    "total_value": 17326752218.44,
+    "final_attacker": {
+      "character_name": "bestfriend2233",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 128661463,
     "killmail_hash": "2bf6399d0ba8d9d293a6b0edecdefb5f14bf8627",
     "kill_time": "2025-07-20T01:56:47Z",
@@ -1609,32 +1635,6 @@
       "corporation_name": "Cyber Collapse.",
       "alliance_name": "Fanatic Legion.",
       "ship_type_name": "Ishtar"
-    }
-  },
-  {
-    "killmail_id": 128518299,
-    "killmail_hash": "0eea882fe920d1ed9749ccd8c559052c5c4c80ec",
-    "kill_time": "2025-07-13T08:39:13Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001356,
-    "solar_system_name": "Dantumi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2115642410,
-      "character_name": "rabrk tnt",
-      "corporation_id": 98615039,
-      "corporation_name": "xlaw",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128518299/",
-    "total_value": 2135412596.77,
-    "final_attacker": {
-      "character_name": "Major Scythe",
-      "corporation_name": "Duty.",
-      "alliance_name": "Brave Collective",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
