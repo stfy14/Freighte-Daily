@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128738643,
+    "killmail_hash": "f7a0155a8f7b8127e08ff0add33e54b1d615ac80",
+    "kill_time": "2025-07-23T17:14:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 358382959,
+      "character_name": "Graticus",
+      "corporation_id": 98117593,
+      "corporation_name": "Tritanium Industries and Technology",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128738643/",
+    "total_value": 28507480266.46,
+    "final_attacker": {
+      "character_name": "Epos ProductionZ",
+      "corporation_name": "Therapy.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 128730516,
     "killmail_hash": "6a59fc1677f237eab33ffc243912d711aee190e8",
     "kill_time": "2025-07-23T06:38:33Z",
@@ -1401,58 +1427,6 @@
       "corporation_name": "Aurora.",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 128591077,
-    "killmail_hash": "ec436c1af133d9520c83e11fa46779ad0bef1e33",
-    "kill_time": "2025-07-16T19:57:17Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000019,
-    "solar_system_name": "Podion",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2116968849,
-      "character_name": "Radchen",
-      "corporation_id": 98628176,
-      "corporation_name": "Helgast Militarum",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128591077/",
-    "total_value": 9355580552.27,
-    "final_attacker": {
-      "character_name": "Adoree Airuta",
-      "corporation_name": "Hostile.",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128588158,
-    "killmail_hash": "b2e7ea066833f0cff416eea4ea1ded373ab36b4b",
-    "kill_time": "2025-07-16T17:46:26Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002866,
-    "solar_system_name": "1S-SU1",
-    "region_name": "The Kalevala Expanse",
-    "victim": {
-      "character_id": 818133536,
-      "character_name": "Major Bates",
-      "corporation_id": 98388312,
-      "corporation_name": "Pandemic Horde Inc.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128588158/",
-    "total_value": 5505562034.01,
-    "final_attacker": {
-      "character_name": "a153",
-      "corporation_name": "University of Caille",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
