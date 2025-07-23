@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128730516,
+    "killmail_hash": "6a59fc1677f237eab33ffc243912d711aee190e8",
+    "kill_time": "2025-07-23T06:38:33Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96511036,
+      "character_name": "Minori Akaski",
+      "corporation_id": 98775041,
+      "corporation_name": "Caladrius Nest",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128730516/",
+    "total_value": 19729191137.02,
+    "final_attacker": {
+      "character_name": "Ninja Dumbass",
+      "corporation_name": "The Monsters Inc",
+      "alliance_name": "It's a Skill Issue",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 128730458,
+    "killmail_hash": "631da90fe1c4c884aa50bb9f1889528d0e25d990",
+    "kill_time": "2025-07-23T06:32:30Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002270,
+    "solar_system_name": "Avair",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 145119083,
+      "character_name": "Vyger",
+      "corporation_id": 98620623,
+      "corporation_name": "Stones Build Castles",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128730458/",
+    "total_value": 10905894047.72,
+    "final_attacker": {
+      "character_name": "Givz Severasse",
+      "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128728112,
     "killmail_hash": "27ec1a3abbe6539aff7de3769d7bc4fef095ff97",
     "kill_time": "2025-07-23T02:46:52Z",
