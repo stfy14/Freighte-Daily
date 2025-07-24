@@ -1298,57 +1298,5 @@
       "alliance_name": "Peacemakers. Coalition",
       "ship_type_name": "Vedmak"
     }
-  },
-  {
-    "killmail_id": 128597526,
-    "killmail_hash": "cf639cfb879b15a2054024b0fa0606dbbb877bd7",
-    "kill_time": "2025-07-17T03:42:24Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90232069,
-      "character_name": "5partacu5",
-      "corporation_id": 98788614,
-      "corporation_name": "BIack Sun Syndicate",
-      "alliance_id": 99013692,
-      "alliance_name": "Independent Miners Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128597526/",
-    "total_value": 18290382549.05,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128596811,
-    "killmail_hash": "04e0eba7fe1cbd5734fa935f18b83b0d134ebd91",
-    "kill_time": "2025-07-17T02:58:16Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96278396,
-      "character_name": "Risaran Usaki",
-      "corporation_id": 98644650,
-      "corporation_name": "Kybernauts",
-      "alliance_id": 99010431,
-      "alliance_name": "Kybernauts Clade"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128596811/",
-    "total_value": 6201625559.05,
-    "final_attacker": {
-      "character_name": "Anedde Bong",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
