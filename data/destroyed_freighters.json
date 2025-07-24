@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128759117,
+    "killmail_hash": "540be9d3fba831504d7bd996edff03aa229674cd",
+    "kill_time": "2025-07-24T17:42:56Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121598062,
+      "character_name": "Adam Orwig",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128759117/",
+    "total_value": 1978695045.49,
+    "final_attacker": {
+      "character_name": "SUICIDAL Larsen",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 128758888,
+    "killmail_hash": "2afca895f245baa73a94ab68b07d80bc86e6a2ae",
+    "kill_time": "2025-07-24T17:22:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2118207964,
+      "character_name": "Valet-PhoEni",
+      "corporation_id": 98775041,
+      "corporation_name": "Caladrius Nest",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128758888/",
+    "total_value": 16713627380.46,
+    "final_attacker": {
+      "character_name": "MIROMAX",
+      "corporation_name": "10 Potatoes",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128747677,
     "killmail_hash": "a8ed1256357ce8266ca71753c1920e15cc215dc7",
     "kill_time": "2025-07-24T02:03:07Z",
