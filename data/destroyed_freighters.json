@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128771494,
+    "killmail_hash": "243b8d831f6fedae93fac621909224bdb6ad30fd",
+    "kill_time": "2025-07-25T10:10:57Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2114133665,
+      "character_name": "Kickrial Mondesky",
+      "corporation_id": 98789569,
+      "corporation_name": "Awkward People Society",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128771494/",
+    "total_value": 20789996704.84,
+    "final_attacker": {
+      "character_name": "Turninen Ahishatsu",
+      "corporation_name": "E.T.C",
+      "alliance_name": "name909954",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 128765470,
     "killmail_hash": "124a0e0266203abd9f68198a2b15df1b96c9b01e",
     "kill_time": "2025-07-25T00:54:35Z",
@@ -1271,58 +1297,6 @@
       "corporation_name": "Long Pig Luncheon Meat",
       "alliance_name": "Sending Thots And Players",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128617883,
-    "killmail_hash": "d60e7f812162491b1d1ed1f83807657422b7bc40",
-    "kill_time": "2025-07-18T08:52:03Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122780035,
-      "character_name": "Snail Knight 4",
-      "corporation_id": 98797997,
-      "corporation_name": "SGExpress Mail Service",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128617883/",
-    "total_value": 10132361485.38,
-    "final_attacker": {
-      "character_name": "Kubirzar",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 128617866,
-    "killmail_hash": "c36ede4bcacd4d64b8d35af8f0593050c71ae5a5",
-    "kill_time": "2025-07-18T08:50:53Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122883784,
-      "character_name": "Snail Knight 5",
-      "corporation_id": 98797997,
-      "corporation_name": "SGExpress Mail Service",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128617866/",
-    "total_value": 10374748703.44,
-    "final_attacker": {
-      "character_name": "Sonic 37",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
     }
   }
 ]
