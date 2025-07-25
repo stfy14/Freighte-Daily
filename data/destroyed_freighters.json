@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128780864,
+    "killmail_hash": "92978e34f607c496a8fe1be577951f663a74f1f1",
+    "kill_time": "2025-07-25T19:26:22Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112272988,
+      "character_name": "Sely Starv",
+      "corporation_id": 98781911,
+      "corporation_name": "Beaver's beer hole",
+      "alliance_id": 99009805,
+      "alliance_name": "Dead Game Society."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128780864/",
+    "total_value": 10573184823.04,
+    "final_attacker": {
+      "character_name": "Hard Gay",
+      "corporation_name": "Blue Canary",
+      "alliance_name": "Watch This",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128774461,
     "killmail_hash": "20b51cff7a650210a302bdfca9cf2509aa168ae1",
     "kill_time": "2025-07-25T14:00:15Z",
@@ -1271,58 +1297,6 @@
       "corporation_name": "10 Potatoes",
       "alliance_name": null,
       "ship_type_name": "Cyclone"
-    }
-  },
-  {
-    "killmail_id": 128628905,
-    "killmail_hash": "b629e5da40963069c0e644416a0fd7ac3e768c20",
-    "kill_time": "2025-07-18T20:02:15Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114470752,
-      "character_name": "Amarr Slave Molou",
-      "corporation_id": 98791350,
-      "corporation_name": "Potato Cyst Nematodes",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128628905/",
-    "total_value": 2128664584.67,
-    "final_attacker": {
-      "character_name": "TOUNSI",
-      "corporation_name": "Reliables Inc",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Babaroga"
-    }
-  },
-  {
-    "killmail_id": 128627934,
-    "killmail_hash": "5aa9b462a6e1d8ee1c316bbdf25ca34ee815649d",
-    "kill_time": "2025-07-18T19:13:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1166369648,
-      "character_name": "Darkfinn Wingo",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128627934/",
-    "total_value": 4287942825.81,
-    "final_attacker": {
-      "character_name": "Yukio Kuchki",
-      "corporation_name": "Long Pig Luncheon Meat",
-      "alliance_name": "Sending Thots And Players",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
