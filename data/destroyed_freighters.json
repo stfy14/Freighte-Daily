@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 128765470,
+    "killmail_hash": "124a0e0266203abd9f68198a2b15df1b96c9b01e",
+    "kill_time": "2025-07-25T00:54:35Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003834,
+    "solar_system_name": "Chardalane",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 1062325775,
+      "character_name": "UnkleZero",
+      "corporation_id": 439896599,
+      "corporation_name": "Therapy.",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128765470/",
+    "total_value": 16923917489.28,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 128764531,
+    "killmail_hash": "01ba9d285a1a62fb5b2836ca598e97d3ac3d350c",
+    "kill_time": "2025-07-24T23:11:25Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003834,
+    "solar_system_name": "Chardalane",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 1029783946,
+      "character_name": "Palestyne",
+      "corporation_id": 98141021,
+      "corporation_name": "Shockwave Unlimited",
+      "alliance_id": 741557221,
+      "alliance_name": "RAZOR Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128764531/",
+    "total_value": 19083985828.61,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 128762874,
+    "killmail_hash": "bbb68594a1a5a4e1ad1dcc72dbcd62c4a0c2f4fe",
+    "kill_time": "2025-07-24T21:10:29Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1763250178,
+      "character_name": "Dimdro",
+      "corporation_id": 98388339,
+      "corporation_name": "ACR Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128762874/",
+    "total_value": 19985909869.14,
+    "final_attacker": {
+      "character_name": "Miss Robot",
+      "corporation_name": "Gapped out",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Revenant"
+    }
+  },
+  {
+    "killmail_id": 128762657,
+    "killmail_hash": "7c5ff44d010af79e44e273395063280e4a9a144c",
+    "kill_time": "2025-07-24T20:55:28Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30004558,
+    "solar_system_name": "A8-XBW",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 1072346560,
+      "character_name": "aLostProphet",
+      "corporation_id": 98328437,
+      "corporation_name": "Applied Anarchy",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128762657/",
+    "total_value": 9716037239.66,
+    "final_attacker": {
+      "character_name": "Antz Melkan",
+      "corporation_name": "My Little Hyenas",
+      "alliance_name": "Rusty Hyenas Clan",
+      "ship_type_name": "Kikimora"
+    }
+  },
+  {
     "killmail_id": 128759117,
     "killmail_hash": "540be9d3fba831504d7bd996edff03aa229674cd",
     "kill_time": "2025-07-24T17:42:56Z",
@@ -1219,136 +1323,6 @@
       "corporation_name": "jUST DO It..",
       "alliance_name": null,
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 128615184,
-    "killmail_hash": "73a8a770f5f3611b7e5a163c6963f04e4e56f42f",
-    "kill_time": "2025-07-18T02:21:50Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 963591371,
-      "character_name": "Kromarx",
-      "corporation_id": 98657534,
-      "corporation_name": "Eau Rouge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128615184/",
-    "total_value": 11867976545.88,
-    "final_attacker": {
-      "character_name": "zLegion J",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128614833,
-    "killmail_hash": "ac16fb3dc166159f2a06e8295e3fadaf29eefec6",
-    "kill_time": "2025-07-18T01:58:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 288596320,
-      "character_name": "RatMan Caladari",
-      "corporation_id": 98478461,
-      "corporation_name": "Dank MEME Yacht Club",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128614833/",
-    "total_value": 4007154955.84,
-    "final_attacker": {
-      "character_name": "zLegion O",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128614525,
-    "killmail_hash": "ef0901ac78ab6e19b851d5cc3d720c83f4b63011",
-    "kill_time": "2025-07-18T01:38:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113196268,
-      "character_name": "Drakar Shardani",
-      "corporation_id": 98648720,
-      "corporation_name": "Xstrata Mining",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128614525/",
-    "total_value": 8097666282.43,
-    "final_attacker": {
-      "character_name": "zLegion E",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128611592,
-    "killmail_hash": "35abaa6dd9e73b7def8a38aa07eacf00cc8b9bfd",
-    "kill_time": "2025-07-17T21:31:22Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30045319,
-    "solar_system_name": "Eha",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2121286816,
-      "character_name": "Bars Agani",
-      "corporation_id": 773499566,
-      "corporation_name": "The Graduates",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128611592/",
-    "total_value": 4680581040.85,
-    "final_attacker": {
-      "character_name": "Oakatsura",
-      "corporation_name": "Mercury Arms Inc.",
-      "alliance_name": "Ghostbirds",
-      "ship_type_name": "Alligator"
-    }
-  },
-  {
-    "killmail_id": 128610413,
-    "killmail_hash": "b0e2c0352431eb36b84fc4c406c4351223c27896",
-    "kill_time": "2025-07-17T20:29:17Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001828,
-    "solar_system_name": "4O-ZRI",
-    "region_name": "Outer Passage",
-    "victim": {
-      "character_id": 2122183757,
-      "character_name": "PolosatiyKot",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128610413/",
-    "total_value": 1971913285.35,
-    "final_attacker": {
-      "character_name": "Forester132",
-      "corporation_name": "Alfa Corporation",
-      "alliance_name": "Fanatic Legion.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
