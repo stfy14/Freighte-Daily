@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128836494,
+    "killmail_hash": "afd181830d1e7bb4bb6de42d572c05977e48736f",
+    "kill_time": "2025-07-28T02:24:03Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123231846,
+      "character_name": "Kenzo Nakamoto",
+      "corporation_id": 98551200,
+      "corporation_name": "African Atomic.",
+      "alliance_id": 99014062,
+      "alliance_name": "Dreadnought Diplomacy."
+    },
+    "zkb_url": "https://zkillboard.com/kill/128836494/",
+    "total_value": 17787348453.77,
+    "final_attacker": {
+      "character_name": "Shanna Alabel",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 128829454,
     "killmail_hash": "f02f93cb877454ef9d37bc34c2bce9d5a9b7f917",
     "kill_time": "2025-07-27T19:29:10Z",
@@ -1297,58 +1323,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 128686295,
-    "killmail_hash": "0d1cf6003c2bd99fe6101531ecad5e6c8b78c2ba",
-    "kill_time": "2025-07-20T23:47:22Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 415605298,
-      "character_name": "Xanthe Poni",
-      "corporation_id": 1814914168,
-      "corporation_name": "Nagrom Security Syndicate",
-      "alliance_id": 99014210,
-      "alliance_name": "Buy Low Die High"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128686295/",
-    "total_value": 12411150440.19,
-    "final_attacker": {
-      "character_name": "Jagtor",
-      "corporation_name": "Sons of Seyllin",
-      "alliance_name": "Pirate Lords of War",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 128684684,
-    "killmail_hash": "e1eb217b07e6aca2c336f80dc3b16f4f86667f02",
-    "kill_time": "2025-07-20T22:02:16Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003561,
-    "solar_system_name": "Biphi",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 93657272,
-      "character_name": "Valerie Gronzo",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128684684/",
-    "total_value": 15950491106.99,
-    "final_attacker": {
-      "character_name": "ACH1LL35",
-      "corporation_name": "Discharged Kinetics",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
