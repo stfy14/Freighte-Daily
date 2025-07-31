@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128906752,
+    "killmail_hash": "888579d3c0a06c7b2317cc742747374951ba4778",
+    "kill_time": "2025-07-31T19:50:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004244,
+    "solar_system_name": "Onanam",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 2117395864,
+      "character_name": "Amanda Zasha",
+      "corporation_id": 98809814,
+      "corporation_name": "Eye of the Golden Sun",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128906752/",
+    "total_value": 1973806361.29,
+    "final_attacker": {
+      "character_name": "player1222",
+      "corporation_name": "RadioActivia",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 128904792,
+    "killmail_hash": "77882f6e9cf494f03884f920a8fd6fc7736903fe",
+    "kill_time": "2025-07-31T18:15:58Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000169,
+    "solar_system_name": "Ihakana",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123467469,
+      "character_name": "AureaLunarisFortuna",
+      "corporation_id": 98805195,
+      "corporation_name": "Lightyears Apart",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128904792/",
+    "total_value": 4801400405.95,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128900363,
     "killmail_hash": "b1733871147a35a20cac447775ef53068ac2526a",
     "kill_time": "2025-07-31T13:48:15Z",
@@ -1375,58 +1427,6 @@
       "corporation_name": "My Little Hyenas",
       "alliance_name": "Rusty Hyenas Clan",
       "ship_type_name": "Kikimora"
-    }
-  },
-  {
-    "killmail_id": 128759117,
-    "killmail_hash": "540be9d3fba831504d7bd996edff03aa229674cd",
-    "kill_time": "2025-07-24T17:42:56Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2121598062,
-      "character_name": "Adam Orwig",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128759117/",
-    "total_value": 1978695045.49,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 128758888,
-    "killmail_hash": "2afca895f245baa73a94ab68b07d80bc86e6a2ae",
-    "kill_time": "2025-07-24T17:22:55Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2118207964,
-      "character_name": "Valet-PhoEni",
-      "corporation_id": 98775041,
-      "corporation_name": "Caladrius Nest",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128758888/",
-    "total_value": 16713627380.46,
-    "final_attacker": {
-      "character_name": "MIROMAX",
-      "corporation_name": "10 Potatoes",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
