@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 128918530,
+    "killmail_hash": "c1716231cc8d4234e076dafa1ab7839936c3830f",
+    "kill_time": "2025-08-01T12:38:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002059,
+    "solar_system_name": "Auner",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122726276,
+      "character_name": "Muncher of Anus",
+      "corporation_id": 98792834,
+      "corporation_name": "Firille Logistics",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128918530/",
+    "total_value": 10742839434.83,
+    "final_attacker": {
+      "character_name": "Infinity38",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 128917598,
+    "killmail_hash": "96e63821671553eb4699482dd50c74596be2ec55",
+    "kill_time": "2025-08-01T10:59:47Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 729559921,
+      "character_name": "Mucificatoru",
+      "corporation_id": 1496162403,
+      "corporation_name": "Nasty.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128917598/",
+    "total_value": 4431610010.32,
+    "final_attacker": {
+      "character_name": "zLegion E",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128916974,
+    "killmail_hash": "22b44d7e7228cc0a3abd624d13c7a5afdade16ad",
+    "kill_time": "2025-08-01T10:13:07Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92281867,
+      "character_name": "Trill Devlin",
+      "corporation_id": 98044257,
+      "corporation_name": "Sacred Templar Knights",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128916974/",
+    "total_value": 10895150425.38,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128916003,
+    "killmail_hash": "6b7e1b055e3cfb7188fe1442a921c0a4b8e75cff",
+    "kill_time": "2025-08-01T08:31:40Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 591779046,
+      "character_name": "Eowoadia",
+      "corporation_id": 277117781,
+      "corporation_name": "B-17",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128916003/",
+    "total_value": 2492300350.31,
+    "final_attacker": {
+      "character_name": "zLegion O",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128912266,
     "killmail_hash": "234f3bdf8a52274ac3bf2ba5f7f5b003f938c4dc",
     "kill_time": "2025-08-01T02:13:34Z",
@@ -1375,32 +1479,6 @@
       "corporation_name": "Know-Nothings",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 128771494,
-    "killmail_hash": "243b8d831f6fedae93fac621909224bdb6ad30fd",
-    "kill_time": "2025-07-25T10:10:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114133665,
-      "character_name": "Kickrial Mondesky",
-      "corporation_id": 98789569,
-      "corporation_name": "Awkward People Society",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128771494/",
-    "total_value": 20789996704.84,
-    "final_attacker": {
-      "character_name": "Turninen Ahishatsu",
-      "corporation_name": "E.T.C",
-      "alliance_name": "name909954",
-      "ship_type_name": "Brutix Navy Issue"
     }
   }
 ]
