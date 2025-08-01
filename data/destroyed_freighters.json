@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128919537,
+    "killmail_hash": "20e7927c8584e11c705f97158ca9f5ca45c4f050",
+    "kill_time": "2025-08-01T13:53:40Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2116461016,
+      "character_name": "Isak Heisenberg",
+      "corporation_id": 98057377,
+      "corporation_name": "Core Industry.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128919537/",
+    "total_value": 1974023856.11,
+    "final_attacker": {
+      "character_name": "whutbadmman",
+      "corporation_name": "Profane Proverb",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
     "killmail_id": 128918530,
     "killmail_hash": "c1716231cc8d4234e076dafa1ab7839936c3830f",
     "kill_time": "2025-08-01T12:38:53Z",
@@ -1453,32 +1479,6 @@
       "corporation_name": "Blue Canary",
       "alliance_name": "Watch This",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128774461,
-    "killmail_hash": "20b51cff7a650210a302bdfca9cf2509aa168ae1",
-    "kill_time": "2025-07-25T14:00:15Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 93125352,
-      "character_name": "ForEnd War",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128774461/",
-    "total_value": 9590359663.32,
-    "final_attacker": {
-      "character_name": "aNyOnEbUtMe",
-      "corporation_name": "Know-Nothings",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Hyperion"
     }
   }
 ]
