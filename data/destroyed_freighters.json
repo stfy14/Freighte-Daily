@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 128935106,
+    "killmail_hash": "d968932f6d330f34a1d037b1a7e58c2bddd9706a",
+    "kill_time": "2025-08-02T04:19:49Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2078551722,
+      "character_name": "Ejie",
+      "corporation_id": 98750990,
+      "corporation_name": "New Eden Exploration and Uprising Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128935106/",
+    "total_value": 7646352268.78,
+    "final_attacker": {
+      "character_name": "Police Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 128933938,
+    "killmail_hash": "86924c8a5378217597aeb7f32dbe3e280c9b2856",
+    "kill_time": "2025-08-02T02:56:59Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 92732566,
+      "character_name": "Tom Gostinder",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128933938/",
+    "total_value": 9572939932.38,
+    "final_attacker": {
+      "character_name": "Talalorm",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 128933193,
     "killmail_hash": "3a09f002d61218d9b6ed276f542f168f84a3ffc6",
     "kill_time": "2025-08-02T02:05:08Z",
@@ -1684,32 +1736,6 @@
     "total_value": 6141395430.78,
     "final_attacker": {
       "character_name": "Reginald Bong",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128789267,
-    "killmail_hash": "6b8b8daab5ea2389ee5b4bdc3e611ba86c1f3700",
-    "kill_time": "2025-07-26T03:38:07Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 807778494,
-      "character_name": "Dhall Dyas",
-      "corporation_id": 98367912,
-      "corporation_name": "Kedva",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128789267/",
-    "total_value": 2101753027.08,
-    "final_attacker": {
-      "character_name": "Regina Bong",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
