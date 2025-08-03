@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 128964414,
+    "killmail_hash": "6e9d961377e5fc492da2cf2945e7f77c92abeed6",
+    "kill_time": "2025-08-03T07:58:21Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2115115045,
+      "character_name": "Naga 3",
+      "corporation_id": 98595253,
+      "corporation_name": "Absolute Order II",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128964414/",
+    "total_value": 9901730552.65,
+    "final_attacker": {
+      "character_name": "Vault Boi",
+      "corporation_name": "Just Another Nerd",
+      "alliance_name": "Kewl Kidz Krew",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 128963813,
+    "killmail_hash": "c30a0dd4cb3c451ec6c4cde53b22c2e53a7ddce9",
+    "kill_time": "2025-08-03T07:19:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113615546,
+      "character_name": "Jennie Charante",
+      "corporation_id": 98532806,
+      "corporation_name": "Tomah's Treats",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128963813/",
+    "total_value": 7549141076.38,
+    "final_attacker": {
+      "character_name": "zLegion G",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128962424,
+    "killmail_hash": "e29a5c6bc600becf72041fccfe4030b02c1c2876",
+    "kill_time": "2025-08-03T06:50:08Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94159763,
+      "character_name": "Tigrium Akiga",
+      "corporation_id": 98644751,
+      "corporation_name": "Overpropped and Underinsured",
+      "alliance_id": 99006225,
+      "alliance_name": "Rote Works"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128962424/",
+    "total_value": 3664200358.82,
+    "final_attacker": {
+      "character_name": "zLegion R",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 128961172,
+    "killmail_hash": "4fcabe5c313b2019654a49d937eb7094bc3efdf6",
+    "kill_time": "2025-08-03T05:32:57Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 97018200,
+      "character_name": "Cyphris Celesteela",
+      "corporation_id": 98742941,
+      "corporation_name": "Steele Technology and Security Solutions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128961172/",
+    "total_value": 5075836038.36,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 128956841,
     "killmail_hash": "a8204ba5b7fa6f7e6f20b5a541fdd7e2e8035525",
     "kill_time": "2025-08-03T01:50:37Z",
@@ -1453,32 +1557,6 @@
       "corporation_name": "Volatile Restability",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 128815393,
-    "killmail_hash": "090a7d22fb7c7efa13abfee2a7cdb25ce75f11be",
-    "kill_time": "2025-07-27T06:08:16Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001131,
-    "solar_system_name": "ZOPZ-6",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 90267480,
-      "character_name": "Sadams",
-      "corporation_id": 98679428,
-      "corporation_name": "SCREECHING GRASS",
-      "alliance_id": 99010320,
-      "alliance_name": "Bully Brigade"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128815393/",
-    "total_value": 13778270009.5,
-    "final_attacker": {
-      "character_name": "Valtyr Medici",
-      "corporation_name": "Post Nut Clarity With The Boys",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Omen Navy Issue"
     }
   }
 ]
