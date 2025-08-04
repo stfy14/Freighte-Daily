@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 128999018,
+    "killmail_hash": "d03dc9efa2d3575f99f4e11f1fafec92ddbb68aa",
+    "kill_time": "2025-08-04T15:20:32Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 96868053,
+      "character_name": "Ferdinand Lesseps",
+      "corporation_id": 98651213,
+      "corporation_name": "PulaLeeroy Br",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128999018/",
+    "total_value": 2158864146.15,
+    "final_attacker": {
+      "character_name": "Lieutenant Kalouf",
+      "corporation_name": "Odurance",
+      "alliance_name": "Wreckflix and chill",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 128998395,
+    "killmail_hash": "d6066a68233846e2c3e46665aa06c261971d233b",
+    "kill_time": "2025-08-04T14:48:59Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002634,
+    "solar_system_name": "Balle",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 788851873,
+      "character_name": "Burtros",
+      "corporation_id": 98582333,
+      "corporation_name": "Last Stand Enterprises",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128998395/",
+    "total_value": 13528679935.67,
+    "final_attacker": {
+      "character_name": "Bath Salt Babe",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 128997498,
+    "killmail_hash": "9b4aa966326df0c0880202aec4144725d9d2a50e",
+    "kill_time": "2025-08-04T13:59:47Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 90352867,
+      "character_name": "Julian Deane",
+      "corporation_id": 98034192,
+      "corporation_name": "Frosties Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128997498/",
+    "total_value": 10934075349.13,
+    "final_attacker": {
+      "character_name": "Faylee Freir",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 128994237,
     "killmail_hash": "498b5851f91069d7f1c0d4a5ed6be8bd31d351dd",
     "kill_time": "2025-08-04T09:35:43Z",
@@ -1188,6 +1266,32 @@
     },
     "zkb_url": "https://zkillboard.com/kill/128894079/",
     "total_value": 10120615978.64,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 128891349,
+    "killmail_hash": "35729c2d22a1a67cbf3d29c98740bad11a5a3f26",
+    "kill_time": "2025-07-30T23:57:35Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123564418,
+      "character_name": "Zombie Chik",
+      "corporation_id": 98808672,
+      "corporation_name": "Zeek Social Club",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/128891349/",
+    "total_value": 9431840436.6,
     "final_attacker": {
       "character_name": "Dankguy",
       "corporation_name": "Lowlife.",
