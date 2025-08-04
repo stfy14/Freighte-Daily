@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 128987961,
+    "killmail_hash": "46f558a825dc015759ac1f8612f6ff131a86c9b1",
+    "kill_time": "2025-08-04T00:51:29Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003573,
+    "solar_system_name": "Pertnineere",
+    "region_name": "Solitude",
+    "victim": {
+      "character_id": 2115945946,
+      "character_name": "Howl Vakarian",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/128987961/",
+    "total_value": 1290565652988.9,
+    "final_attacker": {
+      "character_name": "S GARG",
+      "corporation_name": "Phoenix Naval Operations",
+      "alliance_name": "Phoenix Naval Systems",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 128980493,
     "killmail_hash": "860e1d6079f957987e5b1b9f7ec60a4c635b54b0",
     "kill_time": "2025-08-03T18:12:39Z",
@@ -1531,58 +1557,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128836545,
-    "killmail_hash": "0130c31ca535d16cef1f668de84b3199a0516177",
-    "kill_time": "2025-07-28T02:28:42Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121741198,
-      "character_name": "Corynn Noud",
-      "corporation_id": 98753668,
-      "corporation_name": "Panala Family Foundation Holdings",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128836545/",
-    "total_value": 9932286535.61,
-    "final_attacker": {
-      "character_name": "THICC MIA THICC",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 128836494,
-    "killmail_hash": "afd181830d1e7bb4bb6de42d572c05977e48736f",
-    "kill_time": "2025-07-28T02:24:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123231846,
-      "character_name": "Kenzo Nakamoto",
-      "corporation_id": 98551200,
-      "corporation_name": "African Atomic.",
-      "alliance_id": 99014062,
-      "alliance_name": "Dreadnought Diplomacy."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128836494/",
-    "total_value": 17787348453.77,
-    "final_attacker": {
-      "character_name": "Shanna Alabel",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Panther"
     }
   }
 ]
