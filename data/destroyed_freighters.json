@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129018085,
+    "killmail_hash": "7047dc358a3ca405d0e76308d4e5653c2d8e7382",
+    "kill_time": "2025-08-05T15:41:08Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000118,
+    "solar_system_name": "Uanzin",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 92718827,
+      "character_name": "Alexander Wiegel",
+      "corporation_id": 786820753,
+      "corporation_name": "Balanced Unity",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129018085/",
+    "total_value": 10483581710.47,
+    "final_attacker": {
+      "character_name": "Deadi9",
+      "corporation_name": "Dominion Guild",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 129014134,
     "killmail_hash": "1cdc230779abc748592b97a1a67e5711e608562b",
     "kill_time": "2025-08-05T10:39:27Z",
@@ -1713,58 +1739,6 @@
       "corporation_name": "New Eden Light Point College",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Cynabal"
-    }
-  },
-  {
-    "killmail_id": 128862623,
-    "killmail_hash": "5cd4a059041c78501033a1dab9cfbcdc1be61d34",
-    "kill_time": "2025-07-29T14:24:03Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122451394,
-      "character_name": "Lane Jura Stenier-Tian",
-      "corporation_id": 98796996,
-      "corporation_name": "SADINDY INC.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128862623/",
-    "total_value": 2271863852.14,
-    "final_attacker": {
-      "character_name": "WUkong Arthie",
-      "corporation_name": "Obsidian Armament",
-      "alliance_name": "Another Corp Expelled",
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 128862535,
-    "killmail_hash": "03be4bb421136c424f6dd87f1fc54b30f97a6862",
-    "kill_time": "2025-07-29T14:20:03Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116811526,
-      "character_name": "Monney Ray",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128862535/",
-    "total_value": 3613630848.8,
-    "final_attacker": {
-      "character_name": "Highsec Administration",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
