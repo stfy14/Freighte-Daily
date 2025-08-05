@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129009082,
+    "killmail_hash": "b50807264991a0208ea7f64c4993ef739b0b20e1",
+    "kill_time": "2025-08-05T01:56:50Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003067,
+    "solar_system_name": "Huola",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 2115897348,
+      "character_name": "Nurid Ostus",
+      "corporation_id": 98749561,
+      "corporation_name": "Artful Copycats",
+      "alliance_id": 99010193,
+      "alliance_name": "Ivy League Alt Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129009082/",
+    "total_value": 3239835734.83,
+    "final_attacker": {
+      "character_name": "MekhiJuggalo Madrox",
+      "corporation_name": "LowKey Ops",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129004249,
     "killmail_hash": "a458e22aa27d659ab61ff2c069307e2e7d1033d9",
     "kill_time": "2025-08-04T20:08:39Z",
@@ -1739,84 +1765,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128853399,
-    "killmail_hash": "f2ffd50030d4dcfacc338a4d262649d2c6e6ba71",
-    "kill_time": "2025-07-28T23:46:18Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1600275234,
-      "character_name": "Anystasia",
-      "corporation_id": 98127768,
-      "corporation_name": "Lightly Seared on the Reality Grill",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128853399/",
-    "total_value": 13534316014.83,
-    "final_attacker": {
-      "character_name": "Infinity38",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128851211,
-    "killmail_hash": "b4232f57805a17dcd1c9767d273bcecb1a29f5a2",
-    "kill_time": "2025-07-28T21:09:54Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000044,
-    "solar_system_name": "Faspera",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2116708400,
-      "character_name": "Paris Kouvo",
-      "corporation_id": 98657953,
-      "corporation_name": "Cosmos Industrial",
-      "alliance_id": 99011291,
-      "alliance_name": "Cosmos Origins"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128851211/",
-    "total_value": 2140883760.36,
-    "final_attacker": {
-      "character_name": "Yskari",
-      "corporation_name": "Crielere Cloaking Technologies",
-      "alliance_name": "Desolate.",
-      "ship_type_name": "Machariel"
-    }
-  },
-  {
-    "killmail_id": 128850700,
-    "killmail_hash": "0d71d17e4188cacc0cbef0b74ccf305353330bfa",
-    "kill_time": "2025-07-28T20:41:36Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003965,
-    "solar_system_name": "V-3U8T",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 2122604802,
-      "character_name": "2 Dragons",
-      "corporation_id": 98187780,
-      "corporation_name": "Zarnfell",
-      "alliance_id": 99012770,
-      "alliance_name": "Black Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/128850700/",
-    "total_value": 15418230738.03,
-    "final_attacker": {
-      "character_name": "XxLocalChatBotxX",
-      "corporation_name": "Jump 2 Beacon",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
