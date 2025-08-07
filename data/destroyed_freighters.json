@@ -1792,57 +1792,5 @@
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 128906752,
-    "killmail_hash": "888579d3c0a06c7b2317cc742747374951ba4778",
-    "kill_time": "2025-07-31T19:50:21Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004244,
-    "solar_system_name": "Onanam",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 2117395864,
-      "character_name": "Amanda Zasha",
-      "corporation_id": 98809814,
-      "corporation_name": "Eye of the Golden Sun",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128906752/",
-    "total_value": 1973806361.29,
-    "final_attacker": {
-      "character_name": "player1222",
-      "corporation_name": "RadioActivia",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 128904792,
-    "killmail_hash": "77882f6e9cf494f03884f920a8fd6fc7736903fe",
-    "kill_time": "2025-07-31T18:15:58Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123467469,
-      "character_name": "AureaLunarisFortuna",
-      "corporation_id": 98805195,
-      "corporation_name": "Lightyears Apart",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128904792/",
-    "total_value": 4801400405.95,
-    "final_attacker": {
-      "character_name": "Dankeguy",
-      "corporation_name": "Africanized Enraged HIV Wasps",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
