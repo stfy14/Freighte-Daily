@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 129053785,
+    "killmail_hash": "204dcf44f76edb063ffd49a27662dc96fe304a81",
+    "kill_time": "2025-08-07T12:49:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 92583956,
+      "character_name": "MrPatasCZ AmaRR",
+      "corporation_id": 98349754,
+      "corporation_name": "Amenty Industies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129053785/",
+    "total_value": 1975821324.93,
+    "final_attacker": {
+      "character_name": "EF Zeta",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 129051419,
+    "killmail_hash": "af00b0f8b2d173071d91e97961a2224e6c4caba5",
+    "kill_time": "2025-08-07T08:38:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120888059,
+      "character_name": "Dedritte Thiesant",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129051419/",
+    "total_value": 4733435506.27,
+    "final_attacker": {
+      "character_name": "zLegion O",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129050147,
     "killmail_hash": "6e1379ba131aad5999700ea171e43f465cf28fcf",
     "kill_time": "2025-08-07T06:18:10Z",
@@ -1817,32 +1869,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128899002,
-    "killmail_hash": "860c3889caa124224fbbfb90e87de8fd523b0dde",
-    "kill_time": "2025-07-31T12:11:35Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000969,
-    "solar_system_name": "9SNK-O",
-    "region_name": "Great Wildlands",
-    "victim": {
-      "character_id": 93619000,
-      "character_name": "Pj Tickler",
-      "corporation_id": 98270640,
-      "corporation_name": "BOVRIL bOREers Mining CO-OP",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128899002/",
-    "total_value": 51693186919.68,
-    "final_attacker": {
-      "character_name": "Deadi9",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Marshal"
     }
   }
 ]
