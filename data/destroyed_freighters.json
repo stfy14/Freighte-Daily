@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129074211,
+    "killmail_hash": "1f1b75405f33cd3f43c7abec66b95158a53eaa1c",
+    "kill_time": "2025-08-08T14:05:55Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001049,
+    "solar_system_name": "Farit",
+    "region_name": "Curse",
+    "victim": {
+      "character_id": 495530085,
+      "character_name": "Antonio Martinez",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129074211/",
+    "total_value": 9974774375.17,
+    "final_attacker": {
+      "character_name": "Sylv4nnas Windrunner",
+      "corporation_name": "Hedion University",
+      "alliance_name": null,
+      "ship_type_name": "Eris"
+    }
+  },
+  {
     "killmail_id": 129071707,
     "killmail_hash": "3a91412a1e912920810316435d2bfa86cf6982d5",
     "kill_time": "2025-08-08T10:27:41Z",
@@ -1713,32 +1739,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 128919537,
-    "killmail_hash": "20e7927c8584e11c705f97158ca9f5ca45c4f050",
-    "kill_time": "2025-08-01T13:53:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2116461016,
-      "character_name": "Isak Heisenberg",
-      "corporation_id": 98057377,
-      "corporation_name": "Core Industry.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128919537/",
-    "total_value": 1974023856.11,
-    "final_attacker": {
-      "character_name": "whutbadmman",
-      "corporation_name": "Profane Proverb",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Vedmak"
     }
   }
 ]
