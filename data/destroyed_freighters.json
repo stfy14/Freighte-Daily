@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129066788,
+    "killmail_hash": "0dbe7728cd45482d76b7583bd45ffd0bdd6b1d3e",
+    "kill_time": "2025-08-08T01:58:05Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003833,
+    "solar_system_name": "Oulley",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 94961309,
+      "character_name": "Gaius Six",
+      "corporation_id": 98369771,
+      "corporation_name": "DickBucket Deliveries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129066788/",
+    "total_value": 11755671145.95,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
     "killmail_id": 129053785,
     "killmail_hash": "204dcf44f76edb063ffd49a27662dc96fe304a81",
     "kill_time": "2025-08-07T12:49:29Z",
@@ -1713,84 +1739,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128912266,
-    "killmail_hash": "234f3bdf8a52274ac3bf2ba5f7f5b003f938c4dc",
-    "kill_time": "2025-08-01T02:13:34Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2116277385,
-      "character_name": "Philip DeValois",
-      "corporation_id": 1000107,
-      "corporation_name": "The Scope",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128912266/",
-    "total_value": 2880540734.93,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 128910597,
-    "killmail_hash": "f507985c291916b047ffd791dbc85202de73740a",
-    "kill_time": "2025-07-31T23:36:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114553386,
-      "character_name": "Elon Bussy",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128910597/",
-    "total_value": 2393104993.06,
-    "final_attacker": {
-      "character_name": "Conor O'Brien",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 128907802,
-    "killmail_hash": "a72c5691efd9c38435cc17a47fcbd5a300a44dfe",
-    "kill_time": "2025-07-31T20:38:02Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118595869,
-      "character_name": "Endro Haklar",
-      "corporation_id": 98683339,
-      "corporation_name": "Endrohak Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128907802/",
-    "total_value": 17239242290.23,
-    "final_attacker": {
-      "character_name": "Infinity38",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
