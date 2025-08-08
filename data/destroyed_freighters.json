@@ -1688,57 +1688,5 @@
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 128925982,
-    "killmail_hash": "e30b9fa032bebf58f2d7cf62fc2798eb8d4dd9dc",
-    "kill_time": "2025-08-01T19:55:41Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92199180,
-      "character_name": "BadUser Arran",
-      "corporation_id": 98084418,
-      "corporation_name": "CBC FORGE",
-      "alliance_id": 99007855,
-      "alliance_name": "Mostly Newbies"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128925982/",
-    "total_value": 2204314096.63,
-    "final_attacker": {
-      "character_name": "Barotto XIII",
-      "corporation_name": "Th3 D3vil's Tears",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 128925054,
-    "killmail_hash": "480749dc51ad1b9b5befa3a9aba365f38fe685e6",
-    "kill_time": "2025-08-01T19:03:19Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95086036,
-      "character_name": "Jessica Sharisa",
-      "corporation_id": 98759940,
-      "corporation_name": "Radio Free Zerg",
-      "alliance_id": 99013442,
-      "alliance_name": "The Frog Foundry"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128925054/",
-    "total_value": 10555712766.13,
-    "final_attacker": {
-      "character_name": "ChimpChimpChimp",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Bane"
-    }
   }
 ]
