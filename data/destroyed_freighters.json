@@ -1402,57 +1402,5 @@
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Cenotaph"
     }
-  },
-  {
-    "killmail_id": 128939077,
-    "killmail_hash": "f5c368b02e10e07ea08e078767fa1e2382c0241d",
-    "kill_time": "2025-08-02T09:39:18Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 994862869,
-      "character_name": "Mystikar",
-      "corporation_id": 98057085,
-      "corporation_name": "Wing Blaster Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128939077/",
-    "total_value": 10414859085.39,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 128938810,
-    "killmail_hash": "2373d8e30c5a97ea64ac2b5f21be569c7cc7405b",
-    "kill_time": "2025-08-02T09:21:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92705148,
-      "character_name": "M MarkXXX",
-      "corporation_id": 98137352,
-      "corporation_name": "Warszawski Hipster Numer 1",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/128938810/",
-    "total_value": 4201623208.06,
-    "final_attacker": {
-      "character_name": "zLegion N",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
