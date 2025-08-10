@@ -26,6 +26,32 @@
     }
   },
   {
+    "killmail_id": 129098997,
+    "killmail_hash": "5b42de980ff82320ec15f33a15bc2d1f3738a087",
+    "kill_time": "2025-08-09T16:05:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2120888059,
+      "character_name": "Dedritte Thiesant",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129098997/",
+    "total_value": 1994905333.31,
+    "final_attacker": {
+      "character_name": "CareBears Stronk Together",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129097542,
     "killmail_hash": "508b1e3a75fba33324a027dad2f4ccac21b0be4a",
     "kill_time": "2025-08-09T14:52:37Z",
@@ -46,6 +72,32 @@
     "total_value": 3424090199.5,
     "final_attacker": {
       "character_name": "Wut A ResistHole",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 129095677,
+    "killmail_hash": "889a93a72c03cf43163f760217e498fa07f1ec04",
+    "kill_time": "2025-08-09T13:29:56Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1461565998,
+      "character_name": "Fantastic Spikes",
+      "corporation_id": 523242820,
+      "corporation_name": "Dirty Capitalist Pigs",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129095677/",
+    "total_value": 2415638898.04,
+    "final_attacker": {
+      "character_name": "Road2Salvation Starts Now",
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
       "ship_type_name": "Catalyst"
@@ -1401,32 +1453,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 128956841,
-    "killmail_hash": "a8204ba5b7fa6f7e6f20b5a541fdd7e2e8035525",
-    "kill_time": "2025-08-03T01:50:37Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000143,
-    "solar_system_name": "Niyabainen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121390076,
-      "character_name": "Akaelus",
-      "corporation_id": 98075412,
-      "corporation_name": "Grimm Hounds",
-      "alliance_id": 99001969,
-      "alliance_name": "SONS of BANE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/128956841/",
-    "total_value": 2301247680.9,
-    "final_attacker": {
-      "character_name": "GIVE ME 2BISK",
-      "corporation_name": "E.T.C",
-      "alliance_name": "NYPD Alliance",
-      "ship_type_name": "Stiletto"
     }
   }
 ]
