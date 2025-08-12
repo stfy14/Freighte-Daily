@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129157370,
+    "killmail_hash": "2dbcbd21851ca2913bb3e5df6b271c7f966cb785",
+    "kill_time": "2025-08-12T07:16:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93182360,
+      "character_name": "philip22 pangman",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129157370/",
+    "total_value": 5377122367.37,
+    "final_attacker": {
+      "character_name": "zLegion R",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129143650,
     "killmail_hash": "ae00425912916177cecf3112c146a216774239d7",
     "kill_time": "2025-08-11T14:28:31Z",
@@ -1270,32 +1296,6 @@
       "character_name": "zLegion K",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129010987,
-    "killmail_hash": "767dddf0600e5f667a48bb36a1b36626c23997db",
-    "kill_time": "2025-08-05T04:57:10Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2117633612,
-      "character_name": "Luri Isim",
-      "corporation_id": 98765367,
-      "corporation_name": "US Space Force",
-      "alliance_id": 99012770,
-      "alliance_name": "Black Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129010987/",
-    "total_value": 7536160756.02,
-    "final_attacker": {
-      "character_name": "Maroon'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
   }
