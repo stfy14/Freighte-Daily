@@ -986,57 +986,5 @@
       "alliance_name": "Ninja Unicorns with Huge Horns",
       "ship_type_name": "Hubris"
     }
-  },
-  {
-    "killmail_id": 129053785,
-    "killmail_hash": "204dcf44f76edb063ffd49a27662dc96fe304a81",
-    "kill_time": "2025-08-07T12:49:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 92583956,
-      "character_name": "MrPatasCZ AmaRR",
-      "corporation_id": 98349754,
-      "corporation_name": "Amenty Industies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129053785/",
-    "total_value": 1975821324.93,
-    "final_attacker": {
-      "character_name": "EF Zeta",
-      "corporation_name": "Endless-Fury",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 129051419,
-    "killmail_hash": "af00b0f8b2d173071d91e97961a2224e6c4caba5",
-    "kill_time": "2025-08-07T08:38:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120888059,
-      "character_name": "Dedritte Thiesant",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129051419/",
-    "total_value": 4733435506.27,
-    "final_attacker": {
-      "character_name": "zLegion O",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
