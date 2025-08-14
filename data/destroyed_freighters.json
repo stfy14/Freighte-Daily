@@ -1038,57 +1038,5 @@
       "alliance_name": "E.T.C-01",
       "ship_type_name": "Sin"
     }
-  },
-  {
-    "killmail_id": 129046768,
-    "killmail_hash": "3e548b2f30c777d3215b9025890f5ae9414a18b8",
-    "kill_time": "2025-08-07T01:18:40Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1763250178,
-      "character_name": "Dimdro",
-      "corporation_id": 98388339,
-      "corporation_name": "ACR Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129046768/",
-    "total_value": 20908194100.62,
-    "final_attacker": {
-      "character_name": "ChimpChimpChimp",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 129043292,
-    "killmail_hash": "f10e4f811936995f71f39493e119f5c91fc18da4",
-    "kill_time": "2025-08-06T20:49:25Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122726276,
-      "character_name": "Muncher of Anus",
-      "corporation_id": 98792834,
-      "corporation_name": "Firille Logistics",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129043292/",
-    "total_value": 8921329223.42,
-    "final_attacker": {
-      "character_name": "Sonic 37",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Praxis"
-    }
   }
 ]
