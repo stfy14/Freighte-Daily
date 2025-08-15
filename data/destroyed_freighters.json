@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129218926,
+    "killmail_hash": "b6745f8620b8c03fe03c781fe7f0b3ceb462ef94",
+    "kill_time": "2025-08-15T14:30:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91501873,
+      "character_name": "Vapor Mentrak",
+      "corporation_id": 98742595,
+      "corporation_name": "Orthevs",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129218926/",
+    "total_value": 5468140925.96,
+    "final_attacker": {
+      "character_name": "Megan Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129216580,
     "killmail_hash": "cfb6590b8feac729ff6f7db5d6a314447c72777b",
     "kill_time": "2025-08-15T12:32:43Z",
@@ -1011,32 +1037,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129074211,
-    "killmail_hash": "1f1b75405f33cd3f43c7abec66b95158a53eaa1c",
-    "kill_time": "2025-08-08T14:05:55Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001049,
-    "solar_system_name": "Farit",
-    "region_name": "Curse",
-    "victim": {
-      "character_id": 495530085,
-      "character_name": "Antonio Martinez",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129074211/",
-    "total_value": 9974774375.17,
-    "final_attacker": {
-      "character_name": "Sylv4nnas Windrunner",
-      "corporation_name": "Hedion University",
-      "alliance_name": null,
-      "ship_type_name": "Eris"
     }
   }
 ]
