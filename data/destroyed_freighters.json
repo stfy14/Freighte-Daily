@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129233756,
+    "killmail_hash": "559db22fd5155516c407b4506027af3394daa371",
+    "kill_time": "2025-08-16T04:25:05Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95203137,
+      "character_name": "Toots McGee",
+      "corporation_id": 384667640,
+      "corporation_name": "Black Frog Logistics",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129233756/",
+    "total_value": 24230770554.76,
+    "final_attacker": {
+      "character_name": "zLegion F",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 129231384,
     "killmail_hash": "2abcf52404c0358fdfb38a3c537e62e578b80551",
     "kill_time": "2025-08-16T01:54:31Z",
