@@ -1168,57 +1168,5 @@
       "alliance_name": "Sorority",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 129119841,
-    "killmail_hash": "681f1d212b902c996d7df01aa89469d826439c0c",
-    "kill_time": "2025-08-10T12:47:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119112093,
-      "character_name": "Lucius Atticus",
-      "corporation_id": 98807925,
-      "corporation_name": "Drill-And-Kill",
-      "alliance_id": 99007906,
-      "alliance_name": "EDGE Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129119841/",
-    "total_value": 7214107394.79,
-    "final_attacker": {
-      "character_name": "Bath Salt Babe",
-      "corporation_name": "Abusing Game Mechanics",
-      "alliance_name": "R-E-A-V-E-R-S",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129116673,
-    "killmail_hash": "0eaa9372db434ed6204c53d13c0da45b29f28f2f",
-    "kill_time": "2025-08-10T08:36:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002803,
-    "solar_system_name": "Juunigaishi",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90739724,
-      "character_name": "Defanos Kordas",
-      "corporation_id": 98754389,
-      "corporation_name": "Renegade 2.0",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129116673/",
-    "total_value": 13241617563.37,
-    "final_attacker": {
-      "character_name": "zLegion Q",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
