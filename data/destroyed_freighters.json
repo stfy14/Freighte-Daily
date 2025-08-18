@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129287969,
+    "killmail_hash": "4add2bfbba5523888632be436ac0d6558b64f258",
+    "kill_time": "2025-08-18T15:53:52Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1816560973,
+      "character_name": "Nuamara",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129287969/",
+    "total_value": 19867759633.49,
+    "final_attacker": {
+      "character_name": "Mary Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129274861,
     "killmail_hash": "4c4787e167eb41e683d2561dc623ed806a643cb7",
     "kill_time": "2025-08-17T22:18:28Z",
@@ -1140,84 +1166,6 @@
       "character_name": "zLegion R",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129143650,
-    "killmail_hash": "ae00425912916177cecf3112c146a216774239d7",
-    "kill_time": "2025-08-11T14:28:31Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114237453,
-      "character_name": "HOFFMAN S2000",
-      "corporation_id": 98669523,
-      "corporation_name": "Airwolf incorporated",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129143650/",
-    "total_value": 8555379889.54,
-    "final_attacker": {
-      "character_name": "Maple Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129143567,
-    "killmail_hash": "aec2ae9f262f24f16e9377658a3d83cea918de06",
-    "kill_time": "2025-08-11T14:23:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96653111,
-      "character_name": "Ashley O'Sullivan",
-      "corporation_id": 98517952,
-      "corporation_name": "NorekMart Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129143567/",
-    "total_value": 15525846471.82,
-    "final_attacker": {
-      "character_name": "Bitch of blaster",
-      "corporation_name": "Brazilian Templars",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129143107,
-    "killmail_hash": "865326f8b24088b6b7efdafc3cde8ac50233c500",
-    "kill_time": "2025-08-11T13:51:23Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2120636990,
-      "character_name": "Titan Atlas",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129143107/",
-    "total_value": 9477696700.39,
-    "final_attacker": {
-      "character_name": "Margaret Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
     }
   }
