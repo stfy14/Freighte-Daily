@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129314083,
+    "killmail_hash": "cf8369d2f491fe26fd00cccda55f4344b9a7291d",
+    "kill_time": "2025-08-19T20:48:12Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 96316274,
+      "character_name": "Malek Upshur",
+      "corporation_id": 98721157,
+      "corporation_name": "Zec Industries",
+      "alliance_id": 99013212,
+      "alliance_name": "Crimson Interstellar Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129314083/",
+    "total_value": 5221989842.32,
+    "final_attacker": {
+      "character_name": "Matilda Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129311722,
     "killmail_hash": "e1f3a482c39c6f27992486731018a65f360fb03d",
     "kill_time": "2025-08-19T18:50:32Z",
@@ -1375,58 +1401,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 129170515,
-    "killmail_hash": "05a6f36a5e173979c5c64aa3d6d5230879bdc990",
-    "kill_time": "2025-08-12T22:18:42Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1597633369,
-      "character_name": "Chaosstation",
-      "corporation_id": 144534752,
-      "corporation_name": "Mercurialis Inc.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129170515/",
-    "total_value": 12695912582.74,
-    "final_attacker": {
-      "character_name": "MystinaCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129169319,
-    "killmail_hash": "dd27ac15457717bb6faeb7415d12df3d275c20e7",
-    "kill_time": "2025-08-12T21:00:22Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30005133,
-    "solar_system_name": "MJ-5F9",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 2112619217,
-      "character_name": "Mefras Sargo",
-      "corporation_id": 98609309,
-      "corporation_name": "Arctic Guard",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129169319/",
-    "total_value": 12184892269.6,
-    "final_attacker": {
-      "character_name": "XxJaNxX",
-      "corporation_name": "Shadow Legion X",
-      "alliance_name": "Seriously Suspicious",
-      "ship_type_name": "Brutix Navy Issue"
     }
   }
 ]
