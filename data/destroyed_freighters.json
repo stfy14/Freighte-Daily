@@ -1402,57 +1402,5 @@
       "alliance_name": "name909954",
       "ship_type_name": "Megathron Navy Issue"
     }
-  },
-  {
-    "killmail_id": 129192861,
-    "killmail_hash": "d97246a4aaaee1db3dd08a6af5a84410394b030e",
-    "kill_time": "2025-08-14T04:04:01Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2118237046,
-      "character_name": "Atlote Maricadie",
-      "corporation_id": 98677450,
-      "corporation_name": "Mage Industry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129192861/",
-    "total_value": 2267923580.68,
-    "final_attacker": {
-      "character_name": "EF Gamma",
-      "corporation_name": "Endless-Fury",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 129191272,
-    "killmail_hash": "1cba704358aacec0311e7e02ef88e06d3a25e21e",
-    "kill_time": "2025-08-14T02:15:44Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123620841,
-      "character_name": "Edih Adavar",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129191272/",
-    "total_value": 2186497337.95,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
-    }
   }
 ]
