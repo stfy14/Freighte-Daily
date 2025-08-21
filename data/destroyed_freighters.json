@@ -1376,57 +1376,5 @@
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 129198566,
-    "killmail_hash": "df05ad1c52f4be0af4181ce66b26cfaf6e633dc3",
-    "kill_time": "2025-08-14T13:43:53Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30004759,
-    "solar_system_name": "1DQ1-A",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 675855022,
-      "character_name": "Avestina",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129198566/",
-    "total_value": 61697216735.61,
-    "final_attacker": {
-      "character_name": "Axr",
-      "corporation_name": "Special law enforcement department",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129198148,
-    "killmail_hash": "479a729d95cbb2cc17a9aa3fd393275a9d43d591",
-    "kill_time": "2025-08-14T13:17:49Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1331411813,
-      "character_name": "Cyzlaki",
-      "corporation_id": 98793267,
-      "corporation_name": "BRAWLS DEEP",
-      "alliance_id": 99013809,
-      "alliance_name": "HYPE-TRAIN"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129198148/",
-    "total_value": 2266558188.85,
-    "final_attacker": {
-      "character_name": "Urpasen Suja Haginen",
-      "corporation_name": "E.T.C",
-      "alliance_name": "name909954",
-      "ship_type_name": "Megathron Navy Issue"
-    }
   }
 ]
