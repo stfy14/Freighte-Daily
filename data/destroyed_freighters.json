@@ -1376,57 +1376,5 @@
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 129216580,
-    "killmail_hash": "cfb6590b8feac729ff6f7db5d6a314447c72777b",
-    "kill_time": "2025-08-15T12:32:43Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 92297423,
-      "character_name": "Malorhad",
-      "corporation_id": 98811222,
-      "corporation_name": "Bavaria-Austria",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129216580/",
-    "total_value": 4113100317.43,
-    "final_attacker": {
-      "character_name": "Margaret Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129214700,
-    "killmail_hash": "8712b768d83f2c98ec01f106777730dc30331bb3",
-    "kill_time": "2025-08-15T09:11:19Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115115045,
-      "character_name": "Naga 3",
-      "corporation_id": 98595253,
-      "corporation_name": "Absolute Order II",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129214700/",
-    "total_value": 19471638188.18,
-    "final_attacker": {
-      "character_name": "Mean1e",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
