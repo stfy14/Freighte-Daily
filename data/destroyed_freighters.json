@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129364312,
+    "killmail_hash": "5d87f2f493ae9e137f7849c8139910dcac905a60",
+    "kill_time": "2025-08-22T12:57:33Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121702024,
+      "character_name": "Saksology",
+      "corporation_id": 98630616,
+      "corporation_name": "Absolute Order IV",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129364312/",
+    "total_value": 2404158182.45,
+    "final_attacker": {
+      "character_name": "Edgy Shadow-Lord",
+      "corporation_name": "Deaths Shitposters",
+      "alliance_name": "I have a jar of relish I cant open",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129360994,
     "killmail_hash": "5a7109b80cfefc2ec4e0bfa67851f1a6edc5bc10",
     "kill_time": "2025-08-22T07:45:48Z",
@@ -1349,32 +1375,6 @@
       "corporation_name": "BlackCore Tactics",
       "alliance_name": "Ahbazon-Prime",
       "ship_type_name": "Avalanche"
-    }
-  },
-  {
-    "killmail_id": 129218926,
-    "killmail_hash": "b6745f8620b8c03fe03c781fe7f0b3ceb462ef94",
-    "kill_time": "2025-08-15T14:30:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91501873,
-      "character_name": "Vapor Mentrak",
-      "corporation_id": 98742595,
-      "corporation_name": "Orthevs",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129218926/",
-    "total_value": 5468140925.96,
-    "final_attacker": {
-      "character_name": "Megan Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
