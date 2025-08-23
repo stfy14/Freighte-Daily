@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129385409,
+    "killmail_hash": "bf9ecca513f0376fc672f3bd8969db51e1c70aeb",
+    "kill_time": "2025-08-23T10:19:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005203,
+    "solar_system_name": "Ourapheh",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 93386312,
+      "character_name": "Pol Stilbon",
+      "corporation_id": 98595795,
+      "corporation_name": "Pol Stilbon Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129385409/",
+    "total_value": 2476172199.96,
+    "final_attacker": {
+      "character_name": "Leah Virpio",
+      "corporation_name": "Brittas Empire",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 129381697,
     "killmail_hash": "fb6b8492e26b030da842f074b5b0ac5d38799c28",
     "kill_time": "2025-08-23T05:15:02Z",
@@ -1245,32 +1271,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129237233,
-    "killmail_hash": "47890e49b97580a44d6e62d85b965d577319a90c",
-    "kill_time": "2025-08-16T09:21:59Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114697864,
-      "character_name": "Zcar 04",
-      "corporation_id": 98664866,
-      "corporation_name": "DoDo Freight",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129237233/",
-    "total_value": 3934252670.18,
-    "final_attacker": {
-      "character_name": "zLegion Q",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
