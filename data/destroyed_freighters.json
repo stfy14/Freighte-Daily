@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129381697,
+    "killmail_hash": "fb6b8492e26b030da842f074b5b0ac5d38799c28",
+    "kill_time": "2025-08-23T05:15:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116334184,
+      "character_name": "Tavis Vemane",
+      "corporation_id": 98700933,
+      "corporation_name": "Hadak Ura Industries",
+      "alliance_id": 99012576,
+      "alliance_name": "Terran Consortium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129381697/",
+    "total_value": 2378274937.75,
+    "final_attacker": {
+      "character_name": "Livid Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 129374679,
     "killmail_hash": "91c80d340ae1fd04562b886515bc5e4c212e0960",
     "kill_time": "2025-08-22T22:01:20Z",
@@ -1242,58 +1268,6 @@
     "total_value": 3934252670.18,
     "final_attacker": {
       "character_name": "zLegion Q",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129235888,
-    "killmail_hash": "e8db8c8fb59c26c2427591907ec206c27a875b25",
-    "kill_time": "2025-08-16T07:22:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002812,
-    "solar_system_name": "Tannolen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123142352,
-      "character_name": "Molly Steinberg",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129235888/",
-    "total_value": 3565751429.65,
-    "final_attacker": {
-      "character_name": "DiamondDog",
-      "corporation_name": "T H E . K R A K E N",
-      "alliance_name": "OUT OF THE DEEP",
-      "ship_type_name": "Machariel"
-    }
-  },
-  {
-    "killmail_id": 129235443,
-    "killmail_hash": "1373791cb9e71c4c679b8b0550fa1cbaa8d5927a",
-    "kill_time": "2025-08-16T06:40:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120800983,
-      "character_name": "Jessica Firestrorm",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129235443/",
-    "total_value": 7582959712.91,
-    "final_attacker": {
-      "character_name": "zLegion",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
