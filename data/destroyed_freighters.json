@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 129407560,
+    "killmail_hash": "588bb6e36c0c3f51c5ca87d83f21c97389320566",
+    "kill_time": "2025-08-24T06:21:58Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004738,
+    "solar_system_name": "1-SMEB",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2120333619,
+      "character_name": "Abren Edald Garsk",
+      "corporation_id": 98598862,
+      "corporation_name": "Chaos arbiter",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/129407560/",
+    "total_value": 23614503228.79,
+    "final_attacker": {
+      "character_name": "Biowolf Jets",
+      "corporation_name": "BLOBinA",
+      "alliance_name": "Can i bring my Drake...",
+      "ship_type_name": "Vexor"
+    }
+  },
+  {
+    "killmail_id": 129406374,
+    "killmail_hash": "575624fb793f9e240e858954a51d7c204ff637b0",
+    "kill_time": "2025-08-24T04:57:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30045324,
+    "solar_system_name": "Onnamon",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 538684985,
+      "character_name": "Mattias Baptiste",
+      "corporation_id": 98583514,
+      "corporation_name": "Compagnie des Operations Ordinateur Logiciel",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129406374/",
+    "total_value": 2465119631.53,
+    "final_attacker": {
+      "character_name": "ScheenK",
+      "corporation_name": "StatiC Ex.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
     "killmail_id": 129405225,
     "killmail_hash": "2afc8470b83f4111548084a96401f507d750f8a2",
     "kill_time": "2025-08-24T03:37:50Z",
@@ -1141,58 +1193,6 @@
       "corporation_name": "Gapped out",
       "alliance_name": "Shadow Cartel",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129257319,
-    "killmail_hash": "57fdb1f15b7b187a45e2b0784a6ef8fed4a48fd9",
-    "kill_time": "2025-08-17T04:56:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122148588,
-      "character_name": "eveerzhoumu",
-      "corporation_id": 98772842,
-      "corporation_name": "New Eden Light Point College",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129257319/",
-    "total_value": 6833390914.71,
-    "final_attacker": {
-      "character_name": "Phoenix venom",
-      "corporation_name": "Bloodsworn",
-      "alliance_name": "Apocalypse Now.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 129257310,
-    "killmail_hash": "c5fddfbb2c18c9548a6e1039e9f0718ae9fcdefc",
-    "kill_time": "2025-08-17T04:55:49Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003572,
-    "solar_system_name": "Vevelonel",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 93903522,
-      "character_name": "Cavamal",
-      "corporation_id": 1000114,
-      "corporation_name": "Garoun Investment Bank",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129257310/",
-    "total_value": 4440279834.37,
-    "final_attacker": {
-      "character_name": "Modern Inferno",
-      "corporation_name": "Southern Cross Silver Shields",
-      "alliance_name": "Flying Dangerous",
-      "ship_type_name": "Panther"
     }
   }
 ]
