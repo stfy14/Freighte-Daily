@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129417353,
+    "killmail_hash": "1aebdc3c5b9498cef50d9cd94f0e7acbd39c84b6",
+    "kill_time": "2025-08-24T15:49:16Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122373039,
+      "character_name": "Jimmy Keogh",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129417353/",
+    "total_value": 18548764811.82,
+    "final_attacker": {
+      "character_name": "Ch4rli3",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 129411235,
     "killmail_hash": "32f75bfbf9289ec87736ad2e48c2369ec40da034",
     "kill_time": "2025-08-24T10:42:28Z",
@@ -1193,58 +1219,6 @@
       "corporation_name": "Dark-Rising",
       "alliance_name": "Wrecking Machine.",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 129265239,
-    "killmail_hash": "11cf729853a339d3aa1ffd5f5d5ee008e04945f0",
-    "kill_time": "2025-08-17T14:23:51Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2115931172,
-      "character_name": "Fluorite Yuuki",
-      "corporation_id": 98593679,
-      "corporation_name": "Humpback Whale Logistic",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129265239/",
-    "total_value": 19065887853.65,
-    "final_attacker": {
-      "character_name": "chimpout 13",
-      "corporation_name": "Gapped out",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129265226,
-    "killmail_hash": "b825c8dbbf8d9510f7e6cfd6d3feef928d8c380d",
-    "kill_time": "2025-08-17T14:23:33Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2115880919,
-      "character_name": "Fluorite Yu",
-      "corporation_id": 98593679,
-      "corporation_name": "Humpback Whale Logistic",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129265226/",
-    "total_value": 46867561352.93,
-    "final_attacker": {
-      "character_name": "chimpout 11",
-      "corporation_name": "Gapped out",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
