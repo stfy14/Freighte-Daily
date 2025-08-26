@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129458452,
+    "killmail_hash": "66311d3c4bdba52f90971126e40c14ca25c79013",
+    "kill_time": "2025-08-26T14:56:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002792,
+    "solar_system_name": "Irjunen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 909099883,
+      "character_name": "Alex Cash",
+      "corporation_id": 1275189296,
+      "corporation_name": "Rearden Industrial Concern",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129458452/",
+    "total_value": 26231958402.63,
+    "final_attacker": {
+      "character_name": "tappedout",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 129454429,
     "killmail_hash": "03f20ed2d25250d0273c52670c7c1d629bf7ee45",
     "kill_time": "2025-08-26T09:52:13Z",
@@ -1294,32 +1320,6 @@
     "total_value": 3835761436.08,
     "final_attacker": {
       "character_name": "Little Miss Naughty",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 129308892,
-    "killmail_hash": "0f7a453e946d9a31cf0cf3b58e930d03facb273e",
-    "kill_time": "2025-08-19T16:14:14Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123667805,
-      "character_name": "Chaotic Wheelie",
-      "corporation_id": 98697448,
-      "corporation_name": "The Dead Woods",
-      "alliance_id": 99011119,
-      "alliance_name": "Absolute Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129308892/",
-    "total_value": 2021036980.87,
-    "final_attacker": {
-      "character_name": "Little Miss Jealous",
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Oracle"
