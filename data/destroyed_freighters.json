@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129449798,
+    "killmail_hash": "60a31e06505e76b1448141faaa13d7597f548da3",
+    "kill_time": "2025-08-26T02:00:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000899,
+    "solar_system_name": "QFF-O6",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 2120968118,
+      "character_name": "Auny Ambrye",
+      "corporation_id": 98716632,
+      "corporation_name": "Salamandras Prime",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/129449798/",
+    "total_value": 1963892781.02,
+    "final_attacker": {
+      "character_name": "Bruja del Mar",
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_name": "Hard Knocks Citizens",
+      "ship_type_name": "Nighthawk"
+    }
+  },
+  {
     "killmail_id": 129449116,
     "killmail_hash": "7d92f26a7260f15246da50d9c61ae1525620497d",
     "kill_time": "2025-08-26T00:55:17Z",
@@ -1323,58 +1349,6 @@
       "corporation_name": "Independent Chamber of Unstable Misfits",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129300114,
-    "killmail_hash": "0d25bc5c979fc93b3eb385b6ba0a21b1bc349d7a",
-    "kill_time": "2025-08-19T04:28:42Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2118216361,
-      "character_name": "Renden1",
-      "corporation_id": 98672495,
-      "corporation_name": "MOONFIRE LEGION",
-      "alliance_id": 99012328,
-      "alliance_name": "STAKAN UNIVERSE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129300114/",
-    "total_value": 2343483145.96,
-    "final_attacker": {
-      "character_name": "Zi Pan",
-      "corporation_name": "The Dark Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 129298383,
-    "killmail_hash": "7ea91833be5f208a223755b26629b54c9a815845",
-    "kill_time": "2025-08-19T02:29:14Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001446,
-    "solar_system_name": "Otsasai",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 349342476,
-      "character_name": "Behe Raceeend",
-      "corporation_id": 98734986,
-      "corporation_name": "A despicable person",
-      "alliance_id": 99013160,
-      "alliance_name": "Siberian Renters."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129298383/",
-    "total_value": 13968302171.1,
-    "final_attacker": {
-      "character_name": "Polar Sky",
-      "corporation_name": "Dirty Vagrants",
-      "alliance_name": "Intergalactic Space Hobos",
-      "ship_type_name": "Wolf"
     }
   }
 ]
