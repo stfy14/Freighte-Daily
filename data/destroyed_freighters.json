@@ -1480,57 +1480,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
     }
-  },
-  {
-    "killmail_id": 129372445,
-    "killmail_hash": "552bd194eab4fe41667bff4ffb24369706f502e9",
-    "kill_time": "2025-08-22T20:16:55Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123625001,
-      "character_name": "Adrian Thorsson",
-      "corporation_id": 98649916,
-      "corporation_name": "Austrian Red Bull Corp.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129372445/",
-    "total_value": 2208133608.08,
-    "final_attacker": {
-      "character_name": "Matrosov Glengoski Razyashchiy",
-      "corporation_name": "Vapor Lock.",
-      "alliance_name": "Vapor-Lock",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 129370288,
-    "killmail_hash": "f9b12f3b9a525da44938314c6df8df21e3ab79a8",
-    "kill_time": "2025-08-22T18:37:10Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003722,
-    "solar_system_name": "OXIY-V",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 1637055261,
-      "character_name": "William Truga",
-      "corporation_id": 98095599,
-      "corporation_name": "Amarrian Acquisitions Limited",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129370288/",
-    "total_value": 2039919005.11,
-    "final_attacker": {
-      "character_name": "Psyre 13",
-      "corporation_name": "Suddenly a Covert Cyno",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
