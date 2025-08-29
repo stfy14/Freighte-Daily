@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129509832,
+    "killmail_hash": "ffa28b1654b88cf5c9ce3a24034b0a50a2942f6f",
+    "kill_time": "2025-08-29T02:09:38Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2119538983,
+      "character_name": "Stevie West",
+      "corporation_id": 98764913,
+      "corporation_name": "Voyage and Velocity Logistics Solutions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129509832/",
+    "total_value": 9794829259.62,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 129508544,
     "killmail_hash": "f134d0d86632c763519a33f3bab1abb0167646e8",
     "kill_time": "2025-08-29T00:16:16Z",
@@ -1609,58 +1635,6 @@
       "corporation_name": "Dependable Delinquents",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129358982,
-    "killmail_hash": "4308525cfd4987fe45e51999418dee6146220eca",
-    "kill_time": "2025-08-22T04:02:59Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003834,
-    "solar_system_name": "Chardalane",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2118598259,
-      "character_name": "BorgPotatoe",
-      "corporation_id": 98746975,
-      "corporation_name": "Blackrock Vanguard",
-      "alliance_id": 741557221,
-      "alliance_name": "RAZOR Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129358982/",
-    "total_value": 9908809465.35,
-    "final_attacker": {
-      "character_name": "Kasper Skov",
-      "corporation_name": "Constantine.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 129358385,
-    "killmail_hash": "28720d90bc7db4fcc5edf211fd82f88e87c93788",
-    "kill_time": "2025-08-22T03:18:25Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122098552,
-      "character_name": "Zelotes Rockhunter",
-      "corporation_id": 98595099,
-      "corporation_name": "Vanguard Dynamics",
-      "alliance_id": 99014221,
-      "alliance_name": "Weapons of Mass Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129358385/",
-    "total_value": 36286177469.89,
-    "final_attacker": {
-      "character_name": "zLegion Q",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
