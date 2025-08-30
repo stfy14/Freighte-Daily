@@ -650,6 +650,32 @@
     }
   },
   {
+    "killmail_id": 129483438,
+    "killmail_hash": "7f72b87c22e797ab3b58eeab072f73aa9ae2bfdf",
+    "kill_time": "2025-08-27T18:36:44Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31000495,
+    "solar_system_name": "J231517",
+    "region_name": "B-R00005",
+    "victim": {
+      "character_id": 1061643970,
+      "character_name": "Nishai",
+      "corporation_id": 98758422,
+      "corporation_name": "Consultancy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129483438/",
+    "total_value": 2046119986.82,
+    "final_attacker": {
+      "character_name": "Jeremiah Galtus",
+      "corporation_name": "Exploding Pixels",
+      "alliance_name": null,
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 129478094,
     "killmail_hash": "498a8067cf47724425ecd11822d27b979b39eaf6",
     "kill_time": "2025-08-27T13:28:37Z",
@@ -1557,32 +1583,6 @@
       "corporation_name": "Aggressive Optimisim",
       "alliance_name": "Desolate.",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 129395552,
-    "killmail_hash": "8a2abe7fb0bfea8bcdecbcc66c5b87a73d16f332",
-    "kill_time": "2025-08-23T19:00:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 96582919,
-      "character_name": "Bellvy Gin",
-      "corporation_id": 98808817,
-      "corporation_name": "Knight of Zero Ultra",
-      "alliance_id": 99014293,
-      "alliance_name": "Pale Sanctum Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129395552/",
-    "total_value": 10434511112.52,
-    "final_attacker": {
-      "character_name": "098765",
-      "corporation_name": "Gapped out",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Python"
     }
   }
 ]
