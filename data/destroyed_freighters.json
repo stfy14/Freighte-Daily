@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129536880,
+    "killmail_hash": "56097f7ee92ae41d8aaf62a975108738248ed7df",
+    "kill_time": "2025-08-30T10:00:25Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001090,
+    "solar_system_name": "RIU-GC",
+    "region_name": "Malpais",
+    "victim": {
+      "character_id": 364200139,
+      "character_name": "Intercold",
+      "corporation_id": 481577072,
+      "corporation_name": "The Vanguard of Dragon Knights",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129536880/",
+    "total_value": 207478534793.19,
+    "final_attacker": {
+      "character_name": "Malakai Asamov",
+      "corporation_name": "Van Diemen's Demise",
+      "alliance_name": "Northern Coalition.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129535162,
     "killmail_hash": "d0fd85a891fbc14c7dc78a16a15904ee9d4c9b66",
     "kill_time": "2025-08-30T07:34:55Z",
@@ -1557,32 +1583,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 129385409,
-    "killmail_hash": "bf9ecca513f0376fc672f3bd8969db51e1c70aeb",
-    "kill_time": "2025-08-23T10:19:53Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005203,
-    "solar_system_name": "Ourapheh",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 93386312,
-      "character_name": "Pol Stilbon",
-      "corporation_id": 98595795,
-      "corporation_name": "Pol Stilbon Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129385409/",
-    "total_value": 2476172199.96,
-    "final_attacker": {
-      "character_name": "Leah Virpio",
-      "corporation_name": "Brittas Empire",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Proteus"
     }
   }
 ]
