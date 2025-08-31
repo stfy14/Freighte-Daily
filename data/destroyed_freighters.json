@@ -1506,57 +1506,5 @@
       "alliance_name": null,
       "ship_type_name": "Auga Hypophysis"
     }
-  },
-  {
-    "killmail_id": 129422969,
-    "killmail_hash": "c6e88ad933d6cc42e750d866eea61a99375c618b",
-    "kill_time": "2025-08-24T19:45:15Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000019,
-    "solar_system_name": "Podion",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 93904352,
-      "character_name": "IxDeathRattlexI",
-      "corporation_id": 98805190,
-      "corporation_name": "Slightly VEN0M0US",
-      "alliance_id": 99014247,
-      "alliance_name": "Twenty Thousand Leagues Out of the SEA."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129422969/",
-    "total_value": 9572021548.28,
-    "final_attacker": {
-      "character_name": "Coxinormus",
-      "corporation_name": "Hostile.",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129421758,
-    "killmail_hash": "e8891b254e3b6afaf1a5b4be8276338a22d56692",
-    "kill_time": "2025-08-24T18:50:43Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 90516965,
-      "character_name": "Tol'dakk",
-      "corporation_id": 98457318,
-      "corporation_name": "Rotciv Rrama Industries",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129421758/",
-    "total_value": 10444937350.93,
-    "final_attacker": {
-      "character_name": "chimpout 07",
-      "corporation_name": "Gapped out",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
