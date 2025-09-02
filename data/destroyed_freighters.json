@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129605720,
+    "killmail_hash": "3c94d615e60858ac4cb61151c48a926887825bc5",
+    "kill_time": "2025-09-02T12:17:06Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003968,
+    "solar_system_name": "W-IX39",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 908657467,
+      "character_name": "vowtsa",
+      "corporation_id": 732773091,
+      "corporation_name": "Di-Tron Heavy Industries",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/129605720/",
+    "total_value": 1965726225.75,
+    "final_attacker": {
+      "character_name": "windows star",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Vagabond"
+    }
+  },
+  {
     "killmail_id": 129596869,
     "killmail_hash": "116c1c219431a17703c76f43986538c5d0b84e64",
     "kill_time": "2025-09-01T21:56:36Z",
@@ -1323,32 +1349,6 @@
       "corporation_name": "R.E.M.N.A.N.T.S",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129454429,
-    "killmail_hash": "03f20ed2d25250d0273c52670c7c1d629bf7ee45",
-    "kill_time": "2025-08-26T09:52:13Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114980113,
-      "character_name": "aileen Yu",
-      "corporation_id": 98797997,
-      "corporation_name": "SGExpress Mail Service",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129454429/",
-    "total_value": 10673402371.3,
-    "final_attacker": {
-      "character_name": "Pink mortars",
-      "corporation_name": "Local supercluster",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
     }
   }
 ]
