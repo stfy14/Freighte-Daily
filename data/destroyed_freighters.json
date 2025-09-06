@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129682781,
+    "killmail_hash": "5d949f63aa9f1675b5ca7edecc1cf3c06f95a301",
+    "kill_time": "2025-09-06T10:45:45Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001924,
+    "solar_system_name": "RPS-0K",
+    "region_name": "Stain",
+    "victim": {
+      "character_id": 2120704463,
+      "character_name": "EW-00",
+      "corporation_id": 98681947,
+      "corporation_name": "Karsten Inc.",
+      "alliance_id": 99012770,
+      "alliance_name": "Black Rose."
+    },
+    "zkb_url": "https://zkillboard.com/kill/129682781/",
+    "total_value": 2666747251.15,
+    "final_attacker": {
+      "character_name": "Nostravramus",
+      "corporation_name": "Geto-Dacii",
+      "alliance_name": "M A C U L A",
+      "ship_type_name": "Naglfar"
+    }
+  },
+  {
     "killmail_id": 129680938,
     "killmail_hash": "bcfcff097a72b11f2a3e1ae8da7dedd512706a7c",
     "kill_time": "2025-09-06T08:23:15Z",
@@ -1453,32 +1479,6 @@
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 129536880,
-    "killmail_hash": "56097f7ee92ae41d8aaf62a975108738248ed7df",
-    "kill_time": "2025-08-30T10:00:25Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001090,
-    "solar_system_name": "RIU-GC",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 364200139,
-      "character_name": "Intercold",
-      "corporation_id": 481577072,
-      "corporation_name": "The Vanguard of Dragon Knights",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129536880/",
-    "total_value": 207478534793.19,
-    "final_attacker": {
-      "character_name": "Malakai Asamov",
-      "corporation_name": "Van Diemen's Demise",
-      "alliance_name": "Northern Coalition.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
