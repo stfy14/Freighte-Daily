@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 129715648,
+    "killmail_hash": "239606c565049b1bd4cc8eb39889a75ed0c7fb8a",
+    "kill_time": "2025-09-07T03:18:02Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1102046638,
+      "character_name": "RJ Nunley",
+      "corporation_id": 98258093,
+      "corporation_name": "Strategic Exploration and Development Corp",
+      "alliance_id": 99009268,
+      "alliance_name": "Silent Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129715648/",
+    "total_value": 12784320299.32,
+    "final_attacker": {
+      "character_name": "StarConquer212",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 129714529,
+    "killmail_hash": "d63c57d03701928de6216bb7825063ad77b0c140",
+    "kill_time": "2025-09-07T02:03:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004070,
+    "solar_system_name": "6RCQ-V",
+    "region_name": "Cloud Ring",
+    "victim": {
+      "character_id": 2119561518,
+      "character_name": "Esken Virpio",
+      "corporation_id": 98520878,
+      "corporation_name": "Russian Space Community",
+      "alliance_id": 99001317,
+      "alliance_name": "Banderlogs Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129714529/",
+    "total_value": 1969361128.17,
+    "final_attacker": {
+      "character_name": "Jasna Violet",
+      "corporation_name": "Stars Corporate Group",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Maller"
+    }
+  },
+  {
     "killmail_id": 129714132,
     "killmail_hash": "2847266d3f9cf916187b118b0546709b3bff45e0",
     "kill_time": "2025-09-07T01:38:02Z",
@@ -1479,58 +1531,6 @@
       "corporation_name": "The Alamo Scouts",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 129555976,
-    "killmail_hash": "42751e401035ad149235d7f79f64704af4e984dc",
-    "kill_time": "2025-08-31T03:10:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 91343291,
-      "character_name": "Novak Tolt",
-      "corporation_id": 98715093,
-      "corporation_name": "Thunder Shield",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129555976/",
-    "total_value": 2287624478.47,
-    "final_attacker": {
-      "character_name": "Cassadin",
-      "corporation_name": "Star Frontiers",
-      "alliance_name": "Brotherhood of Spacers",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 129555048,
-    "killmail_hash": "66bc527a0a54020ad6727c3339fbd7ef0b04e6b7",
-    "kill_time": "2025-08-31T02:23:06Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 92582578,
-      "character_name": "Andreas Allier",
-      "corporation_id": 98499614,
-      "corporation_name": "Mining-Allier",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129555048/",
-    "total_value": 3989900161.61,
-    "final_attacker": {
-      "character_name": "Reavan Beldrulf",
-      "corporation_name": "LowKey Ops",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
