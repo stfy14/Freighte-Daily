@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 129764445,
+    "killmail_hash": "440603edd159a9bb5f6ce821fd8e62df5dc10a97",
+    "kill_time": "2025-09-09T12:39:34Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 175854294,
+      "character_name": "Oscar Sagayac",
+      "corporation_id": 154240916,
+      "corporation_name": "Paul Sagayac et Fils SARL",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129764445/",
+    "total_value": 11254393513.23,
+    "final_attacker": {
+      "character_name": "Miss Zyd",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 129762367,
+    "killmail_hash": "7a1125d26f95a27e803563d6d232b9aec1bdb762",
+    "kill_time": "2025-09-09T08:20:42Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2118405731,
+      "character_name": "Narumi Re",
+      "corporation_id": 98616308,
+      "corporation_name": "You Need To Calm Down",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129762367/",
+    "total_value": 9823032969.65,
+    "final_attacker": {
+      "character_name": "EsBro1001",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129760482,
     "killmail_hash": "e5f4e6b64dec6778f0e5d2da86f418c84ca342d7",
     "kill_time": "2025-09-09T04:33:13Z",
@@ -1505,32 +1557,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129605720,
-    "killmail_hash": "3c94d615e60858ac4cb61151c48a926887825bc5",
-    "kill_time": "2025-09-02T12:17:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003968,
-    "solar_system_name": "W-IX39",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 908657467,
-      "character_name": "vowtsa",
-      "corporation_id": 732773091,
-      "corporation_name": "Di-Tron Heavy Industries",
-      "alliance_id": 99012982,
-      "alliance_name": "OnlyFleets."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129605720/",
-    "total_value": 1965726225.75,
-    "final_attacker": {
-      "character_name": "windows star",
-      "corporation_name": "Shadow Legion X",
-      "alliance_name": "Seriously Suspicious",
-      "ship_type_name": "Vagabond"
     }
   }
 ]
