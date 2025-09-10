@@ -1532,57 +1532,5 @@
       "alliance_name": null,
       "ship_type_name": "Oracle"
     }
-  },
-  {
-    "killmail_id": 129618737,
-    "killmail_hash": "1d167eb6596f55d1e9603d78c74812e215a4045e",
-    "kill_time": "2025-09-03T03:19:25Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000156,
-    "solar_system_name": "Josameto",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118185453,
-      "character_name": "Black-Thunder",
-      "corporation_id": 98797323,
-      "corporation_name": "KryptoThunder-Clad COOP",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129618737/",
-    "total_value": 6048834274.97,
-    "final_attacker": {
-      "character_name": "Sergei Malatov",
-      "corporation_name": "Onyx Cartel",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 129618570,
-    "killmail_hash": "71bfc485d295b0c236b191ce10f8ceb06d0b73b5",
-    "kill_time": "2025-09-03T03:04:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2112978214,
-      "character_name": "Mine B",
-      "corporation_id": 98629361,
-      "corporation_name": "Plant Flower House Rabbit",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129618570/",
-    "total_value": 3822822376.57,
-    "final_attacker": {
-      "character_name": "EMF Coldwarrior",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
   }
 ]
