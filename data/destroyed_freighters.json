@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129775188,
+    "killmail_hash": "fec4a608a549d71c4ba941d0799d00f93bb959c0",
+    "kill_time": "2025-09-09T22:31:24Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120975483,
+      "character_name": "miner69errrr",
+      "corporation_id": 98810610,
+      "corporation_name": "The Childen Of The Corn",
+      "alliance_id": 99011206,
+      "alliance_name": "APOC Fleet Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129775188/",
+    "total_value": 22420275165.02,
+    "final_attacker": {
+      "character_name": "banzo 2",
+      "corporation_name": "Hight sec safe",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 129772130,
     "killmail_hash": "5d51cfe2bbb7db9e04b2a44234fd4fec33462907",
     "kill_time": "2025-09-09T19:50:05Z",
@@ -1557,32 +1583,6 @@
       "corporation_name": "Worthless Carebears",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 129617179,
-    "killmail_hash": "e2c62043df503c546ec01c537b70d0dbde6de63c",
-    "kill_time": "2025-09-03T00:41:37Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004751,
-    "solar_system_name": "K-6K16",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 92744777,
-      "character_name": "Lhannor Nelsori",
-      "corporation_id": 98785282,
-      "corporation_name": "Militant Industrialists LLC",
-      "alliance_id": 99013981,
-      "alliance_name": "Militant Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129617179/",
-    "total_value": 2219313803.83,
-    "final_attacker": {
-      "character_name": "Atoria Avuli",
-      "corporation_name": "Di-Tron Heavy Industries",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
