@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129822692,
+    "killmail_hash": "6a24b2ad8321519d43c4eb2c9340d5dbbb01ed55",
+    "kill_time": "2025-09-12T13:02:49Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1573193711,
+      "character_name": "Lucky Alex",
+      "corporation_id": 98601573,
+      "corporation_name": "SPACE FAMILY",
+      "alliance_id": 99007722,
+      "alliance_name": "Stellae Renascitur"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129822692/",
+    "total_value": 11604400597.21,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 129815070,
     "killmail_hash": "bbc6b0b6e4677c7f6d36208ec7a784b68933d7ed",
     "kill_time": "2025-09-12T01:03:36Z",
@@ -1375,32 +1401,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129662733,
-    "killmail_hash": "f8aca50772eb2b9073759589c8670f94af2e9820",
-    "kill_time": "2025-09-05T14:04:00Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001437,
-    "solar_system_name": "Tamo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123264099,
-      "character_name": "Mushido",
-      "corporation_id": 98800259,
-      "corporation_name": "Interstellars Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129662733/",
-    "total_value": 2538829685.09,
-    "final_attacker": {
-      "character_name": "Banner Pappotte",
-      "corporation_name": "10 Potatoes",
-      "alliance_name": null,
-      "ship_type_name": "Abaddon"
     }
   }
 ]
