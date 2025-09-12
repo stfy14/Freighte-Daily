@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129828529,
+    "killmail_hash": "e44cde8187e1b4474fda4c3beb4d4f547ae33c3e",
+    "kill_time": "2025-09-12T18:43:25Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002029,
+    "solar_system_name": "B-9C24",
+    "region_name": "Pure Blind",
+    "victim": {
+      "character_id": 2117305573,
+      "character_name": "Spielkatze",
+      "corporation_id": 98720386,
+      "corporation_name": "The Shadow Scorpions 2.0",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129828529/",
+    "total_value": 27425492139.25,
+    "final_attacker": {
+      "character_name": "Galdarr Blacktounge",
+      "corporation_name": "Jump 2 Beacon",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129822692,
     "killmail_hash": "6a24b2ad8321519d43c4eb2c9340d5dbbb01ed55",
     "kill_time": "2025-09-12T13:02:49Z",
@@ -1323,84 +1349,6 @@
       "corporation_name": "R.E.M.N.A.N.T.S",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129668261,
-    "killmail_hash": "051b651e0953f3fcf0ea77ead1db030a8e7f1cfb",
-    "kill_time": "2025-09-05T19:32:13Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002029,
-    "solar_system_name": "B-9C24",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 132670662,
-      "character_name": "Sqeera Requiem",
-      "corporation_id": 1490115377,
-      "corporation_name": "Panta-Rhei",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129668261/",
-    "total_value": 9788131787.31,
-    "final_attacker": {
-      "character_name": "Lord Socar",
-      "corporation_name": "Di-Tron Heavy Industries",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129668113,
-    "killmail_hash": "32b2eb4b727638e0209697e0405f3eac6ed4ca6e",
-    "kill_time": "2025-09-05T19:27:21Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001402,
-    "solar_system_name": "Passari",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2117658718,
-      "character_name": "Syclobs",
-      "corporation_id": 98757077,
-      "corporation_name": "Xenotime Xpress",
-      "alliance_id": 99011206,
-      "alliance_name": "APOC Fleet Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129668113/",
-    "total_value": 28201073000.97,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 129667036,
-    "killmail_hash": "f68123b7a3fe0e6bad247414786b647ce3135e0f",
-    "kill_time": "2025-09-05T18:29:45Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123707909,
-      "character_name": "elxut",
-      "corporation_id": 98812773,
-      "corporation_name": "Highsec Transport Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129667036/",
-    "total_value": 5156818715.08,
-    "final_attacker": {
-      "character_name": "Marjorie Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
