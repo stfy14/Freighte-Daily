@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129843566,
+    "killmail_hash": "33e1a6fc528579030992cdcd25af572c010596c4",
+    "kill_time": "2025-09-13T09:58:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004751,
+    "solar_system_name": "K-6K16",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2120672188,
+      "character_name": "Hard Working Sloth",
+      "corporation_id": 1176385160,
+      "corporation_name": "Mining Industry Exile Foundation",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129843566/",
+    "total_value": 1973518334,
+    "final_attacker": {
+      "character_name": "Kinsy",
+      "corporation_name": "Escalated.",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129841984,
     "killmail_hash": "71cfbd1df2759a201082d82dfdbceecf00fc5e62",
     "kill_time": "2025-09-13T07:58:42Z",
@@ -1349,58 +1375,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129682891,
-    "killmail_hash": "c0312bf677e10309b6b85944ff97eb921f39240b",
-    "kill_time": "2025-09-06T10:56:10Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117559540,
-      "character_name": "Snake Candy",
-      "corporation_id": 98700117,
-      "corporation_name": "SIGMA Freight",
-      "alliance_id": 99011239,
-      "alliance_name": "Ligma Grindset"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129682891/",
-    "total_value": 17846941397.66,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 129682781,
-    "killmail_hash": "5d949f63aa9f1675b5ca7edecc1cf3c06f95a301",
-    "kill_time": "2025-09-06T10:45:45Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001924,
-    "solar_system_name": "RPS-0K",
-    "region_name": "Stain",
-    "victim": {
-      "character_id": 2120704463,
-      "character_name": "EW-00",
-      "corporation_id": 98681947,
-      "corporation_name": "Karsten Inc.",
-      "alliance_id": 99012770,
-      "alliance_name": "Black Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129682781/",
-    "total_value": 2666747251.15,
-    "final_attacker": {
-      "character_name": "Nostravramus",
-      "corporation_name": "Geto-Dacii",
-      "alliance_name": "M A C U L A",
-      "ship_type_name": "Naglfar"
     }
   }
 ]
