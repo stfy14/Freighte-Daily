@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129856629,
+    "killmail_hash": "277b1558adcf83d113b31ac5888a851df5d96e6f",
+    "kill_time": "2025-09-13T21:17:43Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2123136265,
+      "character_name": "Tsiri 2",
+      "corporation_id": 98809880,
+      "corporation_name": "Tabou.",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129856629/",
+    "total_value": 3526033588.69,
+    "final_attacker": {
+      "character_name": "theelusiveyoda",
+      "corporation_name": "Death Troopers",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 129854458,
     "killmail_hash": "106fdf3660d84fea7f22bfdc6f3c47d270d453ea",
     "kill_time": "2025-09-13T19:45:01Z",
@@ -1609,110 +1635,6 @@
       "corporation_name": "Stars Corporate Group",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Maller"
-    }
-  },
-  {
-    "killmail_id": 129714132,
-    "killmail_hash": "2847266d3f9cf916187b118b0546709b3bff45e0",
-    "kill_time": "2025-09-07T01:38:02Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2117566317,
-      "character_name": "mordrokk",
-      "corporation_id": 1000009,
-      "corporation_name": "Caldari Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129714132/",
-    "total_value": 3321281191.89,
-    "final_attacker": {
-      "character_name": "Obsidian Scar",
-      "corporation_name": "Dies Irae",
-      "alliance_name": "The Ancients.",
-      "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 129709582,
-    "killmail_hash": "0a37ad191863e4c14c1df10c1710918c9fa21560",
-    "kill_time": "2025-09-06T23:44:44Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1180578474,
-      "character_name": "Kambernadze",
-      "corporation_id": 98136640,
-      "corporation_name": "Dark Souls Empire",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129709582/",
-    "total_value": 1969075324.18,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 129708984,
-    "killmail_hash": "7996c279e7d06f92a51872b3550630ce1c5f3514",
-    "kill_time": "2025-09-06T23:32:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123714770,
-      "character_name": "mrtetitas",
-      "corporation_id": 98812773,
-      "corporation_name": "Highsec Transport Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129708984/",
-    "total_value": 4775481605.32,
-    "final_attacker": {
-      "character_name": "Vexed Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129705358,
-    "killmail_hash": "0ffd8ff45ecdbaf0573c4673bc7431d37683c944",
-    "kill_time": "2025-09-06T22:18:39Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90516604,
-      "character_name": "tacobutt",
-      "corporation_id": 98014141,
-      "corporation_name": "MasterWizards",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129705358/",
-    "total_value": 7315646420.04,
-    "final_attacker": {
-      "character_name": "SkuLLz - Phantom",
-      "corporation_name": "R.E.M.N.A.N.T.S",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
