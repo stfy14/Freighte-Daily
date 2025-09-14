@@ -1584,57 +1584,5 @@
       "alliance_name": "WhiteBlackCynoAlliance",
       "ship_type_name": "Nidhoggur"
     }
-  },
-  {
-    "killmail_id": 129715648,
-    "killmail_hash": "239606c565049b1bd4cc8eb39889a75ed0c7fb8a",
-    "kill_time": "2025-09-07T03:18:02Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002796,
-    "solar_system_name": "Hysera",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1102046638,
-      "character_name": "RJ Nunley",
-      "corporation_id": 98258093,
-      "corporation_name": "Strategic Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129715648/",
-    "total_value": 12784320299.32,
-    "final_attacker": {
-      "character_name": "StarConquer212",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 129714529,
-    "killmail_hash": "d63c57d03701928de6216bb7825063ad77b0c140",
-    "kill_time": "2025-09-07T02:03:18Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004070,
-    "solar_system_name": "6RCQ-V",
-    "region_name": "Cloud Ring",
-    "victim": {
-      "character_id": 2119561518,
-      "character_name": "Esken Virpio",
-      "corporation_id": 98520878,
-      "corporation_name": "Russian Space Community",
-      "alliance_id": 99001317,
-      "alliance_name": "Banderlogs Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129714529/",
-    "total_value": 1969361128.17,
-    "final_attacker": {
-      "character_name": "Jasna Violet",
-      "corporation_name": "Stars Corporate Group",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Maller"
-    }
   }
 ]
