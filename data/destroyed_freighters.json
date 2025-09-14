@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 129877190,
+    "killmail_hash": "431aeb83c9cf4a8343b819050357f63b0b1c8630",
+    "kill_time": "2025-09-14T17:53:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2113469401,
+      "character_name": "Mathus Arkwright",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129877190/",
+    "total_value": 9934665118.88,
+    "final_attacker": {
+      "character_name": "Cannibal Khan",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 129875853,
+    "killmail_hash": "e6fe14e2d08b35378129362f9b362c3ec081b87f",
+    "kill_time": "2025-09-14T17:09:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003125,
+    "solar_system_name": "A1-AUH",
+    "region_name": "Esoteria",
+    "victim": {
+      "character_id": 2118938109,
+      "character_name": "De Teis Yu",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129875853/",
+    "total_value": 2288577410.02,
+    "final_attacker": {
+      "character_name": "LeggaSchnegge",
+      "corporation_name": "Ether Element",
+      "alliance_name": "Invidia Gloriae Comes",
+      "ship_type_name": "Jackdaw"
+    }
+  },
+  {
     "killmail_id": 129871519,
     "killmail_hash": "d5b0abcd4445f72ecab7e6afed558f8972f21274",
     "kill_time": "2025-09-14T13:50:36Z",
@@ -1453,84 +1505,6 @@
       "corporation_name": "New Eden Corporation 98812540",
       "alliance_name": null,
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 129729816,
-    "killmail_hash": "46860b189086a44371901b9d91c3a698ca2f2282",
-    "kill_time": "2025-09-07T18:07:29Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 94072017,
-      "character_name": "Karba Asture",
-      "corporation_id": 98733616,
-      "corporation_name": "The Last Foundation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129729816/",
-    "total_value": 2968071835.46,
-    "final_attacker": {
-      "character_name": "Vexed Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129729057,
-    "killmail_hash": "d91139c6aae1f8bc9ebe9765685d5759b88b6cc7",
-    "kill_time": "2025-09-07T17:40:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123635294,
-      "character_name": "Delay Deny Depose",
-      "corporation_id": 98812928,
-      "corporation_name": "Nightfall Fleet",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129729057/",
-    "total_value": 13277238396.68,
-    "final_attacker": {
-      "character_name": "Matilda Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129727983,
-    "killmail_hash": "76db872623591e359116a51b372fc9fe8f229b2d",
-    "kill_time": "2025-09-07T16:57:56Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004808,
-    "solar_system_name": "3L3N-X",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2123587691,
-      "character_name": "Preston Greyrat",
-      "corporation_id": 98765559,
-      "corporation_name": "Virtus Crusade Multipass Chapter",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129727983/",
-    "total_value": 3400109450.36,
-    "final_attacker": {
-      "character_name": "Edward Harris",
-      "corporation_name": "Inner Geek",
-      "alliance_name": null,
-      "ship_type_name": "Gnosis"
     }
   }
 ]
