@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129908326,
+    "killmail_hash": "3d40a3c6f0b5f16a548aa2370a1f01c8a9a17d3d",
+    "kill_time": "2025-09-16T10:16:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005022,
+    "solar_system_name": "Ane",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 2119962023,
+      "character_name": "Ignaves Nardieu",
+      "corporation_id": 98746955,
+      "corporation_name": "Light Spectrum Specialties",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129908326/",
+    "total_value": 2252203689.71,
+    "final_attacker": {
+      "character_name": "Joshua Kurvore",
+      "corporation_name": "Sons of Seyllin",
+      "alliance_name": "Pirate Lords of War",
+      "ship_type_name": "Golem"
+    }
+  },
+  {
     "killmail_id": 129898945,
     "killmail_hash": "4fdd3da7ea95fe05cc0a05351566c481f463f59f",
     "kill_time": "2025-09-15T19:56:20Z",
@@ -1582,32 +1608,6 @@
       "character_name": "GIMME YOUR BOOTY",
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129764445,
-    "killmail_hash": "440603edd159a9bb5f6ce821fd8e62df5dc10a97",
-    "kill_time": "2025-09-09T12:39:34Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 175854294,
-      "character_name": "Oscar Sagayac",
-      "corporation_id": 154240916,
-      "corporation_name": "Paul Sagayac et Fils SARL",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129764445/",
-    "total_value": 11254393513.23,
-    "final_attacker": {
-      "character_name": "Miss Zyd",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
       "ship_type_name": "Talos"
     }
   }
