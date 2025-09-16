@@ -1610,57 +1610,5 @@
       "alliance_name": "DarkSide.",
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 129762367,
-    "killmail_hash": "7a1125d26f95a27e803563d6d232b9aec1bdb762",
-    "kill_time": "2025-09-09T08:20:42Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2118405731,
-      "character_name": "Narumi Re",
-      "corporation_id": 98616308,
-      "corporation_name": "You Need To Calm Down",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129762367/",
-    "total_value": 9823032969.65,
-    "final_attacker": {
-      "character_name": "EsBro1001",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129760482,
-    "killmail_hash": "e5f4e6b64dec6778f0e5d2da86f418c84ca342d7",
-    "kill_time": "2025-09-09T04:33:13Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2123503396,
-      "character_name": "Shosanchoya",
-      "corporation_id": 98650314,
-      "corporation_name": "Absolute Order XIV",
-      "alliance_id": 99009758,
-      "alliance_name": "Absolute Will"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129760482/",
-    "total_value": 2846538973.27,
-    "final_attacker": {
-      "character_name": "Ethien Green",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Sin"
-    }
   }
 ]
