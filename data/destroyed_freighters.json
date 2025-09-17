@@ -1428,57 +1428,5 @@
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Praxis"
     }
-  },
-  {
-    "killmail_id": 129783470,
-    "killmail_hash": "2f86ca539a1aae111e4b38fe1fad17dada6a34a4",
-    "kill_time": "2025-09-10T12:39:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114344846,
-      "character_name": "UlyssesL L",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129783470/",
-    "total_value": 7703686549.85,
-    "final_attacker": {
-      "character_name": "Molly Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129782540,
-    "killmail_hash": "756e2f95d416a561055f8b6f3fc9f98b7fe2133a",
-    "kill_time": "2025-09-10T10:47:45Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004230,
-    "solar_system_name": "Van",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 2120097987,
-      "character_name": "Andateika Tendo",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129782540/",
-    "total_value": 1971138079.34,
-    "final_attacker": {
-      "character_name": "Dii minores",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Kronos"
-    }
   }
 ]
