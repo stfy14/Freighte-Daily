@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 129945510,
+    "killmail_hash": "af8194ffc4893a36ae47c7a9d95a02d160f279eb",
+    "kill_time": "2025-09-18T14:32:20Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003488,
+    "solar_system_name": "Penirgman",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2122908381,
+      "character_name": "Logistic Panala 1",
+      "corporation_id": 98753522,
+      "corporation_name": "Tri-Tachyon Indy",
+      "alliance_id": 99009824,
+      "alliance_name": "Domain Research and Mining Inst. Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129945510/",
+    "total_value": 10667303764.72,
+    "final_attacker": {
+      "character_name": "lndia",
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 129943815,
+    "killmail_hash": "60fea51e2b90476073468dd7ef8873a2408dc792",
+    "kill_time": "2025-09-18T13:00:20Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003209,
+    "solar_system_name": "R8WV-7",
+    "region_name": "Oasa",
+    "victim": {
+      "character_id": 2115284985,
+      "character_name": "detective spider",
+      "corporation_id": 98631475,
+      "corporation_name": "Profane Proverb",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/129943815/",
+    "total_value": 9505928921.91,
+    "final_attacker": {
+      "character_name": "Wheezus1995",
+      "corporation_name": "Pimpdynamics V",
+      "alliance_name": "Monochrome Knights",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
     "killmail_id": 129942062,
     "killmail_hash": "7dc1f92e808bac736c6f1faeb4c970c6d184ec3e",
     "kill_time": "2025-09-18T10:26:06Z",
@@ -1452,58 +1504,6 @@
       "character_name": "Millie Murderface",
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129806094,
-    "killmail_hash": "293ce6989a536c7f60ef2edabe7199d570732854",
-    "kill_time": "2025-09-11T16:07:35Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123707909,
-      "character_name": "elxut",
-      "corporation_id": 98812773,
-      "corporation_name": "Highsec Transport Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129806094/",
-    "total_value": 5293777662.35,
-    "final_attacker": {
-      "character_name": "Marjorie Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129804253,
-    "killmail_hash": "e951f325a842cbc1ba6cdafdc2f481457608efe8",
-    "kill_time": "2025-09-11T14:23:38Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95823346,
-      "character_name": "Vadim Ambraelle",
-      "corporation_id": 98469689,
-      "corporation_name": "TVS Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129804253/",
-    "total_value": 6656852998.94,
-    "final_attacker": {
-      "character_name": "i-obtained-a-mythic-item",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   }
