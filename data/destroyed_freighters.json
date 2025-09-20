@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 129977228,
+    "killmail_hash": "2d7dadb6b13b08a463994d65f9fa766c63765788",
+    "kill_time": "2025-09-20T02:32:59Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001388,
+    "solar_system_name": "Mara",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 543080636,
+      "character_name": "Odarra",
+      "corporation_id": 98810444,
+      "corporation_name": "Loxmenardi's Forge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/129977228/",
+    "total_value": 24118542043.46,
+    "final_attacker": {
+      "character_name": "Zadraxis",
+      "corporation_name": "The Ruckus",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 129972143,
     "killmail_hash": "f18282a0ecdf630079bb32404adb936b99bd0aa8",
     "kill_time": "2025-09-19T21:32:23Z",
@@ -1375,32 +1401,6 @@
       "corporation_name": "Panic Bros",
       "alliance_name": "The Obsidian Front - Reborn",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129839050,
-    "killmail_hash": "a45ae32290f8d1d8c7ce886691deb6740ed9403f",
-    "kill_time": "2025-09-13T04:03:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002634,
-    "solar_system_name": "Balle",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95071775,
-      "character_name": "Sirio Mayaki",
-      "corporation_id": 98536399,
-      "corporation_name": "Galloglas",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129839050/",
-    "total_value": 2644043653.06,
-    "final_attacker": {
-      "character_name": "MeisterDaDa",
-      "corporation_name": "Phantom Brigade Ger",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Kronos"
     }
   }
 ]
