@@ -1324,57 +1324,5 @@
       "alliance_name": "The Initiative.",
       "ship_type_name": "Sabre"
     }
-  },
-  {
-    "killmail_id": 129877190,
-    "killmail_hash": "431aeb83c9cf4a8343b819050357f63b0b1c8630",
-    "kill_time": "2025-09-14T17:53:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2113469401,
-      "character_name": "Mathus Arkwright",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129877190/",
-    "total_value": 9934665118.88,
-    "final_attacker": {
-      "character_name": "Cannibal Khan",
-      "corporation_name": "R.E.M.N.A.N.T.S",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129875853,
-    "killmail_hash": "e6fe14e2d08b35378129362f9b362c3ec081b87f",
-    "kill_time": "2025-09-14T17:09:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003125,
-    "solar_system_name": "A1-AUH",
-    "region_name": "Esoteria",
-    "victim": {
-      "character_id": 2118938109,
-      "character_name": "De Teis Yu",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129875853/",
-    "total_value": 2288577410.02,
-    "final_attacker": {
-      "character_name": "LeggaSchnegge",
-      "corporation_name": "Ether Element",
-      "alliance_name": "Invidia Gloriae Comes",
-      "ship_type_name": "Jackdaw"
-    }
   }
 ]
