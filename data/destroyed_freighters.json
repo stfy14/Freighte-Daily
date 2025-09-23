@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130048711,
+    "killmail_hash": "d62adfd0bafa62fe2ffbd3d139da2ef58056438f",
+    "kill_time": "2025-09-23T11:46:27Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 721858865,
+      "character_name": "Bobert Guntu",
+      "corporation_id": 295602303,
+      "corporation_name": "Reptilian Research",
+      "alliance_id": 448511760,
+      "alliance_name": "Dark Taboo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130048711/",
+    "total_value": 15318292442.06,
+    "final_attacker": {
+      "character_name": "SCP9400",
+      "corporation_name": "Maxx-C",
+      "alliance_name": "Yu-Gi-Oh Duel",
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
     "killmail_id": 130046967,
     "killmail_hash": "32815372e6c37a6159b738a8f263e1c1217dce31",
     "kill_time": "2025-09-23T08:06:04Z",
@@ -1323,32 +1349,6 @@
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 129908326,
-    "killmail_hash": "3d40a3c6f0b5f16a548aa2370a1f01c8a9a17d3d",
-    "kill_time": "2025-09-16T10:16:46Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005022,
-    "solar_system_name": "Ane",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 2119962023,
-      "character_name": "Ignaves Nardieu",
-      "corporation_id": 98746955,
-      "corporation_name": "Light Spectrum Specialties",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129908326/",
-    "total_value": 2252203689.71,
-    "final_attacker": {
-      "character_name": "Joshua Kurvore",
-      "corporation_name": "Sons of Seyllin",
-      "alliance_name": "Pirate Lords of War",
-      "ship_type_name": "Golem"
     }
   }
 ]
