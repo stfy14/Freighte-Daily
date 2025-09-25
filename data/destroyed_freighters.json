@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130081813,
+    "killmail_hash": "1f9c561780832fe89118e5d76fad49911aa6ae3b",
+    "kill_time": "2025-09-25T07:47:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1818412903,
+      "character_name": "Jules Dupuit",
+      "corporation_id": 1664427021,
+      "corporation_name": "Terrorists of Dimensions",
+      "alliance_id": 99000818,
+      "alliance_name": "HORSE-KILLERS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130081813/",
+    "total_value": 10249569785.56,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130081327,
+    "killmail_hash": "fbf7b9c96f12f9dda8e0fe13a2024485f5b47995",
+    "kill_time": "2025-09-25T06:55:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2115797679,
+      "character_name": "Larissa Nolen",
+      "corporation_id": 98729619,
+      "corporation_name": "Wealthy Tax Fugitives",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130081327/",
+    "total_value": 2615947592.05,
+    "final_attacker": {
+      "character_name": "Maxisabe",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 130079471,
     "killmail_hash": "27d8bf299a3d6e310227e050fe3ba5d5c20c20c0",
     "kill_time": "2025-09-25T03:17:12Z",
