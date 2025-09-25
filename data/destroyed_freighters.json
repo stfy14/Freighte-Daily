@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130084559,
+    "killmail_hash": "54a828d5cdbf29028449f65861bb08ea4c494938",
+    "kill_time": "2025-09-25T12:47:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000143,
+    "solar_system_name": "Niyabainen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 92535885,
+      "character_name": "Varan 1st",
+      "corporation_id": 98753370,
+      "corporation_name": "Frame Perfect",
+      "alliance_id": 99010431,
+      "alliance_name": "Kybernauts Clade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130084559/",
+    "total_value": 7166126319.83,
+    "final_attacker": {
+      "character_name": "Marley Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130081813,
     "killmail_hash": "1f9c561780832fe89118e5d76fad49911aa6ae3b",
     "kill_time": "2025-09-25T07:47:46Z",
@@ -1427,32 +1453,6 @@
       "corporation_name": "Pimpdynamics V",
       "alliance_name": "Monochrome Knights",
       "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 129942062,
-    "killmail_hash": "7dc1f92e808bac736c6f1faeb4c970c6d184ec3e",
-    "kill_time": "2025-09-18T10:26:06Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002719,
-    "solar_system_name": "Miroitem",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123766399,
-      "character_name": "Pencesine Pellion",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129942062/",
-    "total_value": 2236019460.82,
-    "final_attacker": {
-      "character_name": "chung moo",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Typhoon"
     }
   }
 ]
