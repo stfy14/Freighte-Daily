@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130088028,
+    "killmail_hash": "abf65a6ae7b8b853a33544920bc0862e6f2b73d3",
+    "kill_time": "2025-09-25T16:06:43Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001119,
+    "solar_system_name": "LO5-LN",
+    "region_name": "Malpais",
+    "victim": {
+      "character_id": 1503833949,
+      "character_name": "Marcuss Solstice",
+      "corporation_id": 98442926,
+      "corporation_name": "HIgh Sec Care Bears",
+      "alliance_id": 99003006,
+      "alliance_name": "Brothers of Tangra"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130088028/",
+    "total_value": 2348095720.91,
+    "final_attacker": {
+      "character_name": "Kalifa Surmia Ederton",
+      "corporation_name": "Hispanic Enterprises",
+      "alliance_name": "Brotherhood of Spacers",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
+    "killmail_id": 130085893,
+    "killmail_hash": "5d64cdc33c1a7f1369cbb56ff174ca050730ae63",
+    "kill_time": "2025-09-25T13:48:05Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122653936,
+      "character_name": "shinestar-titan2",
+      "corporation_id": 98633272,
+      "corporation_name": "Trisolaris Military Academy",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130085893/",
+    "total_value": 15343553732.96,
+    "final_attacker": {
+      "character_name": "Faylee Freir",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130084559,
     "killmail_hash": "54a828d5cdbf29028449f65861bb08ea4c494938",
     "kill_time": "2025-09-25T12:47:36Z",
@@ -1401,58 +1453,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129945510,
-    "killmail_hash": "af8194ffc4893a36ae47c7a9d95a02d160f279eb",
-    "kill_time": "2025-09-18T14:32:20Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003488,
-    "solar_system_name": "Penirgman",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2122908381,
-      "character_name": "Logistic Panala 1",
-      "corporation_id": 98753522,
-      "corporation_name": "Tri-Tachyon Indy",
-      "alliance_id": 99009824,
-      "alliance_name": "Domain Research and Mining Inst. Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129945510/",
-    "total_value": 10667303764.72,
-    "final_attacker": {
-      "character_name": "lndia",
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 129943815,
-    "killmail_hash": "60fea51e2b90476073468dd7ef8873a2408dc792",
-    "kill_time": "2025-09-18T13:00:20Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003209,
-    "solar_system_name": "R8WV-7",
-    "region_name": "Oasa",
-    "victim": {
-      "character_id": 2115284985,
-      "character_name": "detective spider",
-      "corporation_id": 98631475,
-      "corporation_name": "Profane Proverb",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129943815/",
-    "total_value": 9505928921.91,
-    "final_attacker": {
-      "character_name": "Wheezus1995",
-      "corporation_name": "Pimpdynamics V",
-      "alliance_name": "Monochrome Knights",
-      "ship_type_name": "Hel"
     }
   }
 ]
