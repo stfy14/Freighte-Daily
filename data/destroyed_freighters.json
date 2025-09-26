@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130103161,
+    "killmail_hash": "6b0c99f7d56ffc9caaba55b0213efdda44c832ea",
+    "kill_time": "2025-09-26T12:13:13Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1362559383,
+      "character_name": "Cridil",
+      "corporation_id": 98743380,
+      "corporation_name": "Sandford Amateur Geology Society",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130103161/",
+    "total_value": 9232776265.51,
+    "final_attacker": {
+      "character_name": "Marley Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130102009,
+    "killmail_hash": "ae63dc6683782079e0ada97a5052c3d7f508b136",
+    "kill_time": "2025-09-26T09:25:19Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005063,
+    "solar_system_name": "Schmaeel",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 2123613241,
+      "character_name": "iFrostik",
+      "corporation_id": 98790508,
+      "corporation_name": "Moonlight Mouse Hole",
+      "alliance_id": 99014050,
+      "alliance_name": "Lunar Luminescence"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130102009/",
+    "total_value": 2431232116.72,
+    "final_attacker": {
+      "character_name": "Vojvoda Babic",
+      "corporation_name": "Fat Dragon Pirate Co.",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 130101016,
     "killmail_hash": "7d23700337f57e18fafd8dd779085c992d305795",
     "kill_time": "2025-09-26T07:24:07Z",
@@ -1583,32 +1635,6 @@
       "corporation_name": "Mental Disruption",
       "alliance_name": null,
       "ship_type_name": "Absolution"
-    }
-  },
-  {
-    "killmail_id": 129960999,
-    "killmail_hash": "97e6b6b32537d48dd276e96bf8e5917ddbb4d657",
-    "kill_time": "2025-09-19T11:51:47Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004246,
-    "solar_system_name": "Vehan",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 2122254173,
-      "character_name": "Sin Nombre Cool",
-      "corporation_id": 98006194,
-      "corporation_name": "Quarks LLC",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129960999/",
-    "total_value": 13488954884.07,
-    "final_attacker": {
-      "character_name": "Tony Sparx",
-      "corporation_name": "RadioActivia",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Wyvern"
     }
   }
 ]
