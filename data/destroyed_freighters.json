@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130101016,
+    "killmail_hash": "7d23700337f57e18fafd8dd779085c992d305795",
+    "kill_time": "2025-09-26T07:24:07Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003886,
+    "solar_system_name": "Ashmarir",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 1084349000,
+      "character_name": "OptimusTattoo",
+      "corporation_id": 98682508,
+      "corporation_name": "EDENCOM Section 7",
+      "alliance_id": 99012018,
+      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130101016/",
+    "total_value": 3126451907.68,
+    "final_attacker": {
+      "character_name": "Vojvoda Babic",
+      "corporation_name": "Fat Dragon Pirate Co.",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130099977,
+    "killmail_hash": "144e28da00a8f06f71488de73b9b686a0f11ba23",
+    "kill_time": "2025-09-26T05:12:19Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 31000741,
+    "solar_system_name": "J133632",
+    "region_name": "B-R00007",
+    "victim": {
+      "character_id": 2116340311,
+      "character_name": "Wavering Morph",
+      "corporation_id": 98705098,
+      "corporation_name": "Spoopy Services",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130099977/",
+    "total_value": 2469360493.48,
+    "final_attacker": {
+      "character_name": "Argus Risktaker",
+      "corporation_name": "The Untraceable",
+      "alliance_name": "M A R A K U G A",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 130097238,
     "killmail_hash": "935790dbbd24770391acf19584b51407b2ed1522",
     "kill_time": "2025-09-26T01:02:42Z",
