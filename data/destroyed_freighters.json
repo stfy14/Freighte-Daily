@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130118154,
+    "killmail_hash": "d6049143f129732eb0e9c89333b9873d2e48c13d",
+    "kill_time": "2025-09-27T02:15:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2117023123,
+      "character_name": "Thor Odnson",
+      "corporation_id": 98720165,
+      "corporation_name": "Sons of Anarchy M.C.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130118154/",
+    "total_value": 10582240065.23,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130114605,
     "killmail_hash": "b09919bf9f730bb9fd732999a82a21f6bb0067f5",
     "kill_time": "2025-09-26T22:18:10Z",
@@ -1633,58 +1659,6 @@
     "final_attacker": {
       "character_name": "Hostile Hawk",
       "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 129977228,
-    "killmail_hash": "2d7dadb6b13b08a463994d65f9fa766c63765788",
-    "kill_time": "2025-09-20T02:32:59Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001388,
-    "solar_system_name": "Mara",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 543080636,
-      "character_name": "Odarra",
-      "corporation_id": 98810444,
-      "corporation_name": "Loxmenardi's Forge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/129977228/",
-    "total_value": 24118542043.46,
-    "final_attacker": {
-      "character_name": "Zadraxis",
-      "corporation_name": "The Ruckus",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 129976811,
-    "killmail_hash": "af7e6f3b78fe93917bfb74e2a03676003ad4b923",
-    "kill_time": "2025-09-20T02:12:44Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 1819685886,
-      "character_name": "Alphablaster",
-      "corporation_id": 732773091,
-      "corporation_name": "Di-Tron Heavy Industries",
-      "alliance_id": 99012982,
-      "alliance_name": "OnlyFleets."
-    },
-    "zkb_url": "https://zkillboard.com/kill/129976811/",
-    "total_value": 4517038577.26,
-    "final_attacker": {
-      "character_name": "Beige'Crayon",
-      "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
