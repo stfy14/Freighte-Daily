@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130131172,
+    "killmail_hash": "07e5ece3712459342130786f3f126fc3e68cd48d",
+    "kill_time": "2025-09-27T16:16:40Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 543080636,
+      "character_name": "Odarra",
+      "corporation_id": 98810444,
+      "corporation_name": "Loxmenardi's Forge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130131172/",
+    "total_value": 2880975291.23,
+    "final_attacker": {
+      "character_name": "WiseBuddah",
+      "corporation_name": "Trent Industries",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
+    "killmail_id": 130130043,
+    "killmail_hash": "ba9453b2043cd69e075e6490cd11b5b4aaae30d9",
+    "kill_time": "2025-09-27T15:22:08Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001446,
+    "solar_system_name": "Otsasai",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121269800,
+      "character_name": "Kyla Armstro",
+      "corporation_id": 98814311,
+      "corporation_name": "Cafero Industry",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130130043/",
+    "total_value": 10971147759.54,
+    "final_attacker": {
+      "character_name": "Saul Thraceq",
+      "corporation_name": "Star Frontiers",
+      "alliance_name": "Brotherhood of Spacers",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 130126234,
     "killmail_hash": "e551383fce2e69ab472f5e5aa6bd2fa7539e8d51",
     "kill_time": "2025-09-27T12:18:20Z",
@@ -1557,32 +1609,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 129989010,
-    "killmail_hash": "6fd34cd5d6a1de9c478099290aef91b56b9ebdf0",
-    "kill_time": "2025-09-20T16:03:33Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113479631,
-      "character_name": "Edart Eistiras",
-      "corporation_id": 98811387,
-      "corporation_name": "Dot Dot Astericks",
-      "alliance_id": 99005100,
-      "alliance_name": "All My Friends Are Ded"
-    },
-    "zkb_url": "https://zkillboard.com/kill/129989010/",
-    "total_value": 2799216129.9,
-    "final_attacker": {
-      "character_name": "Fool Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
