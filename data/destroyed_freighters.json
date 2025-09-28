@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 130142877,
+    "killmail_hash": "fa27122f55bed1efe513cc7addd8be08fc42405c",
+    "kill_time": "2025-09-28T00:49:02Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002874,
+    "solar_system_name": "R1O-GN",
+    "region_name": "The Kalevala Expanse",
+    "victim": {
+      "character_id": 2121858744,
+      "character_name": "Manoi Uitra",
+      "corporation_id": 98793209,
+      "corporation_name": "Solos Holdings Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130142877/",
+    "total_value": 2150263373.47,
+    "final_attacker": {
+      "character_name": "Kaine Atoel",
+      "corporation_name": "Solos Nexus",
+      "alliance_name": "Pandemic Horde",
+      "ship_type_name": "Leviathan"
+    }
+  },
+  {
+    "killmail_id": 130142583,
+    "killmail_hash": "d0ffde607902db02eec73c0e7c60e8296eb8570c",
+    "kill_time": "2025-09-28T00:32:11Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91948604,
+      "character_name": "Xaraff Sarum",
+      "corporation_id": 98778753,
+      "corporation_name": "Rogue Services of New Eden",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130142583/",
+    "total_value": 6935692550.25,
+    "final_attacker": {
+      "character_name": "Mina Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130142366,
+    "killmail_hash": "d54b716807793a1c6e981af62be3684105e16669",
+    "kill_time": "2025-09-28T00:19:35Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118542067,
+      "character_name": "Roshy462",
+      "corporation_id": 98733042,
+      "corporation_name": "Junior Businessmen",
+      "alliance_id": 99009268,
+      "alliance_name": "Silent Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130142366/",
+    "total_value": 9266274080.38,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130142201,
+    "killmail_hash": "2c55a312c202a4c10c720869d430ded16f62d316",
+    "kill_time": "2025-09-28T00:10:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 31000651,
+    "solar_system_name": "J155551",
+    "region_name": "B-R00006",
+    "victim": {
+      "character_id": 95593752,
+      "character_name": "desertcrypt",
+      "corporation_id": 98435020,
+      "corporation_name": "OpSec.",
+      "alliance_id": 99007828,
+      "alliance_name": "Wrong Hole."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130142201/",
+    "total_value": 2462208565.55,
+    "final_attacker": {
+      "character_name": "Thomas Omally",
+      "corporation_name": "OpSec.",
+      "alliance_name": "Wrong Hole.",
+      "ship_type_name": "Tormentor"
+    }
+  },
+  {
+    "killmail_id": 130138768,
+    "killmail_hash": "ffc75f7c15b5840d9ee50862ad572586354dfeb0",
+    "kill_time": "2025-09-27T21:06:40Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2113922252,
+      "character_name": "Womble Hazuki",
+      "corporation_id": 98563746,
+      "corporation_name": "Thomas Independent Traders",
+      "alliance_id": 99010193,
+      "alliance_name": "Ivy League Alt Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130138768/",
+    "total_value": 3254748071.31,
+    "final_attacker": {
+      "character_name": "Sigmond Yazria",
+      "corporation_name": "Frank's Fluids",
+      "alliance_name": null,
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 130131172,
     "killmail_hash": "07e5ece3712459342130786f3f126fc3e68cd48d",
     "kill_time": "2025-09-27T16:16:40Z",
