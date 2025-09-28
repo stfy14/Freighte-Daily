@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130148506,
+    "killmail_hash": "93cc22ba83d7882712948df36fd3cb08439d221a",
+    "kill_time": "2025-09-28T08:03:59Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120358772,
+      "character_name": "Res Cobon-Han",
+      "corporation_id": 98609557,
+      "corporation_name": "Gingerbread Spacemen",
+      "alliance_id": 99009991,
+      "alliance_name": "Intaki-Business Logistics Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130148506/",
+    "total_value": 13217657359.99,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130146396,
+    "killmail_hash": "18da471b7bb77bc694253e2abd04f103fd47498a",
+    "kill_time": "2025-09-28T04:35:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001364,
+    "solar_system_name": "Funtanainen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2117023123,
+      "character_name": "Thor Odnson",
+      "corporation_id": 98720165,
+      "corporation_name": "Sons of Anarchy M.C.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130146396/",
+    "total_value": 9408858320.76,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130145210,
     "killmail_hash": "70215b91cb579c9b2c6285a5a0bee498de9bf8e7",
     "kill_time": "2025-09-28T02:58:59Z",
