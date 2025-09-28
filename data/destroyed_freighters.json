@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130145210,
+    "killmail_hash": "70215b91cb579c9b2c6285a5a0bee498de9bf8e7",
+    "kill_time": "2025-09-28T02:58:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002780,
+    "solar_system_name": "Muvolailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 921353581,
+      "character_name": "Willi deVille",
+      "corporation_id": 376181252,
+      "corporation_name": "House of Sins",
+      "alliance_id": 99012089,
+      "alliance_name": "Silent Nova"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130145210/",
+    "total_value": 23271859510.51,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130142877,
     "killmail_hash": "fa27122f55bed1efe513cc7addd8be08fc42405c",
     "kill_time": "2025-09-28T00:49:02Z",
@@ -1583,32 +1609,6 @@
       "corporation_name": "FREAKS CIRCUS",
       "alliance_name": "NEW EDEN CIRCUS",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 130002258,
-    "killmail_hash": "add49e8c2b9c4e36c524b1cfc692bf56cdc12e06",
-    "kill_time": "2025-09-21T03:39:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123534288,
-      "character_name": "Thodore Hammer",
-      "corporation_id": 98803643,
-      "corporation_name": "XANAX Withdrawal Corp.",
-      "alliance_id": 99014167,
-      "alliance_name": "XANAX Withdrawal Corp. Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130002258/",
-    "total_value": 2214895024.04,
-    "final_attacker": {
-      "character_name": "MystinaCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Widow"
     }
   }
 ]
