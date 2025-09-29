@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130170795,
+    "killmail_hash": "5b08d33dd6e609ac931606ee3f428512c413de37",
+    "kill_time": "2025-09-29T08:22:44Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 297435821,
+      "character_name": "Arnold'J'Rimmer",
+      "corporation_id": 98753170,
+      "corporation_name": "Cyberdyne Strategic Command",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130170795/",
+    "total_value": 10920271598.73,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130170335,
+    "killmail_hash": "bb67389e8f8e122e57d9c14736f7fd37e806c542",
+    "kill_time": "2025-09-29T07:06:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000139,
+    "solar_system_name": "Urlen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 92687759,
+      "character_name": "From TheSky Gods",
+      "corporation_id": 98412140,
+      "corporation_name": "JAGD Federation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130170335/",
+    "total_value": 11650780489.32,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130169698,
+    "killmail_hash": "8ff4f8876882a18859568166dc9b9f019cd1b8b8",
+    "kill_time": "2025-09-29T05:32:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2113230551,
+      "character_name": "Buck Grizz Tarnanigan",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130169698/",
+    "total_value": 2346644505.39,
+    "final_attacker": {
+      "character_name": "besh0808",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130166150,
     "killmail_hash": "4ace8eef98731d3f3a814dfa2a46e23ecc7c4c4d",
     "kill_time": "2025-09-29T00:25:42Z",
@@ -1661,32 +1739,6 @@
       "corporation_name": "Phantom Regiment",
       "alliance_name": null,
       "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 130027262,
-    "killmail_hash": "46b6b70164932e15656606ee7f7cc58e63736750",
-    "kill_time": "2025-09-22T06:22:53Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 986150370,
-      "character_name": "MadSmoker",
-      "corporation_id": 98593436,
-      "corporation_name": "Roofdamage Delivery",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130027262/",
-    "total_value": 4188544846.93,
-    "final_attacker": {
-      "character_name": "Mauve'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
