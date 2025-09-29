@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 130180512,
+    "killmail_hash": "6ca5675df23aaa13258a5e10221e100e7f61b28d",
+    "kill_time": "2025-09-29T20:01:53Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2119280564,
+      "character_name": "WhosNext 1",
+      "corporation_id": 98746772,
+      "corporation_name": "Ishikara Mechatronic Systems",
+      "alliance_id": 99011990,
+      "alliance_name": "D3ad End"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130180512/",
+    "total_value": 2171159035.4,
+    "final_attacker": {
+      "character_name": "Boost2020",
+      "corporation_name": "French Angels or demons Federation",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130180061,
+    "killmail_hash": "dca4454295d10a134d507c193cfcd1fcc162c4fe",
+    "kill_time": "2025-09-29T19:40:52Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2118905050,
+      "character_name": "Otamon Penken",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130180061/",
+    "total_value": 14761246672.46,
+    "final_attacker": {
+      "character_name": "Sonic 37",
+      "corporation_name": "jUST DO It..",
+      "alliance_name": null,
+      "ship_type_name": "Megathron"
+    }
+  },
+  {
+    "killmail_id": 130177747,
+    "killmail_hash": "377890c38dc44982104d2c23a178088fb125fea1",
+    "kill_time": "2025-09-29T17:50:54Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003544,
+    "solar_system_name": "Galeh",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 94368673,
+      "character_name": "Ular Belalang",
+      "corporation_id": 98412312,
+      "corporation_name": "Kerge Marha Corp.",
+      "alliance_id": 131511956,
+      "alliance_name": "Tactical Narcotics Team"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130177747/",
+    "total_value": 10401994501.19,
+    "final_attacker": {
+      "character_name": "Syrphid",
+      "corporation_name": "Sodium Chloride Mining Institute",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130176533,
+    "killmail_hash": "79d351807e8275f917940d635b860d0a94463146",
+    "kill_time": "2025-09-29T16:39:54Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 339370300,
+      "character_name": "iceveins",
+      "corporation_id": 98813943,
+      "corporation_name": "Nordic Belters",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130176533/",
+    "total_value": 24011272861.36,
+    "final_attacker": {
+      "character_name": "Matilda Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130171284,
     "killmail_hash": "814d052030164e48ba2925c71385a99628513556",
     "kill_time": "2025-09-29T09:23:39Z",
@@ -1738,58 +1842,6 @@
       "character_name": "Abbie Rova",
       "corporation_name": "Aggressive Optimisim",
       "alliance_name": "Desolate.",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 130038037,
-    "killmail_hash": "f9870868f10340029a63038ef755ad19d35b5629",
-    "kill_time": "2025-09-22T19:35:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2123154343,
-      "character_name": "Miserere Dei",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130038037/",
-    "total_value": 2205325720.79,
-    "final_attacker": {
-      "character_name": "Du'kon",
-      "corporation_name": "Gjallarhorn Incorporated",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130035270,
-    "killmail_hash": "97989febd00e068e34be225ba709cd75b7fcdba6",
-    "kill_time": "2025-09-22T17:31:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005204,
-    "solar_system_name": "Yulai",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 95398584,
-      "character_name": "Skemba Slaucisana",
-      "corporation_id": 98429651,
-      "corporation_name": "Cheroque Svistounoque",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130035270/",
-    "total_value": 1971398295.53,
-    "final_attacker": {
-      "character_name": "Drexter Auscent",
-      "corporation_name": "Phantom Regiment",
-      "alliance_name": null,
       "ship_type_name": "Hecate"
     }
   }
