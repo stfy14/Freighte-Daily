@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130188936,
+    "killmail_hash": "1e36549f0c6f6cc5b6353f044384830656d8326d",
+    "kill_time": "2025-09-30T10:23:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002776,
+    "solar_system_name": "Annaro",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 528190580,
+      "character_name": "Petra vanHelsing",
+      "corporation_id": 376181252,
+      "corporation_name": "House of Sins",
+      "alliance_id": 99012089,
+      "alliance_name": "Silent Nova"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130188936/",
+    "total_value": 11706286558.22,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130188452,
+    "killmail_hash": "0cb94698ca37d4f79cbacf45ee060db85c671f98",
+    "kill_time": "2025-09-30T09:26:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31002097,
+    "solar_system_name": "J123628",
+    "region_name": "E-R00026",
+    "victim": {
+      "character_id": 2112988346,
+      "character_name": "Kyun Kim Park",
+      "corporation_id": 98797524,
+      "corporation_name": "Vestal Keepers",
+      "alliance_id": 99013920,
+      "alliance_name": "Embers of the Void"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130188452/",
+    "total_value": 2713974404.05,
+    "final_attacker": {
+      "character_name": "eonert15",
+      "corporation_name": "Vestal Keepers",
+      "alliance_name": "Embers of the Void",
+      "ship_type_name": "Drekavac"
+    }
+  },
+  {
     "killmail_id": 130186698,
     "killmail_hash": "53795aa887e556114c8dc3703d4441d8a8b04362",
     "kill_time": "2025-09-30T04:41:05Z",
@@ -1791,32 +1843,6 @@
       "corporation_name": "Commonwealth Mercenaries",
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 130048711,
-    "killmail_hash": "d62adfd0bafa62fe2ffbd3d139da2ef58056438f",
-    "kill_time": "2025-09-23T11:46:27Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 721858865,
-      "character_name": "Bobert Guntu",
-      "corporation_id": 295602303,
-      "corporation_name": "Reptilian Research",
-      "alliance_id": 448511760,
-      "alliance_name": "Dark Taboo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130048711/",
-    "total_value": 15318292442.06,
-    "final_attacker": {
-      "character_name": "SCP9400",
-      "corporation_name": "Maxx-C",
-      "alliance_name": "Yu-Gi-Oh Duel",
-      "ship_type_name": "Valravn"
     }
   }
 ]
