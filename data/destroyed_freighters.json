@@ -1844,57 +1844,5 @@
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Widow"
     }
-  },
-  {
-    "killmail_id": 130079471,
-    "killmail_hash": "27d8bf299a3d6e310227e050fe3ba5d5c20c20c0",
-    "kill_time": "2025-09-25T03:17:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122011701,
-      "character_name": "Freya Roth",
-      "corporation_id": 98762888,
-      "corporation_name": "TradeCorp LLLLP",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130079471/",
-    "total_value": 2187525362.66,
-    "final_attacker": {
-      "character_name": "Reavan Beldrulf",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130078958,
-    "killmail_hash": "df59154bde3a7364339b492aa9afe5b47205a156",
-    "kill_time": "2025-09-25T02:48:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 95910662,
-      "character_name": "Cracker Risato",
-      "corporation_id": 98390557,
-      "corporation_name": "ko-n mayone-z Corporation",
-      "alliance_id": 99011267,
-      "alliance_name": "Siege Green Friends"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130078958/",
-    "total_value": 12666189672.55,
-    "final_attacker": {
-      "character_name": "Mona Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Cenotaph"
-    }
   }
 ]
