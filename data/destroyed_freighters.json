@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130237934,
+    "killmail_hash": "94b9cdc5d93a60a273bcc61c494915a96e2de348",
+    "kill_time": "2025-10-03T00:50:22Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003833,
+    "solar_system_name": "Oulley",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2114592552,
+      "character_name": "Gaemay",
+      "corporation_id": 98257549,
+      "corporation_name": "Teutate raiders",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130237934/",
+    "total_value": 11123555554.18,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
     "killmail_id": 130224682,
     "killmail_hash": "44fefa2e740cb715707f343ea31dff046e2055af",
     "kill_time": "2025-10-02T08:17:18Z",
@@ -1609,84 +1635,6 @@
       "corporation_name": "The Untraceable",
       "alliance_name": "M A R A K U G A",
       "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 130097238,
-    "killmail_hash": "935790dbbd24770391acf19584b51407b2ed1522",
-    "kill_time": "2025-09-26T01:02:42Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003063,
-    "solar_system_name": "Lamaa",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 91885714,
-      "character_name": "Seraphina Bibbs",
-      "corporation_id": 98811660,
-      "corporation_name": "Cartel logistics Inc.",
-      "alliance_id": 99014247,
-      "alliance_name": "Twenty Thousand Leagues Out of the SEA."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130097238/",
-    "total_value": 12553265981.89,
-    "final_attacker": {
-      "character_name": "Timothy Baldur",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130096037,
-    "killmail_hash": "b2d7b438f6968cb7f49d90faa30d9364b7d2c896",
-    "kill_time": "2025-09-25T23:07:09Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2123108462,
-      "character_name": "Boost Dapow'A",
-      "corporation_id": 98795867,
-      "corporation_name": "Zaphod's Bastards",
-      "alliance_id": 99013809,
-      "alliance_name": "HYPE-TRAIN"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130096037/",
-    "total_value": 4689614775.13,
-    "final_attacker": {
-      "character_name": "Norrec Vizjerei",
-      "corporation_name": "Portia Squad",
-      "alliance_name": "Daughters of Ane",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130095928,
-    "killmail_hash": "a8a93240c8014b2a95dc723c06b9658b91eeb280",
-    "kill_time": "2025-09-25T22:58:54Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114722521,
-      "character_name": "Distro Dagga",
-      "corporation_id": 98740736,
-      "corporation_name": "Falken Industrial",
-      "alliance_id": 99003006,
-      "alliance_name": "Brothers of Tangra"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130095928/",
-    "total_value": 16385607927.01,
-    "final_attacker": {
-      "character_name": "Barreiro",
-      "corporation_name": "Lightning Squad",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
