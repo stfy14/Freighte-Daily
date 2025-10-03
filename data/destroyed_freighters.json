@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130243296,
+    "killmail_hash": "31bf577b9bd36f213d8515ea6caef106ddb5fe93",
+    "kill_time": "2025-10-03T09:44:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001389,
+    "solar_system_name": "Isanamo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 123809847,
+      "character_name": "hauler41",
+      "corporation_id": 98592514,
+      "corporation_name": "Up-Quark",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130243296/",
+    "total_value": 9481970363.58,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130243014,
+    "killmail_hash": "a449cd2c8963a547870e5791973c0e73a3b3217f",
+    "kill_time": "2025-10-03T09:10:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113118079,
+      "character_name": "008ilumin800",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130243014/",
+    "total_value": 11054134190.09,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130242413,
     "killmail_hash": "c4f452a59c8f70211cef9048d67a1bcc62409103",
     "kill_time": "2025-10-03T07:57:43Z",
@@ -1609,58 +1661,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130103161,
-    "killmail_hash": "6b0c99f7d56ffc9caaba55b0213efdda44c832ea",
-    "kill_time": "2025-09-26T12:13:13Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1362559383,
-      "character_name": "Cridil",
-      "corporation_id": 98743380,
-      "corporation_name": "Sandford Amateur Geology Society",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130103161/",
-    "total_value": 9232776265.51,
-    "final_attacker": {
-      "character_name": "Marley Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130102009,
-    "killmail_hash": "ae63dc6683782079e0ada97a5052c3d7f508b136",
-    "kill_time": "2025-09-26T09:25:19Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005063,
-    "solar_system_name": "Schmaeel",
-    "region_name": "Kor-Azor",
-    "victim": {
-      "character_id": 2123613241,
-      "character_name": "iFrostik",
-      "corporation_id": 98790508,
-      "corporation_name": "Moonlight Mouse Hole",
-      "alliance_id": 99014050,
-      "alliance_name": "Lunar Luminescence"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130102009/",
-    "total_value": 2431232116.72,
-    "final_attacker": {
-      "character_name": "Vojvoda Babic",
-      "corporation_name": "Fat Dragon Pirate Co.",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Panther"
     }
   }
 ]
