@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 130253476,
+    "killmail_hash": "45ed10d6671e8a8a791f4199bc4dc8b15f97a00b",
+    "kill_time": "2025-10-03T20:05:15Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91821708,
+      "character_name": "Jafaar Amarr",
+      "corporation_id": 98753370,
+      "corporation_name": "Frame Perfect",
+      "alliance_id": 99010431,
+      "alliance_name": "Kybernauts Clade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130253476/",
+    "total_value": 3407596378.25,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Corporate Police Force",
+      "alliance_name": null,
+      "ship_type_name": "Caldari Police Commissioner"
+    }
+  },
+  {
+    "killmail_id": 130252352,
+    "killmail_hash": "2c5b7f1da30850aac1e2467ae6587c3ff1b1a702",
+    "kill_time": "2025-10-03T19:21:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31000742,
+    "solar_system_name": "J131744",
+    "region_name": "B-R00007",
+    "victim": {
+      "character_id": 2115381126,
+      "character_name": "Gallente Citizen 2115381126",
+      "corporation_id": 98354071,
+      "corporation_name": "All-Out",
+      "alliance_id": 99005761,
+      "alliance_name": "White Stag Exit Bag"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130252352/",
+    "total_value": 28001485667.76,
+    "final_attacker": {
+      "character_name": "Campo Terebans",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Brutix"
+    }
+  },
+  {
+    "killmail_id": 130252330,
+    "killmail_hash": "69945643b9586a283f7b1f1df761ea7ffcbedc3b",
+    "kill_time": "2025-10-03T19:21:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31000742,
+    "solar_system_name": "J131744",
+    "region_name": "B-R00007",
+    "victim": {
+      "character_id": 2115858845,
+      "character_name": "Caldari Citizen 2115858845",
+      "corporation_id": 98589675,
+      "corporation_name": "Oruze Metaclique",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130252330/",
+    "total_value": 31363398451.9,
+    "final_attacker": {
+      "character_name": "Darkstar Kanjus",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Huginn"
+    }
+  },
+  {
+    "killmail_id": 130248898,
+    "killmail_hash": "eb35c307ce680d7950ad642e4a01f7f28b93c4dd",
+    "kill_time": "2025-10-03T16:25:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 367057930,
+      "character_name": "aweeal82",
+      "corporation_id": 98215397,
+      "corporation_name": "Urban Zone",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130248898/",
+    "total_value": 12662726914.03,
+    "final_attacker": {
+      "character_name": "Im-Just-An-Immortal",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130243296,
     "killmail_hash": "31bf577b9bd36f213d8515ea6caef106ddb5fe93",
     "kill_time": "2025-10-03T09:44:46Z",
@@ -1531,136 +1635,6 @@
       "corporation_name": "HAMMER of TITAN",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Thanatos"
-    }
-  },
-  {
-    "killmail_id": 130110812,
-    "killmail_hash": "1e05546436cc5c92db97e4fac30af132cac12b70",
-    "kill_time": "2025-09-26T19:17:15Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 93090511,
-      "character_name": "Anubis Aureus",
-      "corporation_id": 98337364,
-      "corporation_name": "Aucaedu Unlimited",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130110812/",
-    "total_value": 2467936152.23,
-    "final_attacker": {
-      "character_name": "Ethien Green",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Tholos"
-    }
-  },
-  {
-    "killmail_id": 130110460,
-    "killmail_hash": "0d304fc999612b382b151f36075a1cd9a87112ca",
-    "kill_time": "2025-09-26T19:00:53Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2123607100,
-      "character_name": "John Patto",
-      "corporation_id": 98394568,
-      "corporation_name": "Hamburg Space Soldiers",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130110460/",
-    "total_value": 12882142905.2,
-    "final_attacker": {
-      "character_name": "Bryan Yakinov",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 130110453,
-    "killmail_hash": "a0897c32a49aa7140da5ff429f100a23aca4ed33",
-    "kill_time": "2025-09-26T19:00:39Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 92234560,
-      "character_name": "Kayne Lenox",
-      "corporation_id": 98394568,
-      "corporation_name": "Hamburg Space Soldiers",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130110453/",
-    "total_value": 12397375480.68,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 130108870,
-    "killmail_hash": "2dc4158d9e0eb06c0a5f9a0a982430222873c336",
-    "kill_time": "2025-09-26T17:40:47Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112265639,
-      "character_name": "Mr Hans",
-      "corporation_id": 98707572,
-      "corporation_name": "D E N of T H I E V E S",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130108870/",
-    "total_value": 2862287080.57,
-    "final_attacker": {
-      "character_name": "Sniper Isu",
-      "corporation_name": "PIROCOR",
-      "alliance_name": null,
-      "ship_type_name": "Sleipnir"
-    }
-  },
-  {
-    "killmail_id": 130108789,
-    "killmail_hash": "b1b8b45185c8a66cbb5d5f25e0263827552bed83",
-    "kill_time": "2025-09-26T17:37:12Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121884269,
-      "character_name": "Niitamaa Ishikela",
-      "corporation_id": 98669072,
-      "corporation_name": "Wormhole Academy for Exploration and Yeet",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130108789/",
-    "total_value": 11652672189.25,
-    "final_attacker": {
-      "character_name": "Marley Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
