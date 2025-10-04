@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 130267627,
+    "killmail_hash": "33544cd50b4d423b76e4d0ce6c8efabfea24e52d",
+    "kill_time": "2025-10-04T12:12:07Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002791,
+    "solar_system_name": "Sirppala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91050681,
+      "character_name": "Johnathan Coffey",
+      "corporation_id": 98346055,
+      "corporation_name": "Niforce Triggers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130267627/",
+    "total_value": 11466355027.32,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130266764,
+    "killmail_hash": "1ab56f7bd89962e5a1684963c39c531554914a77",
+    "kill_time": "2025-10-04T11:14:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000019,
+    "solar_system_name": "Podion",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 90614266,
+      "character_name": "General Settings",
+      "corporation_id": 98657999,
+      "corporation_name": "Rage Confederacy",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130266764/",
+    "total_value": 3764786260.81,
+    "final_attacker": {
+      "character_name": "Mean1e",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130266579,
+    "killmail_hash": "36690032dd709857d8ccb72a709eda68c7f0b355",
+    "kill_time": "2025-10-04T10:48:14Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123231820,
+      "character_name": "Interplex",
+      "corporation_id": 98811142,
+      "corporation_name": "Hammer and Sickle Factory Co",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130266579/",
+    "total_value": 7731865672.3,
+    "final_attacker": {
+      "character_name": "Visolala Ulkka Barviainen",
+      "corporation_name": "profit alt no1 Corporation",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130265552,
+    "killmail_hash": "1b4418b7c7744e2a1105fc27d12752d41c4ca29d",
+    "kill_time": "2025-10-04T09:20:35Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 90820684,
+      "character_name": "MasputaQue LasGallinas",
+      "corporation_id": 98638260,
+      "corporation_name": "Perfera Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130265552/",
+    "total_value": 9334336397.55,
+    "final_attacker": {
+      "character_name": "Prime Admiral",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130264792,
     "killmail_hash": "1bb0b6f7c7de93f31829f19c1e95c617e0c72742",
     "kill_time": "2025-10-04T08:21:48Z",
@@ -1557,84 +1661,6 @@
       "corporation_name": "Star Frontiers",
       "alliance_name": "Brotherhood of Spacers",
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 130126234,
-    "killmail_hash": "e551383fce2e69ab472f5e5aa6bd2fa7539e8d51",
-    "kill_time": "2025-09-27T12:18:20Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 721858865,
-      "character_name": "Bobert Guntu",
-      "corporation_id": 98600462,
-      "corporation_name": "The Corporation with No Name",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130126234/",
-    "total_value": 2241075470.57,
-    "final_attacker": {
-      "character_name": "SCP9400",
-      "corporation_name": "Maxx-C",
-      "alliance_name": "Yu-Gi-Oh Duel",
-      "ship_type_name": "Valravn"
-    }
-  },
-  {
-    "killmail_id": 130126222,
-    "killmail_hash": "5c8653c672c5795c9eadff14515ace3ea144a10f",
-    "kill_time": "2025-09-27T12:17:25Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000019,
-    "solar_system_name": "Podion",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2114563558,
-      "character_name": "akato Alabel",
-      "corporation_id": 98755298,
-      "corporation_name": "Fox of Resistance",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130126222/",
-    "total_value": 31799664903.48,
-    "final_attacker": {
-      "character_name": "Marcus Nosha",
-      "corporation_name": "Desolate Waste",
-      "alliance_name": "Desolate.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130125270,
-    "killmail_hash": "16c2170a82541a0d2a60a599b6abee891a55ac76",
-    "kill_time": "2025-09-27T10:40:12Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 97140653,
-      "character_name": "Billy Bones Nomad",
-      "corporation_id": 98438878,
-      "corporation_name": "The Nordic Associates",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130125270/",
-    "total_value": 2929858744.13,
-    "final_attacker": {
-      "character_name": "Adoree Airuta",
-      "corporation_name": "Hostile.",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
