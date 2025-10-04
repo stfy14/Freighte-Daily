@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130264792,
+    "killmail_hash": "1bb0b6f7c7de93f31829f19c1e95c617e0c72742",
+    "kill_time": "2025-10-04T08:21:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001687,
+    "solar_system_name": "Lossa",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 92087930,
+      "character_name": "Pablo Paco",
+      "corporation_id": 98702917,
+      "corporation_name": "700 Nitro Express",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130264792/",
+    "total_value": 2132308217.17,
+    "final_attacker": {
+      "character_name": "Ricardos Fordisimo",
+      "corporation_name": "SCREECHING GRASS",
+      "alliance_name": "Bully Brigade",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 130264785,
+    "killmail_hash": "26f25aaca7f8a87d526ea6be6639a0121422eed8",
+    "kill_time": "2025-10-04T08:20:37Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000156,
+    "solar_system_name": "Josameto",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120548035,
+      "character_name": "Zane Ozran",
+      "corporation_id": 98704795,
+      "corporation_name": "Nixie Meteor",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130264785/",
+    "total_value": 11292120993.77,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130263340,
+    "killmail_hash": "5d68db83594d290bc923c81872ad3262f705789c",
+    "kill_time": "2025-10-04T06:10:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123453954,
+      "character_name": "Shawn Dzenger",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130263340/",
+    "total_value": 14214923566.92,
+    "final_attacker": {
+      "character_name": "zLegion D",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130261319,
     "killmail_hash": "d5ebdb0c59847bc780510995a6ba8c3945d03780",
     "kill_time": "2025-10-04T03:43:11Z",
@@ -1557,32 +1635,6 @@
       "corporation_name": "Hostile.",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130121736,
-    "killmail_hash": "401c7c7f625d37279125f00cb068bea5f94c22cd",
-    "kill_time": "2025-09-27T06:24:10Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001986,
-    "solar_system_name": "O-N8XZ",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 2117770808,
-      "character_name": "Aldracon",
-      "corporation_id": 98769106,
-      "corporation_name": "Havana Deepspace Club",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130121736/",
-    "total_value": 10731279813.48,
-    "final_attacker": {
-      "character_name": "Ases0r",
-      "corporation_name": "Blind Mind Clan",
-      "alliance_name": "Monsters of Baal",
-      "ship_type_name": "Loki"
     }
   }
 ]
