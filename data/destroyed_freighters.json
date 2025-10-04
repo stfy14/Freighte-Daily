@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130261319,
+    "killmail_hash": "d5ebdb0c59847bc780510995a6ba8c3945d03780",
+    "kill_time": "2025-10-04T03:43:11Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002752,
+    "solar_system_name": "Ahynada",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 528190580,
+      "character_name": "Petra vanHelsing",
+      "corporation_id": 376181252,
+      "corporation_name": "House of Sins",
+      "alliance_id": 99012089,
+      "alliance_name": "Silent Nova"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130261319/",
+    "total_value": 6889692725.67,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130259171,
     "killmail_hash": "89a89dc75a9e10c0091f70557786ee1f279bd59d",
     "kill_time": "2025-10-04T01:24:34Z",
@@ -1557,58 +1583,6 @@
       "corporation_name": "Blind Mind Clan",
       "alliance_name": "Monsters of Baal",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 130120009,
-    "killmail_hash": "fd89b1e86220bc36a04972ef00e21a58c15d0f80",
-    "kill_time": "2025-09-27T04:23:32Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2117721163,
-      "character_name": "Dolflamingo",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130120009/",
-    "total_value": 5040086563.11,
-    "final_attacker": {
-      "character_name": "Mauve'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130118154,
-    "killmail_hash": "d6049143f129732eb0e9c89333b9873d2e48c13d",
-    "kill_time": "2025-09-27T02:15:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2117023123,
-      "character_name": "Thor Odnson",
-      "corporation_id": 98720165,
-      "corporation_name": "Sons of Anarchy M.C.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130118154/",
-    "total_value": 10582240065.23,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
