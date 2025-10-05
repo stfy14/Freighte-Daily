@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130294233,
+    "killmail_hash": "3af60f96e6e03b5e79255cf38633050908efae0f",
+    "kill_time": "2025-10-05T13:35:10Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119499965,
+      "character_name": "SlayerXz",
+      "corporation_id": 98802034,
+      "corporation_name": "Wilzard Industry",
+      "alliance_id": 99014210,
+      "alliance_name": "Buy Low Die High"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130294233/",
+    "total_value": 6530639852.56,
+    "final_attacker": {
+      "character_name": "Abhored Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130291966,
     "killmail_hash": "0f08683bbb1a5f5f9f501773706f3876994124ba",
     "kill_time": "2025-10-05T11:51:04Z",
@@ -1765,32 +1791,6 @@
       "corporation_name": "NOT HALF BAD",
       "alliance_name": "SL0W CHILDREN AT PLAY",
       "ship_type_name": "Vedmak"
-    }
-  },
-  {
-    "killmail_id": 130154589,
-    "killmail_hash": "f9c440597a971f95bc114d1d1aea8e6b77040c33",
-    "kill_time": "2025-09-28T14:48:48Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2121323562,
-      "character_name": "Semah Tinyi Kahoudi",
-      "corporation_id": 98736584,
-      "corporation_name": "Invasive Exploration Partners",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130154589/",
-    "total_value": 6770840605.25,
-    "final_attacker": {
-      "character_name": "lndia",
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
