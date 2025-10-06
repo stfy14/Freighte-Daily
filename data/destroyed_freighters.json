@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130311140,
+    "killmail_hash": "f4a5bcd6e979b9ddcbd23b1fc201046c00771a60",
+    "kill_time": "2025-10-06T04:16:25Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 946123299,
+      "character_name": "Ryfox",
+      "corporation_id": 98747133,
+      "corporation_name": "Space Monkey'z llc",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130311140/",
+    "total_value": 9987355977.77,
+    "final_attacker": {
+      "character_name": "Ethien Green",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 130309199,
+    "killmail_hash": "e8bfec7dcedba57169c64dbcb3fa4308d5391809",
+    "kill_time": "2025-10-06T01:57:08Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112761039,
+      "character_name": "Jaro Lemmont",
+      "corporation_id": 98534271,
+      "corporation_name": "Axion Industrial-Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130309199/",
+    "total_value": 6164022985.44,
+    "final_attacker": {
+      "character_name": "Toxic Yaken",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 130307479,
     "killmail_hash": "8485bb99d784ca81ef233604b5c21ece47ea30e5",
     "kill_time": "2025-10-05T23:55:13Z",
