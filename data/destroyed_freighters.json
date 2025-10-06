@@ -1948,57 +1948,5 @@
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 130171284,
-    "killmail_hash": "814d052030164e48ba2925c71385a99628513556",
-    "kill_time": "2025-09-29T09:23:39Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113538811,
-      "character_name": "Ardent Vaille",
-      "corporation_id": 98782630,
-      "corporation_name": "Striking Distance",
-      "alliance_id": 99014227,
-      "alliance_name": "Solidified Strike Network"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130171284/",
-    "total_value": 9128464513.56,
-    "final_attacker": {
-      "character_name": "zLegion B",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130171088,
-    "killmail_hash": "e2709a276d7cbcac45f131e934ad75675b3246ae",
-    "kill_time": "2025-09-29T08:58:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113145336,
-      "character_name": "Yfafyz3 Tivianne",
-      "corporation_id": 98782672,
-      "corporation_name": "The rebellious rebel",
-      "alliance_id": 99003006,
-      "alliance_name": "Brothers of Tangra"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130171088/",
-    "total_value": 2853994968.02,
-    "final_attacker": {
-      "character_name": "Barotto XIII",
-      "corporation_name": "Th3 D3vil's Tears",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Vindicator"
-    }
   }
 ]
