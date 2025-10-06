@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130323876,
+    "killmail_hash": "d2a09bf81604e7a311a3481fd178f6b4a5f37fd4",
+    "kill_time": "2025-10-06T17:49:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002802,
+    "solar_system_name": "Kusomonmon",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123678134,
+      "character_name": "Zenn Two",
+      "corporation_id": 98813470,
+      "corporation_name": "928 Manufacturing",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130323876/",
+    "total_value": 6542132813.1,
+    "final_attacker": {
+      "character_name": "Laura Gentile",
+      "corporation_name": "RSE Industries",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130321129,
     "killmail_hash": "21a2cf71d00d2f5995dd0a66dd48537c4aa8e269",
     "kill_time": "2025-10-06T15:59:25Z",
@@ -1918,136 +1944,6 @@
     "total_value": 9214324578.84,
     "final_attacker": {
       "character_name": "Madison Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130180920,
-    "killmail_hash": "65bf12565157d58c63b0699c070f826e1c01e6ce",
-    "kill_time": "2025-09-29T20:24:31Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002516,
-    "solar_system_name": "Lulm",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 94892427,
-      "character_name": "Andar Caltran",
-      "corporation_id": 98719096,
-      "corporation_name": "Caltran Prospecting Co",
-      "alliance_id": 99010341,
-      "alliance_name": "Malicious Mineral Hounds"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130180920/",
-    "total_value": 2063067356.79,
-    "final_attacker": {
-      "character_name": "Filius Endo",
-      "corporation_name": "Salacious Dirge",
-      "alliance_name": "Dreadnought Diplomacy.",
-      "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 130180512,
-    "killmail_hash": "6ca5675df23aaa13258a5e10221e100e7f61b28d",
-    "kill_time": "2025-09-29T20:01:53Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2119280564,
-      "character_name": "WhosNext 1",
-      "corporation_id": 98746772,
-      "corporation_name": "Ishikara Mechatronic Systems",
-      "alliance_id": 99011990,
-      "alliance_name": "D3ad End"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130180512/",
-    "total_value": 2171159035.4,
-    "final_attacker": {
-      "character_name": "Boost2020",
-      "corporation_name": "French Angels or demons Federation",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130180061,
-    "killmail_hash": "dca4454295d10a134d507c193cfcd1fcc162c4fe",
-    "kill_time": "2025-09-29T19:40:52Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118905050,
-      "character_name": "Otamon Penken",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130180061/",
-    "total_value": 14761246672.46,
-    "final_attacker": {
-      "character_name": "Sonic 37",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 130177747,
-    "killmail_hash": "377890c38dc44982104d2c23a178088fb125fea1",
-    "kill_time": "2025-09-29T17:50:54Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003544,
-    "solar_system_name": "Galeh",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 94368673,
-      "character_name": "Ular Belalang",
-      "corporation_id": 98412312,
-      "corporation_name": "Kerge Marha Corp.",
-      "alliance_id": 131511956,
-      "alliance_name": "Tactical Narcotics Team"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130177747/",
-    "total_value": 10401994501.19,
-    "final_attacker": {
-      "character_name": "Syrphid",
-      "corporation_name": "Sodium Chloride Mining Institute",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130176533,
-    "killmail_hash": "79d351807e8275f917940d635b860d0a94463146",
-    "kill_time": "2025-09-29T16:39:54Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 339370300,
-      "character_name": "iceveins",
-      "corporation_id": 98813943,
-      "corporation_name": "Nordic Belters",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130176533/",
-    "total_value": 24011272861.36,
-    "final_attacker": {
-      "character_name": "Matilda Murderface",
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
