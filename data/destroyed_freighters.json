@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130332809,
+    "killmail_hash": "38eef746787a82e39b278c2a25bf89e16b8f2330",
+    "kill_time": "2025-10-07T00:28:13Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123328715,
+      "character_name": "rogue81",
+      "corporation_id": 98804929,
+      "corporation_name": "HardTime Minerz",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130332809/",
+    "total_value": 2322916826.31,
+    "final_attacker": {
+      "character_name": "not a streameralt2",
+      "corporation_name": "Why Are You Looking Here",
+      "alliance_name": "Hole In the Wall",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 130332696,
+    "killmail_hash": "8087d31bb89ac0bc7c9b88b93b8d5694e045a13c",
+    "kill_time": "2025-10-07T00:19:07Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123397970,
+      "character_name": "evalk2",
+      "corporation_id": 98804929,
+      "corporation_name": "HardTime Minerz",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130332696/",
+    "total_value": 2256530088.81,
+    "final_attacker": {
+      "character_name": "MSN-06S Sinanju",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Myrmidon"
+    }
+  },
+  {
     "killmail_id": 130323876,
     "killmail_hash": "d2a09bf81604e7a311a3481fd178f6b4a5f37fd4",
     "kill_time": "2025-10-06T17:49:49Z",
@@ -1816,136 +1868,6 @@
       "character_name": "Navy'Crayon",
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130184606,
-    "killmail_hash": "59aaa03aae9218f044a2d60628f43be0015f7837",
-    "kill_time": "2025-09-30T01:25:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91789228,
-      "character_name": "Magnetic Helicity Arody",
-      "corporation_id": 1731277486,
-      "corporation_name": "Imshao Familiy Estate",
-      "alliance_id": 99006406,
-      "alliance_name": "Fraternity University"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130184606/",
-    "total_value": 30007834879.28,
-    "final_attacker": {
-      "character_name": "Meredith Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 130184314,
-    "killmail_hash": "333eccfc2f9c010957647255c761427ebcaf315d",
-    "kill_time": "2025-09-30T00:57:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 97042707,
-      "character_name": "Aidan Landon",
-      "corporation_id": 98591300,
-      "corporation_name": "Minmatar Munitions",
-      "alliance_id": 701459600,
-      "alliance_name": "Electus Matari"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130184314/",
-    "total_value": 2628244467.14,
-    "final_attacker": {
-      "character_name": "Orange'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130184150,
-    "killmail_hash": "3ad6aa954c3c52ff8ad2420fe94328fd79d28c69",
-    "kill_time": "2025-09-30T00:43:35Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91789185,
-      "character_name": "V3g4sMir4g3",
-      "corporation_id": 98363074,
-      "corporation_name": "Singularity Expedition Services",
-      "alliance_id": 99005476,
-      "alliance_name": "Singularity Syndicate"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130184150/",
-    "total_value": 5480453743.49,
-    "final_attacker": {
-      "character_name": "Meredith Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130182610,
-    "killmail_hash": "2456e8bb82e9448db3044a89c0474dc41f959542",
-    "kill_time": "2025-09-29T22:11:46Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113650854,
-      "character_name": "UndrgrndKing",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130182610/",
-    "total_value": 21439624225.7,
-    "final_attacker": {
-      "character_name": "Megan Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130180987,
-    "killmail_hash": "388561d1b3a4fa8760b6442a138abb78fb88aef1",
-    "kill_time": "2025-09-29T20:27:35Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113925568,
-      "character_name": "Jack TheStriper",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130180987/",
-    "total_value": 9214324578.84,
-    "final_attacker": {
-      "character_name": "Madison Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
     }
   }
