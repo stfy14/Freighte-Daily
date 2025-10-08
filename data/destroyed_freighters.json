@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130358855,
+    "killmail_hash": "fc7cefed080cf2d75952f85e63d5657a82b8e200",
+    "kill_time": "2025-10-08T02:52:52Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005321,
+    "solar_system_name": "Jovainnon",
+    "region_name": "Verge Vendor",
+    "victim": {
+      "character_id": 2122279505,
+      "character_name": "Komet YY",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130358855/",
+    "total_value": 3606753609.04,
+    "final_attacker": {
+      "character_name": "Antskyeeh",
+      "corporation_name": "Kiwis In Space",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 130357386,
     "killmail_hash": "d38ab6a102f59e23469c1d561baf95a046a9e3b0",
     "kill_time": "2025-10-08T01:02:43Z",
@@ -1869,32 +1895,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130203138,
-    "killmail_hash": "13e9f2211cba6f4b038fdf99fccc26327b7d1cf2",
-    "kill_time": "2025-10-01T02:51:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2120116182,
-      "character_name": "MTheOverlord",
-      "corporation_id": 98633922,
-      "corporation_name": "Guns-R-Us Toy Company",
-      "alliance_id": 99010468,
-      "alliance_name": "Weapons Of Mass Production."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130203138/",
-    "total_value": 22517205894.44,
-    "final_attacker": {
-      "character_name": "Maria Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
     }
   }
 ]
