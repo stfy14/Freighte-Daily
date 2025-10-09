@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130381654,
+    "killmail_hash": "2775799edb34f0bf40e2dbbf94201089eb1d8582",
+    "kill_time": "2025-10-09T02:28:12Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000555,
+    "solar_system_name": "U104-3",
+    "region_name": "Wicked Creek",
+    "victim": {
+      "character_id": 352283009,
+      "character_name": "Devereaux Raie",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130381654/",
+    "total_value": 1936753389.21,
+    "final_attacker": {
+      "character_name": "Xcaliba",
+      "corporation_name": "Late night poets",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130372557,
     "killmail_hash": "afd1a8ec930fd2324050d63eacca7c7285ac61a9",
     "kill_time": "2025-10-08T18:46:58Z",
@@ -1840,32 +1866,6 @@
     "total_value": 10480941922.28,
     "final_attacker": {
       "character_name": "Cyan'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130222605,
-    "killmail_hash": "3ca937e9cca9c2ed0ebb6da209b5d68f5140e88a",
-    "kill_time": "2025-10-02T04:26:41Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 473633324,
-      "character_name": "KUJ4 PREZIDENT",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130222605/",
-    "total_value": 6190161920.24,
-    "final_attacker": {
-      "character_name": "Beige'Crayon",
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
