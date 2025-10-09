@@ -1870,57 +1870,5 @@
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 130217767,
-    "killmail_hash": "4c5bb224d7b54e27ca0f493e7cadb749e3d526b6",
-    "kill_time": "2025-10-01T21:20:23Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000046,
-    "solar_system_name": "Mifrata",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2117777328,
-      "character_name": "Uranion Mayaki",
-      "corporation_id": 98708138,
-      "corporation_name": "Skyborne Enterprises",
-      "alliance_id": 99010833,
-      "alliance_name": "Loose Affiliations"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130217767/",
-    "total_value": 2201153284.27,
-    "final_attacker": {
-      "character_name": "Telefishopolis",
-      "corporation_name": "Hostile.",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130216746,
-    "killmail_hash": "002d473811a1af385e75c031f61563c1367abf44",
-    "kill_time": "2025-10-01T20:29:52Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118967413,
-      "character_name": "matty357",
-      "corporation_id": 98763133,
-      "corporation_name": "Blackhole Nomadic Industries",
-      "alliance_id": 99013138,
-      "alliance_name": "T.S.A"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130216746/",
-    "total_value": 11104314453.43,
-    "final_attacker": {
-      "character_name": "Molly Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
