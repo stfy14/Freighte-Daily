@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130407323,
+    "killmail_hash": "e54939d54f294505c32ff98e6896b16dabb31cee",
+    "kill_time": "2025-10-10T07:26:21Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000139,
+    "solar_system_name": "Urlen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1709981294,
+      "character_name": "Elder Carlie",
+      "corporation_id": 1000049,
+      "corporation_name": "Brutor Tribe",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130407323/",
+    "total_value": 33936621187.93,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130406977,
+    "killmail_hash": "3aa6757565bea1875d72ce02b81120421ca28840",
+    "kill_time": "2025-10-10T06:46:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120674994,
+      "character_name": "wicked235",
+      "corporation_id": 98734456,
+      "corporation_name": "Funny probe",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130406977/",
+    "total_value": 13751432951.67,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130404760,
     "killmail_hash": "b055897564f76c47eb98757f0df61e8a7f2875c2",
     "kill_time": "2025-10-10T03:32:10Z",
@@ -1763,32 +1815,6 @@
     "final_attacker": {
       "character_name": "zLegion A",
       "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130242413,
-    "killmail_hash": "c4f452a59c8f70211cef9048d67a1bcc62409103",
-    "kill_time": "2025-10-03T07:57:43Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 93897115,
-      "character_name": "Tina Katze Krauss",
-      "corporation_id": 98791915,
-      "corporation_name": "Ssuarks",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130242413/",
-    "total_value": 5130249351.32,
-    "final_attacker": {
-      "character_name": "Visolala Ulkka Barviainen",
-      "corporation_name": "profit alt no1 Corporation",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
     }
