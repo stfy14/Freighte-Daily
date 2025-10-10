@@ -1766,57 +1766,5 @@
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 130237934,
-    "killmail_hash": "94b9cdc5d93a60a273bcc61c494915a96e2de348",
-    "kill_time": "2025-10-03T00:50:22Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003833,
-    "solar_system_name": "Oulley",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2114592552,
-      "character_name": "Gaemay",
-      "corporation_id": 98257549,
-      "corporation_name": "Teutate raiders",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130237934/",
-    "total_value": 11123555554.18,
-    "final_attacker": {
-      "character_name": "Kasper Skov",
-      "corporation_name": "Constantine.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 130237297,
-    "killmail_hash": "abd979a41e325a723165a006e5c69421faabb047",
-    "kill_time": "2025-10-03T00:08:29Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 96406575,
-      "character_name": "Diana Aynsley",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130237297/",
-    "total_value": 4141840986.48,
-    "final_attacker": {
-      "character_name": "Olive'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
