@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130404760,
+    "killmail_hash": "b055897564f76c47eb98757f0df61e8a7f2875c2",
+    "kill_time": "2025-10-10T03:32:10Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117404154,
+      "character_name": "Cassionovia",
+      "corporation_id": 98803643,
+      "corporation_name": "XANAX Withdrawal Corp.",
+      "alliance_id": 99014167,
+      "alliance_name": "XANAX Withdrawal Corp. Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130404760/",
+    "total_value": 6041447199.56,
+    "final_attacker": {
+      "character_name": "Nado 3 Hawk",
+      "corporation_name": "Abusing Game Mechanics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 130403801,
+    "killmail_hash": "4d123d53638ab4ce07f304af41bbe970d8ede282",
+    "kill_time": "2025-10-10T02:31:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120979161,
+      "character_name": "Dave Arquero",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130403801/",
+    "total_value": 7300744580.39,
+    "final_attacker": {
+      "character_name": "HongsamDonut",
+      "corporation_name": "AMC.",
+      "alliance_name": "Out of the Blue.",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130389058,
     "killmail_hash": "bdd8b2fbfb7ae2bcd8c807813cabb3b422aa5ce3",
     "kill_time": "2025-10-09T13:07:38Z",
@@ -1739,32 +1791,6 @@
       "corporation_name": "profit alt no1 Corporation",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130238929,
-    "killmail_hash": "69f426f43753cbdfac11d295ba0ba8b4d0382c98",
-    "kill_time": "2025-10-03T01:58:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2120678803,
-      "character_name": "Cherri B0mb",
-      "corporation_id": 98740436,
-      "corporation_name": "Event-Horizon Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130238929/",
-    "total_value": 31087788816.47,
-    "final_attacker": {
-      "character_name": "Blue'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
