@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130423693,
+    "killmail_hash": "48052f22d5f760b4ac0c81b90505be449c663a25",
+    "kill_time": "2025-10-10T23:26:42Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2116708088,
+      "character_name": "Darth Miettek",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130423693/",
+    "total_value": 2183467307.48,
+    "final_attacker": {
+      "character_name": "Edgy Shadow-Lord",
+      "corporation_name": "Deaths Shitposters",
+      "alliance_name": "I have a jar of relish I cant open",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130422850,
+    "killmail_hash": "13e22106c900f16a575f27036e2872fdec767337",
+    "kill_time": "2025-10-10T22:32:33Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001405,
+    "solar_system_name": "Kakakela",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 91527214,
+      "character_name": "Dave7 7",
+      "corporation_id": 98178252,
+      "corporation_name": "Federal Defense Aggro Donks",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130422850/",
+    "total_value": 9220741088.96,
+    "final_attacker": {
+      "character_name": "HongsamWhisky",
+      "corporation_name": "AMC.",
+      "alliance_name": "Out of the Blue.",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130416636,
     "killmail_hash": "bf146bc081f76b06d24668fc7c25fad7cb00d9c8",
     "kill_time": "2025-10-10T17:37:26Z",
@@ -1817,32 +1869,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130259171,
-    "killmail_hash": "89a89dc75a9e10c0091f70557786ee1f279bd59d",
-    "kill_time": "2025-10-04T01:24:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000224,
-    "solar_system_name": "7-K5EL",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 172287937,
-      "character_name": "juanniaoyuhua",
-      "corporation_id": 98178881,
-      "corporation_name": "Nuwa Foundation",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130259171/",
-    "total_value": 1968231228.31,
-    "final_attacker": {
-      "character_name": "Artasen Ernaga",
-      "corporation_name": "We are Lost In Action",
-      "alliance_name": null,
-      "ship_type_name": "Nemesis"
     }
   }
 ]
