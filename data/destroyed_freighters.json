@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130475946,
+    "killmail_hash": "f7aec0b9050d9842bf87fe9eee6b42bf994859c6",
+    "kill_time": "2025-10-12T20:01:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1911941914,
+      "character_name": "MarineSniper614",
+      "corporation_id": 1992546227,
+      "corporation_name": "Buccaneers of New Eden",
+      "alliance_id": 99005418,
+      "alliance_name": "Liquor Legion"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130475946/",
+    "total_value": 9608398501.71,
+    "final_attacker": {
+      "character_name": "Mindy Murderface",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Thrasher"
+    }
+  },
+  {
     "killmail_id": 130459598,
     "killmail_hash": "a04d0494ca323fa14c01eebe4a9b19a3759d9285",
     "kill_time": "2025-10-12T07:59:48Z",
@@ -1245,162 +1271,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130303715,
-    "killmail_hash": "f37f7dc42ff59e03616344fa1fecdecba93cf667",
-    "kill_time": "2025-10-05T20:09:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002780,
-    "solar_system_name": "Muvolailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120652347,
-      "character_name": "Kevin Valek",
-      "corporation_id": 98725418,
-      "corporation_name": "WiCorp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130303715/",
-    "total_value": 6435784708.47,
-    "final_attacker": {
-      "character_name": "Laura Gentile",
-      "corporation_name": "RSE Industries",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130303235,
-    "killmail_hash": "ae4a42a83dbbdcfdd70915138451b68ee7768398",
-    "kill_time": "2025-10-05T19:49:38Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002682,
-    "solar_system_name": "Colelie",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90704479,
-      "character_name": "wotan vallvater",
-      "corporation_id": 98594259,
-      "corporation_name": "Space Bromeos",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130303235/",
-    "total_value": 5734319234.13,
-    "final_attacker": {
-      "character_name": "Pilfer Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130302465,
-    "killmail_hash": "757fa6ccba5383ddece4b89dec9cfd52752a54e3",
-    "kill_time": "2025-10-05T19:10:26Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001448,
-    "solar_system_name": "Hakonen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 95137526,
-      "character_name": "Smitten Mittens Chambers",
-      "corporation_id": 1000006,
-      "corporation_name": "Deep Core Mining Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130302465/",
-    "total_value": 1934725002.28,
-    "final_attacker": {
-      "character_name": "Contingency-JCTX",
-      "corporation_name": "Stardust-Guardian",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130301104,
-    "killmail_hash": "044054820b5a922846e4ef7aad49f566754916ab",
-    "kill_time": "2025-10-05T18:18:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123194515,
-      "character_name": "SSQWQSS",
-      "corporation_id": 98814361,
-      "corporation_name": "Quick Wit Quintessence",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130301104/",
-    "total_value": 8227345346.19,
-    "final_attacker": {
-      "character_name": "Raging Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130301045,
-    "killmail_hash": "b4da6ca08e615e2bc7c80fb6d3275e4f26374ecd",
-    "kill_time": "2025-10-05T18:16:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004751,
-    "solar_system_name": "K-6K16",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 1921504534,
-      "character_name": "Thvaron",
-      "corporation_id": 98777334,
-      "corporation_name": "Bush Chook Brewery",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130301045/",
-    "total_value": 2531348941.16,
-    "final_attacker": {
-      "character_name": "JB Hitmarker",
-      "corporation_name": "Environmental Hazard",
-      "alliance_name": "Safety.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130300531,
-    "killmail_hash": "88f46ef9cb6524de486be5cd439dd2c691c25256",
-    "kill_time": "2025-10-05T18:01:14Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95224437,
-      "character_name": "Nog Ferengi",
-      "corporation_id": 98368173,
-      "corporation_name": "Ferengi Fosztogato es Uzleti Tarsasag",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130300531/",
-    "total_value": 3602777429.2,
-    "final_attacker": {
-      "character_name": "Steal Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
