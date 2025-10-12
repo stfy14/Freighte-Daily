@@ -1428,57 +1428,5 @@
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
     }
-  },
-  {
-    "killmail_id": 130285383,
-    "killmail_hash": "f646eef1dd9e7578cbee66f080372a8337ed6fc4",
-    "kill_time": "2025-10-05T02:49:01Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005010,
-    "solar_system_name": "Atlulle",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 94195194,
-      "character_name": "Mick Worthains",
-      "corporation_id": 98648126,
-      "corporation_name": "Eve Galactic Miners League",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130285383/",
-    "total_value": 2152196473.47,
-    "final_attacker": {
-      "character_name": "D3nn",
-      "corporation_name": "I Have a Plan",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Valravn"
-    }
-  },
-  {
-    "killmail_id": 130285073,
-    "killmail_hash": "fbd0d7e8f8792b16a0c6ff299026f53e7af9cee2",
-    "kill_time": "2025-10-05T02:27:19Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116464126,
-      "character_name": "Nufudh Aivo",
-      "corporation_id": 98434943,
-      "corporation_name": "Zap Blap Mining Co.",
-      "alliance_id": 99005393,
-      "alliance_name": "Blades of Grass"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130285073/",
-    "total_value": 9185080470.6,
-    "final_attacker": {
-      "character_name": "Mother Coyote",
-      "corporation_name": "Kachinas Return",
-      "alliance_name": null,
-      "ship_type_name": "Manticore"
-    }
   }
 ]
