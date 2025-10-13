@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130495825,
+    "killmail_hash": "09cef7baa3c12f405db581fd355bb0b307366247",
+    "kill_time": "2025-10-13T19:35:43Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003359,
+    "solar_system_name": "DUV-5Y",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 2121050142,
+      "character_name": "Eskemi Suuri",
+      "corporation_id": 98457033,
+      "corporation_name": "United Mining and Hauling Inc",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130495825/",
+    "total_value": 2105800982.64,
+    "final_attacker": {
+      "character_name": "Yao Ryris",
+      "corporation_name": "3200",
+      "alliance_name": "3200.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 130490988,
     "killmail_hash": "75f721bd11db3486c5702f38a619493a7c84bb71",
     "kill_time": "2025-10-13T15:56:00Z",
@@ -1167,32 +1193,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Myrmidon"
-    }
-  },
-  {
-    "killmail_id": 130323876,
-    "killmail_hash": "d2a09bf81604e7a311a3481fd178f6b4a5f37fd4",
-    "kill_time": "2025-10-06T17:49:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002802,
-    "solar_system_name": "Kusomonmon",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123678134,
-      "character_name": "Zenn Two",
-      "corporation_id": 98813470,
-      "corporation_name": "928 Manufacturing",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130323876/",
-    "total_value": 6542132813.1,
-    "final_attacker": {
-      "character_name": "Laura Gentile",
-      "corporation_name": "RSE Industries",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
