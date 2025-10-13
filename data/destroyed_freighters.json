@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130486473,
+    "killmail_hash": "0e0b54fb7bc902472c2aa70149308a2435cea644",
+    "kill_time": "2025-10-13T10:49:14Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002246,
+    "solar_system_name": "Neziel",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2121709036,
+      "character_name": "Vel Canger",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130486473/",
+    "total_value": 2369086888.88,
+    "final_attacker": {
+      "character_name": "Portcullus",
+      "corporation_name": "Proctology Clinic",
+      "alliance_name": "The Veyr Collective",
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
+    "killmail_id": 130485333,
+    "killmail_hash": "f8d35becfa7f36b228aee15fcdfe5dd0c85239a3",
+    "kill_time": "2025-10-13T08:59:18Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000784,
+    "solar_system_name": "YPW-M4",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 93773370,
+      "character_name": "Evo Beldrulf",
+      "corporation_id": 98802230,
+      "corporation_name": "Mad goofies and goonies",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130485333/",
+    "total_value": 4298048106.35,
+    "final_attacker": {
+      "character_name": "Mad Eyes",
+      "corporation_name": "Cameltoe Collective",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 130481256,
     "killmail_hash": "96d30d5fe6cae12e54512baa0598e190e639bb35",
     "kill_time": "2025-10-13T02:00:33Z",
