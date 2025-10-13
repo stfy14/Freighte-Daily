@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130481256,
+    "killmail_hash": "96d30d5fe6cae12e54512baa0598e190e639bb35",
+    "kill_time": "2025-10-13T02:00:33Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 94459963,
+      "character_name": "Argus Miskovsky",
+      "corporation_id": 98403734,
+      "corporation_name": "Subsidy H.R.S.",
+      "alliance_id": 99009885,
+      "alliance_name": "Xagenic Freymvork"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130481256/",
+    "total_value": 2153948658.3,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130479970,
     "killmail_hash": "748111075d4d6ff101409564ccea27129436c569",
     "kill_time": "2025-10-13T00:21:03Z",
@@ -1245,32 +1271,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130311140,
-    "killmail_hash": "f4a5bcd6e979b9ddcbd23b1fc201046c00771a60",
-    "kill_time": "2025-10-06T04:16:25Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 946123299,
-      "character_name": "Ryfox",
-      "corporation_id": 98747133,
-      "corporation_name": "Space Monkey'z llc",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130311140/",
-    "total_value": 9987355977.77,
-    "final_attacker": {
-      "character_name": "Ethien Green",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Sin"
     }
   }
 ]
