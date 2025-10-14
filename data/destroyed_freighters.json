@@ -1090,57 +1090,5 @@
       "alliance_name": null,
       "ship_type_name": "Typhoon Fleet Issue"
     }
-  },
-  {
-    "killmail_id": 130341041,
-    "killmail_hash": "eae1de5785553db9f1887be00a63e72ad96c9e02",
-    "kill_time": "2025-10-07T10:40:16Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96582919,
-      "character_name": "Bellvy Gin",
-      "corporation_id": 98808817,
-      "corporation_name": "Knight of Zero Ultra",
-      "alliance_id": 99014293,
-      "alliance_name": "Pale Sanctum Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130341041/",
-    "total_value": 11372915853.58,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130340957,
-    "killmail_hash": "f718cea8844b9300fb037359f711509ff7fccda6",
-    "kill_time": "2025-10-07T10:29:35Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002033,
-    "solar_system_name": "RORZ-H",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 1533554989,
-      "character_name": "Richard Colfax",
-      "corporation_id": 397943965,
-      "corporation_name": "Phoenix Division",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130340957/",
-    "total_value": 7408182683.35,
-    "final_attacker": {
-      "character_name": "HiGhLaNDeR McLeod",
-      "corporation_name": "Kairiola's Legacy",
-      "alliance_name": "Ishuk-Raata Enforcement Directive",
-      "ship_type_name": "Osprey Navy Issue"
-    }
   }
 ]
