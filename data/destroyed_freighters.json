@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130514658,
+    "killmail_hash": "ab3fa1e92636c707e4345361379378a78a8bb451",
+    "kill_time": "2025-10-14T18:18:12Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1214876343,
+      "character_name": "Hakira Rutha",
+      "corporation_id": 98336541,
+      "corporation_name": "Agents Orange",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130514658/",
+    "total_value": 9154805376.23,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130513039,
+    "killmail_hash": "8f7d10c4e36509ab649b0916999d67ba17f61f1b",
+    "kill_time": "2025-10-14T16:46:33Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000111,
+    "solar_system_name": "Hothomouh",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 364305279,
+      "character_name": "Small fries",
+      "corporation_id": 98006841,
+      "corporation_name": "Goats Unlimited",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130513039/",
+    "total_value": 8769543852.99,
+    "final_attacker": {
+      "character_name": "Mean1e",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130499836,
     "killmail_hash": "146b6a54a0af1a5d2e157f8b1b7f845bf8008b58",
     "kill_time": "2025-10-13T23:25:15Z",
