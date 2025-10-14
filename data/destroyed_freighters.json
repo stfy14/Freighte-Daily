@@ -1038,57 +1038,5 @@
       "alliance_name": "Hard Knocks Citizens",
       "ship_type_name": "Succubus"
     }
-  },
-  {
-    "killmail_id": 130343131,
-    "killmail_hash": "31368e1b74c243dcc3a4826edd44ed3a51567a3a",
-    "kill_time": "2025-10-07T13:19:48Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002802,
-    "solar_system_name": "Kusomonmon",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 564437866,
-      "character_name": "Eruraviel",
-      "corporation_id": 1000009,
-      "corporation_name": "Caldari Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130343131/",
-    "total_value": 3196024452.29,
-    "final_attacker": {
-      "character_name": "HongsamDonut",
-      "corporation_name": "AMC.",
-      "alliance_name": "Out of the Blue.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130343125,
-    "killmail_hash": "b6f6e6ff5a7923bcb78e76cb1f7f6430d50962fd",
-    "kill_time": "2025-10-07T13:19:43Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122080380,
-      "character_name": "Rechine Lee",
-      "corporation_id": 98800613,
-      "corporation_name": "Emperor Scythes Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130343125/",
-    "total_value": 2806898275.3,
-    "final_attacker": {
-      "character_name": "Victor100122",
-      "corporation_name": "Emperor Scythes Academy",
-      "alliance_name": null,
-      "ship_type_name": "Typhoon Fleet Issue"
-    }
   }
 ]
