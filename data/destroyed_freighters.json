@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130525045,
+    "killmail_hash": "aa0ebee232215b41607d13e7248cfa6e472bf838",
+    "kill_time": "2025-10-15T05:54:08Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003447,
+    "solar_system_name": "Josekorn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123703444,
+      "character_name": "BSLC - 004",
+      "corporation_id": 98811174,
+      "corporation_name": "Black Sky Logistics Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130525045/",
+    "total_value": 5864593211.82,
+    "final_attacker": {
+      "character_name": "B-534 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 130514658,
     "killmail_hash": "ab3fa1e92636c707e4345361379378a78a8bb451",
     "kill_time": "2025-10-14T18:18:12Z",
