@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130534068,
+    "killmail_hash": "33d94baddc200ffafc0ae89982935d0556aaa19b",
+    "kill_time": "2025-10-15T17:52:55Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121254457,
+      "character_name": "Mazda Annatari",
+      "corporation_id": 98492431,
+      "corporation_name": "Athanos Industries",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130534068/",
+    "total_value": 13813294281.96,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130529201,
     "killmail_hash": "50efda42607bbfc4fd02b764d04aaa739bf631dd",
     "kill_time": "2025-10-15T12:59:41Z",
@@ -985,58 +1011,6 @@
       "corporation_name": "Late night poets",
       "alliance_name": "Shadow Cartel",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130372557,
-    "killmail_hash": "afd1a8ec930fd2324050d63eacca7c7285ac61a9",
-    "kill_time": "2025-10-08T18:46:58Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2119850062,
-      "character_name": "Nahtsu Yamato",
-      "corporation_id": 98684131,
-      "corporation_name": "Evola Deliveries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130372557/",
-    "total_value": 10494884613.24,
-    "final_attacker": {
-      "character_name": "Repzec",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130369822,
-    "killmail_hash": "fa8afdeec7c04af1e959f49bb7345eaa9ee792f7",
-    "kill_time": "2025-10-08T16:40:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002718,
-    "solar_system_name": "Rancer",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122788842,
-      "character_name": "OffSpotter",
-      "corporation_id": 98799712,
-      "corporation_name": "B-M-Foff",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130369822/",
-    "total_value": 1959155019.13,
-    "final_attacker": {
-      "character_name": "bauke jacob",
-      "corporation_name": "NED-Clan",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
