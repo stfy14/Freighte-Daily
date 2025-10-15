@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130529201,
+    "killmail_hash": "50efda42607bbfc4fd02b764d04aaa739bf631dd",
+    "kill_time": "2025-10-15T12:59:41Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30005204,
+    "solar_system_name": "Yulai",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2112013687,
+      "character_name": "Svetlania Black",
+      "corporation_id": 98370987,
+      "corporation_name": "Eagle Wing Industries",
+      "alliance_id": 495729389,
+      "alliance_name": "Shadow Cartel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130529201/",
+    "total_value": 2126749663.99,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "CONCORD",
+      "alliance_name": null,
+      "ship_type_name": "CONCORD SWAT Commander"
+    }
+  },
+  {
     "killmail_id": 130525045,
     "killmail_hash": "aa0ebee232215b41607d13e7248cfa6e472bf838",
     "kill_time": "2025-10-15T05:54:08Z",
@@ -1010,32 +1036,6 @@
       "character_name": "bauke jacob",
       "corporation_name": "NED-Clan",
       "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130366903,
-    "killmail_hash": "cc4443b103c7b9ff75fb7c53ac82f331ff44b0e5",
-    "kill_time": "2025-10-08T14:17:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113015729,
-      "character_name": "yukiii Rova",
-      "corporation_id": 98520384,
-      "corporation_name": "New B Collective",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130366903/",
-    "total_value": 7973144635.5,
-    "final_attacker": {
-      "character_name": "Durint",
-      "corporation_name": "RSE Industries",
-      "alliance_name": null,
       "ship_type_name": "Cenotaph"
     }
   }
