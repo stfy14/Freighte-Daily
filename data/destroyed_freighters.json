@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130543141,
+    "killmail_hash": "6a3c7410e24b1a16bb9020ef65fa9da17d6ed708",
+    "kill_time": "2025-10-16T04:18:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003831,
+    "solar_system_name": "Osmeden",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2123386726,
+      "character_name": "Poila Yotosala",
+      "corporation_id": 98806576,
+      "corporation_name": "Zephyrim Sentinels",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130543141/",
+    "total_value": 2873596340.19,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 130541191,
     "killmail_hash": "44c33a82d3cec62ff9a6c2f5ec381a933e2fced3",
     "kill_time": "2025-10-16T01:26:28Z",
@@ -1063,32 +1089,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130381654,
-    "killmail_hash": "2775799edb34f0bf40e2dbbf94201089eb1d8582",
-    "kill_time": "2025-10-09T02:28:12Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000555,
-    "solar_system_name": "U104-3",
-    "region_name": "Wicked Creek",
-    "victim": {
-      "character_id": 352283009,
-      "character_name": "Devereaux Raie",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130381654/",
-    "total_value": 1936753389.21,
-    "final_attacker": {
-      "character_name": "Xcaliba",
-      "corporation_name": "Late night poets",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
