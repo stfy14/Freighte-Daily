@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130562381,
+    "killmail_hash": "9279ffde054348bdb3f6aa133f093da14285aba1",
+    "kill_time": "2025-10-17T05:28:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30005082,
+    "solar_system_name": "Enal",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 95385384,
+      "character_name": "Krolina Shiyurida",
+      "corporation_id": 98316453,
+      "corporation_name": "Outfit 418",
+      "alliance_id": 99010265,
+      "alliance_name": "Blue Loot Not Included"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130562381/",
+    "total_value": 18853969023.94,
+    "final_attacker": {
+      "character_name": "Andromeda Lafarge",
+      "corporation_name": "Ketsumei",
+      "alliance_name": "Pandemic Legion",
+      "ship_type_name": "Zirnitra"
+    }
+  },
+  {
+    "killmail_id": 130562375,
+    "killmail_hash": "f5fdb865f32a8d33109e4b033de03d6b844f584b",
+    "kill_time": "2025-10-17T05:28:08Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30005082,
+    "solar_system_name": "Enal",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 95437360,
+      "character_name": "Themis Risalo",
+      "corporation_id": 98316453,
+      "corporation_name": "Outfit 418",
+      "alliance_id": 99010265,
+      "alliance_name": "Blue Loot Not Included"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130562375/",
+    "total_value": 19522253866.77,
+    "final_attacker": {
+      "character_name": "Degotoga",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 130555174,
     "killmail_hash": "1083064ecbe7c6634ea23e8655ded51e8749a752",
     "kill_time": "2025-10-16T20:03:48Z",
@@ -1086,58 +1138,6 @@
     "total_value": 31108401280.37,
     "final_attacker": {
       "character_name": "zLegion B",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130407323,
-    "killmail_hash": "e54939d54f294505c32ff98e6896b16dabb31cee",
-    "kill_time": "2025-10-10T07:26:21Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000139,
-    "solar_system_name": "Urlen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1709981294,
-      "character_name": "Elder Carlie",
-      "corporation_id": 1000049,
-      "corporation_name": "Brutor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130407323/",
-    "total_value": 33936621187.93,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130406977,
-    "killmail_hash": "3aa6757565bea1875d72ce02b81120421ca28840",
-    "kill_time": "2025-10-10T06:46:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2120674994,
-      "character_name": "wicked235",
-      "corporation_id": 98734456,
-      "corporation_name": "Funny probe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130406977/",
-    "total_value": 13751432951.67,
-    "final_attacker": {
-      "character_name": "zLegion C",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
