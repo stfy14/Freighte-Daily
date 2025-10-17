@@ -1142,57 +1142,5 @@
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
     }
-  },
-  {
-    "killmail_id": 130404760,
-    "killmail_hash": "b055897564f76c47eb98757f0df61e8a7f2875c2",
-    "kill_time": "2025-10-10T03:32:10Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2117404154,
-      "character_name": "Cassionovia",
-      "corporation_id": 98803643,
-      "corporation_name": "XANAX Withdrawal Corp.",
-      "alliance_id": 99014167,
-      "alliance_name": "XANAX Withdrawal Corp. Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130404760/",
-    "total_value": 6041447199.56,
-    "final_attacker": {
-      "character_name": "Nado 3 Hawk",
-      "corporation_name": "Abusing Game Mechanics",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 130403801,
-    "killmail_hash": "4d123d53638ab4ce07f304af41bbe970d8ede282",
-    "kill_time": "2025-10-10T02:31:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120979161,
-      "character_name": "Dave Arquero",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130403801/",
-    "total_value": 7300744580.39,
-    "final_attacker": {
-      "character_name": "HongsamDonut",
-      "corporation_name": "AMC.",
-      "alliance_name": "Out of the Blue.",
-      "ship_type_name": "Cenotaph"
-    }
   }
 ]
