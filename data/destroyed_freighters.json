@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 130586902,
+    "killmail_hash": "51339fa4655c1d648b4491c3f5276ee0d1f4e59e",
+    "kill_time": "2025-10-18T08:33:52Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123765577,
+      "character_name": "Aerin Hegirin",
+      "corporation_id": 98748177,
+      "corporation_name": "North Shore Ghost Army.A",
+      "alliance_id": 99013410,
+      "alliance_name": "KFC Crazy Thursday"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130586902/",
+    "total_value": 1978211385.91,
+    "final_attacker": {
+      "character_name": "GreenEyes",
+      "corporation_name": "Solid Ground",
+      "alliance_name": null,
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 130585516,
+    "killmail_hash": "5907ed4c1dee3de945bc9340f55d1469be2f9681",
+    "kill_time": "2025-10-18T06:52:23Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1001227134,
+      "character_name": "Ugroza",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130585516/",
+    "total_value": 17372663380.63,
+    "final_attacker": {
+      "character_name": "Prime Admiral",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Capsule"
+    }
+  },
+  {
+    "killmail_id": 130576468,
+    "killmail_hash": "9a2c7271006adaf7aee9a6f5aac348c33be896eb",
+    "kill_time": "2025-10-17T20:44:13Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123614977,
+      "character_name": "Chewbacco",
+      "corporation_id": 98810385,
+      "corporation_name": "Applied Ignorance",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130576468/",
+    "total_value": 9208296346.01,
+    "final_attacker": {
+      "character_name": "Pyne Khamsi",
+      "corporation_name": "Champagne Room",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130576233,
+    "killmail_hash": "5c0ba59743fef785c301ec7ac3317c3fb3d306c4",
+    "kill_time": "2025-10-17T20:34:50Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 93359921,
+      "character_name": "Rick Aldeland",
+      "corporation_id": 98775617,
+      "corporation_name": "Comitia Centuriata",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130576233/",
+    "total_value": 26379977781.02,
+    "final_attacker": {
+      "character_name": "Broho Handelaar",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130575808,
+    "killmail_hash": "c1c6d9f54d2190a4551a76667e4e2c8d5ea75958",
+    "kill_time": "2025-10-17T20:19:44Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000134,
+    "solar_system_name": "Hykkota",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123058612,
+      "character_name": "NFT HaulerBoy001",
+      "corporation_id": 98790120,
+      "corporation_name": "Royal Mail Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130575808/",
+    "total_value": 14641248706.14,
+    "final_attacker": {
+      "character_name": "Nado 29 Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 130574054,
     "killmail_hash": "52931b788001cb24a6a3dbea8341a5a4c499abe9",
     "kill_time": "2025-10-17T19:15:31Z",
