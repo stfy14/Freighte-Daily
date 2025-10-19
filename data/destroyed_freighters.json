@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130629650,
+    "killmail_hash": "91b223290d63e7f13b9d4c51c5744e300f809387",
+    "kill_time": "2025-10-19T12:43:09Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122530751,
+      "character_name": "Radish Orsi",
+      "corporation_id": 917701062,
+      "corporation_name": "EVE University",
+      "alliance_id": 937872513,
+      "alliance_name": "Ivy League"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130629650/",
+    "total_value": 1962315511.62,
+    "final_attacker": {
+      "character_name": "Dread Goddess",
+      "corporation_name": "Axis of Evil Emporium Imperium",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 130626517,
+    "killmail_hash": "f39f224057df019bc9478f08f2a586a5a471fb2c",
+    "kill_time": "2025-10-19T09:26:03Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004600,
+    "solar_system_name": "C-N4OD",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 2119652032,
+      "character_name": "DidiJack De River",
+      "corporation_id": 98705809,
+      "corporation_name": "Sisters of EVE - Origins",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130626517/",
+    "total_value": 2768472203.57,
+    "final_attacker": {
+      "character_name": "Joseph Gordon-Levit",
+      "corporation_name": "Special law enforcement department",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 130623387,
     "killmail_hash": "74a3d1e72ea0e57f549730e940132fb1761948f6",
     "kill_time": "2025-10-19T06:44:09Z",
