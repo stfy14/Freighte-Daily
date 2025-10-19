@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 130608937,
+    "killmail_hash": "e4f600312626c9d544be64fbc213a4e16dd328f1",
+    "kill_time": "2025-10-18T23:56:14Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002756,
+    "solar_system_name": "Ishomilken",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120038253,
+      "character_name": "Misaki Kai",
+      "corporation_id": 98450647,
+      "corporation_name": "SpaceX Galactic",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130608937/",
+    "total_value": 21794468711.06,
+    "final_attacker": {
+      "character_name": "NaDa Red",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 130606166,
+    "killmail_hash": "efd31b182c998d262c3aba852f01e6e3a13566f3",
+    "kill_time": "2025-10-18T22:00:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2122123416,
+      "character_name": "neggan silv",
+      "corporation_id": 98809880,
+      "corporation_name": "Tabou.",
+      "alliance_id": 1988009451,
+      "alliance_name": "Curatores Veritatis Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130606166/",
+    "total_value": 6856104214.67,
+    "final_attacker": {
+      "character_name": "H0tel",
+      "corporation_name": "University of Caille",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130604652,
+    "killmail_hash": "98d3bc77690aa6e0ed9724a231f8cd8a1d3a6cfb",
+    "kill_time": "2025-10-18T21:16:49Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003544,
+    "solar_system_name": "Galeh",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2112926600,
+      "character_name": "Sandman Sam",
+      "corporation_id": 98784985,
+      "corporation_name": "Sandcastle Holdings LLC",
+      "alliance_id": 99013028,
+      "alliance_name": "The Monarchy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130604652/",
+    "total_value": 8827914959.94,
+    "final_attacker": {
+      "character_name": "Luko Melis",
+      "corporation_name": "Dominion Guild",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130603974,
+    "killmail_hash": "ba6fe9c7fafd5f699325b0bb9dd92b7068b9226e",
+    "kill_time": "2025-10-18T20:58:23Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002542,
+    "solar_system_name": "Auga",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 96242325,
+      "character_name": "Toss The Salad",
+      "corporation_id": 98380701,
+      "corporation_name": "invalid",
+      "alliance_id": 99001619,
+      "alliance_name": "Pirate Coalition"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130603974/",
+    "total_value": 2529412298.89,
+    "final_attacker": {
+      "character_name": "ChimpChimpChimp",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Naglfar"
+    }
+  },
+  {
+    "killmail_id": 130603447,
+    "killmail_hash": "29a7a8da6e63deb320c0856cbfb811316bc7df4e",
+    "kill_time": "2025-10-18T20:45:24Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002542,
+    "solar_system_name": "Auga",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2119349209,
+      "character_name": "Draz Bullneck",
+      "corporation_id": 98800848,
+      "corporation_name": "Multiboxxed",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130603447/",
+    "total_value": 2023649934.83,
+    "final_attacker": {
+      "character_name": "Gladwyn",
+      "corporation_name": "Rattini Tribe",
+      "alliance_name": "Minmatar Fleet Alliance",
+      "ship_type_name": "Tempest Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 130600870,
     "killmail_hash": "2441b21b85f27bd11a7ca554ed69e80906b025e6",
     "kill_time": "2025-10-18T19:23:19Z",
@@ -179,6 +309,32 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 130581885,
+    "killmail_hash": "1e143396e0809fbdd81e49aa6e7eb37f15b492cf",
+    "kill_time": "2025-10-18T02:17:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2121327516,
+      "character_name": "Soulvale89",
+      "corporation_id": 98750653,
+      "corporation_name": "In Memory of Thunderhrse",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130581885/",
+    "total_value": 5666429435.43,
+    "final_attacker": {
+      "character_name": "Orange'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -1089,58 +1245,6 @@
       "corporation_name": "Boomer Humor",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130453939,
-    "killmail_hash": "c179396fdeaf4fbeb5d92897b59d3edd033d566d",
-    "kill_time": "2025-10-12T01:37:26Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2119299759,
-      "character_name": "FelixIsG",
-      "corporation_id": 98791097,
-      "corporation_name": "Terra Calory",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130453939/",
-    "total_value": 2533289519.63,
-    "final_attacker": {
-      "character_name": "Kentril Ul-Diomed",
-      "corporation_name": "Sons of Seyllin",
-      "alliance_name": "Pirate Lords of War",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130450044,
-    "killmail_hash": "5134223120b9d1012e7fe35bde445f848c39e709",
-    "kill_time": "2025-10-11T22:00:21Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002187,
-    "solar_system_name": "Amarr",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 95518498,
-      "character_name": "Lydia Kruger",
-      "corporation_id": 98774340,
-      "corporation_name": "Kar ' Nektani ' Amarria",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130450044/",
-    "total_value": 2784848550.19,
-    "final_attacker": {
-      "character_name": "Tonz Ritc",
-      "corporation_name": "Order of Atomic Flame",
-      "alliance_name": "Hull Tanking Therapy",
-      "ship_type_name": "Ikitursa"
     }
   }
 ]
