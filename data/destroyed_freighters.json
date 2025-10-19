@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 130641947,
+    "killmail_hash": "7c60932081c0832bcb8556f3ef12f26d22f5c881",
+    "kill_time": "2025-10-19T20:03:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121772363,
+      "character_name": "Tmaz",
+      "corporation_id": 98560621,
+      "corporation_name": "Violence is the Answer",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130641947/",
+    "total_value": 4655941967.93,
+    "final_attacker": {
+      "character_name": "Sidewalk Enforcer",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130640618,
+    "killmail_hash": "e47d3cd7a7fc7c8b2dcf2f239abc8bb5b9a31672",
+    "kill_time": "2025-10-19T19:10:34Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114497546,
+      "character_name": "nasty little digger",
+      "corporation_id": 98651048,
+      "corporation_name": "Absolute Order XVI",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130640618/",
+    "total_value": 3089203378.55,
+    "final_attacker": {
+      "character_name": "bindevent",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130639748,
+    "killmail_hash": "6019048b94d84fdbdd3ca415d3cb073ac162d183",
+    "kill_time": "2025-10-19T18:36:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115916201,
+      "character_name": "aphatmc",
+      "corporation_id": 98787157,
+      "corporation_name": "Subterfuge Blackmail Sabotage Deception Network",
+      "alliance_id": 99012770,
+      "alliance_name": "Black Rose."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130639748/",
+    "total_value": 4409724088.4,
+    "final_attacker": {
+      "character_name": "big brutor one",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130639703,
+    "killmail_hash": "1049668ba1d46878cbd3db89d4896b63a90ea4ca",
+    "kill_time": "2025-10-19T18:35:23Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92450120,
+      "character_name": "Kara Wallo",
+      "corporation_id": 98619608,
+      "corporation_name": "Acapulco",
+      "alliance_id": 1459096720,
+      "alliance_name": "Brotherhood Of Silent Space"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130639703/",
+    "total_value": 4806029161.36,
+    "final_attacker": {
+      "character_name": "Jack Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130638682,
+    "killmail_hash": "57ec45d1bc07e1f7b64e4222b68c1d51d1673fd3",
+    "kill_time": "2025-10-19T17:53:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123305919,
+      "character_name": "Bruised Ham",
+      "corporation_id": 98799459,
+      "corporation_name": "Sap Corp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130638682/",
+    "total_value": 3817390958.2,
+    "final_attacker": {
+      "character_name": "Jessie Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130629650,
     "killmail_hash": "91b223290d63e7f13b9d4c51c5744e300f809387",
     "kill_time": "2025-10-19T12:43:09Z",
@@ -1505,32 +1635,6 @@
       "corporation_name": "Nothing Comes To Mind",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 130475946,
-    "killmail_hash": "f7aec0b9050d9842bf87fe9eee6b42bf994859c6",
-    "kill_time": "2025-10-12T20:01:10Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1911941914,
-      "character_name": "MarineSniper614",
-      "corporation_id": 1992546227,
-      "corporation_name": "Buccaneers of New Eden",
-      "alliance_id": 99005418,
-      "alliance_name": "Liquor Legion"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130475946/",
-    "total_value": 9608398501.71,
-    "final_attacker": {
-      "character_name": "Mindy Murderface",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Thrasher"
     }
   }
 ]
