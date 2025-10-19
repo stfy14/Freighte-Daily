@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 130616866,
+    "killmail_hash": "d4c774ea8b1aa9c0514a5ec86bc78a1dd92f1621",
+    "kill_time": "2025-10-19T04:03:31Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119112093,
+      "character_name": "Lucius Atticus",
+      "corporation_id": 98807925,
+      "corporation_name": "Drill-And-Kill",
+      "alliance_id": 99014384,
+      "alliance_name": "Tactical Fiasco"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130616866/",
+    "total_value": 6131025437.23,
+    "final_attacker": {
+      "character_name": "George Painter",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130616076,
+    "killmail_hash": "98216cbdc2255dca26d4235afc79eee2955a1307",
+    "kill_time": "2025-10-19T03:45:53Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122530654,
+      "character_name": "Rotker2",
+      "corporation_id": 98806817,
+      "corporation_name": "Fairy Express.inc",
+      "alliance_id": 99014175,
+      "alliance_name": "Fairy Express Commercial Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130616076/",
+    "total_value": 5548137612.6,
+    "final_attacker": {
+      "character_name": "Jessie Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 130615416,
+    "killmail_hash": "eea9ce349cb5c099fb28212f376e5220cc0010e7",
+    "kill_time": "2025-10-19T03:27:17Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94239646,
+      "character_name": "Raffle King",
+      "corporation_id": 98781311,
+      "corporation_name": "Dawn's LightP",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130615416/",
+    "total_value": 8630634020.36,
+    "final_attacker": {
+      "character_name": "Dan Painter",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130612810,
+    "killmail_hash": "863a0a15a14307234818b94828ae1fc53c823421",
+    "kill_time": "2025-10-19T02:10:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123706319,
+      "character_name": "Alyson Cameron",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130612810/",
+    "total_value": 45694408681.03,
+    "final_attacker": {
+      "character_name": "Jason Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Caracal"
+    }
+  },
+  {
     "killmail_id": 130608937,
     "killmail_hash": "e4f600312626c9d544be64fbc213a4e16dd328f1",
     "kill_time": "2025-10-18T23:56:14Z",
