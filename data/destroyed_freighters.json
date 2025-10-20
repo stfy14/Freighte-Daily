@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 130650186,
+    "killmail_hash": "4319406cf1e5c0100f3cde54d40d766547d1ed7a",
+    "kill_time": "2025-10-20T05:01:24Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2120210473,
+      "character_name": "The Funk3388",
+      "corporation_id": 98586883,
+      "corporation_name": "Xa'sar",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130650186/",
+    "total_value": 9977353424.71,
+    "final_attacker": {
+      "character_name": "Benard Lowel",
+      "corporation_name": "The Alamo Scouts",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130650178,
+    "killmail_hash": "416ee7ec7d6249648af575213090eda07a84053b",
+    "kill_time": "2025-10-20T05:00:55Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2121592751,
+      "character_name": "SSgt Parks",
+      "corporation_id": 98586883,
+      "corporation_name": "Xa'sar",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130650178/",
+    "total_value": 10037855478.1,
+    "final_attacker": {
+      "character_name": "Hset Rad",
+      "corporation_name": "Into the Ether",
+      "alliance_name": "Out of the Blue.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130650003,
+    "killmail_hash": "39a8fb37bfd0f949ea87501ff2884e9f98310fcc",
+    "kill_time": "2025-10-20T04:45:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 96255319,
+      "character_name": "Meth Laboratory",
+      "corporation_id": 98809787,
+      "corporation_name": "Blackstar Industrial Group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130650003/",
+    "total_value": 4657537180.94,
+    "final_attacker": {
+      "character_name": "White'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130648778,
+    "killmail_hash": "0fa11a254ae660f397141d82077f2bfc97eb6e79",
+    "kill_time": "2025-10-20T03:00:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123392583,
+      "character_name": "xupinfleet",
+      "corporation_id": 98804712,
+      "corporation_name": "XUP Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130648778/",
+    "total_value": 13109646187.9,
+    "final_attacker": {
+      "character_name": "Blue'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130647853,
     "killmail_hash": "8bb0f83751188495d442c21ebe58bd817eff0faf",
     "kill_time": "2025-10-20T02:04:31Z",
