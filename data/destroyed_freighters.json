@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130670237,
+    "killmail_hash": "cf55884274afaab6930f1da0ee28447e72d77bdc",
+    "kill_time": "2025-10-21T04:19:57Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000140,
+    "solar_system_name": "Maurasi",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96125214,
+      "character_name": "Arante Stetille",
+      "corporation_id": 98591509,
+      "corporation_name": "Loquacious Logistics Cooperative",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130670237/",
+    "total_value": 16011207535.33,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130670136,
+    "killmail_hash": "5d15613b035651ac9ca09c26f6aa2b39c3707325",
+    "kill_time": "2025-10-21T04:11:53Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2118644516,
+      "character_name": "xoukun",
+      "corporation_id": 98806403,
+      "corporation_name": "AOC Express",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130670136/",
+    "total_value": 9291188771.22,
+    "final_attacker": {
+      "character_name": "Flacorn",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 130669904,
+    "killmail_hash": "45e3fccf3692c3d4f0d14720eba9b35ac7f5c63a",
+    "kill_time": "2025-10-21T03:54:22Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122772536,
+      "character_name": "crimson Wolfett",
+      "corporation_id": 98790548,
+      "corporation_name": "Band of Optimistic Brave Souls",
+      "alliance_id": 99009947,
+      "alliance_name": "The Black Federation Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130669904/",
+    "total_value": 2543028638.25,
+    "final_attacker": {
+      "character_name": "Bob Electrician",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130668027,
     "killmail_hash": "1b6f133b28ec4ecb85872f1b6c7f8a8b8fb859ae",
     "kill_time": "2025-10-21T01:17:37Z",
