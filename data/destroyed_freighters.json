@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130674223,
+    "killmail_hash": "0eb6aaf4610731be792ab5ea20b926f417b9d5bd",
+    "kill_time": "2025-10-21T11:44:37Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96251074,
+      "character_name": "John Rasmussen",
+      "corporation_id": 98514900,
+      "corporation_name": "Shuttle Constructions",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130674223/",
+    "total_value": 16135478961.96,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130673224,
+    "killmail_hash": "e04002fa8872305030f44a8880f4d82abcabd5ce",
+    "kill_time": "2025-10-21T09:48:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 537574177,
+      "character_name": "ACCEHu3ATOP MOCKBA",
+      "corporation_id": 98649763,
+      "corporation_name": "Laboratorios Unidos del Cartel de Sinaloa",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130673224/",
+    "total_value": 11028958987.89,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130671294,
     "killmail_hash": "ed8097dcaf2e2a5014ccecd3979070690a58ab69",
     "kill_time": "2025-10-21T06:12:47Z",
