@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130703320,
+    "killmail_hash": "1b2691a276eee26025b7f32ef2c06c8bc3f396fb",
+    "kill_time": "2025-10-22T19:46:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 706929738,
+      "character_name": "Telleka",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130703320/",
+    "total_value": 5816877462,
+    "final_attacker": {
+      "character_name": "big brutor one",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 130700129,
+    "killmail_hash": "7196ca06673f19432644367eb1a6a4cd88a44eb2",
+    "kill_time": "2025-10-22T17:25:12Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003032,
+    "solar_system_name": "Meves",
+    "region_name": "Everyshore",
+    "victim": {
+      "character_id": 155867538,
+      "character_name": "yvonne mcgruder",
+      "corporation_id": 98787907,
+      "corporation_name": "red dwarf II",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130700129/",
+    "total_value": 10417583610.81,
+    "final_attacker": {
+      "character_name": "EagIe One",
+      "corporation_name": "Sacred Trolls",
+      "alliance_name": "Dodixie and Osmon Department of Illegal Killshots",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130691391,
     "killmail_hash": "578d5dde6953f1db416432fefdf93948af98c7fa",
     "kill_time": "2025-10-22T04:42:38Z",
@@ -2025,32 +2077,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130534068,
-    "killmail_hash": "33d94baddc200ffafc0ae89982935d0556aaa19b",
-    "kill_time": "2025-10-15T17:52:55Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121254457,
-      "character_name": "Mazda Annatari",
-      "corporation_id": 98492431,
-      "corporation_name": "Athanos Industries",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130534068/",
-    "total_value": 13813294281.96,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
