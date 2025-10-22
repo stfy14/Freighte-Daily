@@ -2052,31 +2052,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 130529201,
-    "killmail_hash": "50efda42607bbfc4fd02b764d04aaa739bf631dd",
-    "kill_time": "2025-10-15T12:59:41Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30005204,
-    "solar_system_name": "Yulai",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2112013687,
-      "character_name": "Svetlania Black",
-      "corporation_id": 98370987,
-      "corporation_name": "Eagle Wing Industries",
-      "alliance_id": 495729389,
-      "alliance_name": "Shadow Cartel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130529201/",
-    "total_value": 2126749663.99,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "CONCORD",
-      "alliance_name": null,
-      "ship_type_name": "CONCORD SWAT Commander"
-    }
   }
 ]
