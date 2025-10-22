@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130691391,
+    "killmail_hash": "578d5dde6953f1db416432fefdf93948af98c7fa",
+    "kill_time": "2025-10-22T04:42:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123386726,
+      "character_name": "Poila Yotosala",
+      "corporation_id": 98806576,
+      "corporation_name": "Zephyrim Sentinels",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130691391/",
+    "total_value": 3290387449.78,
+    "final_attacker": {
+      "character_name": "Jack Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130691079,
     "killmail_hash": "1f63d395b7cd6ccc9f96fb9707a8cf531aef5a11",
     "kill_time": "2025-10-22T04:11:44Z",
@@ -2051,32 +2077,6 @@
       "corporation_name": "CONCORD",
       "alliance_name": null,
       "ship_type_name": "CONCORD SWAT Commander"
-    }
-  },
-  {
-    "killmail_id": 130525045,
-    "killmail_hash": "aa0ebee232215b41607d13e7248cfa6e472bf838",
-    "kill_time": "2025-10-15T05:54:08Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003447,
-    "solar_system_name": "Josekorn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123703444,
-      "character_name": "BSLC - 004",
-      "corporation_id": 98811174,
-      "corporation_name": "Black Sky Logistics Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130525045/",
-    "total_value": 5864593211.82,
-    "final_attacker": {
-      "character_name": "B-534 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
     }
   }
 ]
