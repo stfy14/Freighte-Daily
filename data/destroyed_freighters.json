@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130722670,
+    "killmail_hash": "88fdea6297abb71b8671fa981311531d58845cdb",
+    "kill_time": "2025-10-23T20:24:21Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002187,
+    "solar_system_name": "Amarr",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2123682280,
+      "character_name": "Velira Nyx",
+      "corporation_id": 98638996,
+      "corporation_name": "Regiment Of Naga Association",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130722670/",
+    "total_value": 2077480947.8,
+    "final_attacker": {
+      "character_name": "Pipo Leclown",
+      "corporation_name": "FREAKS CIRCUS",
+      "alliance_name": "New Eden Alliance 99014465",
+      "ship_type_name": "Legion"
+    }
+  },
+  {
     "killmail_id": 130712745,
     "killmail_hash": "bc2a2347b659faa637aa40603061e2df695d27f5",
     "kill_time": "2025-10-23T10:05:38Z",
@@ -1999,32 +2025,6 @@
       "corporation_name": "Hoover Inc.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 130555174,
-    "killmail_hash": "1083064ecbe7c6634ea23e8655ded51e8749a752",
-    "kill_time": "2025-10-16T20:03:48Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002754,
-    "solar_system_name": "Alikara",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121136906,
-      "character_name": "Divine Markets",
-      "corporation_id": 98573758,
-      "corporation_name": "Just One More Cycle",
-      "alliance_id": 99009423,
-      "alliance_name": "Ankle Biter's"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130555174/",
-    "total_value": 9199599941.08,
-    "final_attacker": {
-      "character_name": "zLegion",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
