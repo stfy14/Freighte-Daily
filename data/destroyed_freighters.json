@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130707113,
+    "killmail_hash": "a1d03e3b0ed67e232130779b7ae1ab90cedc1df0",
+    "kill_time": "2025-10-23T00:08:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 31001403,
+    "solar_system_name": "J171359",
+    "region_name": "D-R00016",
+    "victim": {
+      "character_id": 2122255125,
+      "character_name": "triffnixxxxx",
+      "corporation_id": 98744491,
+      "corporation_name": "URSA PRIMUS",
+      "alliance_id": 99013330,
+      "alliance_name": "URSA."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130707113/",
+    "total_value": 1914220300,
+    "final_attacker": {
+      "character_name": "Alan Bell",
+      "corporation_name": "URSA PRIMUS",
+      "alliance_name": "URSA.",
+      "ship_type_name": "Nighthawk"
+    }
+  },
+  {
+    "killmail_id": 130706650,
+    "killmail_hash": "39da22c39803b348d4e449f1202fd3be20bf240a",
+    "kill_time": "2025-10-22T23:21:50Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000037,
+    "solar_system_name": "Uplingur",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 91885714,
+      "character_name": "Seraphina Bibbs",
+      "corporation_id": 98811660,
+      "corporation_name": "Cartel logistics Inc.",
+      "alliance_id": 99014247,
+      "alliance_name": "Twenty Thousand Leagues Out of the SEA."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130706650/",
+    "total_value": 14692400226.65,
+    "final_attacker": {
+      "character_name": "Lord AARP",
+      "corporation_name": "Dominion Guild",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130706072,
+    "killmail_hash": "2ce9e4dcc727e151354953bd136ce30d19f46f5c",
+    "kill_time": "2025-10-22T22:35:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004834,
+    "solar_system_name": "U2U5-A",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2123048617,
+      "character_name": "Ceremony",
+      "corporation_id": 1000171,
+      "corporation_name": "Republic University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130706072/",
+    "total_value": 2039744800.29,
+    "final_attacker": {
+      "character_name": "JungSource",
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_name": "Brave Collective",
+      "ship_type_name": "Muninn"
+    }
+  },
+  {
     "killmail_id": 130703320,
     "killmail_hash": "1b2691a276eee26025b7f32ef2c06c8bc3f396fb",
     "kill_time": "2025-10-22T19:46:37Z",
@@ -1999,84 +2077,6 @@
       "corporation_name": "Constantine.",
       "alliance_name": "Ninja Unicorns with Huge Horns",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 130541191,
-    "killmail_hash": "44c33a82d3cec62ff9a6c2f5ec381a933e2fced3",
-    "kill_time": "2025-10-16T01:26:28Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003433,
-    "solar_system_name": "Gedugaud",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 660976800,
-      "character_name": "Vastenio",
-      "corporation_id": 98345858,
-      "corporation_name": "Black Powder Ballistics",
-      "alliance_id": 99004344,
-      "alliance_name": "Hole Control"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130541191/",
-    "total_value": 14461446798.79,
-    "final_attacker": {
-      "character_name": "P-66 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 130540329,
-    "killmail_hash": "1169de7038ff942dacb57db23310c9feff686c00",
-    "kill_time": "2025-10-16T00:10:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 1607805267,
-      "character_name": "Dark Vallah",
-      "corporation_id": 98224491,
-      "corporation_name": "Lap Dancers",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130540329/",
-    "total_value": 15752994177.88,
-    "final_attacker": {
-      "character_name": "Rhaegar D Targaryen",
-      "corporation_name": "No Vacancies",
-      "alliance_name": "No Vacancies.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 130539589,
-    "killmail_hash": "ef68195836b2acefc58ae08d50718b654657d4d9",
-    "kill_time": "2025-10-15T22:53:49Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 778548024,
-      "character_name": "NaXra",
-      "corporation_id": 98293468,
-      "corporation_name": "Cosmic Blimp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130539589/",
-    "total_value": 2529369787.85,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
