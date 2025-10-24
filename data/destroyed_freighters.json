@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130725903,
+    "killmail_hash": "f37c2c420e130fcc7069e56f513733ade243d270",
+    "kill_time": "2025-10-24T00:00:35Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003801,
+    "solar_system_name": "Aunsou",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2116577047,
+      "character_name": "Zoltan Neximus",
+      "corporation_id": 98707070,
+      "corporation_name": "Neximus Laboratorys",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130725903/",
+    "total_value": 7888378593.47,
+    "final_attacker": {
+      "character_name": "Kenzo Nakamoto",
+      "corporation_name": "African Atomic.",
+      "alliance_name": "Dreadnought Diplomacy.",
+      "ship_type_name": "Thanatos"
+    }
+  },
+  {
+    "killmail_id": 130724408,
+    "killmail_hash": "08c80fe220aa51b51c1d2c7e319a45880a2a2c9f",
+    "kill_time": "2025-10-23T21:54:04Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 31002040,
+    "solar_system_name": "J161745",
+    "region_name": "E-R00025",
+    "victim": {
+      "character_id": 2122411314,
+      "character_name": "Krenox",
+      "corporation_id": 98662761,
+      "corporation_name": "Riders of Truth",
+      "alliance_id": 99013086,
+      "alliance_name": "From the Dark"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130724408/",
+    "total_value": 7636567588.54,
+    "final_attacker": {
+      "character_name": "Angus Sinulf",
+      "corporation_name": "Voidlings",
+      "alliance_name": "V0IDLINGS",
+      "ship_type_name": "Stratios"
+    }
+  },
+  {
+    "killmail_id": 130723591,
+    "killmail_hash": "6972c0850512e7edda7a0dca525175fb3fdcaa8b",
+    "kill_time": "2025-10-23T20:59:48Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005099,
+    "solar_system_name": "R-AG7W",
+    "region_name": "Perrigen Falls",
+    "victim": {
+      "character_id": 949395467,
+      "character_name": "Craftbrew",
+      "corporation_id": 98335648,
+      "corporation_name": "THE GOD FACTORY",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130723591/",
+    "total_value": 3867529940.78,
+    "final_attacker": {
+      "character_name": "Shimizu Tokugawa",
+      "corporation_name": "OEG",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Cyclone Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 130722670,
     "killmail_hash": "88fdea6297abb71b8671fa981311531d58845cdb",
     "kill_time": "2025-10-23T20:24:21Z",
