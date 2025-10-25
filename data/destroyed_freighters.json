@@ -2052,57 +2052,5 @@
       "alliance_name": null,
       "ship_type_name": "Thorax"
     }
-  },
-  {
-    "killmail_id": 130588935,
-    "killmail_hash": "09da9ee7597e365f503d564bab4d878ab2d7ecbf",
-    "kill_time": "2025-10-18T11:40:32Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003070,
-    "solar_system_name": "Sosala",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 96901749,
-      "character_name": "Seekera",
-      "corporation_id": 98614597,
-      "corporation_name": "The Wolf Den",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130588935/",
-    "total_value": 8057424669.52,
-    "final_attacker": {
-      "character_name": "Dii minores",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 130586902,
-    "killmail_hash": "51339fa4655c1d648b4491c3f5276ee0d1f4e59e",
-    "kill_time": "2025-10-18T08:33:52Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123765577,
-      "character_name": "Aerin Hegirin",
-      "corporation_id": 98748177,
-      "corporation_name": "North Shore Ghost Army.A",
-      "alliance_id": 99013410,
-      "alliance_name": "KFC Crazy Thursday"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130586902/",
-    "total_value": 1978211385.91,
-    "final_attacker": {
-      "character_name": "GreenEyes",
-      "corporation_name": "Solid Ground",
-      "alliance_name": null,
-      "ship_type_name": "Vargur"
-    }
   }
 ]
