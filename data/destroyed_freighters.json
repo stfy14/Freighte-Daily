@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130752703,
+    "killmail_hash": "e6fb60bf9067d37703cac9275a226e2051f42313",
+    "kill_time": "2025-10-25T08:25:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122364779,
+      "character_name": "UtopiaJr von Grumpicon",
+      "corporation_id": 98731562,
+      "corporation_name": "Aegis Contractors",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130752703/",
+    "total_value": 24946024416.72,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "N/A",
+      "alliance_name": null,
+      "ship_type_name": "Unknown Ship"
+    }
+  },
+  {
+    "killmail_id": 130752025,
+    "killmail_hash": "e547566ff110d191256ffebbb2bec2b1c88399bd",
+    "kill_time": "2025-10-25T07:37:56Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003856,
+    "solar_system_name": "Athounon",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2123824620,
+      "character_name": "Zer Texa",
+      "corporation_id": 98815591,
+      "corporation_name": "Yunkui Summit",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130752025/",
+    "total_value": 2274215473.1,
+    "final_attacker": {
+      "character_name": "Save Africa",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 130750317,
+    "killmail_hash": "80ce8ef9b9b6f73da7a202d0038037e173f9194e",
+    "kill_time": "2025-10-25T05:04:10Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 91485345,
+      "character_name": "Willem Serrenn",
+      "corporation_id": 98664364,
+      "corporation_name": "WillCo.",
+      "alliance_id": 99014141,
+      "alliance_name": "Hole Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130750317/",
+    "total_value": 7189492642.38,
+    "final_attacker": {
+      "character_name": "Maroon'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130745441,
     "killmail_hash": "f0c42adc1e5c41195b89914973d1f583daf231c7",
     "kill_time": "2025-10-24T23:03:08Z",
@@ -2025,58 +2103,6 @@
       "corporation_name": "Solid Ground",
       "alliance_name": null,
       "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 130585516,
-    "killmail_hash": "5907ed4c1dee3de945bc9340f55d1469be2f9681",
-    "kill_time": "2025-10-18T06:52:23Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1001227134,
-      "character_name": "Ugroza",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130585516/",
-    "total_value": 17372663380.63,
-    "final_attacker": {
-      "character_name": "Prime Admiral",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Capsule"
-    }
-  },
-  {
-    "killmail_id": 130584422,
-    "killmail_hash": "8d572fdf5a460cd7554686a27e1bd3bdacf67630",
-    "kill_time": "2025-10-18T05:33:13Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115931172,
-      "character_name": "Fluorite Yuuki",
-      "corporation_id": 98593679,
-      "corporation_name": "Humpback Whale Logistic",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130584422/",
-    "total_value": 76163192473.07,
-    "final_attacker": {
-      "character_name": "Nado 32 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
     }
   }
 ]
