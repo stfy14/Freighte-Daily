@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130745441,
+    "killmail_hash": "f0c42adc1e5c41195b89914973d1f583daf231c7",
+    "kill_time": "2025-10-24T23:03:08Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002349,
+    "solar_system_name": "E8-432",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2122151966,
+      "character_name": "Jimmy Big Boy",
+      "corporation_id": 635210548,
+      "corporation_name": "Fusion Enterprises Ltd",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130745441/",
+    "total_value": 9417914142.23,
+    "final_attacker": {
+      "character_name": "Salem Indomitable",
+      "corporation_name": "Black Horde Legion Coalitoin Galaxy.........Dot",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130742232,
+    "killmail_hash": "944c5e1d0be7a3cce6eaf5d577143545728c36b4",
+    "kill_time": "2025-10-24T20:31:48Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003726,
+    "solar_system_name": "Y-MPWL",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2118648177,
+      "character_name": "wolfpkr07",
+      "corporation_id": 98052373,
+      "corporation_name": "I N T I",
+      "alliance_id": 99011268,
+      "alliance_name": "Reeloaded."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130742232/",
+    "total_value": 2129247760.49,
+    "final_attacker": {
+      "character_name": "Mav'Lite",
+      "corporation_name": "0mega.",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 130741719,
     "killmail_hash": "1b204f22f0ff5bf502a5cbeec9bd838ee1ffe194",
     "kill_time": "2025-10-24T20:05:35Z",
@@ -2051,58 +2103,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130576468,
-    "killmail_hash": "9a2c7271006adaf7aee9a6f5aac348c33be896eb",
-    "kill_time": "2025-10-17T20:44:13Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001390,
-    "solar_system_name": "Pakkonen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123614977,
-      "character_name": "Chewbacco",
-      "corporation_id": 98810385,
-      "corporation_name": "Applied Ignorance",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130576468/",
-    "total_value": 9208296346.01,
-    "final_attacker": {
-      "character_name": "Pyne Khamsi",
-      "corporation_name": "Champagne Room",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130576233,
-    "killmail_hash": "5c0ba59743fef785c301ec7ac3317c3fb3d306c4",
-    "kill_time": "2025-10-17T20:34:50Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 93359921,
-      "character_name": "Rick Aldeland",
-      "corporation_id": 98775617,
-      "corporation_name": "Comitia Centuriata",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130576233/",
-    "total_value": 26379977781.02,
-    "final_attacker": {
-      "character_name": "Broho Handelaar",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
