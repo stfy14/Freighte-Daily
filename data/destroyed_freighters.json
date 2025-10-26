@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 130773747,
+    "killmail_hash": "262a6e6108ecc39e90ec3afc9a7982bc551eca9a",
+    "kill_time": "2025-10-26T01:12:32Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1416846248,
+      "character_name": "Go2",
+      "corporation_id": 1000066,
+      "corporation_name": "Viziam",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130773747/",
+    "total_value": 4216007418.41,
+    "final_attacker": {
+      "character_name": "George Painter",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130773332,
+    "killmail_hash": "8dbde0ba44a9408f65c1831a39c5b608cad99a38",
+    "kill_time": "2025-10-26T00:41:27Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121662456,
+      "character_name": "Haiden Einay",
+      "corporation_id": 98067874,
+      "corporation_name": "Useless Idea",
+      "alliance_id": 99010431,
+      "alliance_name": "Kybernauts Clade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130773332/",
+    "total_value": 2548683545.5,
+    "final_attacker": {
+      "character_name": "drones man",
+      "corporation_name": "The Ring Sting",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 130772423,
+    "killmail_hash": "ab64e1b8c969da2a07ec0702fd797a5a35b4a70d",
+    "kill_time": "2025-10-25T23:56:49Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 575360111,
+      "character_name": "XxiDeLTa",
+      "corporation_id": 98758938,
+      "corporation_name": "Urban Wealth Collective",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130772423/",
+    "total_value": 2516769017.1,
+    "final_attacker": {
+      "character_name": "Jake Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130770754,
+    "killmail_hash": "3002f6d4f907927c3e4adf167fca51ec53c43306",
+    "kill_time": "2025-10-25T22:23:44Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123580782,
+      "character_name": "Saario Ausen Tekitsu",
+      "corporation_id": 98805587,
+      "corporation_name": "KraZy Fools Unlimited",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130770754/",
+    "total_value": 4641924934.71,
+    "final_attacker": {
+      "character_name": "Jeffery Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130768742,
+    "killmail_hash": "7f55f00b269eddb7588cd12435fc6677e48fe078",
+    "kill_time": "2025-10-25T20:51:11Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 96664228,
+      "character_name": "Joel Olsteen",
+      "corporation_id": 98806804,
+      "corporation_name": "Scrapyard Artificer's",
+      "alliance_id": 99014431,
+      "alliance_name": "Just Lizard"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130768742/",
+    "total_value": 4479391151.26,
+    "final_attacker": {
+      "character_name": "Pilfer Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130767984,
     "killmail_hash": "0f0a23f049d79c0b0c3de0683b3998f065d1df31",
     "kill_time": "2025-10-25T20:20:30Z",
@@ -1999,136 +2129,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Caracal"
-    }
-  },
-  {
-    "killmail_id": 130608937,
-    "killmail_hash": "e4f600312626c9d544be64fbc213a4e16dd328f1",
-    "kill_time": "2025-10-18T23:56:14Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002756,
-    "solar_system_name": "Ishomilken",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120038253,
-      "character_name": "Misaki Kai",
-      "corporation_id": 98450647,
-      "corporation_name": "SpaceX Galactic",
-      "alliance_id": 99007203,
-      "alliance_name": "Siberian Squads"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130608937/",
-    "total_value": 21794468711.06,
-    "final_attacker": {
-      "character_name": "NaDa Red",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 130606166,
-    "killmail_hash": "efd31b182c998d262c3aba852f01e6e3a13566f3",
-    "kill_time": "2025-10-18T22:00:58Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2122123416,
-      "character_name": "neggan silv",
-      "corporation_id": 98809880,
-      "corporation_name": "Tabou.",
-      "alliance_id": 1988009451,
-      "alliance_name": "Curatores Veritatis Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130606166/",
-    "total_value": 6856104214.67,
-    "final_attacker": {
-      "character_name": "H0tel",
-      "corporation_name": "University of Caille",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130604652,
-    "killmail_hash": "98d3bc77690aa6e0ed9724a231f8cd8a1d3a6cfb",
-    "kill_time": "2025-10-18T21:16:49Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003544,
-    "solar_system_name": "Galeh",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2112926600,
-      "character_name": "Sandman Sam",
-      "corporation_id": 98784985,
-      "corporation_name": "Sandcastle Holdings LLC",
-      "alliance_id": 99013028,
-      "alliance_name": "The Monarchy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130604652/",
-    "total_value": 8827914959.94,
-    "final_attacker": {
-      "character_name": "Luko Melis",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130603974,
-    "killmail_hash": "ba6fe9c7fafd5f699325b0bb9dd92b7068b9226e",
-    "kill_time": "2025-10-18T20:58:23Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 96242325,
-      "character_name": "Toss The Salad",
-      "corporation_id": 98380701,
-      "corporation_name": "invalid",
-      "alliance_id": 99001619,
-      "alliance_name": "Pirate Coalition"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130603974/",
-    "total_value": 2529412298.89,
-    "final_attacker": {
-      "character_name": "ChimpChimpChimp",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Naglfar"
-    }
-  },
-  {
-    "killmail_id": 130603447,
-    "killmail_hash": "29a7a8da6e63deb320c0856cbfb811316bc7df4e",
-    "kill_time": "2025-10-18T20:45:24Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2119349209,
-      "character_name": "Draz Bullneck",
-      "corporation_id": 98800848,
-      "corporation_name": "Multiboxxed",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130603447/",
-    "total_value": 2023649934.83,
-    "final_attacker": {
-      "character_name": "Gladwyn",
-      "corporation_name": "Rattini Tribe",
-      "alliance_name": "Minmatar Fleet Alliance",
-      "ship_type_name": "Tempest Fleet Issue"
     }
   }
 ]
