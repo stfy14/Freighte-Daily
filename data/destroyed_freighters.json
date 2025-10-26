@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130784433,
+    "killmail_hash": "ed88fa6aa9775f7fda187b81f2f722c4f0250ca6",
+    "kill_time": "2025-10-26T12:11:53Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 31002026,
+    "solar_system_name": "J113758",
+    "region_name": "E-R00025",
+    "victim": {
+      "character_id": 2117867276,
+      "character_name": "Khaliib",
+      "corporation_id": 98775682,
+      "corporation_name": "Nitrogen flavour Quafe",
+      "alliance_id": 99013998,
+      "alliance_name": "Satori Horigu"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130784433/",
+    "total_value": 3945323675.53,
+    "final_attacker": {
+      "character_name": "Elijah Wick",
+      "corporation_name": "Dark Venture Corporation",
+      "alliance_name": "Kitchen Sinkhole",
+      "ship_type_name": "Khizriel"
+    }
+  },
+  {
+    "killmail_id": 130781368,
+    "killmail_hash": "c35811405b739b88a360bb214188e86a477f3c73",
+    "kill_time": "2025-10-26T08:37:26Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003274,
+    "solar_system_name": "X-BV98",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 90547537,
+      "character_name": "Darius Caliente",
+      "corporation_id": 98423954,
+      "corporation_name": "Worthless Carebears",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130781368/",
+    "total_value": 4225931877.88,
+    "final_attacker": {
+      "character_name": "Izaak Letsky",
+      "corporation_name": "Wok The Dog",
+      "alliance_name": "Naga Please.",
+      "ship_type_name": "Vagabond"
+    }
+  },
+  {
     "killmail_id": 130780294,
     "killmail_hash": "2818b6adb5f6fad98b6fb41b5cf05118d4181a48",
     "kill_time": "2025-10-26T07:13:49Z",
@@ -1947,84 +1999,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130629650,
-    "killmail_hash": "91b223290d63e7f13b9d4c51c5744e300f809387",
-    "kill_time": "2025-10-19T12:43:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122530751,
-      "character_name": "Radish Orsi",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130629650/",
-    "total_value": 1962315511.62,
-    "final_attacker": {
-      "character_name": "Dread Goddess",
-      "corporation_name": "Axis of Evil Emporium Imperium",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 130629408,
-    "killmail_hash": "862ceb4171beb387d30fc7548c487399c12293f0",
-    "kill_time": "2025-10-19T12:32:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002805,
-    "solar_system_name": "Anttiri",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123499811,
-      "character_name": "Baller Tinchen",
-      "corporation_id": 98775860,
-      "corporation_name": "Marauders Logistic",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130629408/",
-    "total_value": 4997877000.57,
-    "final_attacker": {
-      "character_name": "Interpolz",
-      "corporation_name": "Highsec Safety Commission",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130626517,
-    "killmail_hash": "f39f224057df019bc9478f08f2a586a5a471fb2c",
-    "kill_time": "2025-10-19T09:26:03Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004600,
-    "solar_system_name": "C-N4OD",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 2119652032,
-      "character_name": "DidiJack De River",
-      "corporation_id": 98705809,
-      "corporation_name": "Sisters of EVE - Origins",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130626517/",
-    "total_value": 2768472203.57,
-    "final_attacker": {
-      "character_name": "Joseph Gordon-Levit",
-      "corporation_name": "Special law enforcement department",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
