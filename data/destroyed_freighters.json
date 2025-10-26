@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130794461,
+    "killmail_hash": "6a1f7a3cf3f81602710ef7da4e456796ca4feeb4",
+    "kill_time": "2025-10-26T18:52:17Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123308880,
+      "character_name": "volkiceper",
+      "corporation_id": 98797764,
+      "corporation_name": "Kitsune Zaibatsu",
+      "alliance_id": 99013925,
+      "alliance_name": "Inari Syndicate"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130794461/",
+    "total_value": 1917305043.54,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130790780,
     "killmail_hash": "e5d9d1c667a85359db8796c52d2185ce998fa093",
     "kill_time": "2025-10-26T16:25:37Z",
@@ -1895,136 +1921,6 @@
       "corporation_name": "Sacred Templars",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130641947,
-    "killmail_hash": "7c60932081c0832bcb8556f3ef12f26d22f5c881",
-    "kill_time": "2025-10-19T20:03:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121772363,
-      "character_name": "Tmaz",
-      "corporation_id": 98560621,
-      "corporation_name": "Violence is the Answer",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130641947/",
-    "total_value": 4655941967.93,
-    "final_attacker": {
-      "character_name": "Sidewalk Enforcer",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130640618,
-    "killmail_hash": "e47d3cd7a7fc7c8b2dcf2f239abc8bb5b9a31672",
-    "kill_time": "2025-10-19T19:10:34Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114497546,
-      "character_name": "nasty little digger",
-      "corporation_id": 98651048,
-      "corporation_name": "Absolute Order XVI",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130640618/",
-    "total_value": 3089203378.55,
-    "final_attacker": {
-      "character_name": "bindevent",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130639748,
-    "killmail_hash": "6019048b94d84fdbdd3ca415d3cb073ac162d183",
-    "kill_time": "2025-10-19T18:36:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115916201,
-      "character_name": "aphatmc",
-      "corporation_id": 98787157,
-      "corporation_name": "Subterfuge Blackmail Sabotage Deception Network",
-      "alliance_id": 99012770,
-      "alliance_name": "Black Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130639748/",
-    "total_value": 4409724088.4,
-    "final_attacker": {
-      "character_name": "big brutor one",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130639703,
-    "killmail_hash": "1049668ba1d46878cbd3db89d4896b63a90ea4ca",
-    "kill_time": "2025-10-19T18:35:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92450120,
-      "character_name": "Kara Wallo",
-      "corporation_id": 98619608,
-      "corporation_name": "Acapulco",
-      "alliance_id": 1459096720,
-      "alliance_name": "Brotherhood Of Silent Space"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130639703/",
-    "total_value": 4806029161.36,
-    "final_attacker": {
-      "character_name": "Jack Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130638682,
-    "killmail_hash": "57ec45d1bc07e1f7b64e4222b68c1d51d1673fd3",
-    "kill_time": "2025-10-19T17:53:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123305919,
-      "character_name": "Bruised Ham",
-      "corporation_id": 98799459,
-      "corporation_name": "Sap Corp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130638682/",
-    "total_value": 3817390958.2,
-    "final_attacker": {
-      "character_name": "Jessie Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
