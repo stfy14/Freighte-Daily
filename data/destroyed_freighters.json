@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130805976,
+    "killmail_hash": "f07c646c79d35f0e8edc87ee45dd5089d1f7af11",
+    "kill_time": "2025-10-27T09:08:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116907400,
+      "character_name": "Kyrie Lindswood",
+      "corporation_id": 98664584,
+      "corporation_name": "Interstellar Industrial Core",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130805976/",
+    "total_value": 8345571712.41,
+    "final_attacker": {
+      "character_name": "Titus NomePolo",
+      "corporation_name": "The Skies Descend",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 130805816,
+    "killmail_hash": "1dfb8e2a55662d67f044f79065de72d7fea91533",
+    "kill_time": "2025-10-27T08:48:20Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122011508,
+      "character_name": "Udariel Du'Merra",
+      "corporation_id": 98760192,
+      "corporation_name": "BatteryCorp",
+      "alliance_id": 99012530,
+      "alliance_name": "FFEW Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130805816/",
+    "total_value": 23262796208.36,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130803830,
     "killmail_hash": "d87e77965e6df74bdca7db3ea43577f5cdba25df",
     "kill_time": "2025-10-27T04:33:42Z",
@@ -1791,84 +1843,6 @@
       "corporation_name": "Center For Kids Who Can't Fly Good",
       "alliance_name": "Zoo Landers",
       "ship_type_name": "Zealot"
-    }
-  },
-  {
-    "killmail_id": 130655084,
-    "killmail_hash": "84f2a1e00874d03cdb156b7d7e46c7e6b1c9d37a",
-    "kill_time": "2025-10-20T12:45:14Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002805,
-    "solar_system_name": "Anttiri",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116145883,
-      "character_name": "Mercer Solette",
-      "corporation_id": 98681947,
-      "corporation_name": "Karsten Inc.",
-      "alliance_id": 99012770,
-      "alliance_name": "Black Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130655084/",
-    "total_value": 11669718148.17,
-    "final_attacker": {
-      "character_name": "Llm4",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130653494,
-    "killmail_hash": "507af30f033076a712c2e0d3bc5aa6bd8516668c",
-    "kill_time": "2025-10-20T11:14:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001719,
-    "solar_system_name": "Sagain",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 643290711,
-      "character_name": "MEGGANA ANABELLA",
-      "corporation_id": 98157348,
-      "corporation_name": "MUNORY MINING CORP AND CO",
-      "alliance_id": 99010149,
-      "alliance_name": "Organisation des Nations Libres"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130653494/",
-    "total_value": 2337974243.6,
-    "final_attacker": {
-      "character_name": "El Cobradero",
-      "corporation_name": "Lowsexgate to STAIN",
-      "alliance_name": "Stain Neurodiverse Democracy",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130652550,
-    "killmail_hash": "2daf2363d7a0bc3e22e1c778a87558c366dc9a09",
-    "kill_time": "2025-10-20T09:14:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002661,
-    "solar_system_name": "Botane",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95094576,
-      "character_name": "Damian Toma",
-      "corporation_id": 98614492,
-      "corporation_name": "Pandemic Horde High Sec Division",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130652550/",
-    "total_value": 4526385415.85,
-    "final_attacker": {
-      "character_name": "Osmon Queen",
-      "corporation_name": "Sacred Trolls",
-      "alliance_name": "Dodixie and Osmon Department of Illegal Killshots",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
