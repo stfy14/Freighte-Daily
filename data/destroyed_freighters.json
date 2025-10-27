@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130797177,
+    "killmail_hash": "0d710d51c15a4b0f4f652547336b0a0ae443bb72",
+    "kill_time": "2025-10-26T20:33:41Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000186,
+    "solar_system_name": "Oijanen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 426697702,
+      "character_name": "Marrano Cardosa",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130797177/",
+    "total_value": 13487054263.42,
+    "final_attacker": {
+      "character_name": "LeeChanka",
+      "corporation_name": "Tr0pa de elite.",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130796934,
+    "killmail_hash": "48585d512230ac1c16fcbb19901e661c4bd3fc49",
+    "kill_time": "2025-10-26T20:23:26Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002634,
+    "solar_system_name": "Balle",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1148842163,
+      "character_name": "Alciabedes",
+      "corporation_id": 917701062,
+      "corporation_name": "EVE University",
+      "alliance_id": 937872513,
+      "alliance_name": "Ivy League"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130796934/",
+    "total_value": 8820986485.46,
+    "final_attacker": {
+      "character_name": "Zah Lewt Inspector",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130794461,
     "killmail_hash": "6a1f7a3cf3f81602710ef7da4e456796ca4feeb4",
     "kill_time": "2025-10-26T18:52:17Z",
@@ -1895,32 +1947,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130647853,
-    "killmail_hash": "8bb0f83751188495d442c21ebe58bd817eff0faf",
-    "kill_time": "2025-10-20T02:04:31Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 90516604,
-      "character_name": "tacobutt",
-      "corporation_id": 98014141,
-      "corporation_name": "MasterWizards",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130647853/",
-    "total_value": 12805688627.44,
-    "final_attacker": {
-      "character_name": "Apollo45",
-      "corporation_name": "Sacred Templars",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
