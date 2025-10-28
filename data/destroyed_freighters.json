@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130829563,
+    "killmail_hash": "d830421b049fe8cb4bf341e4825878fc57efcabe",
+    "kill_time": "2025-10-28T15:10:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003598,
+    "solar_system_name": "Ogaria",
+    "region_name": "Solitude",
+    "victim": {
+      "character_id": 91099059,
+      "character_name": "Anne Gross",
+      "corporation_id": 98470949,
+      "corporation_name": "Fehl Prime",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130829563/",
+    "total_value": 1924661768.81,
+    "final_attacker": {
+      "character_name": "Cyrill Windblade",
+      "corporation_name": "Forgotten Knights",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130826732,
     "killmail_hash": "12a3867e76351b014a495f51511716a217ce7c3b",
     "kill_time": "2025-10-28T12:14:02Z",
