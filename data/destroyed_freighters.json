@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130823617,
+    "killmail_hash": "967e8bf2523e40cbabbb577811bd9d6c85eb114f",
+    "kill_time": "2025-10-28T06:04:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 706929738,
+      "character_name": "Telleka",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130823617/",
+    "total_value": 9216553619.14,
+    "final_attacker": {
+      "character_name": "Beige'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130820516,
     "killmail_hash": "79096136c3412bdaa185d1927d4279fa71016219",
     "kill_time": "2025-10-28T01:13:45Z",
@@ -153,6 +179,32 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130805446,
+    "killmail_hash": "cf61b40cadac57a725f497bc24e826ab53175567",
+    "kill_time": "2025-10-27T08:02:28Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002089,
+    "solar_system_name": "Avenod",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119524868,
+      "character_name": "Harcock",
+      "corporation_id": 98743151,
+      "corporation_name": "Hark Cor",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130805446/",
+    "total_value": 8904826800.17,
+    "final_attacker": {
+      "character_name": "h0ly lag",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
     }
   },
   {
@@ -1609,58 +1661,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130671294,
-    "killmail_hash": "ed8097dcaf2e2a5014ccecd3979070690a58ab69",
-    "kill_time": "2025-10-21T06:12:47Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002696,
-    "solar_system_name": "Stegette",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118647921,
-      "character_name": "Nadia Dax",
-      "corporation_id": 98700658,
-      "corporation_name": "Chilil-out",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130671294/",
-    "total_value": 2083263343.43,
-    "final_attacker": {
-      "character_name": "Captain Inkura",
-      "corporation_name": "Miners Depression",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130670615,
-    "killmail_hash": "cb77a7efd13427239bb3ce6a75b38ae483b4ca02",
-    "kill_time": "2025-10-21T04:57:13Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 96578867,
-      "character_name": "Lynd Tyran",
-      "corporation_id": 98803948,
-      "corporation_name": "IndusZone",
-      "alliance_id": 99011416,
-      "alliance_name": "LinkNet"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130670615/",
-    "total_value": 2140028638.24,
-    "final_attacker": {
-      "character_name": "Djego Hugarim",
-      "corporation_name": "Gjallarhorn Incorporated",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
