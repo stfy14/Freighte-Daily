@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130832940,
+    "killmail_hash": "11608315afca24f61b06c591e0ca6ea2d3ed2b85",
+    "kill_time": "2025-10-28T18:38:47Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94747864,
+      "character_name": "Lauri Faust",
+      "corporation_id": 98592514,
+      "corporation_name": "Up-Quark",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130832940/",
+    "total_value": 1685944728.33,
+    "final_attacker": {
+      "character_name": "Dr Damella Macaper",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Vanquisher"
+    }
+  },
+  {
     "killmail_id": 130829563,
     "killmail_hash": "d830421b049fe8cb4bf341e4825878fc57efcabe",
     "kill_time": "2025-10-28T15:10:42Z",
@@ -1661,32 +1687,6 @@
       "corporation_name": "Best Kept Dunked",
       "alliance_name": "OnlyFleets.",
       "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 130681893,
-    "killmail_hash": "79ab65d1689ffa642411d64257d7c25655a3295f",
-    "kill_time": "2025-10-21T17:59:14Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123832649,
-      "character_name": "MasterOfTradez",
-      "corporation_id": 98743131,
-      "corporation_name": "ARC Security",
-      "alliance_id": 99012781,
-      "alliance_name": "I Showed You My Probes... Please Respond..."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130681893/",
-    "total_value": 7459380241.23,
-    "final_attacker": {
-      "character_name": "Gregor Noobius",
-      "corporation_name": "Pandemic Horde Inc.",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
