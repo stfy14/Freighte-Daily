@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130843220,
+    "killmail_hash": "ed50465c17198233ad54c02e383f410a41249489",
+    "kill_time": "2025-10-29T06:28:45Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123111994,
+      "character_name": "Elalina",
+      "corporation_id": 98798170,
+      "corporation_name": "Melian-Luthien Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130843220/",
+    "total_value": 3296009642.88,
+    "final_attacker": {
+      "character_name": "Brown'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130841871,
     "killmail_hash": "8a0044485e049b20a569b7d65629a4b8e25bb59c",
     "kill_time": "2025-10-29T04:02:07Z",
@@ -1713,32 +1739,6 @@
       "corporation_name": "Sacred Trolls",
       "alliance_name": "Dodixie and Osmon Department of Illegal Killshots",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130691391,
-    "killmail_hash": "578d5dde6953f1db416432fefdf93948af98c7fa",
-    "kill_time": "2025-10-22T04:42:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123386726,
-      "character_name": "Poila Yotosala",
-      "corporation_id": 98806576,
-      "corporation_name": "Zephyrim Sentinels",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130691391/",
-    "total_value": 3290387449.78,
-    "final_attacker": {
-      "character_name": "Jack Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
