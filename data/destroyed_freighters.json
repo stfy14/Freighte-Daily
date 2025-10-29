@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130839519,
+    "killmail_hash": "0043af07922abbe9f7bf25da7367bce6864c25eb",
+    "kill_time": "2025-10-29T01:37:25Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116320349,
+      "character_name": "Tr4ce",
+      "corporation_id": 98726219,
+      "corporation_name": "Mystic Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130839519/",
+    "total_value": 1918155250.46,
+    "final_attacker": {
+      "character_name": "Dubious Anime Name",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130837514,
+    "killmail_hash": "d49442694d64976994782d79aeca4a88945c5c3a",
+    "kill_time": "2025-10-28T22:40:20Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95422426,
+      "character_name": "Jane Mole",
+      "corporation_id": 98815228,
+      "corporation_name": "Jane Mole Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130837514/",
+    "total_value": 3497953817.89,
+    "final_attacker": {
+      "character_name": "CATYPH",
+      "corporation_name": "Russian SOBR",
+      "alliance_name": null,
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
+    "killmail_id": 130837205,
+    "killmail_hash": "0d69e5b5e63e6f56f7870a468585404cc64c6760",
+    "kill_time": "2025-10-28T22:18:59Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1763250178,
+      "character_name": "Dimdro",
+      "corporation_id": 98388339,
+      "corporation_name": "ACR Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130837205/",
+    "total_value": 12558526495.4,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130832940,
     "killmail_hash": "11608315afca24f61b06c591e0ca6ea2d3ed2b85",
     "kill_time": "2025-10-28T18:38:47Z",
@@ -1661,32 +1739,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130688909,
-    "killmail_hash": "a81f6ab3d70d755b74592d48db24e53fafc329e4",
-    "kill_time": "2025-10-22T01:40:16Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003931,
-    "solar_system_name": "Sassecho",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 95062852,
-      "character_name": "Wpier Dol",
-      "corporation_id": 1187207583,
-      "corporation_name": "Shocky Industries Ltd.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130688909/",
-    "total_value": 2186327790.47,
-    "final_attacker": {
-      "character_name": "Daddy WutDo",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Nyx"
     }
   }
 ]
