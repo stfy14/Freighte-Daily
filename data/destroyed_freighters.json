@@ -1688,57 +1688,5 @@
       "alliance_name": "New Eden Alliance 99014465",
       "ship_type_name": "Legion"
     }
-  },
-  {
-    "killmail_id": 130712745,
-    "killmail_hash": "bc2a2347b659faa637aa40603061e2df695d27f5",
-    "kill_time": "2025-10-23T10:05:38Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001364,
-    "solar_system_name": "Funtanainen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123756390,
-      "character_name": "Mitala Kiku",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130712745/",
-    "total_value": 2700358009.24,
-    "final_attacker": {
-      "character_name": "zLegion D",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130712684,
-    "killmail_hash": "fb050e2cda760bcabe8ff67b98e5bfee680e50e9",
-    "kill_time": "2025-10-23T10:00:21Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30005085,
-    "solar_system_name": "Ranni",
-    "region_name": "Kor-Azor",
-    "victim": {
-      "character_id": 2119008892,
-      "character_name": "Mauder",
-      "corporation_id": 98753203,
-      "corporation_name": "Brianza Alcolica",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130712684/",
-    "total_value": 2100614876.19,
-    "final_attacker": {
-      "character_name": "Izumi Yassavi",
-      "corporation_name": "Absolute Order VI",
-      "alliance_name": "Absolute Will",
-      "ship_type_name": "Loki"
-    }
   }
 ]
