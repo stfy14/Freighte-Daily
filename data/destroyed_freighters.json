@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 130863228,
+    "killmail_hash": "a1a45160689cbeeb2646c8a2b21c9bc5df981ed5",
+    "kill_time": "2025-10-30T07:59:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122883435,
+      "character_name": "UNIT OSAKA",
+      "corporation_id": 98497495,
+      "corporation_name": "RUCIHIIII",
+      "alliance_id": 99003995,
+      "alliance_name": "Invidia Gloriae Comes"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130863228/",
+    "total_value": 1898621984.27,
+    "final_attacker": {
+      "character_name": "Xanatos Darklighter",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 130862629,
+    "killmail_hash": "572279fa6238079095bd9ef7e0cff385a91ddf51",
+    "kill_time": "2025-10-30T06:45:37Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121349252,
+      "character_name": "Holy Missionaries",
+      "corporation_id": 98757351,
+      "corporation_name": "Ishimairos Heleneto Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130862629/",
+    "total_value": 15395332728.03,
+    "final_attacker": {
+      "character_name": "Heist Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130862401,
+    "killmail_hash": "a7e87e022017f23ba9fe3b5769a5723e0ea1ad52",
+    "kill_time": "2025-10-30T06:20:06Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121933322,
+      "character_name": "Bawby Shenker",
+      "corporation_id": 98774345,
+      "corporation_name": "Wiyrkomi Heavy Industries",
+      "alliance_id": 99014197,
+      "alliance_name": "Coalition Of Pirates Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130862401/",
+    "total_value": 9389546171.06,
+    "final_attacker": {
+      "character_name": "Outwit Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 130862349,
+    "killmail_hash": "8699c8be66fdecc9990cacd29550410b80b5b049",
+    "kill_time": "2025-10-30T06:14:29Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002666,
+    "solar_system_name": "Basgerin",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2118033645,
+      "character_name": "Astrid Lyttneyd",
+      "corporation_id": 98699121,
+      "corporation_name": "Gal-Ralan Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130862349/",
+    "total_value": 3553975875.67,
+    "final_attacker": {
+      "character_name": "Trug Reztrik",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
     "killmail_id": 130852389,
     "killmail_hash": "a0e73cf8284cf3d53e771d47100eee62e0510508",
     "kill_time": "2025-10-29T18:49:15Z",
