@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 130880432,
+    "killmail_hash": "6c96fa80cb0e45d1bbeac6304ddf00e469f92f69",
+    "kill_time": "2025-10-31T03:42:49Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94436985,
+      "character_name": "Valeria Barrow",
+      "corporation_id": 98184260,
+      "corporation_name": "Method incorporated",
+      "alliance_id": 99013719,
+      "alliance_name": "Keys Network"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130880432/",
+    "total_value": 3711256926.96,
+    "final_attacker": {
+      "character_name": "big brutor two",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130880248,
+    "killmail_hash": "b7d3f2fd4408939644b1cbae77b2482868493ca3",
+    "kill_time": "2025-10-31T03:26:01Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93908279,
+      "character_name": "Rancid Sklor",
+      "corporation_id": 1000049,
+      "corporation_name": "Brutor Tribe",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130880248/",
+    "total_value": 1958481472.7,
+    "final_attacker": {
+      "character_name": "Jeremiah Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130880136,
+    "killmail_hash": "6ab8951d315839b80bf9fb9f4779486375dd58cd",
+    "kill_time": "2025-10-31T03:22:15Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95619859,
+      "character_name": "Malcolm Athonille",
+      "corporation_id": 98606671,
+      "corporation_name": "Malcolm's Miners",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130880136/",
+    "total_value": 2997262485.54,
+    "final_attacker": {
+      "character_name": "VG-33 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130879704,
+    "killmail_hash": "6675981f7b080a7fe514946c6b3c72da1da0b323",
+    "kill_time": "2025-10-31T02:53:32Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2052583365,
+      "character_name": "Mouhareb0",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130879704/",
+    "total_value": 13390455279.98,
+    "final_attacker": {
+      "character_name": "big brutor one",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 130879123,
+    "killmail_hash": "04fbe5b805538f552f8ada8ef08602477ab5f513",
+    "kill_time": "2025-10-31T02:12:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121761569,
+      "character_name": "Johann Kirk",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130879123/",
+    "total_value": 4181683783.54,
+    "final_attacker": {
+      "character_name": "Jack Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 130878715,
     "killmail_hash": "9ddd9adeed6d21cf38809ee88d62d0861457ce47",
     "kill_time": "2025-10-31T01:52:59Z",
@@ -1583,110 +1713,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 130728594,
-    "killmail_hash": "371f8c9a256ed97dea24dfa8d082133aea8a7bce",
-    "kill_time": "2025-10-24T03:55:34Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115345460,
-      "character_name": "Professor Minerva McGonagall",
-      "corporation_id": 98588090,
-      "corporation_name": "Sky Forge Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130728594/",
-    "total_value": 3263157266.82,
-    "final_attacker": {
-      "character_name": "Justin Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130728075,
-    "killmail_hash": "565c005b18aa91252be2d664c5e57d2f0a37d2ec",
-    "kill_time": "2025-10-24T03:09:33Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 836109935,
-      "character_name": "Vorthos",
-      "corporation_id": 1852663368,
-      "corporation_name": "Agent-Orange",
-      "alliance_id": 99011699,
-      "alliance_name": "We Forsakened Few"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130728075/",
-    "total_value": 4159607359.01,
-    "final_attacker": {
-      "character_name": "Jeremy Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130727580,
-    "killmail_hash": "1e12c120a31f2483f50220115c2f6f6404f68759",
-    "kill_time": "2025-10-24T02:35:36Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122840848,
-      "character_name": "Rotker7",
-      "corporation_id": 98806817,
-      "corporation_name": "Fairy Express.inc",
-      "alliance_id": 99014175,
-      "alliance_name": "Fairy Express Commercial Union"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130727580/",
-    "total_value": 5269554386.62,
-    "final_attacker": {
-      "character_name": "Johnathan Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130727295,
-    "killmail_hash": "f5f4620a2e7435c9c5c22ec0080ac9861d5547b2",
-    "kill_time": "2025-10-24T02:15:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120503609,
-      "character_name": "Chewiest Baka",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130727295/",
-    "total_value": 2689035233.04,
-    "final_attacker": {
-      "character_name": "Justin Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
