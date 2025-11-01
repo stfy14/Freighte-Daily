@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130907457,
+    "killmail_hash": "46c39f8804decf928ef7d25a87d20eadccafb434",
+    "kill_time": "2025-11-01T10:56:12Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001389,
+    "solar_system_name": "Isanamo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121163755,
+      "character_name": "Ferdyc",
+      "corporation_id": 98652516,
+      "corporation_name": "Terminus Technologies Inc.",
+      "alliance_id": 99003490,
+      "alliance_name": "Strictly Unprofessional"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130907457/",
+    "total_value": 1965394554.93,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 130906099,
+    "killmail_hash": "69b96e1440e2f3c1c33d2e1f872012a9e035d81c",
+    "kill_time": "2025-11-01T08:44:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 91822004,
+      "character_name": "Jim Arctic",
+      "corporation_id": 98753960,
+      "corporation_name": "Fire Forged Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130906099/",
+    "total_value": 4058073558.21,
+    "final_attacker": {
+      "character_name": "Vingman Ward",
+      "corporation_name": "XvWvX",
+      "alliance_name": null,
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 130905478,
     "killmail_hash": "21df0904d5f12fa0030d2d197ca5f70eb5d0ba55",
     "kill_time": "2025-11-01T07:44:47Z",
