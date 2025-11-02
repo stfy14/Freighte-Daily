@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130930023,
+    "killmail_hash": "b91b6b27df50fff1936a4b3d3d0a902567c9365b",
+    "kill_time": "2025-11-02T02:21:12Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91837422,
+      "character_name": "Trip Eriker",
+      "corporation_id": 98221827,
+      "corporation_name": "Negative-Impact",
+      "alliance_id": 99009845,
+      "alliance_name": "Sedition."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130930023/",
+    "total_value": 4463069408.45,
+    "final_attacker": {
+      "character_name": "Kai86",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Astarte"
+    }
+  },
+  {
     "killmail_id": 130929457,
     "killmail_hash": "da4faec7b5bcde4ea98c3488a0c925141235ad16",
     "kill_time": "2025-11-02T01:54:44Z",
@@ -2362,110 +2388,6 @@
       "character_name": "Cute Scan",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130777878,
-    "killmail_hash": "df2e1c1c4d61656305d072d4225de70a2ae86bb1",
-    "kill_time": "2025-10-26T04:27:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122444945,
-      "character_name": "Evaline Wilson",
-      "corporation_id": 98807741,
-      "corporation_name": "Wilson Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130777878/",
-    "total_value": 4067378658.07,
-    "final_attacker": {
-      "character_name": "Bob Welder",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130777463,
-    "killmail_hash": "076f88dc2194156281b252f6753963e1eaeaa30f",
-    "kill_time": "2025-10-26T04:06:44Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 169414684,
-      "character_name": "Marquesa Edain",
-      "corporation_id": 1314414518,
-      "corporation_name": "Psychotic Intentions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130777463/",
-    "total_value": 3415309323.42,
-    "final_attacker": {
-      "character_name": "doomlord289",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130777070,
-    "killmail_hash": "e2000eef609ace8bedbc60b488f0bec2cf0af10a",
-    "kill_time": "2025-10-26T03:47:54Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123632040,
-      "character_name": "Jax Draig",
-      "corporation_id": 98602781,
-      "corporation_name": "Trash Pandas of Kaunokka",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130777070/",
-    "total_value": 4017747244.62,
-    "final_attacker": {
-      "character_name": "Nova Rage Torpedo",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130776041,
-    "killmail_hash": "7188d62a041d69a9443617e82a37e2399e718d0d",
-    "kill_time": "2025-10-26T03:01:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117342993,
-      "character_name": "Visi Nolen",
-      "corporation_id": 98602327,
-      "corporation_name": "Void Odyssey Inc.",
-      "alliance_id": 99012757,
-      "alliance_name": "Zero Gravity Enterprises"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130776041/",
-    "total_value": 1915031959.67,
-    "final_attacker": {
-      "character_name": "doomlord289",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
   }
