@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130941623,
+    "killmail_hash": "913b829168a1f53f1535c6c744a79e66816d0dc0",
+    "kill_time": "2025-11-02T15:16:12Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 90523120,
+      "character_name": "Dark Discipile",
+      "corporation_id": 528223998,
+      "corporation_name": "Mutualy Assured Destruction Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130941623/",
+    "total_value": 4406285427.7,
+    "final_attacker": {
+      "character_name": "Yukio Kuchki",
+      "corporation_name": "Long Pig Luncheon Meat",
+      "alliance_name": "Sending Thots And Players",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130936882,
     "killmail_hash": "69a03e160db7748b3f7bb81213d39cd93238bf73",
     "kill_time": "2025-11-02T11:23:25Z",
@@ -2337,32 +2363,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130790780,
-    "killmail_hash": "e5d9d1c667a85359db8796c52d2185ce998fa093",
-    "kill_time": "2025-10-26T16:25:37Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 31001453,
-    "solar_system_name": "J104649",
-    "region_name": "D-R00017",
-    "victim": {
-      "character_id": 92638950,
-      "character_name": "Alexey PROTOSS",
-      "corporation_id": 98769631,
-      "corporation_name": "ISEEU Corporation",
-      "alliance_id": 99012403,
-      "alliance_name": "Observatory Great Bear"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130790780/",
-    "total_value": 3113665480.93,
-    "final_attacker": {
-      "character_name": "Severius Trajan",
-      "corporation_name": "No Vacancies",
-      "alliance_name": "No Vacancies.",
-      "ship_type_name": "Cerberus"
     }
   }
 ]
