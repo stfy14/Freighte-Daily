@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130936882,
+    "killmail_hash": "69a03e160db7748b3f7bb81213d39cd93238bf73",
+    "kill_time": "2025-11-02T11:23:25Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30045351,
+    "solar_system_name": "Iwisoda",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 96214092,
+      "character_name": "Magda Uitra",
+      "corporation_id": 98372897,
+      "corporation_name": "No Country for Old Nerds",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130936882/",
+    "total_value": 27471565066.99,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130933121,
     "killmail_hash": "a5f6f7848d5cf03689e2434bf9fa78bfd5a02174",
     "kill_time": "2025-11-02T05:50:17Z",
@@ -2337,58 +2363,6 @@
       "corporation_name": "No Vacancies",
       "alliance_name": "No Vacancies.",
       "ship_type_name": "Cerberus"
-    }
-  },
-  {
-    "killmail_id": 130784433,
-    "killmail_hash": "ed88fa6aa9775f7fda187b81f2f722c4f0250ca6",
-    "kill_time": "2025-10-26T12:11:53Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 31002026,
-    "solar_system_name": "J113758",
-    "region_name": "E-R00025",
-    "victim": {
-      "character_id": 2117867276,
-      "character_name": "Khaliib",
-      "corporation_id": 98775682,
-      "corporation_name": "Nitrogen flavour Quafe",
-      "alliance_id": 99013998,
-      "alliance_name": "Satori Horigu"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130784433/",
-    "total_value": 3945323675.53,
-    "final_attacker": {
-      "character_name": "Elijah Wick",
-      "corporation_name": "Dark Venture Corporation",
-      "alliance_name": "Kitchen Sinkhole",
-      "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 130781368,
-    "killmail_hash": "c35811405b739b88a360bb214188e86a477f3c73",
-    "kill_time": "2025-10-26T08:37:26Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003274,
-    "solar_system_name": "X-BV98",
-    "region_name": "Syndicate",
-    "victim": {
-      "character_id": 90547537,
-      "character_name": "Darius Caliente",
-      "corporation_id": 98423954,
-      "corporation_name": "Worthless Carebears",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130781368/",
-    "total_value": 4225931877.88,
-    "final_attacker": {
-      "character_name": "Izaak Letsky",
-      "corporation_name": "Wok The Dog",
-      "alliance_name": "Naga Please.",
-      "ship_type_name": "Vagabond"
     }
   }
 ]
