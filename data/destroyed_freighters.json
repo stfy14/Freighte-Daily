@@ -2546,57 +2546,5 @@
       "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 130826732,
-    "killmail_hash": "12a3867e76351b014a495f51511716a217ce7c3b",
-    "kill_time": "2025-10-28T12:14:02Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95588443,
-      "character_name": "Petter Black",
-      "corporation_id": 98603606,
-      "corporation_name": "Climbing Business Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130826732/",
-    "total_value": 2118249854.58,
-    "final_attacker": {
-      "character_name": "Chang Hye-jin",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 130825804,
-    "killmail_hash": "df47d30f55a91072c1e7d931c30d6384fd6b6564",
-    "kill_time": "2025-10-28T10:26:17Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001392,
-    "solar_system_name": "Amsen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123604701,
-      "character_name": "Zadalia",
-      "corporation_id": 98712205,
-      "corporation_name": "Star Brood",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130825804/",
-    "total_value": 10426161349.2,
-    "final_attacker": {
-      "character_name": "zLegion",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
   }
 ]
