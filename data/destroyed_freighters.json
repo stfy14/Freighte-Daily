@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 130983126,
+    "killmail_hash": "730e99e25fbcfcbd1266b3b22f9af0b8311ec8f0",
+    "kill_time": "2025-11-04T15:51:18Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117850733,
+      "character_name": "Quintus Loyal",
+      "corporation_id": 98664189,
+      "corporation_name": "Loyal Contracting",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130983126/",
+    "total_value": 3227398730.56,
+    "final_attacker": {
+      "character_name": "WayCharles",
+      "corporation_name": "Konflict",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 130978727,
+    "killmail_hash": "87735ca2ef8c8ba5cb0d09fc7af49d426535825d",
+    "kill_time": "2025-11-04T10:16:10Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95674421,
+      "character_name": "Sevruk",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130978727/",
+    "total_value": 1968747697.86,
+    "final_attacker": {
+      "character_name": "ChaosDuke Mayhem",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 130976302,
     "killmail_hash": "45248a8836b321ee39d45dc1959ded9b75f08dfd",
     "kill_time": "2025-11-04T06:14:47Z",
@@ -101,6 +153,32 @@
       "corporation_name": "The Ring Sting",
       "alliance_name": null,
       "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 130971683,
+    "killmail_hash": "e40709a1719ecc3851c4f9a7aa2ae1aa5b79dbbb",
+    "kill_time": "2025-11-03T23:07:59Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122650431,
+      "character_name": "Starrain planet 1",
+      "corporation_id": 98814335,
+      "corporation_name": "Praesepe Industry and Commercial Sole Proprietorsh",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130971683/",
+    "total_value": 11922156272.76,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
     }
   },
   {
@@ -2519,32 +2597,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Vanquisher"
-    }
-  },
-  {
-    "killmail_id": 130829563,
-    "killmail_hash": "d830421b049fe8cb4bf341e4825878fc57efcabe",
-    "kill_time": "2025-10-28T15:10:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003598,
-    "solar_system_name": "Ogaria",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 91099059,
-      "character_name": "Anne Gross",
-      "corporation_id": 98470949,
-      "corporation_name": "Fehl Prime",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130829563/",
-    "total_value": 1924661768.81,
-    "final_attacker": {
-      "character_name": "Cyrill Windblade",
-      "corporation_name": "Forgotten Knights",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
