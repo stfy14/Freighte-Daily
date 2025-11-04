@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 130970032,
+    "killmail_hash": "0ce05a750c605bf5edda0f267845935ec61476e5",
+    "kill_time": "2025-11-03T21:29:30Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95295919,
+      "character_name": "Leona Syndra",
+      "corporation_id": 98800997,
+      "corporation_name": "Vigil Indomitus",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/130970032/",
+    "total_value": 9831757174.51,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 130959139,
     "killmail_hash": "78c2e34bc46465bbc891fb1faade2df9cdfd8c9e",
     "kill_time": "2025-11-03T11:31:52Z",
@@ -2493,84 +2519,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130820516,
-    "killmail_hash": "79096136c3412bdaa185d1927d4279fa71016219",
-    "kill_time": "2025-10-28T01:13:45Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004621,
-    "solar_system_name": "WY-9LL",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 91978106,
-      "character_name": "MorganDoughty Uitra",
-      "corporation_id": 439896599,
-      "corporation_name": "Therapy.",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130820516/",
-    "total_value": 1908736535.09,
-    "final_attacker": {
-      "character_name": "Jomby",
-      "corporation_name": "Wreckyard 9",
-      "alliance_name": null,
-      "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 130819850,
-    "killmail_hash": "cbc3c5ebc20c377508000f70979423a39d39faa4",
-    "kill_time": "2025-10-28T00:21:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000266,
-    "solar_system_name": "Z-8Q65",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2119494543,
-      "character_name": "Kosler",
-      "corporation_id": 98715093,
-      "corporation_name": "Thunder Shield",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130819850/",
-    "total_value": 1911854878.58,
-    "final_attacker": {
-      "character_name": "Adkintuche",
-      "corporation_name": "Inner Legacy",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Sabre"
-    }
-  },
-  {
-    "killmail_id": 130818378,
-    "killmail_hash": "f846991916ca866913dc6d69058b8bfea8b4ead0",
-    "kill_time": "2025-10-27T22:17:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002666,
-    "solar_system_name": "Basgerin",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94623452,
-      "character_name": "meep mooops",
-      "corporation_id": 98754865,
-      "corporation_name": "Void Vexation",
-      "alliance_id": 99008985,
-      "alliance_name": "Seker Matar"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130818378/",
-    "total_value": 2916732757.02,
-    "final_attacker": {
-      "character_name": "FRENCH KEBAB",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
