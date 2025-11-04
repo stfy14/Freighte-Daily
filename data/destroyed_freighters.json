@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 130974956,
+    "killmail_hash": "2cdb2dc21f0ad63544aff39c170f7ae85bc21f93",
+    "kill_time": "2025-11-04T03:49:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91808701,
+      "character_name": "Sinistar Thiesant",
+      "corporation_id": 98790110,
+      "corporation_name": "Dark Mercenary Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130974956/",
+    "total_value": 3802281531.7,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 130974520,
+    "killmail_hash": "171ab0fd3831bf8d32497b5e82ed5af28bdcad57",
+    "kill_time": "2025-11-04T03:12:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93575975,
+      "character_name": "Casidian Isu",
+      "corporation_id": 98732735,
+      "corporation_name": "Siren Heavy Industry Network",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/130974520/",
+    "total_value": 1869966620.87,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 130972731,
+    "killmail_hash": "fe762d2d46bf73207578dde1bdff5c7a0aebeed9",
+    "kill_time": "2025-11-04T00:49:32Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 92481030,
+      "character_name": "Second Officer -Scotty",
+      "corporation_id": 98779145,
+      "corporation_name": "Bustin Space Rocks INC.",
+      "alliance_id": 99014197,
+      "alliance_name": "Coalition Of Pirates Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/130972731/",
+    "total_value": 1876484728.76,
+    "final_attacker": {
+      "character_name": "drones man",
+      "corporation_name": "The Ring Sting",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 130970032,
     "killmail_hash": "0ce05a750c605bf5edda0f267845935ec61476e5",
     "kill_time": "2025-11-03T21:29:30Z",
