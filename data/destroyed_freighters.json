@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131002605,
+    "killmail_hash": "cf7d1bf092775624b13336fb7c315f8a17655380",
+    "kill_time": "2025-11-05T17:42:22Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1520605771,
+      "character_name": "battlur",
+      "corporation_id": 98746942,
+      "corporation_name": "Nezlamni",
+      "alliance_id": 99012021,
+      "alliance_name": "UA Fleets"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131002605/",
+    "total_value": 22006217221.83,
+    "final_attacker": {
+      "character_name": "Ch4rli3",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 130996126,
     "killmail_hash": "a0a277ffe31d5a71bb7c9b5e5293678eb3362fbc",
     "kill_time": "2025-11-05T09:35:33Z",
@@ -2467,32 +2493,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 130852389,
-    "killmail_hash": "a0e73cf8284cf3d53e771d47100eee62e0510508",
-    "kill_time": "2025-10-29T18:49:15Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1156031323,
-      "character_name": "olegez",
-      "corporation_id": 98553333,
-      "corporation_name": "R Strike",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130852389/",
-    "total_value": 32382620809.25,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
     }
   }
 ]
