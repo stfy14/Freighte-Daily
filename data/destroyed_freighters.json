@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131019017,
+    "killmail_hash": "019585556b9f5f6260e37c08424bfa6675165fa0",
+    "kill_time": "2025-11-06T11:15:58Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000017,
+    "solar_system_name": "Futzchag",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 1377768762,
+      "character_name": "Rubi Rhod",
+      "corporation_id": 98657999,
+      "corporation_name": "Rage Confederacy",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131019017/",
+    "total_value": 1858876352.36,
+    "final_attacker": {
+      "character_name": "AndrewF31 BARBU",
+      "corporation_name": "Xenomine Industries",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 131017060,
+    "killmail_hash": "70c0b8b91c3a8520b9e10f73d8300cea4b37eefe",
+    "kill_time": "2025-11-06T08:42:33Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003730,
+    "solar_system_name": "B-WPLZ",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2123136265,
+      "character_name": "Tsiri 2",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131017060/",
+    "total_value": 4965244430.09,
+    "final_attacker": {
+      "character_name": "AndrewF31 BARBU",
+      "corporation_name": "Xenomine Industries",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 131015759,
     "killmail_hash": "de32438c84126c0147ea7ff4b5d786f94f63929e",
     "kill_time": "2025-11-06T06:48:34Z",
