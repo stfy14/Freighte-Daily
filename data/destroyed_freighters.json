@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131043099,
+    "killmail_hash": "216edbbcd57b83b04594c30c684fdcb177a088e6",
+    "kill_time": "2025-11-07T08:12:48Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000319,
+    "solar_system_name": "LS-JEP",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2117483668,
+      "character_name": "Chrysophylax",
+      "corporation_id": 98738943,
+      "corporation_name": "Take The Bait.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131043099/",
+    "total_value": 24116523436.95,
+    "final_attacker": {
+      "character_name": "Arthur Cattelan",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131042888,
+    "killmail_hash": "3d2212e3b913e18b1a8abd897657ed8da3acd589",
+    "kill_time": "2025-11-07T07:52:57Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005099,
+    "solar_system_name": "R-AG7W",
+    "region_name": "Perrigen Falls",
+    "victim": {
+      "character_id": 2120627020,
+      "character_name": "Mizui Tokuma",
+      "corporation_id": 98673544,
+      "corporation_name": "InFlames.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131042888/",
+    "total_value": 10372092891.18,
+    "final_attacker": {
+      "character_name": "Trash Toon",
+      "corporation_name": "Trash Contractors",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Sabre"
+    }
+  },
+  {
+    "killmail_id": 131040783,
+    "killmail_hash": "ea69caa39dbe88a2afbc03fea186648f8a9747ac",
+    "kill_time": "2025-11-07T04:52:49Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94407938,
+      "character_name": "Melissa Greenberg",
+      "corporation_id": 98480050,
+      "corporation_name": "Fancypants Inc",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131040783/",
+    "total_value": 18157866613.87,
+    "final_attacker": {
+      "character_name": "Jax Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 131036481,
     "killmail_hash": "bd23e31a751b9749aecdc2c64550afb79522597a",
     "kill_time": "2025-11-07T00:22:22Z",
@@ -2441,84 +2519,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130882039,
-    "killmail_hash": "3417e3225f636c735e77b7b0bec6305d6ac6ae81",
-    "kill_time": "2025-10-31T06:05:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123846378,
-      "character_name": "MrMooseX",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130882039/",
-    "total_value": 5831270944.53,
-    "final_attacker": {
-      "character_name": "Jeremy Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130881415,
-    "killmail_hash": "aedf1e7d24a7428a7d2150e09fbf8241c15e7d6d",
-    "kill_time": "2025-10-31T05:02:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95172806,
-      "character_name": "Entics Aivoras",
-      "corporation_id": 98811387,
-      "corporation_name": "Dot Dot Astericks",
-      "alliance_id": 99005100,
-      "alliance_name": "All My Friends Are Ded"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130881415/",
-    "total_value": 2988882641.74,
-    "final_attacker": {
-      "character_name": "LA-7 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130881157,
-    "killmail_hash": "87898098c3f8e3ecab828f702cb2fb9e4a095836",
-    "kill_time": "2025-10-31T04:42:38Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92134221,
-      "character_name": "Selrahc Kondur",
-      "corporation_id": 98251644,
-      "corporation_name": "TaxFree001",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130881157/",
-    "total_value": 4238567576.06,
-    "final_attacker": {
-      "character_name": "P-51 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
