@@ -2104,57 +2104,5 @@
       "alliance_name": null,
       "ship_type_name": "Praxis"
     }
-  },
-  {
-    "killmail_id": 130905478,
-    "killmail_hash": "21df0904d5f12fa0030d2d197ca5f70eb5d0ba55",
-    "kill_time": "2025-11-01T07:44:47Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 96492188,
-      "character_name": "Rothen Vernius",
-      "corporation_id": 98595960,
-      "corporation_name": "Ember Interstellar Inc.",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130905478/",
-    "total_value": 2103338932.35,
-    "final_attacker": {
-      "character_name": "Jo Kosho",
-      "corporation_name": "Sodium Chloride Mining Institute",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130904002,
-    "killmail_hash": "f92f291cc4cabc3df8d8bfc85200c55b5f907d9b",
-    "kill_time": "2025-11-01T05:12:11Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002666,
-    "solar_system_name": "Basgerin",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94636023,
-      "character_name": "Leah Azizora",
-      "corporation_id": 98191827,
-      "corporation_name": "M.H.S.F.P.T.C.P.G.A.W.T.D.O.T.G.T.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130904002/",
-    "total_value": 11838407249.88,
-    "final_attacker": {
-      "character_name": "JET 1X",
-      "corporation_name": "Horde Vanguard.",
-      "alliance_name": "Pandemic Horde",
-      "ship_type_name": "Loki"
-    }
   }
 ]
