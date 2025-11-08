@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131077542,
+    "killmail_hash": "9bf5019768fd6405530cddce23c71cac8aa6df57",
+    "kill_time": "2025-11-08T14:01:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 31002189,
+    "solar_system_name": "J141728",
+    "region_name": "E-R00027",
+    "victim": {
+      "character_id": 92782484,
+      "character_name": "Tonnire Warrior",
+      "corporation_id": 98088052,
+      "corporation_name": "R.I.P. Legion",
+      "alliance_id": 99012042,
+      "alliance_name": "Fanatic Legion."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131077542/",
+    "total_value": 1967803457.7,
+    "final_attacker": {
+      "character_name": "OBJ195",
+      "corporation_name": "Temple of Tuvan Orth",
+      "alliance_name": "Guardians of Tranquility",
+      "ship_type_name": "Eris"
+    }
+  },
+  {
+    "killmail_id": 131076618,
+    "killmail_hash": "6eda6a71e86c01dc19fc8f7c010a7388e5d22f3d",
+    "kill_time": "2025-11-08T13:26:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1766216029,
+      "character_name": "BLAH TRUDE",
+      "corporation_id": 98210135,
+      "corporation_name": "Infinite Point",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131076618/",
+    "total_value": 48119897715.83,
+    "final_attacker": {
+      "character_name": "Continue Painting",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 131074471,
     "killmail_hash": "5e23f4b32ddf59a487f86ebcfd3c7a9bfa69515a",
     "kill_time": "2025-11-08T12:12:52Z",
@@ -1998,162 +2050,6 @@
       "character_name": "TU-95 BombHawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130914177,
-    "killmail_hash": "b9782f06e13d97547d9f418b3ffba129c2c8df17",
-    "kill_time": "2025-11-01T16:08:48Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1420912692,
-      "character_name": "Holdem Jojo",
-      "corporation_id": 98491688,
-      "corporation_name": "Celestial Holdings",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130914177/",
-    "total_value": 6684352744.61,
-    "final_attacker": {
-      "character_name": "Jessie Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130913435,
-    "killmail_hash": "a4617f5acbb8c2303d9a088df58b00dd80c101f8",
-    "kill_time": "2025-11-01T15:45:09Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121933322,
-      "character_name": "Bawby Shenker",
-      "corporation_id": 98774345,
-      "corporation_name": "Wiyrkomi Heavy Industries",
-      "alliance_id": 99014197,
-      "alliance_name": "Coalition Of Pirates Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130913435/",
-    "total_value": 7968309431.13,
-    "final_attacker": {
-      "character_name": "George Painter",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130913303,
-    "killmail_hash": "37cdd9cf5e01fba2b3862fd83d281268c96a0f21",
-    "kill_time": "2025-11-01T15:40:27Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123834243,
-      "character_name": "Rust logistics",
-      "corporation_id": 364742541,
-      "corporation_name": "Beehive Technologies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130913303/",
-    "total_value": 3800360357.84,
-    "final_attacker": {
-      "character_name": "Jared Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130912492,
-    "killmail_hash": "b265722cb949a47e7c1748628161ae7c176c95b1",
-    "kill_time": "2025-11-01T15:05:45Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123072675,
-      "character_name": "Cosmic Rocket",
-      "corporation_id": 98637328,
-      "corporation_name": "Special Finance Section",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130912492/",
-    "total_value": 6670758780.16,
-    "final_attacker": {
-      "character_name": "Josh Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130912155,
-    "killmail_hash": "df8b030edb44d233d16e077ec476ad9b580d49d5",
-    "kill_time": "2025-11-01T14:56:59Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1902396086,
-      "character_name": "Kalani Dane",
-      "corporation_id": 98816152,
-      "corporation_name": "Daneheim",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130912155/",
-    "total_value": 4243099071.31,
-    "final_attacker": {
-      "character_name": "13th Of Several",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130910304,
-    "killmail_hash": "5dd784bc6d580156dca3dc032f5e98f690469a3c",
-    "kill_time": "2025-11-01T13:52:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 487657501,
-      "character_name": "Zaine Ti",
-      "corporation_id": 98794890,
-      "corporation_name": "The Dionysus Cartel",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130910304/",
-    "total_value": 2362515365.44,
-    "final_attacker": {
-      "character_name": "Jimmy Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
   }
