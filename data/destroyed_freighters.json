@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 131088041,
+    "killmail_hash": "437ba9435f2231c0406129ffbe8a77f8a9be9ce1",
+    "kill_time": "2025-11-08T20:24:24Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121032204,
+      "character_name": "Caliban Trash",
+      "corporation_id": 98360452,
+      "corporation_name": "Naval Defence Force",
+      "alliance_id": 99011279,
+      "alliance_name": "Naval Defence Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131088041/",
+    "total_value": 10878549336.89,
+    "final_attacker": {
+      "character_name": "Aldandis",
+      "corporation_name": "Ketsumei",
+      "alliance_name": "Pandemic Legion",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131086034,
+    "killmail_hash": "97589c7951e8f0b4351c9ed43611745bbd675c34",
+    "kill_time": "2025-11-08T19:15:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000186,
+    "solar_system_name": "Oijanen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113841561,
+      "character_name": "Helschrauba",
+      "corporation_id": 1387894473,
+      "corporation_name": "Loot und Sonstiges",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131086034/",
+    "total_value": 46179127900.72,
+    "final_attacker": {
+      "character_name": "PornMaker",
+      "corporation_name": "Black Cat Studios XXX",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 131086026,
+    "killmail_hash": "a8b0fdb524ffb900fefe560e3d690456049630de",
+    "kill_time": "2025-11-08T19:14:46Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000186,
+    "solar_system_name": "Oijanen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113335886,
+      "character_name": "Miningschrauba",
+      "corporation_id": 1387894473,
+      "corporation_name": "Loot und Sonstiges",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131086026/",
+    "total_value": 19922533542.76,
+    "final_attacker": {
+      "character_name": "PornMaker",
+      "corporation_name": "Black Cat Studios XXX",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 131084374,
+    "killmail_hash": "c1df71469cafa432550cda1c05fd3c1c7806b866",
+    "kill_time": "2025-11-08T18:11:35Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113612808,
+      "character_name": "League Audeles",
+      "corporation_id": 98279438,
+      "corporation_name": "Wildly Incompetent",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131084374/",
+    "total_value": 8123456181.13,
+    "final_attacker": {
+      "character_name": "Vengeful Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131083499,
+    "killmail_hash": "63e80c78db08e2290b4984abfbfc006fddeeea03",
+    "kill_time": "2025-11-08T17:34:21Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003654,
+    "solar_system_name": "SF-XJS",
+    "region_name": "Tenal",
+    "victim": {
+      "character_id": 93579912,
+      "character_name": "Nawa Nawasso",
+      "corporation_id": 98796160,
+      "corporation_name": "Koschei of the Otherverse",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131083499/",
+    "total_value": 14913475098.76,
+    "final_attacker": {
+      "character_name": "Par0dy",
+      "corporation_name": "Incognito Mode",
+      "alliance_name": "Brotherhood of Spacers",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 131082634,
+    "killmail_hash": "d6063b70d979ee0e8544094db749fefb5457218d",
+    "kill_time": "2025-11-08T17:06:03Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000160,
+    "solar_system_name": "Reisen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120611266,
+      "character_name": "Viva Roger",
+      "corporation_id": 98378388,
+      "corporation_name": "Marauders Associated",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131082634/",
+    "total_value": 13639766969.26,
+    "final_attacker": {
+      "character_name": "BF-110 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 131077542,
     "killmail_hash": "9bf5019768fd6405530cddce23c71cac8aa6df57",
     "kill_time": "2025-11-08T14:01:02Z",
@@ -1921,136 +2077,6 @@
       "corporation_name": "AirGuard",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 130917977,
-    "killmail_hash": "71ac848e7a40cd3142c259c81c802bd3cfa928ce",
-    "kill_time": "2025-11-01T17:42:44Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1657695399,
-      "character_name": "Systemkaos",
-      "corporation_id": 98814157,
-      "corporation_name": "Jesse's RV",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130917977/",
-    "total_value": 4266146908.43,
-    "final_attacker": {
-      "character_name": "Joshua Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130917587,
-    "killmail_hash": "1baf964722776dc2e35bc6a32179eedf6839feb9",
-    "kill_time": "2025-11-01T17:35:22Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121802762,
-      "character_name": "Mangopop",
-      "corporation_id": 98755111,
-      "corporation_name": "Black Rise Industial Association",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130917587/",
-    "total_value": 4655673202.93,
-    "final_attacker": {
-      "character_name": "DH-98 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130917574,
-    "killmail_hash": "158c42aceb4f33965f410a31879a213912d7e496",
-    "kill_time": "2025-11-01T17:35:16Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115827925,
-      "character_name": "Rebecca Soikutsu",
-      "corporation_id": 98810092,
-      "corporation_name": "Wormhole Mining",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130917574/",
-    "total_value": 3065466211.19,
-    "final_attacker": {
-      "character_name": "Little Miss Vain",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 130916076,
-    "killmail_hash": "fb23f03e4dca9cbb3092d7ddde15da398afa7ddf",
-    "kill_time": "2025-11-01T16:56:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116155089,
-      "character_name": "Leah Resq2",
-      "corporation_id": 98813550,
-      "corporation_name": "Havana Deepspace Network",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130916076/",
-    "total_value": 3330385661.69,
-    "final_attacker": {
-      "character_name": "Jeffery Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130915094,
-    "killmail_hash": "84a3b0fc4a1d5f49ef32b7be16baffda0ee72d92",
-    "kill_time": "2025-11-01T16:32:16Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 700922673,
-      "character_name": "bobosoltan",
-      "corporation_id": 98790984,
-      "corporation_name": "The Drag Queen Mafia",
-      "alliance_id": 99014384,
-      "alliance_name": "Tactical Fiasco"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130915094/",
-    "total_value": 3453939422.09,
-    "final_attacker": {
-      "character_name": "TU-95 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
