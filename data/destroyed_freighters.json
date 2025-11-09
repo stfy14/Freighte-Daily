@@ -442,6 +442,32 @@
     }
   },
   {
+    "killmail_id": 131063989,
+    "killmail_hash": "1c9f5d09ef0f757ee079c3bbfa0292cf1227679b",
+    "kill_time": "2025-11-08T01:18:43Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002086,
+    "solar_system_name": "Turnur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 974773725,
+      "character_name": "Randrix Alabane",
+      "corporation_id": 98652891,
+      "corporation_name": "Dutch Legions",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131063989/",
+    "total_value": 14233533421.12,
+    "final_attacker": {
+      "character_name": "FRENCH KEBAB",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
     "killmail_id": 131063443,
     "killmail_hash": "cfe6727b0a301baedc494117b09b215dc94290fe",
     "kill_time": "2025-11-08T00:49:24Z",
@@ -2025,58 +2051,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 130933121,
-    "killmail_hash": "a5f6f7848d5cf03689e2434bf9fa78bfd5a02174",
-    "kill_time": "2025-11-02T05:50:17Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2122273653,
-      "character_name": "Barbara Kersh",
-      "corporation_id": 98781743,
-      "corporation_name": "Planet Joes Express Trucking Co.",
-      "alliance_id": 99013180,
-      "alliance_name": "The Open Door Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130933121/",
-    "total_value": 3661423288.77,
-    "final_attacker": {
-      "character_name": "Teal'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 130932789,
-    "killmail_hash": "0faf043099808c3f08bf0eac19d6e7b4eac24794",
-    "kill_time": "2025-11-02T05:27:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122497127,
-      "character_name": "Dimm Kin",
-      "corporation_id": 98551501,
-      "corporation_name": "Free Fly Corps",
-      "alliance_id": 99003006,
-      "alliance_name": "Brothers of Tangra"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130932789/",
-    "total_value": 1883517210.59,
-    "final_attacker": {
-      "character_name": "Kai86",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Kronos"
     }
   }
 ]
