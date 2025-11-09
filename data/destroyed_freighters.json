@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131091577,
+    "killmail_hash": "a67ea8585a84db96020536473e79bc2af8385fba",
+    "kill_time": "2025-11-08T22:28:11Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123033042,
+      "character_name": "TradeBob",
+      "corporation_id": 98764120,
+      "corporation_name": "Eviction-Scout Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131091577/",
+    "total_value": 3048316236.87,
+    "final_attacker": {
+      "character_name": "Broho Handelaar",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131090040,
+    "killmail_hash": "2d095fcd8659d40080cb941a11fffd586cbddb3b",
+    "kill_time": "2025-11-08T21:35:38Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001061,
+    "solar_system_name": "NSI-MW",
+    "region_name": "Malpais",
+    "victim": {
+      "character_id": 1656980365,
+      "character_name": "TheRoadToNowhere",
+      "corporation_id": 98666541,
+      "corporation_name": "Tactical Feed.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131090040/",
+    "total_value": 8970569132.01,
+    "final_attacker": {
+      "character_name": "Bob Russ Odunen",
+      "corporation_name": "Brothers of Tyr",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131088041,
     "killmail_hash": "437ba9435f2231c0406129ffbe8a77f8a9be9ce1",
     "kill_time": "2025-11-08T20:24:24Z",
@@ -75,6 +127,32 @@
       "corporation_name": "Black Cat Studios XXX",
       "alliance_name": null,
       "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 131085580,
+    "killmail_hash": "4fd5fd0209c9b10f9e243aac695d2ae6097968ae",
+    "kill_time": "2025-11-08T18:55:49Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1330429486,
+      "character_name": "Salatte",
+      "corporation_id": 231867414,
+      "corporation_name": "Salatte Corp",
+      "alliance_id": 99013129,
+      "alliance_name": "BEEFS STEW"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131085580/",
+    "total_value": 5723505083.94,
+    "final_attacker": {
+      "character_name": "SurpriseButtsecks",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2025,58 +2103,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Astarte"
-    }
-  },
-  {
-    "killmail_id": 130929457,
-    "killmail_hash": "da4faec7b5bcde4ea98c3488a0c925141235ad16",
-    "kill_time": "2025-11-02T01:54:44Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 91800594,
-      "character_name": "Night Therapy",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130929457/",
-    "total_value": 2507886206.13,
-    "final_attacker": {
-      "character_name": "Ethien Green",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 130927832,
-    "killmail_hash": "f032af76aef5f81d44cb90a3bad3d43fee400512",
-    "kill_time": "2025-11-02T00:03:58Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 541844511,
-      "character_name": "Captain Skarlet",
-      "corporation_id": 98515678,
-      "corporation_name": "Dark Less Void",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130927832/",
-    "total_value": 5596367837.08,
-    "final_attacker": {
-      "character_name": "AerisCC",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Praxis"
     }
   }
 ]
