@@ -2000,57 +2000,5 @@
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 130959139,
-    "killmail_hash": "78c2e34bc46465bbc891fb1faade2df9cdfd8c9e",
-    "kill_time": "2025-11-03T11:31:52Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001379,
-    "solar_system_name": "Tunttaras",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96590629,
-      "character_name": "Sagely Master",
-      "corporation_id": 98641066,
-      "corporation_name": "EE Logistics",
-      "alliance_id": 99012849,
-      "alliance_name": "Invidia consilium perdit"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130959139/",
-    "total_value": 32900314423.15,
-    "final_attacker": {
-      "character_name": "zLegion D",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130958459,
-    "killmail_hash": "a255d9fb6594345086ac229be29d250735359428",
-    "kill_time": "2025-11-03T10:09:47Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003541,
-    "solar_system_name": "Faswiba",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2123697739,
-      "character_name": "Melihala",
-      "corporation_id": 98812297,
-      "corporation_name": "Orion Forward Unit 212",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130958459/",
-    "total_value": 4150134434.85,
-    "final_attacker": {
-      "character_name": "BMW-330Li m",
-      "corporation_name": "Eden Gift Box Production company",
-      "alliance_name": "WhiteBlackCynoAlliance",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
