@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131139001,
+    "killmail_hash": "26ecd401336a21811b0c65599e0f30cb69ae7258",
+    "kill_time": "2025-11-10T19:50:55Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2122200365,
+      "character_name": "FullDeck",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131139001/",
+    "total_value": 2065565571.76,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131137422,
+    "killmail_hash": "34835efd27c5745e62d2f5e657f0fae492c28234",
+    "kill_time": "2025-11-10T18:27:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 838770386,
+      "character_name": "DnEugen",
+      "corporation_id": 98183161,
+      "corporation_name": "Agora Navy Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131137422/",
+    "total_value": 1845901569.34,
+    "final_attacker": {
+      "character_name": "Gallente Citizen 2119738017",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
+    "killmail_id": 131136654,
+    "killmail_hash": "260f1568187342700b33d7707a12e0ad0457c8a8",
+    "kill_time": "2025-11-10T17:50:02Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2016332634,
+      "character_name": "Janmarri",
+      "corporation_id": 98311406,
+      "corporation_name": "The Exchange Collective",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131136654/",
+    "total_value": 8408271455.93,
+    "final_attacker": {
+      "character_name": "Lamenoire Toralen",
+      "corporation_name": "Entropic Vanguard",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 131134428,
     "killmail_hash": "4a1468fc06f3b2aa9175be8b88832d3412d6390c",
     "kill_time": "2025-11-10T15:45:55Z",
@@ -309,6 +387,32 @@
       "corporation_name": "Kladdkaka Incorporated",
       "alliance_name": "Brotherhood of Spacers",
       "ship_type_name": "Sabre"
+    }
+  },
+  {
+    "killmail_id": 131114657,
+    "killmail_hash": "65a3f0421b377c406b827ce90fe0a854a3992ed7",
+    "kill_time": "2025-11-09T18:37:27Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2059590724,
+      "character_name": "Katarina Kanzaki",
+      "corporation_id": 98527816,
+      "corporation_name": "United East-Indian Compagnie",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131114657/",
+    "total_value": 14133857397.17,
+    "final_attacker": {
+      "character_name": "George Painter",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Purifier"
     }
   },
   {
@@ -1456,6 +1560,32 @@
     }
   },
   {
+    "killmail_id": 131039165,
+    "killmail_hash": "65b42519863fe9c282733badfba65a835388e78f",
+    "kill_time": "2025-11-07T03:12:17Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120439315,
+      "character_name": "Smack Tarrd",
+      "corporation_id": 544199803,
+      "corporation_name": "Macabre Votum",
+      "alliance_id": 1727758877,
+      "alliance_name": "Northern Coalition."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131039165/",
+    "total_value": 8989650126.79,
+    "final_attacker": {
+      "character_name": "Charlie Painter",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 131036481,
     "killmail_hash": "bd23e31a751b9749aecdc2c64550afb79522597a",
     "kill_time": "2025-11-07T00:22:22Z",
@@ -1505,6 +1635,32 @@
       "corporation_name": "Voidlings",
       "alliance_name": "V0IDLINGS",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131035663,
+    "killmail_hash": "eae2dad221e51506aded13d716547733b0b6a871",
+    "kill_time": "2025-11-06T23:29:30Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1187463045,
+      "character_name": "TheRealKeyserSoze",
+      "corporation_id": 1255071200,
+      "corporation_name": "Buffalo's of Liberty",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131035663/",
+    "total_value": 10540207859.92,
+    "final_attacker": {
+      "character_name": "big brutor six",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Hound"
     }
   },
   {
