@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131148279,
+    "killmail_hash": "f7847b20dd7fbcfb5cf90ad1c2df59bb8094592b",
+    "kill_time": "2025-11-11T05:11:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121867336,
+      "character_name": "soulzoul9",
+      "corporation_id": 98809968,
+      "corporation_name": "Kilonetics",
+      "alliance_id": 99006751,
+      "alliance_name": "What Could Possibly Go Wr0ng"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131148279/",
+    "total_value": 4317304176.55,
+    "final_attacker": {
+      "character_name": "Deceive Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131147430,
     "killmail_hash": "5ec8b9ccef2d32998ae03dd05146dfba123740aa",
     "kill_time": "2025-11-11T04:20:30Z",
@@ -2415,32 +2441,6 @@
       "corporation_name": "Candy From Stranger",
       "alliance_name": "Howitzers and Champagne",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130976302,
-    "killmail_hash": "45248a8836b321ee39d45dc1959ded9b75f08dfd",
-    "kill_time": "2025-11-04T06:14:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 1894928179,
-      "character_name": "Greeen Boss",
-      "corporation_id": 98812346,
-      "corporation_name": "Jacob and the Bad Binnies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130976302/",
-    "total_value": 3456176868.72,
-    "final_attacker": {
-      "character_name": "Grey'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
