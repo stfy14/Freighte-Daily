@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131167159,
+    "killmail_hash": "4d25a4c9ad041e212351a931a765a9430df036cd",
+    "kill_time": "2025-11-12T02:46:48Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123804447,
+      "character_name": "PDF folder",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131167159/",
+    "total_value": 8192043337.95,
+    "final_attacker": {
+      "character_name": "Krimson Serenity",
+      "corporation_name": "Full Broadside",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131166432,
     "killmail_hash": "6ae3052d6a5e2017d855a1cf5cb8064d00157daa",
     "kill_time": "2025-11-12T01:46:26Z",
@@ -2441,32 +2467,6 @@
       "corporation_name": "Know-Nothings",
       "alliance_name": "Negative Feedback",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130992116,
-    "killmail_hash": "1b8446c5c6b5e48adb13b7dbf5bc31ff2d74d18e",
-    "kill_time": "2025-11-05T02:03:56Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002029,
-    "solar_system_name": "B-9C24",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 2116424383,
-      "character_name": "Dennis Bond",
-      "corporation_id": 98707560,
-      "corporation_name": "Optimistic Wasteland Inc.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/130992116/",
-    "total_value": 2349735188.42,
-    "final_attacker": {
-      "character_name": "Norwal Gorac",
-      "corporation_name": "The Graduates",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Loki"
     }
   }
 ]
