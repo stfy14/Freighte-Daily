@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131168521,
+    "killmail_hash": "fc756b01eb96574c30a462c87ada2946ad0f658d",
+    "kill_time": "2025-11-12T04:28:09Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002643,
+    "solar_system_name": "Faurent",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1213820748,
+      "character_name": "Kara Mell",
+      "corporation_id": 98732996,
+      "corporation_name": "Golden Duckling",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131168521/",
+    "total_value": 12860044469.12,
+    "final_attacker": {
+      "character_name": "m9ts",
+      "corporation_name": "Know-Nothings",
+      "alliance_name": "Negative Feedback",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 131167159,
     "killmail_hash": "4d25a4c9ad041e212351a931a765a9430df036cd",
     "kill_time": "2025-11-12T02:46:48Z",
@@ -2414,58 +2440,6 @@
       "character_name": "zLegion A",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130994633,
-    "killmail_hash": "219b91e7388a237c6308fc85510936c3a2f3eeea",
-    "kill_time": "2025-11-05T06:24:27Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114962108,
-      "character_name": "Salendis Dayllem",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130994633/",
-    "total_value": 3984327623.41,
-    "final_attacker": {
-      "character_name": "Ninja Teen",
-      "corporation_name": "Know-Nothings",
-      "alliance_name": "Negative Feedback",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 130993970,
-    "killmail_hash": "b1c5b5ddd3d57a0fddd55fec0b3178f4a5e193ae",
-    "kill_time": "2025-11-05T05:03:03Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000131,
-    "solar_system_name": "Nomaa",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1186406211,
-      "character_name": "Ghilardi",
-      "corporation_id": 98804562,
-      "corporation_name": "Quantum Extraction Dynamics",
-      "alliance_id": 99012018,
-      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/130993970/",
-    "total_value": 6349774486.97,
-    "final_attacker": {
-      "character_name": "Ninja Teen",
-      "corporation_name": "Know-Nothings",
-      "alliance_name": "Negative Feedback",
       "ship_type_name": "Cenotaph"
     }
   }
