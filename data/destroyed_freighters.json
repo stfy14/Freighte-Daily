@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131166432,
+    "killmail_hash": "6ae3052d6a5e2017d855a1cf5cb8064d00157daa",
+    "kill_time": "2025-11-12T01:46:26Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 721858865,
+      "character_name": "Bobert Guntu",
+      "corporation_id": 295602303,
+      "corporation_name": "Reptilian Research",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131166432/",
+    "total_value": 2041646890.23,
+    "final_attacker": {
+      "character_name": "004221",
+      "corporation_name": "Late night poets",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 131160806,
     "killmail_hash": "bec7c5c251b7d0aa6f7a3064dd031bb40b691e88",
     "kill_time": "2025-11-11T19:57:42Z",
@@ -2441,58 +2467,6 @@
       "corporation_name": "The Graduates",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 130990061,
-    "killmail_hash": "35037dda70bcbd731c88beda397d20e33a852b49",
-    "kill_time": "2025-11-04T22:39:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 31001781,
-    "solar_system_name": "J165058",
-    "region_name": "D-R00022",
-    "victim": {
-      "character_id": 2119005434,
-      "character_name": "Archonish",
-      "corporation_id": 98649226,
-      "corporation_name": "Serenity Ventures",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130990061/",
-    "total_value": 2696736395.16,
-    "final_attacker": {
-      "character_name": "Roggenbrot Eichelkaese",
-      "corporation_name": "Disturbing Silence",
-      "alliance_name": "Disturbing Silence.",
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 130989351,
-    "killmail_hash": "5290ce5407228a84c210b7905e3b9b33c6027846",
-    "kill_time": "2025-11-04T21:41:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1849179181,
-      "character_name": "Boraeus",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/130989351/",
-    "total_value": 1866494142.21,
-    "final_attacker": {
-      "character_name": "AerisCC",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Praxis"
     }
   }
 ]
