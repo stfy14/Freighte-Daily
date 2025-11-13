@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131190775,
+    "killmail_hash": "fe744cdbce03cfdc9dd2b21eb1586e72b08a97df",
+    "kill_time": "2025-11-13T06:57:15Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002059,
+    "solar_system_name": "Auner",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2114545710,
+      "character_name": "Voss Sasen",
+      "corporation_id": 98608141,
+      "corporation_name": "Farmers Union Iced Coffee",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131190775/",
+    "total_value": 14752910161.24,
+    "final_attacker": {
+      "character_name": "Sentient Infested Supercarrier",
+      "corporation_name": "Im Having a Hel of a Time",
+      "alliance_name": "Dreadbomb.",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
+    "killmail_id": 131190648,
+    "killmail_hash": "68dce9b2f9e6cd2a93d6b58ebcebfb65546ba814",
+    "kill_time": "2025-11-13T06:41:31Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2118545841,
+      "character_name": "Anubis Veron",
+      "corporation_id": 98760186,
+      "corporation_name": "Rats of Elysium",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131190648/",
+    "total_value": 1977474194.14,
+    "final_attacker": {
+      "character_name": "Darainos Trild",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
+    "killmail_id": 131190646,
+    "killmail_hash": "97b17f56ee8d17e61eff0a90eb7d2a29dd54eb89",
+    "kill_time": "2025-11-13T06:41:12Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002059,
+    "solar_system_name": "Auner",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2120370651,
+      "character_name": "MackaNZ",
+      "corporation_id": 98574766,
+      "corporation_name": "NZ Imperial Knights",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131190646/",
+    "total_value": 10210374424.34,
+    "final_attacker": {
+      "character_name": "FRENCH KEBAB",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
     "killmail_id": 131188328,
     "killmail_hash": "97d1bf18f96694d5aa174fd5451241e05ea948e7",
     "kill_time": "2025-11-13T03:12:21Z",
@@ -2545,32 +2623,6 @@
       "corporation_name": "Xenomine Industries",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 131015759,
-    "killmail_hash": "de32438c84126c0147ea7ff4b5d786f94f63929e",
-    "kill_time": "2025-11-06T06:48:34Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 31001362,
-    "solar_system_name": "J121027",
-    "region_name": "C-R00015",
-    "victim": {
-      "character_id": 95423005,
-      "character_name": "Julia Enderas",
-      "corporation_id": 98774251,
-      "corporation_name": "Ferrata Cohortis",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131015759/",
-    "total_value": 2060426690.87,
-    "final_attacker": {
-      "character_name": "Serg K",
-      "corporation_name": "DERUS ORDER",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Kikimora"
     }
   }
 ]
