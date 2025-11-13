@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131193568,
+    "killmail_hash": "24e23cd8ca6f9adae59a71d0511268a9c6c65c04",
+    "kill_time": "2025-11-13T12:20:21Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95617342,
+      "character_name": "Zorlix",
+      "corporation_id": 98387843,
+      "corporation_name": "Orizon Inc.",
+      "alliance_id": 99005338,
+      "alliance_name": "Pandemic Horde"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131193568/",
+    "total_value": 15631632767.32,
+    "final_attacker": {
+      "character_name": "kirtan Loar",
+      "corporation_name": "State War Academy",
+      "alliance_name": null,
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
+    "killmail_id": 131192837,
+    "killmail_hash": "72160b86ba5dd35b7c2cf2ff9fd1e30689195e16",
+    "kill_time": "2025-11-13T10:54:26Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95570909,
+      "character_name": "Kleio Lysandra",
+      "corporation_id": 98778431,
+      "corporation_name": "Cursed Legacy Keepers",
+      "alliance_id": 99014309,
+      "alliance_name": "Bright Side of Life"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131192837/",
+    "total_value": 16132689844.91,
+    "final_attacker": {
+      "character_name": "ChimpChimpChimp",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
     "killmail_id": 131190775,
     "killmail_hash": "fe744cdbce03cfdc9dd2b21eb1586e72b08a97df",
     "kill_time": "2025-11-13T06:57:15Z",
@@ -2571,58 +2623,6 @@
       "corporation_name": "Valhalla corp.",
       "alliance_name": "C A M E L O T",
       "ship_type_name": "Retribution"
-    }
-  },
-  {
-    "killmail_id": 131019017,
-    "killmail_hash": "019585556b9f5f6260e37c08424bfa6675165fa0",
-    "kill_time": "2025-11-06T11:15:58Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000017,
-    "solar_system_name": "Futzchag",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 1377768762,
-      "character_name": "Rubi Rhod",
-      "corporation_id": 98657999,
-      "corporation_name": "Rage Confederacy",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131019017/",
-    "total_value": 1858876352.36,
-    "final_attacker": {
-      "character_name": "AndrewF31 BARBU",
-      "corporation_name": "Xenomine Industries",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 131017060,
-    "killmail_hash": "70c0b8b91c3a8520b9e10f73d8300cea4b37eefe",
-    "kill_time": "2025-11-06T08:42:33Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003730,
-    "solar_system_name": "B-WPLZ",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2123136265,
-      "character_name": "Tsiri 2",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131017060/",
-    "total_value": 4965244430.09,
-    "final_attacker": {
-      "character_name": "AndrewF31 BARBU",
-      "corporation_name": "Xenomine Industries",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Widow"
     }
   }
 ]
