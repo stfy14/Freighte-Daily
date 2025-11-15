@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131231878,
+    "killmail_hash": "a7295c6875a77dbfecc6608c79f1ea49c4b9bb73",
+    "kill_time": "2025-11-15T04:26:40Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 1121124786,
+      "character_name": "Pretu",
+      "corporation_id": 1018389948,
+      "corporation_name": "Dreddit",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131231878/",
+    "total_value": 9101866705.24,
+    "final_attacker": {
+      "character_name": "Gibson Rothman",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 131230393,
+    "killmail_hash": "121189094f03cbb2c33eed2a94a0a14f8a8bc006",
+    "kill_time": "2025-11-15T03:14:46Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000243,
+    "solar_system_name": "PM-DWE",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 92051692,
+      "character_name": "Sahl Helghan",
+      "corporation_id": 98738943,
+      "corporation_name": "Take The Bait.",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131230393/",
+    "total_value": 9429439906.13,
+    "final_attacker": {
+      "character_name": "Artasen Ernaga",
+      "corporation_name": "We are Lost In Action",
+      "alliance_name": null,
+      "ship_type_name": "Nemesis"
+    }
+  },
+  {
     "killmail_id": 131228860,
     "killmail_hash": "0d941a51724bf2bc8a1df7f0d0683c82735f0314",
     "kill_time": "2025-11-15T01:34:20Z",
@@ -2258,32 +2310,6 @@
       "character_name": "Minur",
       "corporation_name": "Empire Pirates",
       "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131065903,
-    "killmail_hash": "4caf81884a41ad38a801cd2f4cc5259860b3b100",
-    "kill_time": "2025-11-08T03:01:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95865511,
-      "character_name": "Zovex",
-      "corporation_id": 98524677,
-      "corporation_name": "Death Clone Delivery Service",
-      "alliance_id": 99007832,
-      "alliance_name": "Diablo's Minions"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131065903/",
-    "total_value": 36081406976.06,
-    "final_attacker": {
-      "character_name": "Professor Edgelord",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
     }
   }
