@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131279253,
+    "killmail_hash": "18fdd08a74a381bd8b41710e5f1cc84605160784",
+    "kill_time": "2025-11-16T20:24:10Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2123896164,
+      "character_name": "Con-Con Mari",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131279253/",
+    "total_value": 6559175757.84,
+    "final_attacker": {
+      "character_name": "Braygo Khallazar",
+      "corporation_name": "Tempered Aggression",
+      "alliance_name": "Seker Matar",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 131276548,
+    "killmail_hash": "83741bf60a3540d5d390e5b1e287928667c43807",
+    "kill_time": "2025-11-16T18:34:03Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1539673677,
+      "character_name": "Ganjjabeard",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131276548/",
+    "total_value": 3119866552.01,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 131271828,
     "killmail_hash": "d8ce748320f99f373ce61840e2a63f2fea933459",
     "kill_time": "2025-11-16T15:06:42Z",
@@ -2025,110 +2077,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131117325,
-    "killmail_hash": "740643b7e667499e1461f760aa9cb664ab20df18",
-    "kill_time": "2025-11-09T20:13:49Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30005189,
-    "solar_system_name": "MTO2-2",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 148053886,
-      "character_name": "Hurtt",
-      "corporation_id": 2014367342,
-      "corporation_name": "Blackwater USA Inc.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131117325/",
-    "total_value": 8790732452.14,
-    "final_attacker": {
-      "character_name": "Arasinya Katelo",
-      "corporation_name": "Kladdkaka Incorporated",
-      "alliance_name": "Brotherhood of Spacers",
-      "ship_type_name": "Sabre"
-    }
-  },
-  {
-    "killmail_id": 131114657,
-    "killmail_hash": "65a3f0421b377c406b827ce90fe0a854a3992ed7",
-    "kill_time": "2025-11-09T18:37:27Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000185,
-    "solar_system_name": "Airaken",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2059590724,
-      "character_name": "Katarina Kanzaki",
-      "corporation_id": 98527816,
-      "corporation_name": "United East-Indian Compagnie",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131114657/",
-    "total_value": 14133857397.17,
-    "final_attacker": {
-      "character_name": "George Painter",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131113693,
-    "killmail_hash": "1c7026b6197a3c4d1ba90ad6037e92cbf2f16fb2",
-    "kill_time": "2025-11-09T17:58:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001117,
-    "solar_system_name": "NBW-GD",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 92533091,
-      "character_name": "Virgil Sacklpicker",
-      "corporation_id": 98757905,
-      "corporation_name": "BlackWatch Security Group",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131113693/",
-    "total_value": 14455319941.2,
-    "final_attacker": {
-      "character_name": "Leon Castor",
-      "corporation_name": "0ne True Cave",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131113054,
-    "killmail_hash": "f1641f0971c77e7e179a95d537101a9f75805b75",
-    "kill_time": "2025-11-09T17:33:28Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001117,
-    "solar_system_name": "NBW-GD",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 1660327270,
-      "character_name": "ishtareus",
-      "corporation_id": 98569633,
-      "corporation_name": "Arsenico",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131113054/",
-    "total_value": 11174563680.13,
-    "final_attacker": {
-      "character_name": "Poluza",
-      "corporation_name": "Merch Industrial",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Sin"
     }
   }
 ]
