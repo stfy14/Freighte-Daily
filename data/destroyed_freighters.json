@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131271828,
+    "killmail_hash": "d8ce748320f99f373ce61840e2a63f2fea933459",
+    "kill_time": "2025-11-16T15:06:42Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003276,
+    "solar_system_name": "FD-MLJ",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 2116650420,
+      "character_name": "Julia Rimalo",
+      "corporation_id": 98613886,
+      "corporation_name": "Corega Squad",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131271828/",
+    "total_value": 2514425280.33,
+    "final_attacker": {
+      "character_name": "Bedlicka",
+      "corporation_name": "Kingdom of Candats",
+      "alliance_name": null,
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 131268109,
     "killmail_hash": "94a98930b1d786cbf6a4056756bdfda864534def",
     "kill_time": "2025-11-16T12:32:06Z",
@@ -2103,84 +2129,6 @@
       "corporation_name": "Merch Industrial",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 131108857,
-    "killmail_hash": "b5b8e57c14760d3b382a9c5afdca0f7913b1f428",
-    "kill_time": "2025-11-09T15:02:08Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000185,
-    "solar_system_name": "Airaken",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 374175622,
-      "character_name": "Cirillia",
-      "corporation_id": 98771538,
-      "corporation_name": "Epiphany of the almighty omnipotent Sphynx",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131108857/",
-    "total_value": 31332145557.94,
-    "final_attacker": {
-      "character_name": "Josh Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131105976,
-    "killmail_hash": "4d85b23b123260973d517d6ab4426b0e398c6d64",
-    "kill_time": "2025-11-09T13:13:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005264,
-    "solar_system_name": "Angur",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 90461175,
-      "character_name": "Cubewanos Aideron",
-      "corporation_id": 98067470,
-      "corporation_name": "Blue Nova Republic",
-      "alliance_id": 99008228,
-      "alliance_name": "Pan-Intergalatic Business Community"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131105976/",
-    "total_value": 9986997028.1,
-    "final_attacker": {
-      "character_name": "V CargoRaider",
-      "corporation_name": "Death Korps of Krieg.",
-      "alliance_name": "White Sky.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131105744,
-    "killmail_hash": "3e38f51c2db2600d11934edb75f245b8ccec6aee",
-    "kill_time": "2025-11-09T13:02:00Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002472,
-    "solar_system_name": "9P4O-F",
-    "region_name": "Geminate",
-    "victim": {
-      "character_id": 2117030145,
-      "character_name": "Mainuser x",
-      "corporation_id": 98738943,
-      "corporation_name": "Take The Bait.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131105744/",
-    "total_value": 8659324004.54,
-    "final_attacker": {
-      "character_name": "Parkuras",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
