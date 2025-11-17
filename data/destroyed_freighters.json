@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131298817,
+    "killmail_hash": "50bdc1910ac98fe54b8838543735c3f834e1fecf",
+    "kill_time": "2025-11-17T19:40:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000186,
+    "solar_system_name": "Oijanen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 93936960,
+      "character_name": "Quang Regalus",
+      "corporation_id": 98521526,
+      "corporation_name": "Regalus Trade Union",
+      "alliance_id": 99013759,
+      "alliance_name": "Imurukka Conglomerate"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131298817/",
+    "total_value": 1824579156.89,
+    "final_attacker": {
+      "character_name": "Wurdalac",
+      "corporation_name": "Raised by Wolves",
+      "alliance_name": "Intaki-Business Logistics Union",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 131297150,
+    "killmail_hash": "e071371f36c7e6331bc66c0fe67b4fd521601cb1",
+    "kill_time": "2025-11-17T18:18:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30045308,
+    "solar_system_name": "Kehjari",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 93936960,
+      "character_name": "Quang Regalus",
+      "corporation_id": 98521526,
+      "corporation_name": "Regalus Trade Union",
+      "alliance_id": 99013759,
+      "alliance_name": "Imurukka Conglomerate"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131297150/",
+    "total_value": 2279754966.21,
+    "final_attacker": {
+      "character_name": "katty Noban",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131296524,
+    "killmail_hash": "9e99417beece8a0f5e39375f2a3fb803e83d84bb",
+    "kill_time": "2025-11-17T17:42:58Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30004909,
+    "solar_system_name": "QSF-EJ",
+    "region_name": "Omist",
+    "victim": {
+      "character_id": 2119698254,
+      "character_name": "Aiden Lorrent",
+      "corporation_id": 1552312459,
+      "corporation_name": "Star Frontiers",
+      "alliance_id": 99007887,
+      "alliance_name": "Brotherhood of Spacers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131296524/",
+    "total_value": 1847772738.42,
+    "final_attacker": {
+      "character_name": "Hauke Ichaim Hibra",
+      "corporation_name": "F I G H T C L U B",
+      "alliance_name": "H A R D L I N E R S",
+      "ship_type_name": "Ishtar"
+    }
+  },
+  {
     "killmail_id": 131292933,
     "killmail_hash": "c4460b4cc34a116e238ce61c7f521462c3a34e2c",
     "kill_time": "2025-11-17T14:21:13Z",
@@ -1842,84 +1920,6 @@
       "character_name": "Mav'Lite",
       "corporation_name": "0mega.",
       "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 131139001,
-    "killmail_hash": "26ecd401336a21811b0c65599e0f30cb69ae7258",
-    "kill_time": "2025-11-10T19:50:55Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2122200365,
-      "character_name": "FullDeck",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131139001/",
-    "total_value": 2065565571.76,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131137422,
-    "killmail_hash": "34835efd27c5745e62d2f5e657f0fae492c28234",
-    "kill_time": "2025-11-10T18:27:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 838770386,
-      "character_name": "DnEugen",
-      "corporation_id": 98183161,
-      "corporation_name": "Agora Navy Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131137422/",
-    "total_value": 1845901569.34,
-    "final_attacker": {
-      "character_name": "Gallente Citizen 2119738017",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 131136654,
-    "killmail_hash": "260f1568187342700b33d7707a12e0ad0457c8a8",
-    "kill_time": "2025-11-10T17:50:02Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2016332634,
-      "character_name": "Janmarri",
-      "corporation_id": 98311406,
-      "corporation_name": "The Exchange Collective",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131136654/",
-    "total_value": 8408271455.93,
-    "final_attacker": {
-      "character_name": "Lamenoire Toralen",
-      "corporation_name": "Entropic Vanguard",
-      "alliance_name": "Beyond Redemption.",
       "ship_type_name": "Widow"
     }
   }
