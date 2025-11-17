@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131290075,
+    "killmail_hash": "3dcba83fe3d336ae6c0add42ba9b4c57839a7760",
+    "kill_time": "2025-11-17T10:53:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004185,
+    "solar_system_name": "5HN-D6",
+    "region_name": "Cobalt Edge",
+    "victim": {
+      "character_id": 801703108,
+      "character_name": "Queen Light",
+      "corporation_id": 98481926,
+      "corporation_name": "Connection Lost.",
+      "alliance_id": 99008228,
+      "alliance_name": "Pan-Intergalatic Business Community"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131290075/",
+    "total_value": 195074180785.36,
+    "final_attacker": {
+      "character_name": "Silent Discourse",
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_name": "Hard Knocks Citizens",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 131288360,
+    "killmail_hash": "60edec6bcdcc72f4ed5a29ac8c4413db616010c5",
+    "kill_time": "2025-11-17T07:39:01Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122165046,
+      "character_name": "Miya Hareka",
+      "corporation_id": 98757855,
+      "corporation_name": "Coffin logstics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131288360/",
+    "total_value": 21561431852.1,
+    "final_attacker": {
+      "character_name": "zLegion G",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131288104,
     "killmail_hash": "7ae58b84c4e6180a7235b6ade7d7db6f00f6182a",
     "kill_time": "2025-11-17T07:15:19Z",
