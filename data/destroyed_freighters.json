@@ -2052,31 +2052,5 @@
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Widow"
     }
-  },
-  {
-    "killmail_id": 131123558,
-    "killmail_hash": "2a34817b15914207c3c12f675db8ce9c01a4415f",
-    "kill_time": "2025-11-10T02:01:17Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2118380848,
-      "character_name": "Bema Makbema",
-      "corporation_id": 98736610,
-      "corporation_name": "The Garrison.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131123558/",
-    "total_value": 7082612958.82,
-    "final_attacker": {
-      "character_name": "Fuming Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
