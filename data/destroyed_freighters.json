@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131288104,
+    "killmail_hash": "7ae58b84c4e6180a7235b6ade7d7db6f00f6182a",
+    "kill_time": "2025-11-17T07:15:19Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2116785390,
+      "character_name": "Edi Kruhl",
+      "corporation_id": 98739992,
+      "corporation_name": "Mond Bergbau Verbandsgesellschaft",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131288104/",
+    "total_value": 3242924994.76,
+    "final_attacker": {
+      "character_name": "Chaoshem MayDuke",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 131285038,
     "killmail_hash": "e96cdce0cad0a49346a7dfbbeef008e1def5c56e",
     "kill_time": "2025-11-17T02:28:37Z",
@@ -2051,32 +2077,6 @@
       "corporation_name": "Balls Deep Inc.",
       "alliance_name": "No Safe Word",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131126599,
-    "killmail_hash": "d447e13a82aa74dd04fc5688cd7723e914401a4c",
-    "kill_time": "2025-11-10T05:20:56Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002825,
-    "solar_system_name": "UDVW-O",
-    "region_name": "The Kalevala Expanse",
-    "victim": {
-      "character_id": 2121303059,
-      "character_name": "Nexiven",
-      "corporation_id": 98474987,
-      "corporation_name": "The Black Crow Bandits",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131126599/",
-    "total_value": 8032272356.73,
-    "final_attacker": {
-      "character_name": "Nonfiction",
-      "corporation_name": "Tragically-Toxic",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Widow"
     }
   }
 ]
