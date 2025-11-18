@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131306024,
+    "killmail_hash": "bfdc94e84dc75cbc107787ffa732b4f491b9c040",
+    "kill_time": "2025-11-18T03:04:08Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30005233,
+    "solar_system_name": "Leran",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 800440366,
+      "character_name": "nikd87502",
+      "corporation_id": 98130939,
+      "corporation_name": "Ragnarok Elite",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131306024/",
+    "total_value": 12603170204.95,
+    "final_attacker": {
+      "character_name": "Sharlandra",
+      "corporation_name": "Phoenix Naval Operations",
+      "alliance_name": "Phoenix Naval Systems",
+      "ship_type_name": "Nidhoggur"
+    }
+  },
+  {
     "killmail_id": 131302844,
     "killmail_hash": "2ee860ae3bd7ce27d926086d9e444fa9078c2e8e",
     "kill_time": "2025-11-17T23:29:48Z",
@@ -1765,84 +1791,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131147430,
-    "killmail_hash": "5ec8b9ccef2d32998ae03dd05146dfba123740aa",
-    "kill_time": "2025-11-11T04:20:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 898230435,
-      "character_name": "Alpha Spinecone",
-      "corporation_id": 98770866,
-      "corporation_name": "Wildcard Aerospace",
-      "alliance_id": 99014470,
-      "alliance_name": "Everyone's Problem"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131147430/",
-    "total_value": 3193509051.9,
-    "final_attacker": {
-      "character_name": "Fraud Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131146947,
-    "killmail_hash": "85a92c045a5826bcc5f372016d0c99d5052ac533",
-    "kill_time": "2025-11-11T03:54:19Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2116464137,
-      "character_name": "Forest Sky",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131146947/",
-    "total_value": 4170424133.51,
-    "final_attacker": {
-      "character_name": "Scimator",
-      "corporation_name": "Lestat's Clan",
-      "alliance_name": "Ligma Grindset",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 131145421,
-    "killmail_hash": "985c48379bf22d1f7464a19d8579f04da936280c",
-    "kill_time": "2025-11-11T02:37:37Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000185,
-    "solar_system_name": "Airaken",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95435797,
-      "character_name": "Apache Kae'loz",
-      "corporation_id": 98249443,
-      "corporation_name": "The Icarus Expedition",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131145421/",
-    "total_value": 10061974843.17,
-    "final_attacker": {
-      "character_name": "rackoondog",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Honkai Star Rail.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
