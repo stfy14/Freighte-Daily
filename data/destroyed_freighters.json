@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 131310334,
+    "killmail_hash": "58e60db72323999e22dc669d3f3e087f0f0f00a8",
+    "kill_time": "2025-11-18T10:25:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002394,
+    "solar_system_name": "Muttokon",
+    "region_name": "Molden Heath",
+    "victim": {
+      "character_id": 2121222904,
+      "character_name": "AlexAB40",
+      "corporation_id": 98633375,
+      "corporation_name": "Asteroid Nomads",
+      "alliance_id": 99013047,
+      "alliance_name": "SolarMine"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131310334/",
+    "total_value": 1821115539.12,
+    "final_attacker": {
+      "character_name": "Dwark",
+      "corporation_name": "Harmonist",
+      "alliance_name": "Parallaxis Alliance",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131310166,
+    "killmail_hash": "6ed0cf9f7add5a3907d19f9472693c416e394135",
+    "kill_time": "2025-11-18T10:08:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002661,
+    "solar_system_name": "Botane",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123646100,
+      "character_name": "Galen Cargo",
+      "corporation_id": 98669122,
+      "corporation_name": "Gruber und Partner GmbH",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131310166/",
+    "total_value": 4495529314.37,
+    "final_attacker": {
+      "character_name": "Vadim Rer",
+      "corporation_name": "Nota Bene.",
+      "alliance_name": "Nota Bene. Alliance",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 131309663,
+    "killmail_hash": "b4da79fc242df2b7bdeb038d43372e5781346963",
+    "kill_time": "2025-11-18T09:09:21Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 699484799,
+      "character_name": "Nadeni4ka",
+      "corporation_id": 98604007,
+      "corporation_name": "Gregarious Games Mechanized Federation",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131309663/",
+    "total_value": 39775356914.85,
+    "final_attacker": {
+      "character_name": "zLegion E",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131309010,
+    "killmail_hash": "f0f06f1fe9e8705c868eba436a4c27aaa9361d84",
+    "kill_time": "2025-11-18T07:48:36Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002390,
+    "solar_system_name": "Heild",
+    "region_name": "Molden Heath",
+    "victim": {
+      "character_id": 93839196,
+      "character_name": "Sashka Smirnov",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131309010/",
+    "total_value": 2029940880.73,
+    "final_attacker": {
+      "character_name": "Almatinochka",
+      "corporation_name": "Money making corporation",
+      "alliance_name": "Parallaxis Alliance",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131308252,
     "killmail_hash": "c096ec981dbdc165e709d17716b68dc697de94cd",
     "kill_time": "2025-11-18T06:08:14Z",
@@ -1791,58 +1895,6 @@
       "corporation_name": "The Ruckus",
       "alliance_name": null,
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131152796,
-    "killmail_hash": "bcaf6552f471495c263a00c7b704b3a94dfe85b2",
-    "kill_time": "2025-11-11T12:51:17Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000037,
-    "solar_system_name": "Uplingur",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 124789366,
-      "character_name": "Rock Bucket",
-      "corporation_id": 1253496145,
-      "corporation_name": "Mutual Security",
-      "alliance_id": 99012371,
-      "alliance_name": "Mutual Security Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131152796/",
-    "total_value": 10188891890.94,
-    "final_attacker": {
-      "character_name": "Deadi9",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 131152785,
-    "killmail_hash": "9436701315639ad2f2ebafcb26b8c1fee1b22d35",
-    "kill_time": "2025-11-11T12:50:53Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000037,
-    "solar_system_name": "Uplingur",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 1810846374,
-      "character_name": "Rollin Warwagon",
-      "corporation_id": 1253496145,
-      "corporation_name": "Mutual Security",
-      "alliance_id": 99012371,
-      "alliance_name": "Mutual Security Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131152785/",
-    "total_value": 10188891890.94,
-    "final_attacker": {
-      "character_name": "Deadi9",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Bane"
     }
   }
 ]
