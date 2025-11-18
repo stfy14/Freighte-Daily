@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131308252,
+    "killmail_hash": "c096ec981dbdc165e709d17716b68dc697de94cd",
+    "kill_time": "2025-11-18T06:08:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123841424,
+      "character_name": "Arthur Corvus",
+      "corporation_id": 98735707,
+      "corporation_name": "Rockwall Mining Industries Inc.",
+      "alliance_id": 99014427,
+      "alliance_name": "Itty Bitty Asteroid Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131308252/",
+    "total_value": 2583197997,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 131308000,
+    "killmail_hash": "77295836cc922a28bc078cb1ebfac0a79d047f80",
+    "kill_time": "2025-11-18T05:41:22Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2114400713,
+      "character_name": "xART3MISx",
+      "corporation_id": 98784983,
+      "corporation_name": "Chipotle Express",
+      "alliance_id": 99011699,
+      "alliance_name": "We Forsakened Few"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131308000/",
+    "total_value": 27432047125.04,
+    "final_attacker": {
+      "character_name": "TaipanSan",
+      "corporation_name": "You're dunked",
+      "alliance_name": "NullSechnaya Sholupen",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 131306024,
     "killmail_hash": "bfdc94e84dc75cbc107787ffa732b4f491b9c040",
     "kill_time": "2025-11-18T03:04:08Z",
@@ -777,6 +829,32 @@
       "corporation_name": "RSE Industries",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 131232735,
+    "killmail_hash": "f00451e2766da7b711553d95fe02816e67b796b6",
+    "kill_time": "2025-11-15T05:13:33Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002288,
+    "solar_system_name": "QNXJ-M",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2119590503,
+      "character_name": "Moa Korak",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131232735/",
+    "total_value": 2037536599.45,
+    "final_attacker": {
+      "character_name": "Joseph Gh0sty",
+      "corporation_name": "Gh0stieGaming",
+      "alliance_name": null,
+      "ship_type_name": "Hyperion"
     }
   },
   {
@@ -1765,32 +1843,6 @@
       "corporation_name": "Dominion Guild",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 131148279,
-    "killmail_hash": "f7847b20dd7fbcfb5cf90ad1c2df59bb8094592b",
-    "kill_time": "2025-11-11T05:11:38Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2121867336,
-      "character_name": "soulzoul9",
-      "corporation_id": 98809968,
-      "corporation_name": "Kilonetics",
-      "alliance_id": 99006751,
-      "alliance_name": "What Could Possibly Go Wr0ng"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131148279/",
-    "total_value": 4317304176.55,
-    "final_attacker": {
-      "character_name": "Deceive Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
