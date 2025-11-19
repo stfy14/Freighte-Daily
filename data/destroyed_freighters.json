@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131330079,
+    "killmail_hash": "fded2a2c363060a4cf50686285a87f2e3d38f878",
+    "kill_time": "2025-11-19T07:27:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000225,
+    "solar_system_name": "H-5GUI",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2112956991,
+      "character_name": "Khendia Raholan",
+      "corporation_id": 98635328,
+      "corporation_name": "Lighthouse Society",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131330079/",
+    "total_value": 8272886638.14,
+    "final_attacker": {
+      "character_name": "Beta Page",
+      "corporation_name": "CastleKickers",
+      "alliance_name": "Rote Kapelle",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 131328651,
+    "killmail_hash": "4a2760c4c9aa154d6411dade9d775efb3440cf22",
+    "kill_time": "2025-11-19T04:56:16Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30005139,
+    "solar_system_name": "2-YO2K",
+    "region_name": "Perrigen Falls",
+    "victim": {
+      "character_id": 2119215413,
+      "character_name": "Dr GordonFreeman",
+      "corporation_id": 98462601,
+      "corporation_name": "Rapid Offworld Transport and Exports",
+      "alliance_id": 927292903,
+      "alliance_name": "Rote Kapelle"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131328651/",
+    "total_value": 11368112080.98,
+    "final_attacker": {
+      "character_name": "Dexter Tripod",
+      "corporation_name": "Tritanium Industries and Technology",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Raven Navy Issue"
+    }
+  },
+  {
     "killmail_id": 131324904,
     "killmail_hash": "176d6f6e5e35ae57e202bc299ee56aac7998270c",
     "kill_time": "2025-11-19T01:33:20Z",
