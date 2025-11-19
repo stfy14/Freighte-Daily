@@ -2000,57 +2000,5 @@
       "alliance_name": "Fraternity.",
       "ship_type_name": "Ragnarok"
     }
-  },
-  {
-    "killmail_id": 131168521,
-    "killmail_hash": "fc756b01eb96574c30a462c87ada2946ad0f658d",
-    "kill_time": "2025-11-12T04:28:09Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1213820748,
-      "character_name": "Kara Mell",
-      "corporation_id": 98732996,
-      "corporation_name": "Golden Duckling",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131168521/",
-    "total_value": 12860044469.12,
-    "final_attacker": {
-      "character_name": "m9ts",
-      "corporation_name": "Know-Nothings",
-      "alliance_name": "Negative Feedback",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 131167159,
-    "killmail_hash": "4d25a4c9ad041e212351a931a765a9430df036cd",
-    "kill_time": "2025-11-12T02:46:48Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123804447,
-      "character_name": "PDF folder",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131167159/",
-    "total_value": 8192043337.95,
-    "final_attacker": {
-      "character_name": "Krimson Serenity",
-      "corporation_name": "Full Broadside",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
