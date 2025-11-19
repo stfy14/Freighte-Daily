@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131333414,
+    "killmail_hash": "6f4ce641d5118b58f27c3321dbaaca1d128e2ec1",
+    "kill_time": "2025-11-19T12:55:11Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120448696,
+      "character_name": "Express XXX",
+      "corporation_id": 98723262,
+      "corporation_name": "Logistik Trans Corp",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131333414/",
+    "total_value": 9599875088.25,
+    "final_attacker": {
+      "character_name": "Tyrion Hekki",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131330079,
     "killmail_hash": "fded2a2c363060a4cf50686285a87f2e3d38f878",
     "kill_time": "2025-11-19T07:27:53Z",
@@ -1921,136 +1947,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 131176993,
-    "killmail_hash": "d0f688889839db84ac26476144abb9759492e5bc",
-    "kill_time": "2025-11-12T16:10:01Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123469940,
-      "character_name": "Sihaya'tan",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131176993/",
-    "total_value": 14858176873.65,
-    "final_attacker": {
-      "character_name": "chimpout 12",
-      "corporation_name": "okay-buddy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131176979,
-    "killmail_hash": "7cfca0573c980703444df03908eb1026ad6f3c4e",
-    "kill_time": "2025-11-12T16:09:33Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1579228833,
-      "character_name": "Persephone's Kiss",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131176979/",
-    "total_value": 14275412526.6,
-    "final_attacker": {
-      "character_name": "chimpout 11",
-      "corporation_name": "okay-buddy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131176974,
-    "killmail_hash": "2b739819a2c02775c3987a876220847926e897ea",
-    "kill_time": "2025-11-12T16:09:12Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121670190,
-      "character_name": "Lyria Starkaari",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131176974/",
-    "total_value": 13872375120.28,
-    "final_attacker": {
-      "character_name": "chimpout 14",
-      "corporation_name": "okay-buddy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131176947,
-    "killmail_hash": "5ec9b63f8b3194fe79106c5fa66c2b9772630d4d",
-    "kill_time": "2025-11-12T16:08:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122946639,
-      "character_name": "Eirtulf Aesar Askulf",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131176947/",
-    "total_value": 13872375120.28,
-    "final_attacker": {
-      "character_name": "chimpout 10",
-      "corporation_name": "okay-buddy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131173992,
-    "killmail_hash": "ad80b4b42dff3740a1eeb94eb4d5a7e5d609998c",
-    "kill_time": "2025-11-12T13:27:08Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000261,
-    "solar_system_name": "T-GCGL",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 364200139,
-      "character_name": "Intercold",
-      "corporation_id": 481577072,
-      "corporation_name": "The Vanguard of Dragon Knights",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131173992/",
-    "total_value": 192736875791.25,
-    "final_attacker": {
-      "character_name": "Lazzah Skill V",
-      "corporation_name": "Arknights.",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
