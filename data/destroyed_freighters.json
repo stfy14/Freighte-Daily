@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131348393,
+    "killmail_hash": "17cde243746e4728ee488487ecd00ccd986c92ee",
+    "kill_time": "2025-11-20T02:22:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004242,
+    "solar_system_name": "Sadana",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 2115058991,
+      "character_name": "bamboosan2",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131348393/",
+    "total_value": 1820573779.31,
+    "final_attacker": {
+      "character_name": "Tample II",
+      "corporation_name": "RadioActivia",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Vigilant"
+    }
+  },
+  {
     "killmail_id": 131347189,
     "killmail_hash": "14f656b99a3812860899b4d0237abeed9a5bb277",
     "kill_time": "2025-11-20T01:07:14Z",
@@ -2077,32 +2103,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 131188328,
-    "killmail_hash": "97d1bf18f96694d5aa174fd5451241e05ea948e7",
-    "kill_time": "2025-11-13T03:12:21Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2112448953,
-      "character_name": "Shiraqe Rangella",
-      "corporation_id": 98720111,
-      "corporation_name": "Izaukh and Surroji Ltd.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131188328/",
-    "total_value": 2295707914.72,
-    "final_attacker": {
-      "character_name": "ShepherdE",
-      "corporation_name": "Baba Yagas",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Dominix"
     }
   }
 ]
