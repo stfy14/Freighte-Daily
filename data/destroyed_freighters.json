@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131380063,
+    "killmail_hash": "44cda72e44b556450b0f37a7285c0a61e2caa27c",
+    "kill_time": "2025-11-21T14:20:24Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 31001570,
+    "solar_system_name": "J165532",
+    "region_name": "D-R00019",
+    "victim": {
+      "character_id": 2117807020,
+      "character_name": "Supreme Scannerr",
+      "corporation_id": 98733942,
+      "corporation_name": "Jita Productions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131380063/",
+    "total_value": 1986544153.5,
+    "final_attacker": {
+      "character_name": "DecimusPD",
+      "corporation_name": "Mental Disruption",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 131374596,
     "killmail_hash": "9c8690fd4eba6111f0b984b97211b147be99480d",
     "kill_time": "2025-11-21T07:10:13Z",
@@ -1144,6 +1170,32 @@
     }
   },
   {
+    "killmail_id": 131314478,
+    "killmail_hash": "1379f76ced78b44c5f53c25d8ef159e9b8061a97",
+    "kill_time": "2025-11-18T15:41:59Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 94826207,
+      "character_name": "andyz0",
+      "corporation_id": 98797997,
+      "corporation_name": "SGExpress Mail Service",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131314478/",
+    "total_value": 10752210905.32,
+    "final_attacker": {
+      "character_name": "ChimpChimpChimp",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
     "killmail_id": 131310334,
     "killmail_hash": "58e60db72323999e22dc669d3f3e087f0f0f00a8",
     "kill_time": "2025-11-18T10:25:50Z",
@@ -1193,6 +1245,32 @@
       "corporation_name": "Nota Bene.",
       "alliance_name": "Nota Bene. Alliance",
       "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 131310112,
+    "killmail_hash": "65338dd1ecda3b4ec91580d41300386c1c6ade84",
+    "kill_time": "2025-11-18T10:03:00Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1319947840,
+      "character_name": "Sylvester Alone",
+      "corporation_id": 98137659,
+      "corporation_name": "Pool of Radiance",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131310112/",
+    "total_value": 22567277735.76,
+    "final_attacker": {
+      "character_name": "Miss Robot",
+      "corporation_name": "Gapped out",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Panther"
     }
   },
   {
@@ -2493,32 +2571,6 @@
       "corporation_name": "Boomer Humor",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131214191,
-    "killmail_hash": "9b29fe30c4a188bb7d5b978f997c2935b33c3ed1",
-    "kill_time": "2025-11-14T14:01:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000119,
-    "solar_system_name": "Itamo",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2116341252,
-      "character_name": "Michael Landing",
-      "corporation_id": 98817637,
-      "corporation_name": "Tactical Withdrawal Team",
-      "alliance_id": 99014523,
-      "alliance_name": "The Rejected."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131214191/",
-    "total_value": 2446892171.59,
-    "final_attacker": {
-      "character_name": "Takko Muvila",
-      "corporation_name": "Destiny Bunys",
-      "alliance_name": "WhiteBlackCynoAlliance",
-      "ship_type_name": "Gnosis"
     }
   }
 ]
