@@ -2416,57 +2416,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 131242403,
-    "killmail_hash": "5c1f41cbbce57789c3cb26dcea0f9db35140c990",
-    "kill_time": "2025-11-15T14:39:59Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 96621324,
-      "character_name": "Rei Ayanami Aakiwa",
-      "corporation_id": 98249443,
-      "corporation_name": "The Icarus Expedition",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131242403/",
-    "total_value": 8380735627.75,
-    "final_attacker": {
-      "character_name": "kirtan Loar",
-      "corporation_name": "State War Academy",
-      "alliance_name": null,
-      "ship_type_name": "Phoenix"
-    }
-  },
-  {
-    "killmail_id": 131242377,
-    "killmail_hash": "ce08d2fc828fb5d00d8bcfaffc59b83a69b5372c",
-    "kill_time": "2025-11-15T14:39:00Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2114958330,
-      "character_name": "Kharnage Aakiwa",
-      "corporation_id": 98249443,
-      "corporation_name": "The Icarus Expedition",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131242377/",
-    "total_value": 8830944093.95,
-    "final_attacker": {
-      "character_name": "kirtan Loar",
-      "corporation_name": "State War Academy",
-      "alliance_name": null,
-      "ship_type_name": "Phoenix"
-    }
   }
 ]
