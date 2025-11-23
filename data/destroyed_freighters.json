@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131428794,
+    "killmail_hash": "9f61684f6b7ed1336f41a3e0e29d921bfc4668c8",
+    "kill_time": "2025-11-23T02:28:29Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003522,
+    "solar_system_name": "Sarum Prime",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2117518049,
+      "character_name": "Michael Marsh",
+      "corporation_id": 98744491,
+      "corporation_name": "URSA PRIMUS",
+      "alliance_id": 99013330,
+      "alliance_name": "URSA."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131428794/",
+    "total_value": 2362174857.97,
+    "final_attacker": {
+      "character_name": "Al Reshala",
+      "corporation_name": "Order of Atomic Flame",
+      "alliance_name": "Hull Tanking Therapy",
+      "ship_type_name": "Ikitursa"
+    }
+  },
+  {
     "killmail_id": 131428617,
     "killmail_hash": "44648dc65ecff9c1eeb1dd61b0a3677f28d76776",
     "kill_time": "2025-11-23T02:20:26Z",
@@ -2337,32 +2363,6 @@
       "corporation_name": "Space Oddities Join Us",
       "alliance_name": null,
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131259456,
-    "killmail_hash": "16a982615d83756ed961586b21e897d2288d9b4e",
-    "kill_time": "2025-11-16T03:00:50Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003242,
-    "solar_system_name": "E6Q-LE",
-    "region_name": "Oasa",
-    "victim": {
-      "character_id": 769263592,
-      "character_name": "Bubica70",
-      "corporation_id": 98770788,
-      "corporation_name": "R.A.A.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131259456/",
-    "total_value": 2036653260.72,
-    "final_attacker": {
-      "character_name": "Snipperz",
-      "corporation_name": "Asteroid Farm Unlimited",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Kikimora"
     }
   }
 ]
