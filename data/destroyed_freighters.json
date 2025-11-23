@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131437134,
+    "killmail_hash": "e2e810ebcfee931e819a25af24e42db31bb7b324",
+    "kill_time": "2025-11-23T10:07:52Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000134,
+    "solar_system_name": "Hykkota",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116042314,
+      "character_name": "Gretty Trade",
+      "corporation_id": 98647784,
+      "corporation_name": "Sons of Shakuras",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131437134/",
+    "total_value": 18138886818.46,
+    "final_attacker": {
+      "character_name": "zLegion G",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131434415,
     "killmail_hash": "8768bf71a17a76266f31d1866e238325e758b37c",
     "kill_time": "2025-11-23T07:05:44Z",
@@ -2285,84 +2311,6 @@
       "corporation_name": "Kingdom of Candats",
       "alliance_name": null,
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 131268109,
-    "killmail_hash": "94a98930b1d786cbf6a4056756bdfda864534def",
-    "kill_time": "2025-11-16T12:32:06Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 95593102,
-      "character_name": "Succubia M",
-      "corporation_id": 98803292,
-      "corporation_name": "Dangerous technical cooperatives",
-      "alliance_id": 99003995,
-      "alliance_name": "Invidia Gloriae Comes"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131268109/",
-    "total_value": 11243559216.62,
-    "final_attacker": {
-      "character_name": "WD0810353",
-      "corporation_name": "Alkaid Broken Army",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131267877,
-    "killmail_hash": "7fcc8278ee67ad8d028079e18cf08c2dc45c457f",
-    "kill_time": "2025-11-16T12:20:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 93322906,
-      "character_name": "Kagami Takara",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131267877/",
-    "total_value": 10675573152.04,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 131265674,
-    "killmail_hash": "6fe28cc403b50677f20874318167591c350bf88e",
-    "kill_time": "2025-11-16T10:06:13Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001379,
-    "solar_system_name": "Tunttaras",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1988458400,
-      "character_name": "Ahoih Dreadstar",
-      "corporation_id": 98478883,
-      "corporation_name": "Know-Nothings",
-      "alliance_id": 99014300,
-      "alliance_name": "Negative Feedback"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131265674/",
-    "total_value": 2133385291.93,
-    "final_attacker": {
-      "character_name": "H5N1ONE",
-      "corporation_name": "Solid Ground",
-      "alliance_name": null,
-      "ship_type_name": "Babaroga"
     }
   }
 ]
