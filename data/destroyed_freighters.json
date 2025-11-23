@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131434415,
+    "killmail_hash": "8768bf71a17a76266f31d1866e238325e758b37c",
+    "kill_time": "2025-11-23T07:05:44Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30005195,
+    "solar_system_name": "Vecamia",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1131453900,
+      "character_name": "Merrovingion Kontair",
+      "corporation_id": 98788614,
+      "corporation_name": "BIack Sun Syndicate",
+      "alliance_id": 99013692,
+      "alliance_name": "Independent Miners Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131434415/",
+    "total_value": 1841844262.65,
+    "final_attacker": {
+      "character_name": "Brusanan",
+      "corporation_name": "Sons of Seyllin",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131428794,
     "killmail_hash": "9f61684f6b7ed1336f41a3e0e29d921bfc4668c8",
     "kill_time": "2025-11-23T02:28:29Z",
@@ -2337,32 +2363,6 @@
       "corporation_name": "Solid Ground",
       "alliance_name": null,
       "ship_type_name": "Babaroga"
-    }
-  },
-  {
-    "killmail_id": 131261965,
-    "killmail_hash": "9bffc409ed50f19e37f857f08f30c5bf4ca41280",
-    "kill_time": "2025-11-16T05:25:05Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2119837654,
-      "character_name": "yuenhc12",
-      "corporation_id": 98740294,
-      "corporation_name": "Asian Neutral Industries",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131261965/",
-    "total_value": 9747075130.65,
-    "final_attacker": {
-      "character_name": "CTA61",
-      "corporation_name": "Space Oddities Join Us",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
     }
   }
 ]
