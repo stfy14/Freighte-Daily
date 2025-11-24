@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131458521,
+    "killmail_hash": "346dc019cb254bf9c503eed77b5e83a3a657a065",
+    "kill_time": "2025-11-24T00:09:03Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121521925,
+      "character_name": "beam beast",
+      "corporation_id": 98705678,
+      "corporation_name": "Minmatar Fleet Logistics",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131458521/",
+    "total_value": 8751224025.56,
+    "final_attacker": {
+      "character_name": "Shiln",
+      "corporation_name": "Konflict",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131458515,
+    "killmail_hash": "4faeef7f4cb48bb0983dfae372fd53a071acc2dc",
+    "kill_time": "2025-11-24T00:08:33Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95478159,
+      "character_name": "Antagonist",
+      "corporation_id": 98665644,
+      "corporation_name": "MASS-Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131458515/",
+    "total_value": 14938032071.43,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131454008,
+    "killmail_hash": "2dfe23499796644cde0046cc6c48faea28342e87",
+    "kill_time": "2025-11-23T20:45:36Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004055,
+    "solar_system_name": "W-4NUU",
+    "region_name": "Cloud Ring",
+    "victim": {
+      "character_id": 96331848,
+      "character_name": "Guillherme Riker",
+      "corporation_id": 98760719,
+      "corporation_name": "The Bannermen",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131454008/",
+    "total_value": 1978788907.62,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Rapier"
+    }
+  },
+  {
     "killmail_id": 131448271,
     "killmail_hash": "2f167ebbc5ff0e52c965f236f7653044431c0adb",
     "kill_time": "2025-11-23T17:34:21Z",
