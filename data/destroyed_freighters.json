@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131463095,
+    "killmail_hash": "ebcfdef684907b8360695bfabe1bfb23c978996a",
+    "kill_time": "2025-11-24T05:02:31Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123100647,
+      "character_name": "Andressa Xiomara",
+      "corporation_id": 98785912,
+      "corporation_name": "Xiomara Ascendancy",
+      "alliance_id": 99013691,
+      "alliance_name": "X I O M A R A"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131463095/",
+    "total_value": 8517201680.33,
+    "final_attacker": {
+      "character_name": "Deus Ex Astra",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 131462707,
+    "killmail_hash": "af5e2662b88f3c97832a8f3df0a5e54662370684",
+    "kill_time": "2025-11-24T04:37:38Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002507,
+    "solar_system_name": "Abudban",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2116187854,
+      "character_name": "Airimeh Ryss",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131462707/",
+    "total_value": 4930967549.06,
+    "final_attacker": {
+      "character_name": "A Twirling Puppet",
+      "corporation_name": "Maison Pantin Natya",
+      "alliance_name": null,
+      "ship_type_name": "Caracal"
+    }
+  },
+  {
     "killmail_id": 131461687,
     "killmail_hash": "a80646f1f8fb7dc32c14aa5455ff50f24a340ce5",
     "kill_time": "2025-11-24T03:30:55Z",
@@ -2441,58 +2493,6 @@
       "corporation_name": "Hard Knocks Inc.",
       "alliance_name": "Hard Knocks Citizens",
       "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 131288360,
-    "killmail_hash": "60edec6bcdcc72f4ed5a29ac8c4413db616010c5",
-    "kill_time": "2025-11-17T07:39:01Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122165046,
-      "character_name": "Miya Hareka",
-      "corporation_id": 98757855,
-      "corporation_name": "Coffin logstics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131288360/",
-    "total_value": 21561431852.1,
-    "final_attacker": {
-      "character_name": "zLegion G",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131288104,
-    "killmail_hash": "7ae58b84c4e6180a7235b6ade7d7db6f00f6182a",
-    "kill_time": "2025-11-17T07:15:19Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2116785390,
-      "character_name": "Edi Kruhl",
-      "corporation_id": 98739992,
-      "corporation_name": "Mond Bergbau Verbandsgesellschaft",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131288104/",
-    "total_value": 3242924994.76,
-    "final_attacker": {
-      "character_name": "Chaoshem MayDuke",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Kronos"
     }
   }
 ]
