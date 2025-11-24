@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131461687,
+    "killmail_hash": "a80646f1f8fb7dc32c14aa5455ff50f24a340ce5",
+    "kill_time": "2025-11-24T03:30:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000776,
+    "solar_system_name": "4M-QXK",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2122970353,
+      "character_name": "Skye Meadows",
+      "corporation_id": 98808541,
+      "corporation_name": "Meadow-Works Heavy Industries",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131461687/",
+    "total_value": 1812249771.8,
+    "final_attacker": {
+      "character_name": "DrKoma",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 131460869,
+    "killmail_hash": "499818059063efe04fab938205d526cce68ebc4a",
+    "kill_time": "2025-11-24T02:42:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 1978535095,
+      "character_name": "Ibn Khatab",
+      "corporation_id": 263585335,
+      "corporation_name": "Black Omega Security",
+      "alliance_id": 99011978,
+      "alliance_name": "Minmatar Fleet Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131460869/",
+    "total_value": 1810177071.8,
+    "final_attacker": {
+      "character_name": "Dynomike Holt",
+      "corporation_name": "Blackwater USA Inc.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131458521,
     "killmail_hash": "346dc019cb254bf9c503eed77b5e83a3a657a065",
     "kill_time": "2025-11-24T00:09:03Z",
@@ -2441,32 +2493,6 @@
       "corporation_name": "Candy From Stranger",
       "alliance_name": "Howitzers and Champagne",
       "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 131285038,
-    "killmail_hash": "e96cdce0cad0a49346a7dfbbeef008e1def5c56e",
-    "kill_time": "2025-11-17T02:28:37Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003267,
-    "solar_system_name": "5-IH57",
-    "region_name": "Oasa",
-    "victim": {
-      "character_id": 833870464,
-      "character_name": "Svahna",
-      "corporation_id": 98718076,
-      "corporation_name": "GSF Logistics and Posting Reserves",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131285038/",
-    "total_value": 8637786517.04,
-    "final_attacker": {
-      "character_name": "Kinky Bondage",
-      "corporation_name": "The Fry Cooks",
-      "alliance_name": null,
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
