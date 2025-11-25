@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131484803,
+    "killmail_hash": "f8c4fbe7b1c0c467daa876559b6dcf28e024d0ee",
+    "kill_time": "2025-11-25T03:23:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94676045,
+      "character_name": "Susumya kurosaki",
+      "corporation_id": 98420309,
+      "corporation_name": "Swiss Gaming Club",
+      "alliance_id": 99012745,
+      "alliance_name": "Regnum Astera HSD"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131484803/",
+    "total_value": 15302254375.26,
+    "final_attacker": {
+      "character_name": "Bored And Violent",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131484617,
+    "killmail_hash": "df44b1566aa93edb8a9b763d87784f67947e5fa7",
+    "kill_time": "2025-11-25T03:09:30Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2112342144,
+      "character_name": "S-P-A-Z-Z",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131484617/",
+    "total_value": 8413405837.71,
+    "final_attacker": {
+      "character_name": "Osrono Darksky",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 131483220,
     "killmail_hash": "8da39c589235328dfbf76f98cd9647ff1012276d",
     "kill_time": "2025-11-25T01:33:30Z",
@@ -2467,32 +2519,6 @@
       "corporation_name": "You're dunked",
       "alliance_name": "NullSechnaya Sholupen",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131306024,
-    "killmail_hash": "bfdc94e84dc75cbc107787ffa732b4f491b9c040",
-    "kill_time": "2025-11-18T03:04:08Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30005233,
-    "solar_system_name": "Leran",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 800440366,
-      "character_name": "nikd87502",
-      "corporation_id": 98130939,
-      "corporation_name": "Ragnarok Elite",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131306024/",
-    "total_value": 12603170204.95,
-    "final_attacker": {
-      "character_name": "Sharlandra",
-      "corporation_name": "Phoenix Naval Operations",
-      "alliance_name": "Phoenix Naval Systems",
-      "ship_type_name": "Nidhoggur"
     }
   }
 ]
