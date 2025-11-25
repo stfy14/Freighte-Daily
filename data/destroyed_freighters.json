@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131498694,
+    "killmail_hash": "bb40930a44d9cc790f6af01f4b214f458c4800f1",
+    "kill_time": "2025-11-25T19:09:51Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1429645534,
+      "character_name": "GoldenNeuron",
+      "corporation_id": 98532842,
+      "corporation_name": "Golden Astral Sciences",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131498694/",
+    "total_value": 3923680253.64,
+    "final_attacker": {
+      "character_name": "Bolzano META",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131497670,
+    "killmail_hash": "5b4db94b8735648c7e778940fcbb816116b98439",
+    "kill_time": "2025-11-25T18:30:22Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003570,
+    "solar_system_name": "Elore",
+    "region_name": "Solitude",
+    "victim": {
+      "character_id": 94102278,
+      "character_name": "Madlen Amatin",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131497670/",
+    "total_value": 2371886695.34,
+    "final_attacker": {
+      "character_name": "Bitlex",
+      "corporation_name": "Harmonist",
+      "alliance_name": "Parallaxis Alliance",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131495614,
+    "killmail_hash": "8e3dc718b00042289de8841344250f38988b96b8",
+    "kill_time": "2025-11-25T16:39:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000186,
+    "solar_system_name": "Oijanen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96581031,
+      "character_name": "Rorin Crenshinabon",
+      "corporation_id": 98523242,
+      "corporation_name": "Tits Express",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131495614/",
+    "total_value": 2015642787.55,
+    "final_attacker": {
+      "character_name": "Thanatos Fumimasa",
+      "corporation_name": "ScumLord Excavation and Evisceration",
+      "alliance_name": "Scumlords",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 131493595,
     "killmail_hash": "cd31887d8709766c515061ceab6d08506a334620",
     "kill_time": "2025-11-25T15:02:02Z",
@@ -231,6 +309,58 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131466685,
+    "killmail_hash": "9806b2f5293f3edad1f8184d548b473847316bb9",
+    "kill_time": "2025-11-24T10:48:58Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000134,
+    "solar_system_name": "Hykkota",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2114801542,
+      "character_name": "Krankion Lamari",
+      "corporation_id": 98769044,
+      "corporation_name": "OnlyFreight.",
+      "alliance_id": 99013400,
+      "alliance_name": "OnlyAlts."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131466685/",
+    "total_value": 11328952268.78,
+    "final_attacker": {
+      "character_name": "zLegion E",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131465858,
+    "killmail_hash": "60cd6615ac7f797f96ce86a6dacaa7849e78b69e",
+    "kill_time": "2025-11-24T09:28:15Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000134,
+    "solar_system_name": "Hykkota",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2114890166,
+      "character_name": "Spiro Makbema",
+      "corporation_id": 98666870,
+      "corporation_name": "Thunder Co",
+      "alliance_id": 99011239,
+      "alliance_name": "Ligma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131465858/",
+    "total_value": 11030570327.23,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
     }
   },
   {
@@ -2206,188 +2336,6 @@
       "character_name": "Amnesty SayGen",
       "corporation_name": "ElitistOps",
       "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131319093,
-    "killmail_hash": "d8d16a92290574e302bd28d5521ea621a4200663",
-    "kill_time": "2025-11-18T19:55:30Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112972412,
-      "character_name": "c-302",
-      "corporation_id": 98553333,
-      "corporation_name": "R Strike",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131319093/",
-    "total_value": 16447586384.2,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131319070,
-    "killmail_hash": "08fa73d9331b0ff43307a737cd8d9c205764165e",
-    "kill_time": "2025-11-18T19:54:19Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113022304,
-      "character_name": "rivanov",
-      "corporation_id": 98553333,
-      "corporation_name": "R Strike",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131319070/",
-    "total_value": 16626450879.01,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131319048,
-    "killmail_hash": "7d07f92447175f594d11a6c2d8a0f10383dec7a4",
-    "kill_time": "2025-11-18T19:53:17Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1156031323,
-      "character_name": "olegez",
-      "corporation_id": 98553333,
-      "corporation_name": "R Strike",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131319048/",
-    "total_value": 9288825339.62,
-    "final_attacker": {
-      "character_name": "Proxey",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131319011,
-    "killmail_hash": "3db018a1068f4422915516a650e7dea0748995ab",
-    "kill_time": "2025-11-18T19:52:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 697675571,
-      "character_name": "Samurai Fruitblow",
-      "corporation_id": 98553333,
-      "corporation_name": "R Strike",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131319011/",
-    "total_value": 9293847012.82,
-    "final_attacker": {
-      "character_name": "Rin sai",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Honkai Star Rail.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131317406,
-    "killmail_hash": "2b43aa36af7911c882c5c1c90b07e1a9133afdd0",
-    "kill_time": "2025-11-18T18:35:32Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 92349890,
-      "character_name": "Sonja Munba",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131317406/",
-    "total_value": 9592059264.66,
-    "final_attacker": {
-      "character_name": "Spodumain Slurper",
-      "corporation_name": "ROID CRACKERS",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131316882,
-    "killmail_hash": "e7311d7c877d6d134eae76789adb9787146f6321",
-    "kill_time": "2025-11-18T18:09:41Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 94292530,
-      "character_name": "Ol' Blue Eyes",
-      "corporation_id": 635210548,
-      "corporation_name": "Fusion Enterprises Ltd",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131316882/",
-    "total_value": 8144848733.9,
-    "final_attacker": {
-      "character_name": "The Keepstar",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 131316717,
-    "killmail_hash": "8de4ad9624ff54226f26fe57d2ca600e621904ba",
-    "kill_time": "2025-11-18T17:59:31Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1412254178,
-      "character_name": "Sarah Stone",
-      "corporation_id": 98014270,
-      "corporation_name": "Algorab Technology",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131316717/",
-    "total_value": 9247431869.58,
-    "final_attacker": {
-      "character_name": "Spodumain Slurper",
-      "corporation_name": "ROID CRACKERS",
-      "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
   }
