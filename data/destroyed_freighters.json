@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131483220,
+    "killmail_hash": "8da39c589235328dfbf76f98cd9647ff1012276d",
+    "kill_time": "2025-11-25T01:33:30Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2119930544,
+      "character_name": "Jacko railey",
+      "corporation_id": 98702127,
+      "corporation_name": "HandelsGilde-De",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131483220/",
+    "total_value": 16338889571.92,
+    "final_attacker": {
+      "character_name": "ChimpChimpChimp",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 131482801,
+    "killmail_hash": "90a976ccc80d0f4b018dcc04cc93df2958466717",
+    "kill_time": "2025-11-25T01:08:59Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123696430,
+      "character_name": "MMLOL",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131482801/",
+    "total_value": 8740344780.49,
+    "final_attacker": {
+      "character_name": "Eddie Van Shipkiller",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131471922,
     "killmail_hash": "83b6b85b9342eef558e15eff993779e8b46ccca6",
     "kill_time": "2025-11-24T16:12:03Z",
@@ -156,6 +208,32 @@
     }
   },
   {
+    "killmail_id": 131461002,
+    "killmail_hash": "5f28194436d8a0f0176ffd5bd8a05fc0a29910f3",
+    "kill_time": "2025-11-24T02:51:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115012952,
+      "character_name": "Scarlett Shihari",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131461002/",
+    "total_value": 8657592705.58,
+    "final_attacker": {
+      "character_name": "Highsec Administration",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131460869,
     "killmail_hash": "499818059063efe04fab938205d526cce68ebc4a",
     "kill_time": "2025-11-24T02:42:15Z",
@@ -257,6 +335,32 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Rapier"
+    }
+  },
+  {
+    "killmail_id": 131452970,
+    "killmail_hash": "abd05881dabf345c3be9d08c81c7e8d1b7c6187d",
+    "kill_time": "2025-11-23T20:14:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91849555,
+      "character_name": "Stu Prime",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131452970/",
+    "total_value": 12724595310.43,
+    "final_attacker": {
+      "character_name": "Police Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2389,58 +2493,6 @@
       "corporation_name": "Phoenix Naval Operations",
       "alliance_name": "Phoenix Naval Systems",
       "ship_type_name": "Nidhoggur"
-    }
-  },
-  {
-    "killmail_id": 131302844,
-    "killmail_hash": "2ee860ae3bd7ce27d926086d9e444fa9078c2e8e",
-    "kill_time": "2025-11-17T23:29:48Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2122833041,
-      "character_name": "ThunderbudE",
-      "corporation_id": 98409330,
-      "corporation_name": "Ascendance",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131302844/",
-    "total_value": 2356557597.88,
-    "final_attacker": {
-      "character_name": "Rowane Adweli",
-      "corporation_name": "Lost Legends",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Crusader"
-    }
-  },
-  {
-    "killmail_id": 131301302,
-    "killmail_hash": "564851bd8e4b3af1ff98149c3fb4271bb59b3295",
-    "kill_time": "2025-11-17T21:44:39Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120916376,
-      "character_name": "Gavahn Rouvenor Sobaseki",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131301302/",
-    "total_value": 8169321266.17,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
     }
   }
 ]
