@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131503952,
+    "killmail_hash": "8129494552d8492ff985b4b8315f47e37d095a4c",
+    "kill_time": "2025-11-25T23:47:11Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123375957,
+      "character_name": "Ratticus Fl33ticus",
+      "corporation_id": 98643148,
+      "corporation_name": "Orion Naval Space Command",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131503952/",
+    "total_value": 12790565820.03,
+    "final_attacker": {
+      "character_name": "TaipanSan",
+      "corporation_name": "You're dunked",
+      "alliance_name": "NullSechnaya Sholupen",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 131503565,
+    "killmail_hash": "0883fac4b64012f375448c81547ff0642b0a7bd4",
+    "kill_time": "2025-11-25T23:18:21Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002538,
+    "solar_system_name": "Vard",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 274643078,
+      "character_name": "Comdoms",
+      "corporation_id": 98733885,
+      "corporation_name": "Ballah Inc.",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131503565/",
+    "total_value": 5040998943.5,
+    "final_attacker": {
+      "character_name": "vulan",
+      "corporation_name": "The Reason is Treason",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131501147,
+    "killmail_hash": "e26eba7c76f309352e3497cb85505f7f4bfe81e0",
+    "kill_time": "2025-11-25T20:58:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 200336330,
+      "character_name": "Trinerty Ott",
+      "corporation_id": 98036397,
+      "corporation_name": "Plan B Anela",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131501147/",
+    "total_value": 3052822245.54,
+    "final_attacker": {
+      "character_name": "2 Of Several",
+      "corporation_name": "Several Bodies One Master",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131498694,
     "killmail_hash": "bb40930a44d9cc790f6af01f4b214f458c4800f1",
     "kill_time": "2025-11-25T19:09:51Z",
@@ -2285,58 +2363,6 @@
       "corporation_name": "Tritanium Industries and Technology",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Raven Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131324904,
-    "killmail_hash": "176d6f6e5e35ae57e202bc299ee56aac7998270c",
-    "kill_time": "2025-11-19T01:33:20Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 31001573,
-    "solar_system_name": "J122934",
-    "region_name": "D-R00019",
-    "victim": {
-      "character_id": 781705064,
-      "character_name": "elua koefski",
-      "corporation_id": 98781856,
-      "corporation_name": "Moon's Holding Group",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131324904/",
-    "total_value": 2114911596.71,
-    "final_attacker": {
-      "character_name": "moontitties",
-      "corporation_name": "Armada of the Divine",
-      "alliance_name": null,
-      "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 131322956,
-    "killmail_hash": "eb28dcb976d99bf39e224c53e06120f90ccc6378",
-    "kill_time": "2025-11-18T23:05:36Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001402,
-    "solar_system_name": "Passari",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1229924312,
-      "character_name": "Renton Thurston001",
-      "corporation_id": 98811446,
-      "corporation_name": "Not A Holding. I Promise",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131322956/",
-    "total_value": 8507443457.25,
-    "final_attacker": {
-      "character_name": "Amnesty SayGen",
-      "corporation_name": "ElitistOps",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
