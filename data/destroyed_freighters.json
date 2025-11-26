@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131512343,
+    "killmail_hash": "4ee54deab92e9c684847946c8b44b8011368c699",
+    "kill_time": "2025-11-26T11:30:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000018,
+    "solar_system_name": "Kazna",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2120492971,
+      "character_name": "miss lei",
+      "corporation_id": 98743810,
+      "corporation_name": "Why So Sager",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131512343/",
+    "total_value": 1804982300.68,
+    "final_attacker": {
+      "character_name": "Shani Lafisques",
+      "corporation_name": "Strictly Moral Support",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131509307,
     "killmail_hash": "d1e97cc749240255f36d00cf5f0a76a2fb0b33b9",
     "kill_time": "2025-11-26T06:18:02Z",
@@ -2441,32 +2467,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131333414,
-    "killmail_hash": "6f4ce641d5118b58f27c3321dbaaca1d128e2ec1",
-    "kill_time": "2025-11-19T12:55:11Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120448696,
-      "character_name": "Express XXX",
-      "corporation_id": 98723262,
-      "corporation_name": "Logistik Trans Corp",
-      "alliance_id": 99013941,
-      "alliance_name": "James Webb Space Telescope"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131333414/",
-    "total_value": 9599875088.25,
-    "final_attacker": {
-      "character_name": "Tyrion Hekki",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
