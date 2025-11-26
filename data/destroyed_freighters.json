@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131509307,
+    "killmail_hash": "d1e97cc749240255f36d00cf5f0a76a2fb0b33b9",
+    "kill_time": "2025-11-26T06:18:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123919353,
+      "character_name": "Korkkimo Mato Panala",
+      "corporation_id": 98815800,
+      "corporation_name": "Mahoken Kion Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131509307/",
+    "total_value": 3744605298.4,
+    "final_attacker": {
+      "character_name": "3 Of Several",
+      "corporation_name": "Several Bodies One Master",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131507788,
+    "killmail_hash": "ac9d08498fd2a1b8e0e665b12c632bb70167384f",
+    "kill_time": "2025-11-26T04:20:25Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 96224645,
+      "character_name": "Seraph Meridia",
+      "corporation_id": 98257556,
+      "corporation_name": "Hoisting Brethren's Guild",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131507788/",
+    "total_value": 10982651833.03,
+    "final_attacker": {
+      "character_name": "0Musky",
+      "corporation_name": "Blackwater USA Inc.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131507784,
+    "killmail_hash": "0827ca2f2fcb9e1a950944574b4437f4d30d377c",
+    "kill_time": "2025-11-26T04:19:55Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95175225,
+      "character_name": "Duke Bacon Cheeseburger",
+      "corporation_id": 98257556,
+      "corporation_name": "Hoisting Brethren's Guild",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131507784/",
+    "total_value": 11727450473.15,
+    "final_attacker": {
+      "character_name": "0Musky",
+      "corporation_name": "Blackwater USA Inc.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131507192,
     "killmail_hash": "9489fc74c1895e6e850b25e8b28c8b63faade0e6",
     "kill_time": "2025-11-26T03:40:26Z",
@@ -2389,58 +2467,6 @@
       "corporation_name": "Nothing Comes To Mind",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131330079,
-    "killmail_hash": "fded2a2c363060a4cf50686285a87f2e3d38f878",
-    "kill_time": "2025-11-19T07:27:53Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000225,
-    "solar_system_name": "H-5GUI",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2112956991,
-      "character_name": "Khendia Raholan",
-      "corporation_id": 98635328,
-      "corporation_name": "Lighthouse Society",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131330079/",
-    "total_value": 8272886638.14,
-    "final_attacker": {
-      "character_name": "Beta Page",
-      "corporation_name": "CastleKickers",
-      "alliance_name": "Rote Kapelle",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131328651,
-    "killmail_hash": "4a2760c4c9aa154d6411dade9d775efb3440cf22",
-    "kill_time": "2025-11-19T04:56:16Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30005139,
-    "solar_system_name": "2-YO2K",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 2119215413,
-      "character_name": "Dr GordonFreeman",
-      "corporation_id": 98462601,
-      "corporation_name": "Rapid Offworld Transport and Exports",
-      "alliance_id": 927292903,
-      "alliance_name": "Rote Kapelle"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131328651/",
-    "total_value": 11368112080.98,
-    "final_attacker": {
-      "character_name": "Dexter Tripod",
-      "corporation_name": "Tritanium Industries and Technology",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Raven Navy Issue"
     }
   }
 ]
