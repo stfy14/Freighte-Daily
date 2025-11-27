@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131526079,
+    "killmail_hash": "ad2344f7feec77b280bd9000529e65e4dbdfea68",
+    "kill_time": "2025-11-27T00:04:39Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123353292,
+      "character_name": "Waysten Windherz",
+      "corporation_id": 98810604,
+      "corporation_name": "Federation of New Eden",
+      "alliance_id": 99013823,
+      "alliance_name": "Cat Scratch Fevers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131526079/",
+    "total_value": 5200769841.74,
+    "final_attacker": {
+      "character_name": "Apolina Bong",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131525791,
+    "killmail_hash": "9bbbd9b06dc5eb0b94048188af4970b4c1a4ee2e",
+    "kill_time": "2025-11-26T23:43:48Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117053199,
+      "character_name": "ProvodD",
+      "corporation_id": 98691843,
+      "corporation_name": "NerfIt",
+      "alliance_id": 1220922756,
+      "alliance_name": "Red Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131525791/",
+    "total_value": 8464223420.36,
+    "final_attacker": {
+      "character_name": "Little Miss Jealous",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 131520343,
     "killmail_hash": "ef49ce212a7d518e2c0c620e2ed7d008a3080c62",
     "kill_time": "2025-11-26T19:02:28Z",
@@ -2389,110 +2441,6 @@
       "corporation_name": "RadioActivia",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Vigilant"
-    }
-  },
-  {
-    "killmail_id": 131347189,
-    "killmail_hash": "14f656b99a3812860899b4d0237abeed9a5bb277",
-    "kill_time": "2025-11-20T01:07:14Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003556,
-    "solar_system_name": "Arton",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 1911510192,
-      "character_name": "Mazer Kemp",
-      "corporation_id": 98748213,
-      "corporation_name": "Capital Direction",
-      "alliance_id": 99013644,
-      "alliance_name": "Blood Donors"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131347189/",
-    "total_value": 16993342503.37,
-    "final_attacker": {
-      "character_name": "shikoneko",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 131344892,
-    "killmail_hash": "9793dcfa819348bed96459f72fb9829d86231cf2",
-    "kill_time": "2025-11-19T22:31:01Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 96904181,
-      "character_name": "Welsh Eos",
-      "corporation_id": 98003272,
-      "corporation_name": "Drama Llamas",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131344892/",
-    "total_value": 8366834583.84,
-    "final_attacker": {
-      "character_name": "zLegion D",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131343473,
-    "killmail_hash": "b3f80ad76535582e5b32f79ae3786dc1d2c76af4",
-    "kill_time": "2025-11-19T21:10:20Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121721488,
-      "character_name": "Persephone's Charlie",
-      "corporation_id": 98730596,
-      "corporation_name": "Mandatory Collateral",
-      "alliance_id": 99000580,
-      "alliance_name": "Ignore This."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131343473/",
-    "total_value": 31483336307.67,
-    "final_attacker": {
-      "character_name": "Spodumain Slurper",
-      "corporation_name": "ROID CRACKERS",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131343010,
-    "killmail_hash": "737cf8f9c9758251c1b405aa95acf031cb7f26ed",
-    "kill_time": "2025-11-19T20:49:31Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002507,
-    "solar_system_name": "Abudban",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2119007413,
-      "character_name": "Ottodan Lebrow",
-      "corporation_id": 98258093,
-      "corporation_name": "Strategic Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131343010/",
-    "total_value": 1995733917.14,
-    "final_attacker": {
-      "character_name": "Koloblicin Rahl",
-      "corporation_name": "The Lazerus Project",
-      "alliance_name": null,
-      "ship_type_name": "Hurricane Fleet Issue"
     }
   }
 ]
