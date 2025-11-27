@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131532547,
+    "killmail_hash": "b3982e8758b937e3e37b5d20cf839c9bf486e8f2",
+    "kill_time": "2025-11-27T08:11:14Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 511821373,
+      "character_name": "Hugh Janus",
+      "corporation_id": 98035936,
+      "corporation_name": "Holy Pilgrims",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131532547/",
+    "total_value": 8660608607.09,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131530837,
+    "killmail_hash": "a07a7dbbce77e28323a98672cbbcf69b599305b3",
+    "kill_time": "2025-11-27T05:36:10Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118089044,
+      "character_name": "Erul Secheh",
+      "corporation_id": 98691098,
+      "corporation_name": "FPM",
+      "alliance_id": 99013867,
+      "alliance_name": "N0 DA'AD"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131530837/",
+    "total_value": 11052585575.11,
+    "final_attacker": {
+      "character_name": "zLegion H",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131529968,
     "killmail_hash": "1d326c009973bba73126d15fb433b54730ce2831",
     "kill_time": "2025-11-27T04:24:43Z",
@@ -2285,188 +2337,6 @@
       "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131352728,
-    "killmail_hash": "eb03c48e4f349dec0e45fa8bc6dd9facbf56faf3",
-    "kill_time": "2025-11-20T08:22:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114851649,
-      "character_name": "Wash Cloth",
-      "corporation_id": 98604928,
-      "corporation_name": "Imafraude",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131352728/",
-    "total_value": 3212198811.67,
-    "final_attacker": {
-      "character_name": "Oskar MOONPIRE",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131352393,
-    "killmail_hash": "0261cd435960c08456d271ea3f7348dc1e188b2b",
-    "kill_time": "2025-11-20T07:58:22Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90451053,
-      "character_name": "Sillandaa",
-      "corporation_id": 126521207,
-      "corporation_name": "Barren Tonberrys",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131352393/",
-    "total_value": 3732920823.82,
-    "final_attacker": {
-      "character_name": "Marcus Algaert",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131352151,
-    "killmail_hash": "0c8bcb821753cf3ab454bd6b55008b246a5a3873",
-    "kill_time": "2025-11-20T07:39:06Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119277439,
-      "character_name": "Varvailen Akiga",
-      "corporation_id": 98530520,
-      "corporation_name": "United Nations Space Exploitation Division",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131352151/",
-    "total_value": 6894987234.85,
-    "final_attacker": {
-      "character_name": "Thabid",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131351894,
-    "killmail_hash": "23a370d0735a97f7fe86d0c8b0760494d7816838",
-    "kill_time": "2025-11-20T07:21:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123346795,
-      "character_name": "Astrocoon",
-      "corporation_id": 98696581,
-      "corporation_name": "Haidamaky",
-      "alliance_id": 99012021,
-      "alliance_name": "UA Fleets"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131351894/",
-    "total_value": 2206394917.99,
-    "final_attacker": {
-      "character_name": "Ferdinand MOONPIRE",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131351650,
-    "killmail_hash": "df55909d607ed9434b2c0d034cb31dcf7d5dc455",
-    "kill_time": "2025-11-20T06:52:03Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 683474944,
-      "character_name": "Alan Bell3",
-      "corporation_id": 98744491,
-      "corporation_name": "URSA PRIMUS",
-      "alliance_id": 99013330,
-      "alliance_name": "URSA."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131351650/",
-    "total_value": 8857368816.8,
-    "final_attacker": {
-      "character_name": "Shanna Alabel",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131351226,
-    "killmail_hash": "9a2f8e22093b4b8efcb3551b71e5e7ca1f8f312a",
-    "kill_time": "2025-11-20T06:08:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92315157,
-      "character_name": "Dranei Salinas",
-      "corporation_id": 98771304,
-      "corporation_name": "Northern Wind Trading Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131351226/",
-    "total_value": 4249312593.05,
-    "final_attacker": {
-      "character_name": "Watchdog-3 MOONPIRE",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131350866,
-    "killmail_hash": "79f90f40d2db79c10263608e7e4ba84bf8146665",
-    "kill_time": "2025-11-20T05:34:14Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91254908,
-      "character_name": "Lanyfer Aledani",
-      "corporation_id": 184505725,
-      "corporation_name": "RedOne Division",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131350866/",
-    "total_value": 8376630332.36,
-    "final_attacker": {
-      "character_name": "Sil3nt Spring",
-      "corporation_name": "Odessa Industries",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
