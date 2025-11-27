@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131543845,
+    "killmail_hash": "62fa6f1f70b1cc401d97e55c64eeb0f17982d475",
+    "kill_time": "2025-11-27T19:52:42Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94416440,
+      "character_name": "Diesel Ahashion",
+      "corporation_id": 98412304,
+      "corporation_name": "7 White Horses",
+      "alliance_id": 99014238,
+      "alliance_name": "Unbound Horizons"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131543845/",
+    "total_value": 12794451025.7,
+    "final_attacker": {
+      "character_name": "Care Park",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Avatar"
+    }
+  },
+  {
+    "killmail_id": 131540705,
+    "killmail_hash": "e4e9b6c6168bbfa06f037a156115e80c4f7d2fed",
+    "kill_time": "2025-11-27T16:49:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122188383,
+      "character_name": "7 Piston Cups",
+      "corporation_id": 98769593,
+      "corporation_name": "Lumbridge Legends",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131540705/",
+    "total_value": 1802451464.28,
+    "final_attacker": {
+      "character_name": "Malakai Hiero",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Revenant"
+    }
+  },
+  {
     "killmail_id": 131540182,
     "killmail_hash": "4890506c5de412b1ae2efcc058ab10f112ed3a07",
     "kill_time": "2025-11-27T16:20:45Z",
@@ -2285,58 +2337,6 @@
       "corporation_name": "The Shire Hit Squad",
       "alliance_name": "Sedition.",
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131364562,
-    "killmail_hash": "a3eb733c2a655be933d4af1681f7cb546a69cc72",
-    "kill_time": "2025-11-20T20:15:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113211318,
-      "character_name": "Baerbel Ozawamai",
-      "corporation_id": 98588201,
-      "corporation_name": "Verge Vendors",
-      "alliance_id": 99010193,
-      "alliance_name": "Ivy League Alt Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131364562/",
-    "total_value": 5060838631.85,
-    "final_attacker": {
-      "character_name": "Chess2023",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131362544,
-    "killmail_hash": "7fe5116f1a575eeaf4fc92ae06ab0223ef2136b1",
-    "kill_time": "2025-11-20T18:41:18Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004421,
-    "solar_system_name": "K-X5AX",
-    "region_name": "Feythabolis",
-    "victim": {
-      "character_id": 95557335,
-      "character_name": "Oria Pozzolo",
-      "corporation_id": 98648361,
-      "corporation_name": "Deadspace Excavations",
-      "alliance_id": 99011162,
-      "alliance_name": "Shadow Ultimatum"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131362544/",
-    "total_value": 1832068333.13,
-    "final_attacker": {
-      "character_name": "Orlangure",
-      "corporation_name": "Red's Swashbucklers Corp",
-      "alliance_name": "U N K N O W N",
-      "ship_type_name": "Heretic"
     }
   }
 ]
