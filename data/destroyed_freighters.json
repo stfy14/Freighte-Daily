@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131593784,
+    "killmail_hash": "79c35c36517b3a17e77af3bf119d2ac7141e5e8f",
+    "kill_time": "2025-11-29T19:56:40Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30045308,
+    "solar_system_name": "Kehjari",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 501031188,
+      "character_name": "boxulica",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131593784/",
+    "total_value": 5692366150.06,
+    "final_attacker": {
+      "character_name": "Spodumain Slurper",
+      "corporation_name": "ROID CRACKERS",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131593115,
+    "killmail_hash": "8ded27dd34666042948ceaebcfa10b472fd4aa65",
+    "kill_time": "2025-11-29T19:31:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 96216365,
+      "character_name": "MajorDan Makbema",
+      "corporation_id": 98592122,
+      "corporation_name": "Ascent Corporation Inc.",
+      "alliance_id": 99010077,
+      "alliance_name": "Wielders"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131593115/",
+    "total_value": 3290174805.45,
+    "final_attacker": {
+      "character_name": "DuctTape Diplomat",
+      "corporation_name": "DemonicAncestory.",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Megathron"
+    }
+  },
+  {
+    "killmail_id": 131593094,
+    "killmail_hash": "b611f4abb4c9b65d15bafce36ce1d4e14a1efe3c",
+    "kill_time": "2025-11-29T19:29:54Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003559,
+    "solar_system_name": "Mamet",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 96331068,
+      "character_name": "Raze Shadows Shadows",
+      "corporation_id": 98169165,
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131593094/",
+    "total_value": 2490289729.75,
+    "final_attacker": {
+      "character_name": "BayE doubleE",
+      "corporation_name": "HAMMER of TITAN",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Phoenix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 131588010,
     "killmail_hash": "46375ed0b928f0ce185f25ab6c87536569391057",
     "kill_time": "2025-11-29T16:00:35Z",
