@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131572505,
+    "killmail_hash": "73164fbb2b9c0dade75d2cab6cbeb0bc1487f686",
+    "kill_time": "2025-11-29T01:53:32Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002756,
+    "solar_system_name": "Ishomilken",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120448696,
+      "character_name": "Express XXX",
+      "corporation_id": 98723262,
+      "corporation_name": "Logistik Trans Corp",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131572505/",
+    "total_value": 8741006090.2,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131571482,
+    "killmail_hash": "67db944fb2db16d52bace836f4d415c4b811285b",
+    "kill_time": "2025-11-29T00:49:17Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2116852588,
+      "character_name": "RawData Thorium",
+      "corporation_id": 98815271,
+      "corporation_name": "Bee2Bee21",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131571482/",
+    "total_value": 3721595926.03,
+    "final_attacker": {
+      "character_name": "urns",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 131564113,
     "killmail_hash": "1ca352a0c1dca3345027fdbba59cda3bbb773a9a",
     "kill_time": "2025-11-28T19:12:45Z",
@@ -2284,84 +2336,6 @@
       "character_name": "Hyicoon",
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131392551,
-    "killmail_hash": "c275f4add67521e176791cfaba8534203020a1f6",
-    "kill_time": "2025-11-21T23:13:41Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 95962128,
-      "character_name": "Dem'lock",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131392551/",
-    "total_value": 13828399625.52,
-    "final_attacker": {
-      "character_name": "Orin Oriki",
-      "corporation_name": "State War Academy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131392375,
-    "killmail_hash": "e0b8f661df2e567e550fc282aa90bafa8f78d34a",
-    "kill_time": "2025-11-21T23:03:10Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002538,
-    "solar_system_name": "Vard",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 93415978,
-      "character_name": "W Tungsten",
-      "corporation_id": 98780683,
-      "corporation_name": "Tungsten Corporation",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131392375/",
-    "total_value": 8756719884.64,
-    "final_attacker": {
-      "character_name": "Chtonic Algaert",
-      "corporation_name": "The Terrifying League Of Dog Fort",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131391009,
-    "killmail_hash": "e6fad6bf1c063695c7a348a59c467da0b94e64f7",
-    "kill_time": "2025-11-21T22:04:51Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 108516468,
-      "character_name": "LitleHelper",
-      "corporation_id": 98177708,
-      "corporation_name": "Space Wolves ind.",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131391009/",
-    "total_value": 8856746609.55,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
     }
   }
