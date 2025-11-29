@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131581913,
+    "killmail_hash": "295b30e508fe7a6359ab1535204962c9c09ca2bd",
+    "kill_time": "2025-11-29T12:15:46Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2116963000,
+      "character_name": "aziiz plot",
+      "corporation_id": 98742598,
+      "corporation_name": "Winter Forge Syndicate",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131581913/",
+    "total_value": 8798998760.64,
+    "final_attacker": {
+      "character_name": "Elena Stormbringer",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
+    "killmail_id": 131581798,
+    "killmail_hash": "767b4ca8a910ed3ba3e8f72a818c6dc22a41181f",
+    "kill_time": "2025-11-29T12:11:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112184545,
+      "character_name": "Henry Morgenthau",
+      "corporation_id": 98380823,
+      "corporation_name": "Upwingers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131581798/",
+    "total_value": 4557730801.78,
+    "final_attacker": {
+      "character_name": "zLegion L",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131581121,
+    "killmail_hash": "fe4d234e6f76d6ff2c9a4b2bb2791895bd3e5583",
+    "kill_time": "2025-11-29T11:31:04Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123868626,
+      "character_name": "ACRG1",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131581121/",
+    "total_value": 2694275674.14,
+    "final_attacker": {
+      "character_name": "Prime Admiral",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131578203,
     "killmail_hash": "f7be5966a4fbf9441e169b5d9fd199ba72e44500",
     "kill_time": "2025-11-29T07:52:13Z",
@@ -20,6 +98,58 @@
     "total_value": 7548433169.41,
     "final_attacker": {
       "character_name": "zLegion O",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131577714,
+    "killmail_hash": "0c9fe20a754167a6834457ed3960fe1bdc95f22a",
+    "kill_time": "2025-11-29T07:22:01Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91609134,
+      "character_name": "Angelar Porthar",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131577714/",
+    "total_value": 7274313969,
+    "final_attacker": {
+      "character_name": "zLegion G",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131577467,
+    "killmail_hash": "77a82218af88648b06fd1d5228b6952aa5d6b24c",
+    "kill_time": "2025-11-29T07:04:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114390840,
+      "character_name": "Anna Clue",
+      "corporation_id": 98592994,
+      "corporation_name": "Derelik Planetary Production",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131577467/",
+    "total_value": 1940755009.72,
+    "final_attacker": {
+      "character_name": "zLegion K",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -49,6 +179,32 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131575998,
+    "killmail_hash": "1d5c44015d837a8964e6c4cc1ffecdb82abeb37a",
+    "kill_time": "2025-11-29T05:22:39Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123868631,
+      "character_name": "ACRG2",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131575998/",
+    "total_value": 3506358186.05,
+    "final_attacker": {
+      "character_name": "zLegion P",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2181,110 +2337,6 @@
       "corporation_name": "Boomer Humor",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131406274,
-    "killmail_hash": "ebb326083b927b1b6e6a1ac1b87be485640250d0",
-    "kill_time": "2025-11-22T12:34:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94462854,
-      "character_name": "Kalder Okanata",
-      "corporation_id": 98274950,
-      "corporation_name": "Altruism United",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131406274/",
-    "total_value": 2413323419.71,
-    "final_attacker": {
-      "character_name": "besh0808",
-      "corporation_name": "Infinity Avenger",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Nightmare"
-    }
-  },
-  {
-    "killmail_id": 131406205,
-    "killmail_hash": "832d230f6a1b0165c2eb9cdb5cf0989d6f354a05",
-    "kill_time": "2025-11-22T12:32:09Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113070133,
-      "character_name": "Gerdana SnowELF",
-      "corporation_id": 98151463,
-      "corporation_name": "Slowcats",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131406205/",
-    "total_value": 37856491285.74,
-    "final_attacker": {
-      "character_name": "Minur",
-      "corporation_name": "Empire Pirates",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131403663,
-    "killmail_hash": "6a817ade36765693fd28e10290ea423cc5670530",
-    "kill_time": "2025-11-22T09:41:29Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116811526,
-      "character_name": "Monney Ray",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131403663/",
-    "total_value": 3059850981.7,
-    "final_attacker": {
-      "character_name": "MOONPIREs KGB Agent-9",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131402772,
-    "killmail_hash": "d9fd5bb0ea63c2350e2a1ffccda83eb54a1529df",
-    "kill_time": "2025-11-22T08:49:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121741198,
-      "character_name": "Corynn Noud",
-      "corporation_id": 98753668,
-      "corporation_name": "Panala Family Foundation Holdings",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131402772/",
-    "total_value": 4906887710.7,
-    "final_attacker": {
-      "character_name": "Dreadnought Alyssa",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
