@@ -52,6 +52,32 @@
     }
   },
   {
+    "killmail_id": 131611317,
+    "killmail_hash": "44626f95afc6d0396646b480909d73753aad7197",
+    "kill_time": "2025-11-30T11:33:40Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120443695,
+      "character_name": "Captain Waterbello",
+      "corporation_id": 98818184,
+      "corporation_name": "FreightLine",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131611317/",
+    "total_value": 7362691603.68,
+    "final_attacker": {
+      "character_name": "Apo Kitty",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131611012,
     "killmail_hash": "2d35f75420f2c7804a23294b03aa1e5b43f9aa49",
     "kill_time": "2025-11-30T10:58:38Z",
@@ -2727,110 +2753,6 @@
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 131445401,
-    "killmail_hash": "c72228d58ca486e130942f1e3b604ca1cf8ed82c",
-    "kill_time": "2025-11-23T15:51:53Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004888,
-    "solar_system_name": "ZJG-7D",
-    "region_name": "Omist",
-    "victim": {
-      "character_id": 2118192078,
-      "character_name": "Kwist",
-      "corporation_id": 98770944,
-      "corporation_name": "Galactic Pet Trading",
-      "alliance_id": 99010735,
-      "alliance_name": "SL0W CHILDREN AT PLAY"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131445401/",
-    "total_value": 1813737252.39,
-    "final_attacker": {
-      "character_name": "Vladmir Okaski",
-      "corporation_name": "Shadow Legion X",
-      "alliance_name": "Seriously Suspicious",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 131445191,
-    "killmail_hash": "3918ca8c4439a4b52f38d6dd12e50d3535fe8939",
-    "kill_time": "2025-11-23T15:46:40Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002236,
-    "solar_system_name": "Milal",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2116745962,
-      "character_name": "Ron Ferenginal",
-      "corporation_id": 98777564,
-      "corporation_name": "Parabellum Industrial Syndicate",
-      "alliance_id": 99012908,
-      "alliance_name": "Seker Academy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131445191/",
-    "total_value": 5830641093.3,
-    "final_attacker": {
-      "character_name": "IQTrader",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Megathron Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131443616,
-    "killmail_hash": "281a8062696a78c1a10115ee82fae8880c4a72cb",
-    "kill_time": "2025-11-23T14:46:48Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004847,
-    "solar_system_name": "WE-KK2",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 96048386,
-      "character_name": "Kirk Avelar",
-      "corporation_id": 98651213,
-      "corporation_name": "PulaLeeroy Br",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131443616/",
-    "total_value": 8563526013.35,
-    "final_attacker": {
-      "character_name": "Parov Stelar",
-      "corporation_name": "Out of Focus",
-      "alliance_name": "Odin's Call",
-      "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 131440150,
-    "killmail_hash": "75b852abf603118cbe4baff5d9185fcff44185c1",
-    "kill_time": "2025-11-23T12:55:35Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123721938,
-      "character_name": "Jaren Vox",
-      "corporation_id": 98388312,
-      "corporation_name": "Pandemic Horde Inc.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131440150/",
-    "total_value": 2214262789.36,
-    "final_attacker": {
-      "character_name": "Zorg Emperor",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Legion"
     }
   }
 ]
