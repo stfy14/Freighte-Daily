@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131604691,
+    "killmail_hash": "f757c5958e2cde173b4c6220524916e0fb3de1f0",
+    "kill_time": "2025-11-30T04:34:25Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1463910196,
+      "character_name": "boris69",
+      "corporation_id": 98819457,
+      "corporation_name": "Deadlock industrial",
+      "alliance_id": 99014360,
+      "alliance_name": "Khanid Industrial Coalition"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131604691/",
+    "total_value": 3381614049.72,
+    "final_attacker": {
+      "character_name": "EF Alpha",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Ashimmu"
+    }
+  },
+  {
     "killmail_id": 131599370,
     "killmail_hash": "9882580e0f92f903b442d1b7607a2fb1dd5ca163",
     "kill_time": "2025-11-29T23:19:11Z",
@@ -2545,32 +2571,6 @@
       "corporation_name": "Sons of Seyllin",
       "alliance_name": "Sedition.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131428794,
-    "killmail_hash": "9f61684f6b7ed1336f41a3e0e29d921bfc4668c8",
-    "kill_time": "2025-11-23T02:28:29Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003522,
-    "solar_system_name": "Sarum Prime",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2117518049,
-      "character_name": "Michael Marsh",
-      "corporation_id": 98744491,
-      "corporation_name": "URSA PRIMUS",
-      "alliance_id": 99013330,
-      "alliance_name": "URSA."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131428794/",
-    "total_value": 2362174857.97,
-    "final_attacker": {
-      "character_name": "Al Reshala",
-      "corporation_name": "Order of Atomic Flame",
-      "alliance_name": "Hull Tanking Therapy",
-      "ship_type_name": "Ikitursa"
     }
   }
 ]
