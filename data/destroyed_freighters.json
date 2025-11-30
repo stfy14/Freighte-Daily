@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 131612494,
+    "killmail_hash": "7e2ad1aa010d297fd8fc9f8321b12a267f1c5cf2",
+    "kill_time": "2025-11-30T12:29:42Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2113943982,
+      "character_name": "Nova Star Orion",
+      "corporation_id": 98403734,
+      "corporation_name": "Subsidy H.R.S.",
+      "alliance_id": 99009885,
+      "alliance_name": "Xagenic Freymvork"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131612494/",
+    "total_value": 11927833622.28,
+    "final_attacker": {
+      "character_name": "Donny Chen",
+      "corporation_name": "Silver Fog Dragon Ride",
+      "alliance_name": "Dragon Riders Legion",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 131611713,
+    "killmail_hash": "d40e1d9f711c397ee0e41b9be09aa9d0175f6754",
+    "kill_time": "2025-11-30T11:53:21Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96789218,
+      "character_name": "Demis T",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131611713/",
+    "total_value": 2852815837.96,
+    "final_attacker": {
+      "character_name": "Elena Stormbringer",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 131611012,
+    "killmail_hash": "2d35f75420f2c7804a23294b03aa1e5b43f9aa49",
+    "kill_time": "2025-11-30T10:58:38Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112184636,
+      "character_name": "3eMeJIbKa Fonulique",
+      "corporation_id": 98516157,
+      "corporation_name": "Cepn u MoJIoT",
+      "alliance_id": 99014264,
+      "alliance_name": "Vocate Draconis"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131611012/",
+    "total_value": 7736061167.69,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131609546,
+    "killmail_hash": "7e7c8b199ebf4e276348300e10209bb3897c431e",
+    "kill_time": "2025-11-30T09:25:13Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112760310,
+      "character_name": "Trading Mogul",
+      "corporation_id": 98717260,
+      "corporation_name": "Shiny Drakes",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131609546/",
+    "total_value": 11799319187.94,
+    "final_attacker": {
+      "character_name": "zLegion M",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131609401,
+    "killmail_hash": "01d28514b26f555cec691f17b415b2b5577905f1",
+    "kill_time": "2025-11-30T09:15:22Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2115439961,
+      "character_name": "Katnisss Everdeens",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131609401/",
+    "total_value": 4243463368.49,
+    "final_attacker": {
+      "character_name": "besh0808",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131608186,
     "killmail_hash": "3d45c545b8b03bac5d5bf79604df8aa943050e80",
     "kill_time": "2025-11-30T07:46:46Z",
@@ -2701,32 +2831,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Legion"
-    }
-  },
-  {
-    "killmail_id": 131437134,
-    "killmail_hash": "e2e810ebcfee931e819a25af24e42db31bb7b324",
-    "kill_time": "2025-11-23T10:07:52Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2116042314,
-      "character_name": "Gretty Trade",
-      "corporation_id": 98647784,
-      "corporation_name": "Sons of Shakuras",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131437134/",
-    "total_value": 18138886818.46,
-    "final_attacker": {
-      "character_name": "zLegion G",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
