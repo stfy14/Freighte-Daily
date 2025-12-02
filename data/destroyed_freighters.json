@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131649347,
+    "killmail_hash": "026c5b1b8fa9f2349768116b9f716b87c304190f",
+    "kill_time": "2025-12-01T22:41:09Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000169,
+    "solar_system_name": "Ihakana",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1068473679,
+      "character_name": "Warriors Love",
+      "corporation_id": 98192274,
+      "corporation_name": "Fury and Love",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131649347/",
+    "total_value": 8827469354.48,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131638479,
     "killmail_hash": "2e41a9a92439f3ec4bc2491123ec7cbfafcf2a04",
     "kill_time": "2025-12-01T13:04:37Z",
@@ -2909,58 +2935,6 @@
       "corporation_name": "Nothing Comes To Mind",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 131483220,
-    "killmail_hash": "8da39c589235328dfbf76f98cd9647ff1012276d",
-    "kill_time": "2025-11-25T01:33:30Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119930544,
-      "character_name": "Jacko railey",
-      "corporation_id": 98702127,
-      "corporation_name": "HandelsGilde-De",
-      "alliance_id": 99010389,
-      "alliance_name": "Outsmarted"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131483220/",
-    "total_value": 16338889571.92,
-    "final_attacker": {
-      "character_name": "ChimpChimpChimp",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 131482801,
-    "killmail_hash": "90a976ccc80d0f4b018dcc04cc93df2958466717",
-    "kill_time": "2025-11-25T01:08:59Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123696430,
-      "character_name": "MMLOL",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131482801/",
-    "total_value": 8740344780.49,
-    "final_attacker": {
-      "character_name": "Eddie Van Shipkiller",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
