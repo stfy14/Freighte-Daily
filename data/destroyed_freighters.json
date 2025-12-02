@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131665635,
+    "killmail_hash": "fdffab26f68cca49ca2b22cfa0f5b0f8ec1e19f4",
+    "kill_time": "2025-12-02T18:56:40Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000199,
+    "solar_system_name": "Fuskunen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123429234,
+      "character_name": "yaouyy",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131665635/",
+    "total_value": 9211404238.38,
+    "final_attacker": {
+      "character_name": "Dirtyjoe",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131665187,
+    "killmail_hash": "84faa1513c2b6bdb63bce11df764c7645fd5b928",
+    "kill_time": "2025-12-02T18:32:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2112836308,
+      "character_name": "Vam Kaput",
+      "corporation_id": 98529223,
+      "corporation_name": "Xpen - da - Xren krugom",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131665187/",
+    "total_value": 2019515561.79,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131661658,
     "killmail_hash": "fd906ebb3a658274d7e5d5fb8ea5d87d55ae1e20",
     "kill_time": "2025-12-02T15:05:20Z",
@@ -2883,84 +2935,6 @@
       "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131498694,
-    "killmail_hash": "bb40930a44d9cc790f6af01f4b214f458c4800f1",
-    "kill_time": "2025-11-25T19:09:51Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1429645534,
-      "character_name": "GoldenNeuron",
-      "corporation_id": 98532842,
-      "corporation_name": "Golden Astral Sciences",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131498694/",
-    "total_value": 3923680253.64,
-    "final_attacker": {
-      "character_name": "Bolzano META",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131497670,
-    "killmail_hash": "5b4db94b8735648c7e778940fcbb816116b98439",
-    "kill_time": "2025-11-25T18:30:22Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003570,
-    "solar_system_name": "Elore",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 94102278,
-      "character_name": "Madlen Amatin",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131497670/",
-    "total_value": 2371886695.34,
-    "final_attacker": {
-      "character_name": "Bitlex",
-      "corporation_name": "Harmonist",
-      "alliance_name": "Parallaxis Alliance",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131495614,
-    "killmail_hash": "8e3dc718b00042289de8841344250f38988b96b8",
-    "kill_time": "2025-11-25T16:39:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000186,
-    "solar_system_name": "Oijanen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96581031,
-      "character_name": "Rorin Crenshinabon",
-      "corporation_id": 98523242,
-      "corporation_name": "Tits Express",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131495614/",
-    "total_value": 2015642787.55,
-    "final_attacker": {
-      "character_name": "Thanatos Fumimasa",
-      "corporation_name": "ScumLord Excavation and Evisceration",
-      "alliance_name": "Scumlords",
-      "ship_type_name": "Purifier"
     }
   }
 ]
