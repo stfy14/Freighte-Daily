@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131679562,
+    "killmail_hash": "df9bb5ffccefdbbe3001aa284f21553de25b5299",
+    "kill_time": "2025-12-03T11:56:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 91384103,
+      "character_name": "Roki Mileghere",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131679562/",
+    "total_value": 5955640158.51,
+    "final_attacker": {
+      "character_name": "Lobely Bamby",
+      "corporation_name": "Tactical Raki",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 131676547,
     "killmail_hash": "cd05a26bc6d1aa548102f3774e572b943e3ed385",
     "kill_time": "2025-12-03T07:03:08Z",
@@ -930,6 +956,32 @@
     "total_value": 5144338811.85,
     "final_attacker": {
       "character_name": "Traffic stop",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131617957,
+    "killmail_hash": "d6f8d51bbd57a918b696e642ff445ae298ffe321",
+    "kill_time": "2025-11-30T16:03:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118164952,
+      "character_name": "chrisn888",
+      "corporation_id": 98734604,
+      "corporation_name": "higHtoGIesuaceB",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131617957/",
+    "total_value": 5919826846.22,
+    "final_attacker": {
+      "character_name": "Uedama Admin",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -2778,32 +2830,6 @@
       "character_name": "Herbiderpi",
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131512343,
-    "killmail_hash": "4ee54deab92e9c684847946c8b44b8011368c699",
-    "kill_time": "2025-11-26T11:30:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000018,
-    "solar_system_name": "Kazna",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2120492971,
-      "character_name": "miss lei",
-      "corporation_id": 98743810,
-      "corporation_name": "Why So Sager",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131512343/",
-    "total_value": 1804982300.68,
-    "final_attacker": {
-      "character_name": "Shani Lafisques",
-      "corporation_name": "Strictly Moral Support",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Redeemer"
     }
   }
