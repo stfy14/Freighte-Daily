@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131670574,
+    "killmail_hash": "1a32d9aec81084885a5cd3ccc83b60c94a99bc59",
+    "kill_time": "2025-12-02T23:06:04Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2121142742,
+      "character_name": "Ark Bishop IV",
+      "corporation_id": 98749774,
+      "corporation_name": "The Bishops Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131670574/",
+    "total_value": 11953657073.39,
+    "final_attacker": {
+      "character_name": "Wiscussy",
+      "corporation_name": "BlackCore Tactics",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 131669568,
+    "killmail_hash": "39ead5be9755304012732fa6ccdb2851b4e49279",
+    "kill_time": "2025-12-02T22:07:00Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91308883,
+      "character_name": "Sleipnir Mor",
+      "corporation_id": 1000171,
+      "corporation_name": "Republic University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131669568/",
+    "total_value": 1930755242.53,
+    "final_attacker": {
+      "character_name": "Daraid Trilnos",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 131665635,
     "killmail_hash": "fdffab26f68cca49ca2b22cfa0f5b0f8ec1e19f4",
     "kill_time": "2025-12-02T18:56:40Z",
@@ -2854,84 +2906,6 @@
     "total_value": 2580197167.42,
     "final_attacker": {
       "character_name": "5 Of Several",
-      "corporation_name": "Several Bodies One Master",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131503952,
-    "killmail_hash": "8129494552d8492ff985b4b8315f47e37d095a4c",
-    "kill_time": "2025-11-25T23:47:11Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123375957,
-      "character_name": "Ratticus Fl33ticus",
-      "corporation_id": 98643148,
-      "corporation_name": "Orion Naval Space Command",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131503952/",
-    "total_value": 12790565820.03,
-    "final_attacker": {
-      "character_name": "TaipanSan",
-      "corporation_name": "You're dunked",
-      "alliance_name": "NullSechnaya Sholupen",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131503565,
-    "killmail_hash": "0883fac4b64012f375448c81547ff0642b0a7bd4",
-    "kill_time": "2025-11-25T23:18:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002538,
-    "solar_system_name": "Vard",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 274643078,
-      "character_name": "Comdoms",
-      "corporation_id": 98733885,
-      "corporation_name": "Ballah Inc.",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131503565/",
-    "total_value": 5040998943.5,
-    "final_attacker": {
-      "character_name": "vulan",
-      "corporation_name": "The Reason is Treason",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131501147,
-    "killmail_hash": "e26eba7c76f309352e3497cb85505f7f4bfe81e0",
-    "kill_time": "2025-11-25T20:58:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 200336330,
-      "character_name": "Trinerty Ott",
-      "corporation_id": 98036397,
-      "corporation_name": "Plan B Anela",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131501147/",
-    "total_value": 3052822245.54,
-    "final_attacker": {
-      "character_name": "2 Of Several",
       "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Talos"
