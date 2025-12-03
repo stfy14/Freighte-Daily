@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131676547,
+    "killmail_hash": "cd05a26bc6d1aa548102f3774e572b943e3ed385",
+    "kill_time": "2025-12-03T07:03:08Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 96626560,
+      "character_name": "mimi chu",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131676547/",
+    "total_value": 4586159333.28,
+    "final_attacker": {
+      "character_name": "Lima Lamor",
+      "corporation_name": "OTEX Special Forces",
+      "alliance_name": "Insidious.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 131674581,
     "killmail_hash": "a4fb8b470296ec84411468f2feffad849d651605",
     "kill_time": "2025-12-03T04:12:41Z",
@@ -2779,32 +2805,6 @@
       "corporation_name": "Strictly Moral Support",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131509307,
-    "killmail_hash": "d1e97cc749240255f36d00cf5f0a76a2fb0b33b9",
-    "kill_time": "2025-11-26T06:18:02Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123919353,
-      "character_name": "Korkkimo Mato Panala",
-      "corporation_id": 98815800,
-      "corporation_name": "Mahoken Kion Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131509307/",
-    "total_value": 3744605298.4,
-    "final_attacker": {
-      "character_name": "3 Of Several",
-      "corporation_name": "Several Bodies One Master",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
