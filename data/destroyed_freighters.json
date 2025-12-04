@@ -2806,57 +2806,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Revenant"
     }
-  },
-  {
-    "killmail_id": 131540182,
-    "killmail_hash": "4890506c5de412b1ae2efcc058ab10f112ed3a07",
-    "kill_time": "2025-11-27T16:20:45Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004629,
-    "solar_system_name": "9D6O-M",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 2122020021,
-      "character_name": "Iesasvas Kake Hakoke",
-      "corporation_id": 98760719,
-      "corporation_name": "The Bannermen",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131540182/",
-    "total_value": 2008768369.71,
-    "final_attacker": {
-      "character_name": "Z Shirley",
-      "corporation_name": "Fox of Resistance",
-      "alliance_name": "Northern Coalition.",
-      "ship_type_name": "Retribution"
-    }
-  },
-  {
-    "killmail_id": 131539082,
-    "killmail_hash": "42bf1c7a1e4a43d6c7b08c489a716aca1aa2a2e7",
-    "kill_time": "2025-11-27T15:22:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92831227,
-      "character_name": "Popocess",
-      "corporation_id": 1000009,
-      "corporation_name": "Caldari Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131539082/",
-    "total_value": 2143853114.67,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
   }
 ]
