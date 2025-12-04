@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131692610,
+    "killmail_hash": "327a687343d78c5208b9fa6eefef080753212cea",
+    "kill_time": "2025-12-04T00:12:00Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002320,
+    "solar_system_name": "F9-FUV",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 1053632266,
+      "character_name": "crysttall",
+      "corporation_id": 98637558,
+      "corporation_name": "Slow Chidlren at Play",
+      "alliance_id": 99010735,
+      "alliance_name": "SL0W CHILDREN AT PLAY"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131692610/",
+    "total_value": 10210352807.14,
+    "final_attacker": {
+      "character_name": "Bitches Love Cannons",
+      "corporation_name": "Puppygirls Anonymous",
+      "alliance_name": "Anti Krab Coalition",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131688584,
     "killmail_hash": "1bd94b43a2be4c35c2982976365bed09bc36b024",
     "kill_time": "2025-12-03T20:09:30Z",
@@ -2909,58 +2935,6 @@
       "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131526079,
-    "killmail_hash": "ad2344f7feec77b280bd9000529e65e4dbdfea68",
-    "kill_time": "2025-11-27T00:04:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123353292,
-      "character_name": "Waysten Windherz",
-      "corporation_id": 98810604,
-      "corporation_name": "Federation of New Eden",
-      "alliance_id": 99013823,
-      "alliance_name": "Cat Scratch Fevers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131526079/",
-    "total_value": 5200769841.74,
-    "final_attacker": {
-      "character_name": "Apolina Bong",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131525791,
-    "killmail_hash": "9bbbd9b06dc5eb0b94048188af4970b4c1a4ee2e",
-    "kill_time": "2025-11-26T23:43:48Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117053199,
-      "character_name": "ProvodD",
-      "corporation_id": 98691843,
-      "corporation_name": "NerfIt",
-      "alliance_id": 1220922756,
-      "alliance_name": "Red Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131525791/",
-    "total_value": 8464223420.36,
-    "final_attacker": {
-      "character_name": "Little Miss Jealous",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Oracle"
     }
   }
 ]
