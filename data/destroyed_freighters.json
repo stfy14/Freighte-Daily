@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131696006,
+    "killmail_hash": "53185e26d2362aaf3a547e2eef007b89b9a58bc6",
+    "kill_time": "2025-12-04T04:48:42Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 92887913,
+      "character_name": "Rasputinas",
+      "corporation_id": 98446773,
+      "corporation_name": "Hired Pawns",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131696006/",
+    "total_value": 3761828759.43,
+    "final_attacker": {
+      "character_name": "Tango Tuorkaya",
+      "corporation_name": "OTEX Special Forces",
+      "alliance_name": "Insidious.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 131692610,
     "killmail_hash": "327a687343d78c5208b9fa6eefef080753212cea",
     "kill_time": "2025-12-04T00:12:00Z",
@@ -2805,84 +2831,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131532547,
-    "killmail_hash": "b3982e8758b937e3e37b5d20cf839c9bf486e8f2",
-    "kill_time": "2025-11-27T08:11:14Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 511821373,
-      "character_name": "Hugh Janus",
-      "corporation_id": 98035936,
-      "corporation_name": "Holy Pilgrims",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131532547/",
-    "total_value": 8660608607.09,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131532197,
-    "killmail_hash": "d6ae2530dd18fa73498e1c1bf27cd169540bf9b5",
-    "kill_time": "2025-11-27T07:36:06Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123111994,
-      "character_name": "Elalina",
-      "corporation_id": 98798170,
-      "corporation_name": "Melian-Luthien Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131532197/",
-    "total_value": 3250729905.57,
-    "final_attacker": {
-      "character_name": "zLegion F",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131530837,
-    "killmail_hash": "a07a7dbbce77e28323a98672cbbcf69b599305b3",
-    "kill_time": "2025-11-27T05:36:10Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2118089044,
-      "character_name": "Erul Secheh",
-      "corporation_id": 98691098,
-      "corporation_name": "FPM",
-      "alliance_id": 99013867,
-      "alliance_name": "N0 DA'AD"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131530837/",
-    "total_value": 11052585575.11,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
