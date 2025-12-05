@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131728445,
+    "killmail_hash": "bc391a34ffcfef7887f170de18c68fc564a825bb",
+    "kill_time": "2025-12-05T20:08:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123614827,
+      "character_name": "Itet Askold",
+      "corporation_id": 98737183,
+      "corporation_name": "Pirates Heart's",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131728445/",
+    "total_value": 2454217444.68,
+    "final_attacker": {
+      "character_name": "Lacey Moonpire",
+      "corporation_name": "K1LL-B1LL",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131725380,
+    "killmail_hash": "b78047ba0e9fb3907256490eeb225b7b11280203",
+    "kill_time": "2025-12-05T17:53:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121667607,
+      "character_name": "Knut Knoedel",
+      "corporation_id": 98701057,
+      "corporation_name": "Germanenorden",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131725380/",
+    "total_value": 2928623008.9,
+    "final_attacker": {
+      "character_name": "Jane MoneyBender",
+      "corporation_name": "Die Betrunkene Auster",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131720723,
     "killmail_hash": "c306c18cdec2b2db1ceb950f489b029f4de88862",
     "kill_time": "2025-12-05T13:35:00Z",
@@ -2857,110 +2909,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 131564113,
-    "killmail_hash": "1ca352a0c1dca3345027fdbba59cda3bbb773a9a",
-    "kill_time": "2025-11-28T19:12:45Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122741715,
-      "character_name": "spren68",
-      "corporation_id": 98735054,
-      "corporation_name": "Fatui",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131564113/",
-    "total_value": 8634337048.39,
-    "final_attacker": {
-      "character_name": "Dankeguy",
-      "corporation_name": "Africanized Enraged HIV Wasps",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131564088,
-    "killmail_hash": "07bb940701a7d6dcd5df1cb9da0c71658cd5237b",
-    "kill_time": "2025-11-28T19:12:11Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122003273,
-      "character_name": "Spren67",
-      "corporation_id": 98735054,
-      "corporation_name": "Fatui",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131564088/",
-    "total_value": 8610129187.15,
-    "final_attacker": {
-      "character_name": "Twizted3",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131563367,
-    "killmail_hash": "4291cba2881b556373c7c37fe9b95cccda8ea67f",
-    "kill_time": "2025-11-28T18:35:26Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114372566,
-      "character_name": "Viandon Verthieu",
-      "corporation_id": 98734575,
-      "corporation_name": "Wat Errug",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131563367/",
-    "total_value": 14815699142.16,
-    "final_attacker": {
-      "character_name": "Loredana Cameron",
-      "corporation_name": "Hoover Inc.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131561834,
-    "killmail_hash": "545b72dc0ef77f894094ff7b14d955b154c89170",
-    "kill_time": "2025-11-28T17:18:32Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116595305,
-      "character_name": "Uwes Frachter",
-      "corporation_id": 98681150,
-      "corporation_name": "INTERNATIONAL MINING CORP",
-      "alliance_id": 99009757,
-      "alliance_name": "Mutual Attraction"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131561834/",
-    "total_value": 7808737928.77,
-    "final_attacker": {
-      "character_name": "Takao META",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
