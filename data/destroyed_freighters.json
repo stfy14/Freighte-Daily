@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131720723,
+    "killmail_hash": "c306c18cdec2b2db1ceb950f489b029f4de88862",
+    "kill_time": "2025-12-05T13:35:00Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003556,
+    "solar_system_name": "Arton",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2123353292,
+      "character_name": "Waysten Windherz",
+      "corporation_id": 98810604,
+      "corporation_name": "Federation of New Eden",
+      "alliance_id": 99013823,
+      "alliance_name": "Cat Scratch Fevers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131720723/",
+    "total_value": 4128778930.67,
+    "final_attacker": {
+      "character_name": "Eledhel Vox",
+      "corporation_name": "Xenomine Industries",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131719167,
     "killmail_hash": "ebff1fb3516f8c1381c4fe0480cd1387d5dd2766",
     "kill_time": "2025-12-05T11:39:18Z",
@@ -2932,32 +2958,6 @@
     "total_value": 7808737928.77,
     "final_attacker": {
       "character_name": "Takao META",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131557727,
-    "killmail_hash": "3c4504f6b679c4f8e8b7c6636d5675401c33c5a3",
-    "kill_time": "2025-11-28T13:46:40Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1769675036,
-      "character_name": "Suavitas",
-      "corporation_id": 98515876,
-      "corporation_name": "Steel Apes",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131557727/",
-    "total_value": 8301246546.3,
-    "final_attacker": {
-      "character_name": "Kaga META",
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
