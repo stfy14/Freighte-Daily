@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131740038,
+    "killmail_hash": "c8c7687c79d4c0b289a273de4fac4d072b06b659",
+    "kill_time": "2025-12-06T06:25:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116511446,
+      "character_name": "Flerish Flerium",
+      "corporation_id": 98480050,
+      "corporation_name": "Fancypants Inc",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131740038/",
+    "total_value": 1798760105.63,
+    "final_attacker": {
+      "character_name": "WayCharles",
+      "corporation_name": "Konflict",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 131739690,
+    "killmail_hash": "d73cb674cf767b2ec932386be4c2946ab8c6128d",
+    "kill_time": "2025-12-06T05:59:40Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004887,
+    "solar_system_name": "CO-7BI",
+    "region_name": "Omist",
+    "victim": {
+      "character_id": 2118093645,
+      "character_name": "Kurelli Rigglin",
+      "corporation_id": 98787453,
+      "corporation_name": "Brigade of the Lost Capsuleer",
+      "alliance_id": 99007887,
+      "alliance_name": "Brotherhood of Spacers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131739690/",
+    "total_value": 5120921600.63,
+    "final_attacker": {
+      "character_name": "dasher1002",
+      "corporation_name": "Kenshin.",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131736265,
     "killmail_hash": "58a98a569fffb73e72e8f2db06a0a3e3b3af2d27",
     "kill_time": "2025-12-06T02:42:44Z",
@@ -2753,162 +2805,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131578203,
-    "killmail_hash": "f7be5966a4fbf9441e169b5d9fd199ba72e44500",
-    "kill_time": "2025-11-29T07:52:13Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121933322,
-      "character_name": "Bawby Shenker",
-      "corporation_id": 98760616,
-      "corporation_name": "Brave Empire Inc.",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131578203/",
-    "total_value": 7548433169.41,
-    "final_attacker": {
-      "character_name": "zLegion O",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131577714,
-    "killmail_hash": "0c9fe20a754167a6834457ed3960fe1bdc95f22a",
-    "kill_time": "2025-11-29T07:22:01Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91609134,
-      "character_name": "Angelar Porthar",
-      "corporation_id": 1000107,
-      "corporation_name": "The Scope",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131577714/",
-    "total_value": 7274313969,
-    "final_attacker": {
-      "character_name": "zLegion G",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131577467,
-    "killmail_hash": "77a82218af88648b06fd1d5228b6952aa5d6b24c",
-    "kill_time": "2025-11-29T07:04:19Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114390840,
-      "character_name": "Anna Clue",
-      "corporation_id": 98592994,
-      "corporation_name": "Derelik Planetary Production",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131577467/",
-    "total_value": 1940755009.72,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131576585,
-    "killmail_hash": "9c55d49333cc5ba0cd97c964690de76beabfe971",
-    "kill_time": "2025-11-29T06:06:36Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94140308,
-      "character_name": "Sal'lor Flanagan",
-      "corporation_id": 98780188,
-      "corporation_name": "Aurora. Lite",
-      "alliance_id": 99013434,
-      "alliance_name": "Aurora. Australis"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131576585/",
-    "total_value": 9050490950.32,
-    "final_attacker": {
-      "character_name": "Sven Bauer",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131575998,
-    "killmail_hash": "1d5c44015d837a8964e6c4cc1ffecdb82abeb37a",
-    "kill_time": "2025-11-29T05:22:39Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123868631,
-      "character_name": "ACRG2",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131575998/",
-    "total_value": 3506358186.05,
-    "final_attacker": {
-      "character_name": "zLegion P",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131575272,
-    "killmail_hash": "008e2a351111c4836971f94960e5facd1437ebf3",
-    "kill_time": "2025-11-29T04:34:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121902004,
-      "character_name": "james330",
-      "corporation_id": 98758662,
-      "corporation_name": "3 Kings Trade Federation",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131575272/",
-    "total_value": 2675657589.62,
-    "final_attacker": {
-      "character_name": "drones man",
-      "corporation_name": "The Ring Sting",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
     }
   }
 ]
