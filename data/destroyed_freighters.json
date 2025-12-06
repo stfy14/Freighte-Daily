@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131743197,
+    "killmail_hash": "e7422cec466b5effb098d76b1f36700186e8105f",
+    "kill_time": "2025-12-06T11:15:08Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95255620,
+      "character_name": "guardian15231 plork",
+      "corporation_id": 98589727,
+      "corporation_name": "Storm Chasers.",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131743197/",
+    "total_value": 1996187339.88,
+    "final_attacker": {
+      "character_name": "Johnny Molou",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131740038,
     "killmail_hash": "c8c7687c79d4c0b289a273de4fac4d072b06b659",
     "kill_time": "2025-12-06T06:25:59Z",
@@ -2701,110 +2727,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131582602,
-    "killmail_hash": "11a100fefe34486c46d0193e41b516528b1b7d62",
-    "kill_time": "2025-11-29T12:51:01Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92601002,
-      "character_name": "Salahudin en Gravonere",
-      "corporation_id": 98798932,
-      "corporation_name": "Ore and Order",
-      "alliance_id": 99013823,
-      "alliance_name": "Cat Scratch Fevers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131582602/",
-    "total_value": 2745187215.29,
-    "final_attacker": {
-      "character_name": "zLegion",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131581913,
-    "killmail_hash": "295b30e508fe7a6359ab1535204962c9c09ca2bd",
-    "kill_time": "2025-11-29T12:15:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116963000,
-      "character_name": "aziiz plot",
-      "corporation_id": 98742598,
-      "corporation_name": "Winter Forge Syndicate",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131581913/",
-    "total_value": 8798998760.64,
-    "final_attacker": {
-      "character_name": "Elena Stormbringer",
-      "corporation_name": "4S Corporation",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Phoenix"
-    }
-  },
-  {
-    "killmail_id": 131581798,
-    "killmail_hash": "767b4ca8a910ed3ba3e8f72a818c6dc22a41181f",
-    "kill_time": "2025-11-29T12:11:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112184545,
-      "character_name": "Henry Morgenthau",
-      "corporation_id": 98380823,
-      "corporation_name": "Upwingers",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131581798/",
-    "total_value": 4557730801.78,
-    "final_attacker": {
-      "character_name": "zLegion L",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131581121,
-    "killmail_hash": "fe4d234e6f76d6ff2c9a4b2bb2791895bd3e5583",
-    "kill_time": "2025-11-29T11:31:04Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123868626,
-      "character_name": "ACRG1",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131581121/",
-    "total_value": 2694275674.14,
-    "final_attacker": {
-      "character_name": "Prime Admiral",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
