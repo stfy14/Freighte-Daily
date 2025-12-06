@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131729932,
+    "killmail_hash": "2a2601e3f33d60f156edd16c5b859ba362cf7eb3",
+    "kill_time": "2025-12-05T21:00:28Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002331,
+    "solar_system_name": "IS-OBW",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2123159454,
+      "character_name": "Fitzy Repinuj",
+      "corporation_id": 98792038,
+      "corporation_name": "The Bleak Lands Supply and Provisions",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131729932/",
+    "total_value": 10452985049.3,
+    "final_attacker": {
+      "character_name": "Styx Prana",
+      "corporation_name": "Banana-Republic.",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 131729555,
+    "killmail_hash": "01e5424f00e172cd5c3bf2f701b7fdeb8edebc4f",
+    "kill_time": "2025-12-05T20:42:33Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1952258357,
+      "character_name": "Arthanys",
+      "corporation_id": 953401453,
+      "corporation_name": "W33D Corp.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131729555/",
+    "total_value": 2883699231.68,
+    "final_attacker": {
+      "character_name": "Sorry I'm Blind",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131729377,
+    "killmail_hash": "843426bd7e92f77dcebbab63c259c7707c6f03ec",
+    "kill_time": "2025-12-05T20:38:21Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1692899589,
+      "character_name": "MiniKoudo",
+      "corporation_id": 224734549,
+      "corporation_name": "SAT Systems Mining Corporation",
+      "alliance_id": 99014268,
+      "alliance_name": "SAT Security Industrys"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131729377/",
+    "total_value": 2960956772.53,
+    "final_attacker": {
+      "character_name": "Dreadnought Alyssa",
+      "corporation_name": "K1LL-B1LL",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131728445,
     "killmail_hash": "bc391a34ffcfef7887f170de18c68fc564a825bb",
     "kill_time": "2025-12-05T20:08:04Z",
@@ -2857,58 +2935,6 @@
       "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131572505,
-    "killmail_hash": "73164fbb2b9c0dade75d2cab6cbeb0bc1487f686",
-    "kill_time": "2025-11-29T01:53:32Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002756,
-    "solar_system_name": "Ishomilken",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120448696,
-      "character_name": "Express XXX",
-      "corporation_id": 98723262,
-      "corporation_name": "Logistik Trans Corp",
-      "alliance_id": 99013941,
-      "alliance_name": "James Webb Space Telescope"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131572505/",
-    "total_value": 8741006090.2,
-    "final_attacker": {
-      "character_name": "Herbiderpi",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131571482,
-    "killmail_hash": "67db944fb2db16d52bace836f4d415c4b811285b",
-    "kill_time": "2025-11-29T00:49:17Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001356,
-    "solar_system_name": "Dantumi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2116852588,
-      "character_name": "RawData Thorium",
-      "corporation_id": 98815271,
-      "corporation_name": "Bee2Bee21",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131571482/",
-    "total_value": 3721595926.03,
-    "final_attacker": {
-      "character_name": "urns",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
