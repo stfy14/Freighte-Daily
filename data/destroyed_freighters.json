@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131782548,
+    "killmail_hash": "a6ad5b7b24942452ead6ca4c62f8c19053361604",
+    "kill_time": "2025-12-07T19:10:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002682,
+    "solar_system_name": "Colelie",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121127154,
+      "character_name": "Steinfred zero",
+      "corporation_id": 98809477,
+      "corporation_name": "Not A Threat. I Promise",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131782548/",
+    "total_value": 6171717816.27,
+    "final_attacker": {
+      "character_name": "Internet Wizard",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131781333,
+    "killmail_hash": "585deb753f7bf2183252874ba009c5d89b674e78",
+    "kill_time": "2025-12-07T18:21:46Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1911941914,
+      "character_name": "MarineSniper614",
+      "corporation_id": 1992546227,
+      "corporation_name": "Buccaneers of New Eden",
+      "alliance_id": 99005418,
+      "alliance_name": "Liquor Legion"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131781333/",
+    "total_value": 8985956559.8,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 131779794,
+    "killmail_hash": "a74b9beb5e572a90a86a1253e7bc489a5fa23222",
+    "kill_time": "2025-12-07T17:18:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1800485654,
+      "character_name": "Lovchi",
+      "corporation_id": 205689894,
+      "corporation_name": "Absolute Guardians",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131779794/",
+    "total_value": 2966488718.22,
+    "final_attacker": {
+      "character_name": "cyniska",
+      "corporation_name": "Harring Holings",
+      "alliance_name": "New Eden Wanderers.",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 131776598,
     "killmail_hash": "1f59de7d3b3854d5d230ddfc7d9717bee2b71542",
     "kill_time": "2025-12-07T15:01:41Z",
@@ -2337,110 +2415,6 @@
       "corporation_name": "ANGELGARD.",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 131621471,
-    "killmail_hash": "1e570fcdfe3a7b1a7f693c7df731e470407efb8e",
-    "kill_time": "2025-11-30T18:27:41Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1734977193,
-      "character_name": "Looney Producer",
-      "corporation_id": 98122432,
-      "corporation_name": "Dark Echo Club",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131621471/",
-    "total_value": 8977685051.97,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131620754,
-    "killmail_hash": "fd0e86dfba2b0bc40fc15a7fc305bfea458e5948",
-    "kill_time": "2025-11-30T17:57:45Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 92360371,
-      "character_name": "Pure L'Ynori",
-      "corporation_id": 98637328,
-      "corporation_name": "Special Finance Section",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131620754/",
-    "total_value": 15745811745.43,
-    "final_attacker": {
-      "character_name": "BF-110 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 131619534,
-    "killmail_hash": "b5aabee5b8072b299bd39827427ba890e41dbace",
-    "kill_time": "2025-11-30T17:09:05Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001394,
-    "solar_system_name": "Korama",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2119240665,
-      "character_name": "Hornerggis Freiguera",
-      "corporation_id": 98633272,
-      "corporation_name": "Trisolaris Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131619534/",
-    "total_value": 10461304121.65,
-    "final_attacker": {
-      "character_name": "Nado 28 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 131618778,
-    "killmail_hash": "481233761514c1846364250b86d033efbebe7e6a",
-    "kill_time": "2025-11-30T16:38:22Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116490080,
-      "character_name": "Ana Synk",
-      "corporation_id": 98791523,
-      "corporation_name": "Synk Industrial Co",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131618778/",
-    "total_value": 5144338811.85,
-    "final_attacker": {
-      "character_name": "Traffic stop",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
