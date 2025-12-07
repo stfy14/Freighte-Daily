@@ -2650,57 +2650,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 131604691,
-    "killmail_hash": "f757c5958e2cde173b4c6220524916e0fb3de1f0",
-    "kill_time": "2025-11-30T04:34:25Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 1463910196,
-      "character_name": "boris69",
-      "corporation_id": 98819457,
-      "corporation_name": "Deadlock industrial",
-      "alliance_id": 99014360,
-      "alliance_name": "Khanid Industrial Coalition"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131604691/",
-    "total_value": 3381614049.72,
-    "final_attacker": {
-      "character_name": "EF Alpha",
-      "corporation_name": "Endless-Fury",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Ashimmu"
-    }
-  },
-  {
-    "killmail_id": 131602835,
-    "killmail_hash": "58bba050cdbd597921a786fc10f8c45c1be5220e",
-    "kill_time": "2025-11-30T02:39:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123641593,
-      "character_name": "Kurobei Hanomaa",
-      "corporation_id": 98819033,
-      "corporation_name": "In Battle We Dance",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131602835/",
-    "total_value": 1797166083.96,
-    "final_attacker": {
-      "character_name": "Professor Edgelord",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
-    }
   }
 ]
