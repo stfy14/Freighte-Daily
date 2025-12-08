@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131799337,
+    "killmail_hash": "b5cd791ecbd9af687a521f857e01170f9a681ba6",
+    "kill_time": "2025-12-08T14:05:32Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002556,
+    "solar_system_name": "Gusandall",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 96836567,
+      "character_name": "KENBONE Kado",
+      "corporation_id": 98648183,
+      "corporation_name": "Ternary Solntse Industries",
+      "alliance_id": 99009885,
+      "alliance_name": "Xagenic Freymvork"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131799337/",
+    "total_value": 9448408330.75,
+    "final_attacker": {
+      "character_name": "SUICIDAL Larsen",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 131798894,
+    "killmail_hash": "10d45c751b72f82f456b6d0b5c54668689a7af6c",
+    "kill_time": "2025-12-08T13:45:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000705,
+    "solar_system_name": "5-MQQ7",
+    "region_name": "Scalding Pass",
+    "victim": {
+      "character_id": 2119669327,
+      "character_name": "Flux Two",
+      "corporation_id": 98694688,
+      "corporation_name": "Neo-Terran Industries",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131798894/",
+    "total_value": 1800883049.41,
+    "final_attacker": {
+      "character_name": "ACR Impotato",
+      "corporation_name": "Temple of Tuvan Orth",
+      "alliance_name": "Guardians of Tranquility",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 131797929,
     "killmail_hash": "c7cab25d0b334aa307ac66b07b932640b1e2918b",
     "kill_time": "2025-12-08T12:39:03Z",
@@ -2051,58 +2103,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131638479,
-    "killmail_hash": "2e41a9a92439f3ec4bc2491123ec7cbfafcf2a04",
-    "kill_time": "2025-12-01T13:04:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001720,
-    "solar_system_name": "Modun",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 2122253860,
-      "character_name": "Vanya Serenkiy",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131638479/",
-    "total_value": 2001961707.28,
-    "final_attacker": {
-      "character_name": "El Cobradero",
-      "corporation_name": "Lowsexgate to STAIN",
-      "alliance_name": "Stain Neurodiverse Democracy",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 131638421,
-    "killmail_hash": "e563bf6c6400b8742fe51c726484c06a5df3bad7",
-    "kill_time": "2025-12-01T13:01:42Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 91347046,
-      "character_name": "Trohh",
-      "corporation_id": 98614492,
-      "corporation_name": "Pandemic Horde High Sec Division",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131638421/",
-    "total_value": 10316895039.43,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Arazu"
     }
   }
 ]
