@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131793165,
+    "killmail_hash": "674fbd8de698183a86443241af7f499ce0e39670",
+    "kill_time": "2025-12-08T04:06:04Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 286435665,
+      "character_name": "Senditu",
+      "corporation_id": 1197636972,
+      "corporation_name": "Inter-Stellar Exploration",
+      "alliance_id": 99010484,
+      "alliance_name": "The Burning Contingent Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131793165/",
+    "total_value": 9850655735.39,
+    "final_attacker": {
+      "character_name": "3 Of Several",
+      "corporation_name": "Several Bodies One Master",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131788492,
     "killmail_hash": "d9ee959b48bff6c2f395673e342788c50da31de7",
     "kill_time": "2025-12-07T23:06:42Z",
@@ -2178,32 +2204,6 @@
     "total_value": 8043324501.36,
     "final_attacker": {
       "character_name": "Steal Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131631951,
-    "killmail_hash": "7513aa577948440d10b473f01f9d88de9ce893f6",
-    "kill_time": "2025-12-01T03:47:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 835805800,
-      "character_name": "Mathusela",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131631951/",
-    "total_value": 4241087593.7,
-    "final_attacker": {
-      "character_name": "Burgle Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
