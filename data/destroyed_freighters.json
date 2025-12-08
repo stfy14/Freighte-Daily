@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131797929,
+    "killmail_hash": "c7cab25d0b334aa307ac66b07b932640b1e2918b",
+    "kill_time": "2025-12-08T12:39:03Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000163,
+    "solar_system_name": "Akora",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1232822737,
+      "character_name": "Doctor Wu",
+      "corporation_id": 98811680,
+      "corporation_name": "Geras Workshop",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131797929/",
+    "total_value": 1991164930.68,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 131797143,
+    "killmail_hash": "fd5b43cc69bebfec2ec68a2862730785c5f05a7a",
+    "kill_time": "2025-12-08T10:52:31Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 999512698,
+      "character_name": "Smartest Man",
+      "corporation_id": 98754582,
+      "corporation_name": "Baba Yagas",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131797143/",
+    "total_value": 13792165495.62,
+    "final_attacker": {
+      "character_name": "Horl",
+      "corporation_name": "Empire Pirates",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131796857,
+    "killmail_hash": "b9d0546d54781a3695ed996c1b4e6a083439679d",
+    "kill_time": "2025-12-08T10:20:48Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120889561,
+      "character_name": "w8 me",
+      "corporation_id": 98683208,
+      "corporation_name": "RED HOT Team.",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131796857/",
+    "total_value": 8979827799.87,
+    "final_attacker": {
+      "character_name": "Caldari Citizen 92323301",
+      "corporation_name": "Boomer Humor",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131793165,
     "killmail_hash": "674fbd8de698183a86443241af7f499ce0e39670",
     "kill_time": "2025-12-08T04:06:04Z",
@@ -2025,58 +2103,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Arazu"
-    }
-  },
-  {
-    "killmail_id": 131636329,
-    "killmail_hash": "21ff74c1708a2217952276d256e9fa8fb73a71e0",
-    "kill_time": "2025-12-01T09:45:44Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123231820,
-      "character_name": "Interplex",
-      "corporation_id": 98811142,
-      "corporation_name": "Hammer and Sickle Factory Co",
-      "alliance_id": 99009991,
-      "alliance_name": "Intaki-Business Logistics Union"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131636329/",
-    "total_value": 4088430160.88,
-    "final_attacker": {
-      "character_name": "Pamiat Merkuria META",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131635807,
-    "killmail_hash": "faa894c07b2b7b9011bf3c0bcf40e264bf7ee4af",
-    "kill_time": "2025-12-01T08:58:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123644288,
-      "character_name": "Suksisto Anneto",
-      "corporation_id": 98812641,
-      "corporation_name": "Mahagoni Facility Management",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131635807/",
-    "total_value": 12998224065.82,
-    "final_attacker": {
-      "character_name": "zLegion J",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
