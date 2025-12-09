@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131818627,
+    "killmail_hash": "f113e2c5af1fb140693f70b5c1b0aa9f7fb80e75",
+    "kill_time": "2025-12-09T13:17:51Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004600,
+    "solar_system_name": "C-N4OD",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 1611929067,
+      "character_name": "Dastardly Devine",
+      "corporation_id": 728517421,
+      "corporation_name": "0.0 Massive Dynamic",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131818627/",
+    "total_value": 10271346397.25,
+    "final_attacker": {
+      "character_name": "benrbipsuk",
+      "corporation_name": "Yamagata Syndicate",
+      "alliance_name": "Northern Coalition.",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 131816806,
     "killmail_hash": "3b198560b30ac56994edab1971afdc29a906a102",
     "kill_time": "2025-12-09T10:26:09Z",
@@ -2180,32 +2206,6 @@
       "character_name": "Herbiderpi",
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131661658,
-    "killmail_hash": "fd906ebb3a658274d7e5d5fb8ea5d87d55ae1e20",
-    "kill_time": "2025-12-02T15:05:20Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000509,
-    "solar_system_name": "IAS-I5",
-    "region_name": "Detorid",
-    "victim": {
-      "character_id": 1447201621,
-      "character_name": "Crongard",
-      "corporation_id": 98718076,
-      "corporation_name": "GSF Logistics and Posting Reserves",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131661658/",
-    "total_value": 9340847188.32,
-    "final_attacker": {
-      "character_name": "su banana",
-      "corporation_name": "Alkaid Broken Army",
-      "alliance_name": "The Initiative.",
       "ship_type_name": "Redeemer"
     }
   }
