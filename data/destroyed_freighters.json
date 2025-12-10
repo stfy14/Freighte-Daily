@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131834697,
+    "killmail_hash": "a40730ccfc00bd459d1e0af25d320937989646bc",
+    "kill_time": "2025-12-10T07:18:00Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31000679,
+    "solar_system_name": "J142055",
+    "region_name": "B-R00006",
+    "victim": {
+      "character_id": 2123505775,
+      "character_name": "Nomad Gearheart",
+      "corporation_id": 98749303,
+      "corporation_name": "Savagerie",
+      "alliance_id": 99012572,
+      "alliance_name": "Wildlife"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131834697/",
+    "total_value": 14132796381.13,
+    "final_attacker": {
+      "character_name": "Stealthbot",
+      "corporation_name": "Center For Kids Who Can't Fly Good",
+      "alliance_name": "Zoo Landers",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 131832669,
     "killmail_hash": "42114f3a24bb0155aa3f8c56300271ea39e59073",
     "kill_time": "2025-12-10T04:01:35Z",
@@ -2181,58 +2207,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131677180,
-    "killmail_hash": "e44162618cfc333d8dee33c9039ec72268921325",
-    "kill_time": "2025-12-03T08:09:01Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123597369,
-      "character_name": "YINGDOBI",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131677180/",
-    "total_value": 6018001658.66,
-    "final_attacker": {
-      "character_name": "Regina Bong",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131676547,
-    "killmail_hash": "cd05a26bc6d1aa548102f3774e572b943e3ed385",
-    "kill_time": "2025-12-03T07:03:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96626560,
-      "character_name": "mimi chu",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131676547/",
-    "total_value": 4586159333.28,
-    "final_attacker": {
-      "character_name": "Lima Lamor",
-      "corporation_name": "OTEX Special Forces",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
