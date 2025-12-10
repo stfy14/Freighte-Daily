@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131829435,
+    "killmail_hash": "d02386815e079e2e4171b5f95b14b71e2acda89f",
+    "kill_time": "2025-12-09T23:46:56Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004988,
+    "solar_system_name": "Hulmate",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 1325659211,
+      "character_name": "Vortakin",
+      "corporation_id": 98343577,
+      "corporation_name": "Hermit Shell",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131829435/",
+    "total_value": 1988596784.12,
+    "final_attacker": {
+      "character_name": "Jack pansless",
+      "corporation_name": "Inevitable Outcome",
+      "alliance_name": "E.C.H.O",
+      "ship_type_name": "Ferox Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 131828928,
+    "killmail_hash": "6a950a21bbc015f3d075099563f9561bb54633d3",
+    "kill_time": "2025-12-09T23:08:55Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 96514584,
+      "character_name": "Arathial Caderu",
+      "corporation_id": 98677776,
+      "corporation_name": "Lupus Space Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131828928/",
+    "total_value": 11864089040.91,
+    "final_attacker": {
+      "character_name": "Stabhappy Seeker",
+      "corporation_name": "State War Academy",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131826767,
+    "killmail_hash": "d70afac407fd2f356b8c2243881948efc230a006",
+    "kill_time": "2025-12-09T20:55:05Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2121421043,
+      "character_name": "Sema74",
+      "corporation_id": 98755513,
+      "corporation_name": "FW BL SupCorp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131826767/",
+    "total_value": 2042121507.43,
+    "final_attacker": {
+      "character_name": "EnatKinu",
+      "corporation_name": "The Blamed",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 131823994,
     "killmail_hash": "afa7ab44d0c63e6cf472dde61fe26d8c808abc0f",
     "kill_time": "2025-12-09T18:47:09Z",
@@ -2181,58 +2259,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131670574,
-    "killmail_hash": "1a32d9aec81084885a5cd3ccc83b60c94a99bc59",
-    "kill_time": "2025-12-02T23:06:04Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2121142742,
-      "character_name": "Ark Bishop IV",
-      "corporation_id": 98749774,
-      "corporation_name": "The Bishops Logistics",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131670574/",
-    "total_value": 11953657073.39,
-    "final_attacker": {
-      "character_name": "Wiscussy",
-      "corporation_name": "BlackCore Tactics",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 131669568,
-    "killmail_hash": "39ead5be9755304012732fa6ccdb2851b4e49279",
-    "kill_time": "2025-12-02T22:07:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91308883,
-      "character_name": "Sleipnir Mor",
-      "corporation_id": 1000171,
-      "corporation_name": "Republic University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131669568/",
-    "total_value": 1930755242.53,
-    "final_attacker": {
-      "character_name": "Daraid Trilnos",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Gnosis"
     }
   }
 ]
