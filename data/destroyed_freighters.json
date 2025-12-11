@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131850761,
+    "killmail_hash": "7a73c0552fbb3b540a1be987ea4ca9a748244778",
+    "kill_time": "2025-12-11T01:32:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002390,
+    "solar_system_name": "Heild",
+    "region_name": "Molden Heath",
+    "victim": {
+      "character_id": 2115914165,
+      "character_name": "Sergio Dzyubak",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131850761/",
+    "total_value": 5973799743.82,
+    "final_attacker": {
+      "character_name": "JoshBreezy Austrin",
+      "corporation_name": "Cherry Defence Shipyards",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 131849425,
+    "killmail_hash": "0266fb1595805dc753eaa2d1cf0057a84a90d971",
+    "kill_time": "2025-12-10T23:41:10Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 96211297,
+      "character_name": "Electra Eistein Lux",
+      "corporation_id": 98442413,
+      "corporation_name": "Mind Over Matter Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131849425/",
+    "total_value": 2703547467.28,
+    "final_attacker": {
+      "character_name": "Elijah Ghost",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131848576,
+    "killmail_hash": "31b782785c8df700fbfdcb9285c9442a48e727f7",
+    "kill_time": "2025-12-10T22:45:54Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123906240,
+      "character_name": "Jita Bayyer",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131848576/",
+    "total_value": 9421229378.65,
+    "final_attacker": {
+      "character_name": "Gugl1 Molou",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131841687,
     "killmail_hash": "fc3859b0280203c0976e039290762163740db265",
     "kill_time": "2025-12-10T16:28:19Z",
@@ -1895,32 +1973,6 @@
       "corporation_name": "OTEX Special Forces",
       "alliance_name": "Insidious.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 131692610,
-    "killmail_hash": "327a687343d78c5208b9fa6eefef080753212cea",
-    "kill_time": "2025-12-04T00:12:00Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002320,
-    "solar_system_name": "F9-FUV",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 1053632266,
-      "character_name": "crysttall",
-      "corporation_id": 98637558,
-      "corporation_name": "Slow Chidlren at Play",
-      "alliance_id": 99010735,
-      "alliance_name": "SL0W CHILDREN AT PLAY"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131692610/",
-    "total_value": 10210352807.14,
-    "final_attacker": {
-      "character_name": "Bitches Love Cannons",
-      "corporation_name": "Puppygirls Anonymous",
-      "alliance_name": "Anti Krab Coalition",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
