@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131881854,
+    "killmail_hash": "9835970a39a017b44487a5babd723f68363f6324",
+    "kill_time": "2025-12-12T18:07:50Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 942097049,
+      "character_name": "TheBrideOfAdam",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131881854/",
+    "total_value": 1963216180.63,
+    "final_attacker": {
+      "character_name": "EF Zeta",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 131881146,
+    "killmail_hash": "c31366303aedfb0088ec42c1113053acd19770f1",
+    "kill_time": "2025-12-12T17:30:44Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95324793,
+      "character_name": "Carla Horse",
+      "corporation_id": 98385341,
+      "corporation_name": "Interstellar Horses",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131881146/",
+    "total_value": 1896365540.3,
+    "final_attacker": {
+      "character_name": "templar assassinator",
+      "corporation_name": "The blood of sanctuary",
+      "alliance_name": null,
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 131875059,
     "killmail_hash": "09664556d2ddb7b75107bed4e55e2c9b7454f923",
     "kill_time": "2025-12-12T10:37:02Z",
@@ -1894,58 +1946,6 @@
       "character_name": "Dreadnought Alyssa",
       "corporation_name": "K1LL-B1LL",
       "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131728445,
-    "killmail_hash": "bc391a34ffcfef7887f170de18c68fc564a825bb",
-    "kill_time": "2025-12-05T20:08:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123614827,
-      "character_name": "Itet Askold",
-      "corporation_id": 98737183,
-      "corporation_name": "Pirates Heart's",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131728445/",
-    "total_value": 2454217444.68,
-    "final_attacker": {
-      "character_name": "Lacey Moonpire",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131725380,
-    "killmail_hash": "b78047ba0e9fb3907256490eeb225b7b11280203",
-    "kill_time": "2025-12-05T17:53:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121667607,
-      "character_name": "Knut Knoedel",
-      "corporation_id": 98701057,
-      "corporation_name": "Germanenorden",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131725380/",
-    "total_value": 2928623008.9,
-    "final_attacker": {
-      "character_name": "Jane MoneyBender",
-      "corporation_name": "Die Betrunkene Auster",
-      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   }
