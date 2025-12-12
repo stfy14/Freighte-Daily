@@ -1948,31 +1948,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 131720723,
-    "killmail_hash": "c306c18cdec2b2db1ceb950f489b029f4de88862",
-    "kill_time": "2025-12-05T13:35:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003556,
-    "solar_system_name": "Arton",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2123353292,
-      "character_name": "Waysten Windherz",
-      "corporation_id": 98810604,
-      "corporation_name": "Federation of New Eden",
-      "alliance_id": 99013823,
-      "alliance_name": "Cat Scratch Fevers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131720723/",
-    "total_value": 4128778930.67,
-    "final_attacker": {
-      "character_name": "Eledhel Vox",
-      "corporation_name": "Xenomine Industries",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
