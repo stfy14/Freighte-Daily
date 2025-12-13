@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131903620,
+    "killmail_hash": "7eeb845583491b3410902e91309b09e3bf9061d4",
+    "kill_time": "2025-12-13T15:24:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115555246,
+      "character_name": "MastrDan Havoc",
+      "corporation_id": 98450160,
+      "corporation_name": "Warpdyne Industries",
+      "alliance_id": 99012018,
+      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131903620/",
+    "total_value": 1804538214.65,
+    "final_attacker": {
+      "character_name": "Triple Deke",
+      "corporation_name": "Celebrate the End of The Gallente Federation",
+      "alliance_name": null,
+      "ship_type_name": "Golem"
+    }
+  },
+  {
+    "killmail_id": 131901298,
+    "killmail_hash": "7e699fcf44670a5d84e32abad2af2fc9dfd56a7c",
+    "kill_time": "2025-12-13T13:43:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2120999913,
+      "character_name": "Auso Caderu",
+      "corporation_id": 98812693,
+      "corporation_name": "Can i touch this",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131901298/",
+    "total_value": 2334658119.64,
+    "final_attacker": {
+      "character_name": "Phase Three",
+      "corporation_name": "Tactical Grace.",
+      "alliance_name": "Vanguard.",
+      "ship_type_name": "Megathron"
+    }
+  },
+  {
     "killmail_id": 131898358,
     "killmail_hash": "dc0d0432f27e14e568407713fa6cef17fc9901b6",
     "kill_time": "2025-12-13T11:21:50Z",
@@ -1973,58 +2025,6 @@
       "corporation_name": "Shadow Legion X",
       "alliance_name": "Seriously Suspicious",
       "ship_type_name": "Nighthawk"
-    }
-  },
-  {
-    "killmail_id": 131745786,
-    "killmail_hash": "959b7d24af1d4521ccc68d0aeed1d8b9ce27faae",
-    "kill_time": "2025-12-06T13:28:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122308118,
-      "character_name": "Aruki Uta",
-      "corporation_id": 98819327,
-      "corporation_name": "Heggerlogic",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131745786/",
-    "total_value": 2715935760.52,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131745543,
-    "killmail_hash": "2fc47cbbf1bf634502fc2d6d0523aa1d0f080b0a",
-    "kill_time": "2025-12-06T13:18:52Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002389,
-    "solar_system_name": "Atlar",
-    "region_name": "Molden Heath",
-    "victim": {
-      "character_id": 96278597,
-      "character_name": "Exan Faust",
-      "corporation_id": 98607654,
-      "corporation_name": "Exan Faust Heavy Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131745543/",
-    "total_value": 2147309056.79,
-    "final_attacker": {
-      "character_name": "Dwark",
-      "corporation_name": "Harmonist",
-      "alliance_name": "Parallaxis Alliance",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
