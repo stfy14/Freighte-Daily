@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131886413,
+    "killmail_hash": "709668582ed86667c63c9ec02f752494e7e5f1ed",
+    "kill_time": "2025-12-12T21:45:01Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 90271938,
+      "character_name": "Puankar",
+      "corporation_id": 98273025,
+      "corporation_name": "NullSec Space Supply Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131886413/",
+    "total_value": 13729316852.95,
+    "final_attacker": {
+      "character_name": "zLegion K",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 131885427,
+    "killmail_hash": "cf97429e6817fe6dad5d04a8d7e88c8dd24b5716",
+    "kill_time": "2025-12-12T20:59:47Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123914989,
+      "character_name": "Gankhauler",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131885427/",
+    "total_value": 10018591590.68,
+    "final_attacker": {
+      "character_name": "zLegion H",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 131883895,
     "killmail_hash": "f8c576781c861863d241fed567c0626bf0bf806f",
     "kill_time": "2025-12-12T19:50:08Z",
@@ -1869,32 +1921,6 @@
       "corporation_name": "Kenshin.",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131736265,
-    "killmail_hash": "58a98a569fffb73e72e8f2db06a0a3e3b3af2d27",
-    "kill_time": "2025-12-06T02:42:44Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003557,
-    "solar_system_name": "Sieh",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 92475513,
-      "character_name": "Tommy Claesborn",
-      "corporation_id": 98817074,
-      "corporation_name": "Safety Third",
-      "alliance_id": 99011162,
-      "alliance_name": "Shadow Ultimatum"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131736265/",
-    "total_value": 15952432160.95,
-    "final_attacker": {
-      "character_name": "Jebediah Farnsworth",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
