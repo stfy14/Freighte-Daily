@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131883895,
+    "killmail_hash": "f8c576781c861863d241fed567c0626bf0bf806f",
+    "kill_time": "2025-12-12T19:50:08Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 92622439,
+      "character_name": "Dayne Corrente",
+      "corporation_id": 98605830,
+      "corporation_name": "Pedro Rico Endustry Mining Operation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131883895/",
+    "total_value": 1804965367.46,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131881854,
     "killmail_hash": "9835970a39a017b44487a5babd723f68363f6324",
     "kill_time": "2025-12-12T18:07:50Z",
@@ -1869,84 +1895,6 @@
       "corporation_name": "Anoikis Equilibrium",
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 131729932,
-    "killmail_hash": "2a2601e3f33d60f156edd16c5b859ba362cf7eb3",
-    "kill_time": "2025-12-05T21:00:28Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002331,
-    "solar_system_name": "IS-OBW",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 2123159454,
-      "character_name": "Fitzy Repinuj",
-      "corporation_id": 98792038,
-      "corporation_name": "The Bleak Lands Supply and Provisions",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131729932/",
-    "total_value": 10452985049.3,
-    "final_attacker": {
-      "character_name": "Styx Prana",
-      "corporation_name": "Banana-Republic.",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 131729555,
-    "killmail_hash": "01e5424f00e172cd5c3bf2f701b7fdeb8edebc4f",
-    "kill_time": "2025-12-05T20:42:33Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1952258357,
-      "character_name": "Arthanys",
-      "corporation_id": 953401453,
-      "corporation_name": "W33D Corp.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131729555/",
-    "total_value": 2883699231.68,
-    "final_attacker": {
-      "character_name": "Sorry I'm Blind",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131729377,
-    "killmail_hash": "843426bd7e92f77dcebbab63c259c7707c6f03ec",
-    "kill_time": "2025-12-05T20:38:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1692899589,
-      "character_name": "MiniKoudo",
-      "corporation_id": 224734549,
-      "corporation_name": "SAT Systems Mining Corporation",
-      "alliance_id": 99014268,
-      "alliance_name": "SAT Security Industrys"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131729377/",
-    "total_value": 2960956772.53,
-    "final_attacker": {
-      "character_name": "Dreadnought Alyssa",
-      "corporation_name": "K1LL-B1LL",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
