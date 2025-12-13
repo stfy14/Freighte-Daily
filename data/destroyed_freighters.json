@@ -1870,57 +1870,5 @@
       "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 131740038,
-    "killmail_hash": "c8c7687c79d4c0b289a273de4fac4d072b06b659",
-    "kill_time": "2025-12-06T06:25:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2116511446,
-      "character_name": "Flerish Flerium",
-      "corporation_id": 98480050,
-      "corporation_name": "Fancypants Inc",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131740038/",
-    "total_value": 1798760105.63,
-    "final_attacker": {
-      "character_name": "WayCharles",
-      "corporation_name": "Konflict",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 131739690,
-    "killmail_hash": "d73cb674cf767b2ec932386be4c2946ab8c6128d",
-    "kill_time": "2025-12-06T05:59:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004887,
-    "solar_system_name": "CO-7BI",
-    "region_name": "Omist",
-    "victim": {
-      "character_id": 2118093645,
-      "character_name": "Kurelli Rigglin",
-      "corporation_id": 98787453,
-      "corporation_name": "Brigade of the Lost Capsuleer",
-      "alliance_id": 99007887,
-      "alliance_name": "Brotherhood of Spacers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131739690/",
-    "total_value": 5120921600.63,
-    "final_attacker": {
-      "character_name": "dasher1002",
-      "corporation_name": "Kenshin.",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Talos"
-    }
   }
 ]
