@@ -1870,57 +1870,5 @@
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 131768959,
-    "killmail_hash": "b68923282ffb3a4da5089e981f27bbbf8555f029",
-    "kill_time": "2025-12-07T07:54:56Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119450598,
-      "character_name": "JF Ichosira",
-      "corporation_id": 98705084,
-      "corporation_name": "Probably isk Negative",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131768959/",
-    "total_value": 26966021852.43,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131768052,
-    "killmail_hash": "8a38746b0d4fd09814840b81716e1389087097fe",
-    "kill_time": "2025-12-07T06:52:22Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001322,
-    "solar_system_name": "0-O2UT",
-    "region_name": "Venal",
-    "victim": {
-      "character_id": 2121796980,
-      "character_name": "Saleric",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131768052/",
-    "total_value": 1798702436.47,
-    "final_attacker": {
-      "character_name": "bingxinlian",
-      "corporation_name": "Emperor Scythes",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Loki"
-    }
   }
 ]
