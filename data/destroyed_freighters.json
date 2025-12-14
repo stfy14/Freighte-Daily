@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131931713,
+    "killmail_hash": "a0aa1435537c5dda218230851152f4df731a7cef",
+    "kill_time": "2025-12-14T14:54:33Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2112284255,
+      "character_name": "rtyuiop121 Maulerant",
+      "corporation_id": 1000006,
+      "corporation_name": "Deep Core Mining Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131931713/",
+    "total_value": 1893820027.15,
+    "final_attacker": {
+      "character_name": "ChaosDuke Mayhem",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 131929272,
+    "killmail_hash": "9d6233d796e06891b10ca6aa3beb6e74a27468c8",
+    "kill_time": "2025-12-14T13:23:17Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95355433,
+      "character_name": "tsokoro nightblood",
+      "corporation_id": 98559450,
+      "corporation_name": "DanJev United",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131929272/",
+    "total_value": 3747168336.52,
+    "final_attacker": {
+      "character_name": "Lucifer Lichtbringer",
+      "corporation_name": "Phantom Brigade Ger",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 131926391,
     "killmail_hash": "3176430ee3c9f33336e022b3caeeed0b8b262af0",
     "kill_time": "2025-12-14T10:46:04Z",
@@ -1791,32 +1843,6 @@
       "corporation_name": "Harring Holings",
       "alliance_name": "New Eden Wanderers.",
       "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 131776598,
-    "killmail_hash": "1f59de7d3b3854d5d230ddfc7d9717bee2b71542",
-    "kill_time": "2025-12-07T15:01:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2123148392,
-      "character_name": "Archer Pryde",
-      "corporation_id": 98186730,
-      "corporation_name": "Brothers of Tyr",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131776598/",
-    "total_value": 2981379312.01,
-    "final_attacker": {
-      "character_name": "Tin Ukai",
-      "corporation_name": "Akaishi Knowledge Syndicate",
-      "alliance_name": "Apocalypse Now.",
-      "ship_type_name": "Thrasher Fleet Issue"
     }
   }
 ]
