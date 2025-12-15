@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131947041,
+    "killmail_hash": "8d522338926816408a0f76fb2540566111230417",
+    "kill_time": "2025-12-15T04:44:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000194,
+    "solar_system_name": "Otsela",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122530751,
+      "character_name": "Radish Orsi",
+      "corporation_id": 917701062,
+      "corporation_name": "EVE University",
+      "alliance_id": 937872513,
+      "alliance_name": "Ivy League"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131947041/",
+    "total_value": 1805895294.47,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131946529,
+    "killmail_hash": "04ea6b936473661219ee560e4cb9dbd01237c529",
+    "kill_time": "2025-12-15T03:51:00Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 1406818061,
+      "character_name": "Rebuah Mij",
+      "corporation_id": 1918749795,
+      "corporation_name": "Sons of Khorne",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131946529/",
+    "total_value": 22865864033.12,
+    "final_attacker": {
+      "character_name": "White'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131943548,
     "killmail_hash": "6e820873aba380d596c22dd38180c4fd85205ca1",
     "kill_time": "2025-12-14T23:53:50Z",
@@ -1817,32 +1869,6 @@
       "corporation_name": "Boomer Humor",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131793165,
-    "killmail_hash": "674fbd8de698183a86443241af7f499ce0e39670",
-    "kill_time": "2025-12-08T04:06:04Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 286435665,
-      "character_name": "Senditu",
-      "corporation_id": 1197636972,
-      "corporation_name": "Inter-Stellar Exploration",
-      "alliance_id": 99010484,
-      "alliance_name": "The Burning Contingent Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131793165/",
-    "total_value": 9850655735.39,
-    "final_attacker": {
-      "character_name": "3 Of Several",
-      "corporation_name": "Several Bodies One Master",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
