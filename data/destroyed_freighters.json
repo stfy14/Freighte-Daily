@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131954130,
+    "killmail_hash": "3d8130feac89a4e886fd10d265d130c62f2f1a54",
+    "kill_time": "2025-12-15T15:41:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000139,
+    "solar_system_name": "Urlen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115916201,
+      "character_name": "aphatmc",
+      "corporation_id": 98787157,
+      "corporation_name": "Subterfuge Blackmail Sabotage Deception Network",
+      "alliance_id": 99012770,
+      "alliance_name": "Black Rose."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131954130/",
+    "total_value": 5712119431.19,
+    "final_attacker": {
+      "character_name": "WE DELIVER",
+      "corporation_name": "Celebrate the End of The Gallente Federation",
+      "alliance_name": null,
+      "ship_type_name": "Cynabal"
+    }
+  },
+  {
+    "killmail_id": 131953121,
+    "killmail_hash": "ef60459598267bd5e92839edff00bf909b064540",
+    "kill_time": "2025-12-15T14:37:09Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2115770883,
+      "character_name": "Zara Fumimasa",
+      "corporation_id": 98589820,
+      "corporation_name": "Heavy Haulage Ltd",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131953121/",
+    "total_value": 6936658468.98,
+    "final_attacker": {
+      "character_name": "Yazara Feldron",
+      "corporation_name": "Unity of Dervin",
+      "alliance_name": "K162 Collective",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 131952000,
+    "killmail_hash": "4d543840bac204c076d95d925ce235f3c704c07e",
+    "kill_time": "2025-12-15T13:23:19Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113656804,
+      "character_name": "Eviran Hilanen",
+      "corporation_id": 635210548,
+      "corporation_name": "Fusion Enterprises Ltd",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131952000/",
+    "total_value": 2075244493.26,
+    "final_attacker": {
+      "character_name": "Mackers87",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 131950213,
     "killmail_hash": "d54238a41aff120adc9744a60ba457e8a9f6d4a6",
     "kill_time": "2025-12-15T10:57:32Z",
@@ -1791,58 +1869,6 @@
       "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131799337,
-    "killmail_hash": "b5cd791ecbd9af687a521f857e01170f9a681ba6",
-    "kill_time": "2025-12-08T14:05:32Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002556,
-    "solar_system_name": "Gusandall",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 96836567,
-      "character_name": "KENBONE Kado",
-      "corporation_id": 98648183,
-      "corporation_name": "Ternary Solntse Industries",
-      "alliance_id": 99009885,
-      "alliance_name": "Xagenic Freymvork"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131799337/",
-    "total_value": 9448408330.75,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131798894,
-    "killmail_hash": "10d45c751b72f82f456b6d0b5c54668689a7af6c",
-    "kill_time": "2025-12-08T13:45:20Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000705,
-    "solar_system_name": "5-MQQ7",
-    "region_name": "Scalding Pass",
-    "victim": {
-      "character_id": 2119669327,
-      "character_name": "Flux Two",
-      "corporation_id": 98694688,
-      "corporation_name": "Neo-Terran Industries",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131798894/",
-    "total_value": 1800883049.41,
-    "final_attacker": {
-      "character_name": "ACR Impotato",
-      "corporation_name": "Temple of Tuvan Orth",
-      "alliance_name": "Guardians of Tranquility",
-      "ship_type_name": "Loki"
     }
   }
 ]
