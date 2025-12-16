@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131971182,
+    "killmail_hash": "9b7df4109d22e639b2a96162c12cfbd59a11009d",
+    "kill_time": "2025-12-16T13:46:34Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004317,
+    "solar_system_name": "4-48K1",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 612083245,
+      "character_name": "Zeta Balin",
+      "corporation_id": 98599770,
+      "corporation_name": "Fraternity Building Management",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131971182/",
+    "total_value": 9237746493.56,
+    "final_attacker": {
+      "character_name": "CMFF",
+      "corporation_name": "Stars Corporate Group",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 131960438,
     "killmail_hash": "5e7dd23da3558ed8360a91c72c521f81eb092306",
     "kill_time": "2025-12-15T21:18:04Z",
@@ -1635,32 +1661,6 @@
       "corporation_name": "Big Noob",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Pontifex"
-    }
-  },
-  {
-    "killmail_id": 131818627,
-    "killmail_hash": "f113e2c5af1fb140693f70b5c1b0aa9f7fb80e75",
-    "kill_time": "2025-12-09T13:17:51Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30004600,
-    "solar_system_name": "C-N4OD",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 1611929067,
-      "character_name": "Dastardly Devine",
-      "corporation_id": 728517421,
-      "corporation_name": "0.0 Massive Dynamic",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131818627/",
-    "total_value": 10271346397.25,
-    "final_attacker": {
-      "character_name": "benrbipsuk",
-      "corporation_name": "Yamagata Syndicate",
-      "alliance_name": "Northern Coalition.",
-      "ship_type_name": "Hound"
     }
   }
 ]
