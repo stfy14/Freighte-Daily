@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131960438,
+    "killmail_hash": "5e7dd23da3558ed8360a91c72c521f81eb092306",
+    "kill_time": "2025-12-15T21:18:04Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 681040617,
+      "character_name": "Former Champion",
+      "corporation_id": 98408491,
+      "corporation_name": "Butt Pounder Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131960438/",
+    "total_value": 44672266692.19,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131959849,
+    "killmail_hash": "12a86f7bab40b572e71cd42e7a5027f7d955b497",
+    "kill_time": "2025-12-15T20:48:14Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30045338,
+    "solar_system_name": "Hikkoken",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2120941811,
+      "character_name": "BackToJita",
+      "corporation_id": 98772013,
+      "corporation_name": "5hoes",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131959849/",
+    "total_value": 2230179786.67,
+    "final_attacker": {
+      "character_name": "Kayjitsu",
+      "corporation_name": "Stone Warriors",
+      "alliance_name": "Stone Warriors Fleet",
+      "ship_type_name": "Scythe Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 131954130,
     "killmail_hash": "3d8130feac89a4e886fd10d265d130c62f2f1a54",
     "kill_time": "2025-12-15T15:41:21Z",
@@ -1713,84 +1765,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 131811310,
-    "killmail_hash": "eaede0c004f703afc0737bef81abfb947c6c9689",
-    "kill_time": "2025-12-09T01:44:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95057485,
-      "character_name": "Xonique Ishii",
-      "corporation_id": 98389599,
-      "corporation_name": "Hitokiri se7en",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131811310/",
-    "total_value": 1801977058.85,
-    "final_attacker": {
-      "character_name": "Coyote Benihime",
-      "corporation_name": "The Ruckus",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131809866,
-    "killmail_hash": "587c3ed9e670495d6b8ceada73e8df5709158309",
-    "kill_time": "2025-12-08T23:48:11Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002577,
-    "solar_system_name": "Bundindus",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2071314129,
-      "character_name": "Rovengard Ogaster",
-      "corporation_id": 98059534,
-      "corporation_name": "The Ark.",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131809866/",
-    "total_value": 11394963668.99,
-    "final_attacker": {
-      "character_name": "Anure",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131807421,
-    "killmail_hash": "53c54422d2e6b556bd4c7ab133eae27cfafd5bf4",
-    "kill_time": "2025-12-08T21:14:19Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2112525293,
-      "character_name": "Marshell War",
-      "corporation_id": 98633646,
-      "corporation_name": "Neimoidian Trade Federation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131807421/",
-    "total_value": 3713787354.2,
-    "final_attacker": {
-      "character_name": "2 Of Several",
-      "corporation_name": "Several Bodies One Master",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
