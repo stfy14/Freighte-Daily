@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131974758,
+    "killmail_hash": "3959d9161688c94c8d47454b3cf6fd23c070563d",
+    "kill_time": "2025-12-16T17:47:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001420,
+    "solar_system_name": "Daras",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95618156,
+      "character_name": "Michael Onufrii",
+      "corporation_id": 98606531,
+      "corporation_name": "Imperium of Gold",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131974758/",
+    "total_value": 1804624238.41,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131971182,
     "killmail_hash": "9b7df4109d22e639b2a96162c12cfbd59a11009d",
     "kill_time": "2025-12-16T13:46:34Z",
@@ -1583,84 +1609,6 @@
       "corporation_name": "The Blamed",
       "alliance_name": "Ahbazon-Prime",
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 131823994,
-    "killmail_hash": "afa7ab44d0c63e6cf472dde61fe26d8c808abc0f",
-    "kill_time": "2025-12-09T18:47:09Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003886,
-    "solar_system_name": "Ashmarir",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2121896067,
-      "character_name": "Golganiuss",
-      "corporation_id": 98732506,
-      "corporation_name": "Hangger Robotics",
-      "alliance_id": 1411711376,
-      "alliance_name": "Legion of xXDEATHXx"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131823994/",
-    "total_value": 9143234702.35,
-    "final_attacker": {
-      "character_name": "TheHarbinger OfDeath",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131823584,
-    "killmail_hash": "740feded7465baa3f54427e91f50795deba5f5b8",
-    "kill_time": "2025-12-09T18:27:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116651249,
-      "character_name": "Aria Sathana",
-      "corporation_id": 98815271,
-      "corporation_name": "Bee2Bee21",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131823584/",
-    "total_value": 2195413758.58,
-    "final_attacker": {
-      "character_name": "Judas II",
-      "corporation_name": "Dark-Rising",
-      "alliance_name": "Wrecking Machine.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 131823088,
-    "killmail_hash": "4ed8058ca5be15fd05e6cfa3e93f5786e1596509",
-    "kill_time": "2025-12-09T17:55:46Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004420,
-    "solar_system_name": "BLC-X0",
-    "region_name": "Feythabolis",
-    "victim": {
-      "character_id": 95557335,
-      "character_name": "Oria Pozzolo",
-      "corporation_id": 98648361,
-      "corporation_name": "Deadspace Excavations",
-      "alliance_id": 99011162,
-      "alliance_name": "Shadow Ultimatum"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131823088/",
-    "total_value": 1955675499.7,
-    "final_attacker": {
-      "character_name": "Ruben Alar",
-      "corporation_name": "Big Noob",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Pontifex"
     }
   }
 ]
