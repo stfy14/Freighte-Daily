@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 131981369,
+    "killmail_hash": "5b5aecebcd15d41cb529a06d88e4e3490e39b55d",
+    "kill_time": "2025-12-16T23:55:41Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002577,
+    "solar_system_name": "Bundindus",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2115777577,
+      "character_name": "Fenyx Solo",
+      "corporation_id": 98210135,
+      "corporation_name": "Infinite Point",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/131981369/",
+    "total_value": 11206935082.27,
+    "final_attacker": {
+      "character_name": "creatnos",
+      "corporation_name": "You're dunked",
+      "alliance_name": "NullSechnaya Sholupen",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131980865,
+    "killmail_hash": "a67d64220b97bb4c3046123009202ce997abb35b",
+    "kill_time": "2025-12-16T23:15:47Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002577,
+    "solar_system_name": "Bundindus",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 93219606,
+      "character_name": "Crispy Tivianne",
+      "corporation_id": 98807070,
+      "corporation_name": "Yet To Be Named",
+      "alliance_id": 99013786,
+      "alliance_name": "Cryonic Origin Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131980865/",
+    "total_value": 8840913772.29,
+    "final_attacker": {
+      "character_name": "FVB delivery service2",
+      "corporation_name": "New Eden Corporation 98804829",
+      "alliance_name": "Blue. Archive.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131974758,
     "killmail_hash": "3959d9161688c94c8d47454b3cf6fd23c070563d",
     "kill_time": "2025-12-16T17:47:37Z",
@@ -1531,84 +1583,6 @@
       "corporation_name": "Best Kept Dunked",
       "alliance_name": "OnlyFleets.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131829435,
-    "killmail_hash": "d02386815e079e2e4171b5f95b14b71e2acda89f",
-    "kill_time": "2025-12-09T23:46:56Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004988,
-    "solar_system_name": "Hulmate",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 1325659211,
-      "character_name": "Vortakin",
-      "corporation_id": 98343577,
-      "corporation_name": "Hermit Shell",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131829435/",
-    "total_value": 1988596784.12,
-    "final_attacker": {
-      "character_name": "Jack pansless",
-      "corporation_name": "Inevitable Outcome",
-      "alliance_name": "E.C.H.O",
-      "ship_type_name": "Ferox Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131828928,
-    "killmail_hash": "6a950a21bbc015f3d075099563f9561bb54633d3",
-    "kill_time": "2025-12-09T23:08:55Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 96514584,
-      "character_name": "Arathial Caderu",
-      "corporation_id": 98677776,
-      "corporation_name": "Lupus Space Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131828928/",
-    "total_value": 11864089040.91,
-    "final_attacker": {
-      "character_name": "Stabhappy Seeker",
-      "corporation_name": "State War Academy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131826767,
-    "killmail_hash": "d70afac407fd2f356b8c2243881948efc230a006",
-    "kill_time": "2025-12-09T20:55:05Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2121421043,
-      "character_name": "Sema74",
-      "corporation_id": 98755513,
-      "corporation_name": "FW BL SupCorp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131826767/",
-    "total_value": 2042121507.43,
-    "final_attacker": {
-      "character_name": "EnatKinu",
-      "corporation_name": "The Blamed",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Gnosis"
     }
   }
 ]
