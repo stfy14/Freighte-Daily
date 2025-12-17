@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 131982726,
+    "killmail_hash": "f88fe62768dde2be7fd41d1ff62e24c26fd79a03",
+    "kill_time": "2025-12-17T02:12:03Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 1141095066,
+      "character_name": "Taloncdn",
+      "corporation_id": 98003272,
+      "corporation_name": "Drama Llamas",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131982726/",
+    "total_value": 1832947338.31,
+    "final_attacker": {
+      "character_name": "Ethien Green",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131981369,
     "killmail_hash": "5b5aecebcd15d41cb529a06d88e4e3490e39b55d",
     "kill_time": "2025-12-16T23:55:41Z",
@@ -1557,32 +1583,6 @@
       "corporation_name": "Center For Kids Who Can't Fly Good",
       "alliance_name": "Zoo Landers",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 131832669,
-    "killmail_hash": "42114f3a24bb0155aa3f8c56300271ea39e59073",
-    "kill_time": "2025-12-10T04:01:35Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003887,
-    "solar_system_name": "Kaira",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 93811952,
-      "character_name": "Nathaniel Hoss",
-      "corporation_id": 98498768,
-      "corporation_name": "Project-Copernicus",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131832669/",
-    "total_value": 6165260959.71,
-    "final_attacker": {
-      "character_name": "Marc Kalouf",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
