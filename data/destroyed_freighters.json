@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132008068,
+    "killmail_hash": "596cb8c3764d20c11dab5bef935d23d7c7c9102f",
+    "kill_time": "2025-12-18T12:36:45Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123707909,
+      "character_name": "elxut",
+      "corporation_id": 98812773,
+      "corporation_name": "Highsec Transport Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132008068/",
+    "total_value": 2377284326.06,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132007058,
+    "killmail_hash": "e9ac5255b53fb883ba653f34e8d55c8abf827abc",
+    "kill_time": "2025-12-18T10:39:30Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2123231556,
+      "character_name": "Bianchini",
+      "corporation_id": 98279775,
+      "corporation_name": "Deep Space Conquerors",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132007058/",
+    "total_value": 1805384512.69,
+    "final_attacker": {
+      "character_name": "Ishtar Jesus",
+      "corporation_name": "Cameltoe Collective",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 132004460,
     "killmail_hash": "97cea0d8940c7f0e113874e1b1d9c6369b411745",
     "kill_time": "2025-12-18T06:16:10Z",
@@ -1661,32 +1713,6 @@
       "corporation_name": "Pinky and the Brain.",
       "alliance_name": null,
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131856539,
-    "killmail_hash": "5a2133b198e8821e736f7ad34b734d8f062c45a2",
-    "kill_time": "2025-12-11T11:29:28Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118922111,
-      "character_name": "Ryugiyul Enderas",
-      "corporation_id": 98723341,
-      "corporation_name": "jump trauma team",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131856539/",
-    "total_value": 8851853084.11,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
