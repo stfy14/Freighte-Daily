@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 131997429,
+    "killmail_hash": "24234f3019c26f25d2bc7126c77f10fc980f3e5e",
+    "kill_time": "2025-12-17T21:29:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001389,
+    "solar_system_name": "Isanamo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2116773016,
+      "character_name": "Prosysteam Chemists",
+      "corporation_id": 98635328,
+      "corporation_name": "Lighthouse Society",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131997429/",
+    "total_value": 5997144653.94,
+    "final_attacker": {
+      "character_name": "Euel Perne",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
+    "killmail_id": 131997034,
+    "killmail_hash": "45b609b5405382ef4d38f288f8f45e97e28aaefd",
+    "kill_time": "2025-12-17T21:09:11Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000118,
+    "solar_system_name": "Uanzin",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 96592437,
+      "character_name": "Adamas Cobon-Han",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131997034/",
+    "total_value": 12909285926.03,
+    "final_attacker": {
+      "character_name": "Luko Melis",
+      "corporation_name": "Dominion Guild",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131996720,
+    "killmail_hash": "d9ac507939f16364062a8b5d5a7a43ed6f9b2e16",
+    "kill_time": "2025-12-17T20:52:53Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96789218,
+      "character_name": "Demis T",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/131996720/",
+    "total_value": 8696804731.03,
+    "final_attacker": {
+      "character_name": "Gemini 3",
+      "corporation_name": "Xynodyne",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 131985929,
     "killmail_hash": "67a60956fb3d143392a8530f353ce90e907a1b37",
     "kill_time": "2025-12-17T07:10:03Z",
@@ -1531,84 +1609,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131850761,
-    "killmail_hash": "7a73c0552fbb3b540a1be987ea4ca9a748244778",
-    "kill_time": "2025-12-11T01:32:55Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002390,
-    "solar_system_name": "Heild",
-    "region_name": "Molden Heath",
-    "victim": {
-      "character_id": 2115914165,
-      "character_name": "Sergio Dzyubak",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131850761/",
-    "total_value": 5973799743.82,
-    "final_attacker": {
-      "character_name": "JoshBreezy Austrin",
-      "corporation_name": "Cherry Defence Shipyards",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131849425,
-    "killmail_hash": "0266fb1595805dc753eaa2d1cf0057a84a90d971",
-    "kill_time": "2025-12-10T23:41:10Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96211297,
-      "character_name": "Electra Eistein Lux",
-      "corporation_id": 98442413,
-      "corporation_name": "Mind Over Matter Inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131849425/",
-    "total_value": 2703547467.28,
-    "final_attacker": {
-      "character_name": "Elijah Ghost",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131848576,
-    "killmail_hash": "31b782785c8df700fbfdcb9285c9442a48e727f7",
-    "kill_time": "2025-12-10T22:45:54Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123906240,
-      "character_name": "Jita Bayyer",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131848576/",
-    "total_value": 9421229378.65,
-    "final_attacker": {
-      "character_name": "Gugl1 Molou",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
