@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132004460,
+    "killmail_hash": "97cea0d8940c7f0e113874e1b1d9c6369b411745",
+    "kill_time": "2025-12-18T06:16:10Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2115863818,
+      "character_name": "Balthazar Mandanen",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132004460/",
+    "total_value": 3658471757.87,
+    "final_attacker": {
+      "character_name": "Pink'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132003430,
+    "killmail_hash": "eaef0b13208c69feabd3d78f5b3ae6883b25526e",
+    "kill_time": "2025-12-18T05:00:23Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 96597537,
+      "character_name": "Cloud Inc",
+      "corporation_id": 98712309,
+      "corporation_name": "N.E.R.V. Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132003430/",
+    "total_value": 1985583653.6,
+    "final_attacker": {
+      "character_name": "l am Gundam",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 132002585,
     "killmail_hash": "3432cdceb5817dc1b19ec31d1a325aab6dddecd3",
     "kill_time": "2025-12-18T03:49:30Z",
@@ -1635,32 +1687,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131854891,
-    "killmail_hash": "15b11e379277ab1f7bc8f2cd73ca497643eef9cf",
-    "kill_time": "2025-12-11T08:02:50Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001356,
-    "solar_system_name": "Dantumi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2116794997,
-      "character_name": "logan reeee",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131854891/",
-    "total_value": 1907517301.6,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
     }
   }
 ]
