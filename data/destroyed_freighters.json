@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132002585,
+    "killmail_hash": "3432cdceb5817dc1b19ec31d1a325aab6dddecd3",
+    "kill_time": "2025-12-18T03:49:30Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2116133910,
+      "character_name": "Melianora Desire",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132002585/",
+    "total_value": 1892649045.93,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 132001947,
+    "killmail_hash": "6788cb8e1ee60fdfd8e9dc0b266e9bdf1dacd6c9",
+    "kill_time": "2025-12-18T03:03:47Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 726396563,
+      "character_name": "Cloudkeeper",
+      "corporation_id": 1000049,
+      "corporation_name": "Brutor Tribe",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132001947/",
+    "total_value": 5634749822.59,
+    "final_attacker": {
+      "character_name": "Blue'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 131997429,
     "killmail_hash": "24234f3019c26f25d2bc7126c77f10fc980f3e5e",
     "kill_time": "2025-12-17T21:29:29Z",
