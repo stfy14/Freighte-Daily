@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132025998,
+    "killmail_hash": "3859e387414152ab27e998ad8f11fb5243532099",
+    "kill_time": "2025-12-19T10:52:32Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 349884826,
+      "character_name": "alphapharm",
+      "corporation_id": 583616018,
+      "corporation_name": "Black Aces",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132025998/",
+    "total_value": 9818851397.63,
+    "final_attacker": {
+      "character_name": "Hyper Kiwi",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132021119,
     "killmail_hash": "8446388c212ea264e6dbb82f53d013246b0c5c3f",
     "kill_time": "2025-12-19T02:48:38Z",
@@ -1531,32 +1557,6 @@
       "corporation_name": "The blood of sanctuary",
       "alliance_name": null,
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131875059,
-    "killmail_hash": "09664556d2ddb7b75107bed4e55e2c9b7454f923",
-    "kill_time": "2025-12-12T10:37:02Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 893572486,
-      "character_name": "RockSuck3r",
-      "corporation_id": 98323388,
-      "corporation_name": "Insidious Systems Division",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131875059/",
-    "total_value": 13684170485.95,
-    "final_attacker": {
-      "character_name": "zLegion E",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
