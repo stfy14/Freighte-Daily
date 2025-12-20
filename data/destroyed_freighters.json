@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132038000,
+    "killmail_hash": "68311dc5fc272290282c0676f345a888accadaff",
+    "kill_time": "2025-12-19T22:35:43Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001379,
+    "solar_system_name": "Tunttaras",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95057485,
+      "character_name": "Xonique Ishii",
+      "corporation_id": 98389599,
+      "corporation_name": "Hitokiri se7en",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132038000/",
+    "total_value": 2155175494.21,
+    "final_attacker": {
+      "character_name": "Tomas Holmstrom",
+      "corporation_name": "The Priesthood",
+      "alliance_name": "WeR4",
+      "ship_type_name": "Ishtar"
+    }
+  },
+  {
+    "killmail_id": 132037449,
+    "killmail_hash": "7a2e27fc64b14961ae5ad8ae1f6a3cecd4fdb7c3",
+    "kill_time": "2025-12-19T22:11:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003530,
+    "solar_system_name": "Raravath",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 93398236,
+      "character_name": "Martin Oriki",
+      "corporation_id": 98531600,
+      "corporation_name": "Mako Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132037449/",
+    "total_value": 1822126977.46,
+    "final_attacker": {
+      "character_name": "Silvie Hawthoren",
+      "corporation_name": "Gaius Grant's School of Subpar Pilots",
+      "alliance_name": "Raravathian Mining and Logistics",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 132035110,
+    "killmail_hash": "90a27f89959916a320aae8eb4bc2067b514aefb1",
+    "kill_time": "2025-12-19T20:15:21Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1225054775,
+      "character_name": "wuris",
+      "corporation_id": 98097622,
+      "corporation_name": "sindromo daunito",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132035110/",
+    "total_value": 3774544980.78,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132034519,
     "killmail_hash": "62ba0a2cd19c90c246d2e188e887f4f72e04e1a7",
     "kill_time": "2025-12-19T19:52:23Z",
@@ -517,6 +595,32 @@
       "corporation_name": "Xynodyne",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 131991221,
+    "killmail_hash": "79765b9a1ed7ab0826dbffb5d2c34152b6287f0f",
+    "kill_time": "2025-12-17T15:13:23Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002780,
+    "solar_system_name": "Muvolailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91419865,
+      "character_name": "NeoBandit Uisen",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/131991221/",
+    "total_value": 1937922606.76,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "N/A",
+      "alliance_name": null,
+      "ship_type_name": "Raznaborg Renewing Leshak"
     }
   },
   {
@@ -1505,58 +1609,6 @@
       "corporation_name": "Pinky and the Brain.",
       "alliance_name": null,
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 131886413,
-    "killmail_hash": "709668582ed86667c63c9ec02f752494e7e5f1ed",
-    "kill_time": "2025-12-12T21:45:01Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90271938,
-      "character_name": "Puankar",
-      "corporation_id": 98273025,
-      "corporation_name": "NullSec Space Supply Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131886413/",
-    "total_value": 13729316852.95,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131885427,
-    "killmail_hash": "cf97429e6817fe6dad5d04a8d7e88c8dd24b5716",
-    "kill_time": "2025-12-12T20:59:47Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123914989,
-      "character_name": "Gankhauler",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131885427/",
-    "total_value": 10018591590.68,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
