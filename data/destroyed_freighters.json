@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132042738,
+    "killmail_hash": "9afac67d2bf9fc5ec80b8dcc5a13f7588343171b",
+    "kill_time": "2025-12-20T03:59:39Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 92238033,
+      "character_name": "weawen necroschild",
+      "corporation_id": 98695967,
+      "corporation_name": "Shackled Vault",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132042738/",
+    "total_value": 5319565713.67,
+    "final_attacker": {
+      "character_name": "Charlotte Hazelrink",
+      "corporation_name": "Rita's choice",
+      "alliance_name": null,
+      "ship_type_name": "Raven"
+    }
+  },
+  {
+    "killmail_id": 132042155,
+    "killmail_hash": "19b0e5bf93c57bd5e8fbd0bf6a951f0dabf94312",
+    "kill_time": "2025-12-20T03:18:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 91139143,
+      "character_name": "flojack Achasse",
+      "corporation_id": 98083089,
+      "corporation_name": "Redhogs",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132042155/",
+    "total_value": 2151193496.79,
+    "final_attacker": {
+      "character_name": "zuline",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 132038000,
     "killmail_hash": "68311dc5fc272290282c0676f345a888accadaff",
     "kill_time": "2025-12-19T22:35:43Z",
