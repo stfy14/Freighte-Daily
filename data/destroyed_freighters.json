@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132053544,
+    "killmail_hash": "0834e7c5a168741c8b476aabf5adcc02a31156ab",
+    "kill_time": "2025-12-20T16:04:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000169,
+    "solar_system_name": "Ihakana",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121462348,
+      "character_name": "iWrath Jita",
+      "corporation_id": 98625406,
+      "corporation_name": "C5 Flight Renegades",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132053544/",
+    "total_value": 1807669371.81,
+    "final_attacker": {
+      "character_name": "TYZ392",
+      "corporation_name": "Frame Perfect",
+      "alliance_name": "Kybernauts Clade",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 132051525,
+    "killmail_hash": "5aa18894de07d35ff47563a4f8775011324100a8",
+    "kill_time": "2025-12-20T14:43:04Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2122200365,
+      "character_name": "FullDeck",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132051525/",
+    "total_value": 4243654249.6,
+    "final_attacker": {
+      "character_name": "EF Delta",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132049326,
+    "killmail_hash": "69520f2c0bf0275a56a9338cb0bec1ce2a25b358",
+    "kill_time": "2025-12-20T13:14:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 96597537,
+      "character_name": "Cloud Inc",
+      "corporation_id": 98712309,
+      "corporation_name": "N.E.R.V. Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132049326/",
+    "total_value": 1981351836.77,
+    "final_attacker": {
+      "character_name": "Dirtyjoe",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132045212,
     "killmail_hash": "5f80729e1956bde6f49d16111a8462263d6d3a58",
     "kill_time": "2025-12-20T07:39:28Z",
@@ -1557,58 +1635,6 @@
       "corporation_name": "Bangzhu Cartel",
       "alliance_name": "Sedition.",
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 131903620,
-    "killmail_hash": "7eeb845583491b3410902e91309b09e3bf9061d4",
-    "kill_time": "2025-12-13T15:24:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115555246,
-      "character_name": "MastrDan Havoc",
-      "corporation_id": 98450160,
-      "corporation_name": "Warpdyne Industries",
-      "alliance_id": 99012018,
-      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131903620/",
-    "total_value": 1804538214.65,
-    "final_attacker": {
-      "character_name": "Triple Deke",
-      "corporation_name": "Celebrate the End of The Gallente Federation",
-      "alliance_name": null,
-      "ship_type_name": "Golem"
-    }
-  },
-  {
-    "killmail_id": 131901298,
-    "killmail_hash": "7e699fcf44670a5d84e32abad2af2fc9dfd56a7c",
-    "kill_time": "2025-12-13T13:43:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2120999913,
-      "character_name": "Auso Caderu",
-      "corporation_id": 98812693,
-      "corporation_name": "Can i touch this",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131901298/",
-    "total_value": 2334658119.64,
-    "final_attacker": {
-      "character_name": "Phase Three",
-      "corporation_name": "Tactical Grace.",
-      "alliance_name": "Vanguard.",
-      "ship_type_name": "Megathron"
     }
   }
 ]
