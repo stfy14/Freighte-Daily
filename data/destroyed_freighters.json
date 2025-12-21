@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132086471,
+    "killmail_hash": "c9acea578073ae320c820f09b058c8bd7a40a812",
+    "kill_time": "2025-12-21T20:16:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002411,
+    "solar_system_name": "Skarkon",
+    "region_name": "Pochven",
+    "victim": {
+      "character_id": 2113564212,
+      "character_name": "Dale Maily",
+      "corporation_id": 98540794,
+      "corporation_name": "Dudreda Real News Corp Inc Ltd",
+      "alliance_id": 99011606,
+      "alliance_name": "Strange Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132086471/",
+    "total_value": 2012942242.23,
+    "final_attacker": {
+      "character_name": "Manguejus",
+      "corporation_name": "Texas of Requiem",
+      "alliance_name": "Texas.",
+      "ship_type_name": "Barghest"
+    }
+  },
+  {
     "killmail_id": 132080713,
     "killmail_hash": "e75a59add5abb034ba297f5eb0dd059211270560",
     "kill_time": "2025-12-21T16:08:02Z",
@@ -1791,84 +1817,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131938020,
-    "killmail_hash": "822fef6be6c479767eb93334f2df5f29efee8c68",
-    "kill_time": "2025-12-14T19:31:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003541,
-    "solar_system_name": "Faswiba",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 91693433,
-      "character_name": "Aeon Boirelle",
-      "corporation_id": 98812297,
-      "corporation_name": "Orion Forward Unit 212",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131938020/",
-    "total_value": 1973638904.03,
-    "final_attacker": {
-      "character_name": "knoba knoba",
-      "corporation_name": "DoctorOzz",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 131937575,
-    "killmail_hash": "07d8c7516986174ad2c5475d5feb28c4f964483a",
-    "kill_time": "2025-12-14T19:15:03Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002722,
-    "solar_system_name": "Lamadent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115106589,
-      "character_name": "Braaca Bolmara",
-      "corporation_id": 98714952,
-      "corporation_name": "METROPOLIS INTELLIGENCE BUREAU",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131937575/",
-    "total_value": 1846073757.75,
-    "final_attacker": {
-      "character_name": "Rebel Rebel-Rebel Rebel",
-      "corporation_name": "x13",
-      "alliance_name": null,
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 131935410,
-    "killmail_hash": "f93ac86a127b9dcff944ade844a98a40ce3f147b",
-    "kill_time": "2025-12-14T17:37:33Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002402,
-    "solar_system_name": "Istodard",
-    "region_name": "Molden Heath",
-    "victim": {
-      "character_id": 96743691,
-      "character_name": "Lord Alduin",
-      "corporation_id": 98581746,
-      "corporation_name": "War Eagle Fleet",
-      "alliance_id": 99012410,
-      "alliance_name": "DECOY"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131935410/",
-    "total_value": 2295582254.9,
-    "final_attacker": {
-      "character_name": "Dwark",
-      "corporation_name": "Harmonist",
-      "alliance_name": "Parallaxis Alliance",
-      "ship_type_name": "Megathron"
     }
   }
 ]
