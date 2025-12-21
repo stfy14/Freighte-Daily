@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132080713,
+    "killmail_hash": "e75a59add5abb034ba297f5eb0dd059211270560",
+    "kill_time": "2025-12-21T16:08:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000754,
+    "solar_system_name": "F39H-1",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 96246686,
+      "character_name": "BanDitoSs Prime",
+      "corporation_id": 98454925,
+      "corporation_name": "Blackwater Task Forces",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132080713/",
+    "total_value": 2022647904.18,
+    "final_attacker": {
+      "character_name": "Jebi Vjetar",
+      "corporation_name": "Kill'em all. Let Bob sort'em out.",
+      "alliance_name": "Ushra'Khan",
+      "ship_type_name": "Dominix"
+    }
+  },
+  {
+    "killmail_id": 132079996,
+    "killmail_hash": "0bc39074f93e5b3af8b4801a84573cc87721d407",
+    "kill_time": "2025-12-21T15:40:48Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94291989,
+      "character_name": "Johnny Hartigan",
+      "corporation_id": 98599557,
+      "corporation_name": "Horde Armada",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132079996/",
+    "total_value": 6049482429.9,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132074614,
     "killmail_hash": "8b178becdb15b1376d9c74b4cd9fec888e81825c",
     "kill_time": "2025-12-21T12:21:29Z",
@@ -1817,58 +1869,6 @@
       "corporation_name": "Harmonist",
       "alliance_name": "Parallaxis Alliance",
       "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 131931713,
-    "killmail_hash": "a0aa1435537c5dda218230851152f4df731a7cef",
-    "kill_time": "2025-12-14T14:54:33Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2112284255,
-      "character_name": "rtyuiop121 Maulerant",
-      "corporation_id": 1000006,
-      "corporation_name": "Deep Core Mining Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131931713/",
-    "total_value": 1893820027.15,
-    "final_attacker": {
-      "character_name": "ChaosDuke Mayhem",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 131929272,
-    "killmail_hash": "9d6233d796e06891b10ca6aa3beb6e74a27468c8",
-    "kill_time": "2025-12-14T13:23:17Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95355433,
-      "character_name": "tsokoro nightblood",
-      "corporation_id": 98559450,
-      "corporation_name": "DanJev United",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131929272/",
-    "total_value": 3747168336.52,
-    "final_attacker": {
-      "character_name": "Lucifer Lichtbringer",
-      "corporation_name": "Phantom Brigade Ger",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Kronos"
     }
   }
 ]
