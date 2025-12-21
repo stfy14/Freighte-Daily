@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132064123,
+    "killmail_hash": "d003ffbfe462fc3a11792d4502c51a3e36763528",
+    "kill_time": "2025-12-20T23:43:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000715,
+    "solar_system_name": "Q4C-S5",
+    "region_name": "Scalding Pass",
+    "victim": {
+      "character_id": 2121081399,
+      "character_name": "Wallet Hamster",
+      "corporation_id": 98766754,
+      "corporation_name": "AHogsHole",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132064123/",
+    "total_value": 3226415508.43,
+    "final_attacker": {
+      "character_name": "DHB WildCat",
+      "corporation_name": "Out of Focus",
+      "alliance_name": "Odin's Call",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 132060899,
+    "killmail_hash": "ae99306244a9d7312d91c643ecd2d56cd7e4223e",
+    "kill_time": "2025-12-20T21:24:44Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91782270,
+      "character_name": "Patboy Exposa",
+      "corporation_id": 98282527,
+      "corporation_name": "Galactic Hauling Solutions Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132060899/",
+    "total_value": 14260275212.23,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 132060722,
+    "killmail_hash": "12de5173f8180567d0a151b694e2315b4accbc13",
+    "kill_time": "2025-12-20T21:21:02Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002048,
+    "solar_system_name": "Bei",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1607801833,
+      "character_name": "nightmarefiend",
+      "corporation_id": 98630716,
+      "corporation_name": "Volantean Nation",
+      "alliance_id": 99009830,
+      "alliance_name": "Lan'Tean Imperium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132060722/",
+    "total_value": 9835371347.29,
+    "final_attacker": {
+      "character_name": "Despised Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132058973,
     "killmail_hash": "854e440031dc38086a54ac7cc9c4992b817adcb9",
     "kill_time": "2025-12-20T20:16:27Z",
@@ -1635,84 +1713,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 131917429,
-    "killmail_hash": "aa674668b32e4b3fc334e5130cf602f781762a92",
-    "kill_time": "2025-12-14T00:52:54Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94012534,
-      "character_name": "Ramos Kadio",
-      "corporation_id": 98806096,
-      "corporation_name": "Militant Auxiliary Interstellar Logistics",
-      "alliance_id": 99014171,
-      "alliance_name": "Militant Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131917429/",
-    "total_value": 12275189302.22,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131916794,
-    "killmail_hash": "4e57cae312329475f8f91e5ac66bc8b1db642da4",
-    "kill_time": "2025-12-14T00:23:26Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91782270,
-      "character_name": "Patboy Exposa",
-      "corporation_id": 98282527,
-      "corporation_name": "Galactic Hauling Solutions Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131916794/",
-    "total_value": 20380720953.95,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131915908,
-    "killmail_hash": "b816c1bc5d87ef448c995b134cb07826866343f6",
-    "kill_time": "2025-12-13T23:38:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002693,
-    "solar_system_name": "Egghelende",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1488207287,
-      "character_name": "Kali Pijunn",
-      "corporation_id": 98509226,
-      "corporation_name": "Zerone Industries",
-      "alliance_id": 99010484,
-      "alliance_name": "The Burning Contingent Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131915908/",
-    "total_value": 3309592077.64,
-    "final_attacker": {
-      "character_name": "MrytzZ",
-      "corporation_name": "Bangzhu Cartel",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Gnosis"
     }
   }
 ]
