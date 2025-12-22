@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 132092418,
+    "killmail_hash": "fb4e43738aee4f1f8637ee9ed86eae6c5df37ee2",
+    "kill_time": "2025-12-22T01:36:39Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120380458,
+      "character_name": "A'Seliya Sharvas",
+      "corporation_id": 98721754,
+      "corporation_name": "A'Seliya Industry",
+      "alliance_id": 99009287,
+      "alliance_name": "Beyond the Breach"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132092418/",
+    "total_value": 10441226776.74,
+    "final_attacker": {
+      "character_name": "Achylies",
+      "corporation_name": "Boomer Humor",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 132090936,
+    "killmail_hash": "d591ddd48f7b9a4c646a9aa912378e4f2ca39caa",
+    "kill_time": "2025-12-21T23:53:53Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000241,
+    "solar_system_name": "YMJG-4",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2116365665,
+      "character_name": "Mrouth D",
+      "corporation_id": 98584433,
+      "corporation_name": "FateGrandOrder",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132090936/",
+    "total_value": 2328737828.54,
+    "final_attacker": {
+      "character_name": "Vladislav Matviienko",
+      "corporation_name": "Memento. Mori.",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 132090347,
+    "killmail_hash": "ede805a570988b7f595db75af31a0470324f0d02",
+    "kill_time": "2025-12-21T23:13:55Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 410066171,
+      "character_name": "Catil Zade",
+      "corporation_id": 1637311014,
+      "corporation_name": "Brobdingnagians",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132090347/",
+    "total_value": 9205879210.06,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132087445,
+    "killmail_hash": "ffa6136084993752b209e24587f95f44bf8f75c8",
+    "kill_time": "2025-12-21T20:46:43Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93156716,
+      "character_name": "Sven-Florence Af Takstol",
+      "corporation_id": 1000066,
+      "corporation_name": "Viziam",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132087445/",
+    "total_value": 9083042818.32,
+    "final_attacker": {
+      "character_name": "Dankeguy",
+      "corporation_name": "Africanized Enraged HIV Wasps",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 132086471,
     "killmail_hash": "c9acea578073ae320c820f09b058c8bd7a40a812",
     "kill_time": "2025-12-21T20:16:40Z",
@@ -1713,110 +1817,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131943548,
-    "killmail_hash": "6e820873aba380d596c22dd38180c4fd85205ca1",
-    "kill_time": "2025-12-14T23:53:50Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000118,
-    "solar_system_name": "Uanzin",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 1223938957,
-      "character_name": "Solvita",
-      "corporation_id": 669350666,
-      "corporation_name": "The Flying Tigers",
-      "alliance_id": 99011990,
-      "alliance_name": "D3ad End"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131943548/",
-    "total_value": 13995174212.59,
-    "final_attacker": {
-      "character_name": "Zrye",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Thanatos"
-    }
-  },
-  {
-    "killmail_id": 131942512,
-    "killmail_hash": "3a5ca6449b4d57620735ba8f6957ffa182ab2d90",
-    "kill_time": "2025-12-14T22:53:54Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2118075791,
-      "character_name": "Corcyn Merk",
-      "corporation_id": 98770788,
-      "corporation_name": "R.A.A.",
-      "alliance_id": 99005338,
-      "alliance_name": "Pandemic Horde"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131942512/",
-    "total_value": 9104582995.94,
-    "final_attacker": {
-      "character_name": "mastersmithy",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131941528,
-    "killmail_hash": "8d0b6cebbe4fa5f3198e565711c06625ae994b1d",
-    "kill_time": "2025-12-14T22:00:10Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 94658208,
-      "character_name": "Lokitroy Olacar",
-      "corporation_id": 98523242,
-      "corporation_name": "Tits Express",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131941528/",
-    "total_value": 76166178808.18,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131941514,
-    "killmail_hash": "f1ccd115174585baabd989926d46fbe54b3fa875",
-    "kill_time": "2025-12-14T21:59:19Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121010818,
-      "character_name": "Olivia Troy",
-      "corporation_id": 98523242,
-      "corporation_name": "Tits Express",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131941514/",
-    "total_value": 24917740701.24,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
