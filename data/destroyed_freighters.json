@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132125541,
+    "killmail_hash": "b48fed02418ec373102ef57c216b54f7eba1244b",
+    "kill_time": "2025-12-23T17:47:45Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005003,
+    "solar_system_name": "Adirain",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 2115036396,
+      "character_name": "joseph raaw",
+      "corporation_id": 98769251,
+      "corporation_name": "Lobotomized Gaming",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132125541/",
+    "total_value": 1912651706.47,
+    "final_attacker": {
+      "character_name": "Otto Lorenz Hema",
+      "corporation_name": "Ominous Hole Protection Services",
+      "alliance_name": null,
+      "ship_type_name": "Coercer Navy Issue"
+    }
+  },
+  {
     "killmail_id": 132124275,
     "killmail_hash": "d3b8dd0a9bee9a21274d162ae07016ebf5cff748",
     "kill_time": "2025-12-23T16:28:30Z",
@@ -2024,32 +2050,6 @@
       "character_name": "FVB delivery service2",
       "corporation_name": "New Eden Corporation 98804829",
       "alliance_name": "Blue. Archive.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131974758,
-    "killmail_hash": "3959d9161688c94c8d47454b3cf6fd23c070563d",
-    "kill_time": "2025-12-16T17:47:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001420,
-    "solar_system_name": "Daras",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 95618156,
-      "character_name": "Michael Onufrii",
-      "corporation_id": 98606531,
-      "corporation_name": "Imperium of Gold",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131974758/",
-    "total_value": 1804624238.41,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
     }
   }
