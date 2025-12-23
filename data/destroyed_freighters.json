@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 132113343,
+    "killmail_hash": "bf12d1ce15b37819952313f4ff629a7db6a5b519",
+    "kill_time": "2025-12-23T02:01:36Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119720820,
+      "character_name": "Elemfield",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132113343/",
+    "total_value": 1979903340.15,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 132112463,
+    "killmail_hash": "3840dda83ed7d2cb3036ccfb581a6dc62af6d9d3",
+    "kill_time": "2025-12-23T00:53:19Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 625550881,
+      "character_name": "Torothin",
+      "corporation_id": 98591932,
+      "corporation_name": "Crimson Dawn Enterprises",
+      "alliance_id": 99014163,
+      "alliance_name": "Bog Brotherhood"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132112463/",
+    "total_value": 10173672183.42,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
+    "killmail_id": 132110023,
+    "killmail_hash": "585b7c15c4d20a9c1e782f08fc087f63a026af33",
+    "kill_time": "2025-12-22T22:07:15Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2121672845,
+      "character_name": "Tigers Eye15",
+      "corporation_id": 98745763,
+      "corporation_name": "Bifrost Manufacturing",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132110023/",
+    "total_value": 7820348459.13,
+    "final_attacker": {
+      "character_name": "Dr Volt",
+      "corporation_name": "High Voltage Labs",
+      "alliance_name": null,
+      "ship_type_name": "Revelation"
+    }
+  },
+  {
+    "killmail_id": 132110010,
+    "killmail_hash": "d65eb6251424f6e06fa2c11990766f294a0cbc72",
+    "kill_time": "2025-12-22T22:06:54Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2121672847,
+      "character_name": "Tigers Eye13",
+      "corporation_id": 98745763,
+      "corporation_name": "Bifrost Manufacturing",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132110010/",
+    "total_value": 8021339927.33,
+    "final_attacker": {
+      "character_name": "Dr Volt",
+      "corporation_name": "High Voltage Labs",
+      "alliance_name": null,
+      "ship_type_name": "Revelation"
+    }
+  },
+  {
+    "killmail_id": 132109998,
+    "killmail_hash": "f3b4bf40619944148172a3b7075139fd5ce99f42",
+    "kill_time": "2025-12-22T22:06:27Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2121672844,
+      "character_name": "Tigers Eye16",
+      "corporation_id": 98745763,
+      "corporation_name": "Bifrost Manufacturing",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132109998/",
+    "total_value": 6115357476.88,
+    "final_attacker": {
+      "character_name": "Dr Volt",
+      "corporation_name": "High Voltage Labs",
+      "alliance_name": null,
+      "ship_type_name": "Revelation"
+    }
+  },
+  {
+    "killmail_id": 132108511,
+    "killmail_hash": "27abee3cba77d0e81be4df57a9fc0be452af43b3",
+    "kill_time": "2025-12-22T20:50:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 92190662,
+      "character_name": "Popen Fresh",
+      "corporation_id": 98390683,
+      "corporation_name": "Hogyoku",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132108511/",
+    "total_value": 2761351553.57,
+    "final_attacker": {
+      "character_name": "Xavier Flak",
+      "corporation_name": "V0LTA",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Khizriel"
+    }
+  },
+  {
     "killmail_id": 132105435,
     "killmail_hash": "42fafacaef687b5ef69727f4e96ec40e9c1e3a26",
     "kill_time": "2025-12-22T18:14:18Z",
@@ -1713,58 +1869,6 @@
       "corporation_name": "Stars Corporate Group",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 131960438,
-    "killmail_hash": "5e7dd23da3558ed8360a91c72c521f81eb092306",
-    "kill_time": "2025-12-15T21:18:04Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 681040617,
-      "character_name": "Former Champion",
-      "corporation_id": 98408491,
-      "corporation_name": "Butt Pounder Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131960438/",
-    "total_value": 44672266692.19,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131959849,
-    "killmail_hash": "12a86f7bab40b572e71cd42e7a5027f7d955b497",
-    "kill_time": "2025-12-15T20:48:14Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30045338,
-    "solar_system_name": "Hikkoken",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2120941811,
-      "character_name": "BackToJita",
-      "corporation_id": 98772013,
-      "corporation_name": "5hoes",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131959849/",
-    "total_value": 2230179786.67,
-    "final_attacker": {
-      "character_name": "Kayjitsu",
-      "corporation_name": "Stone Warriors",
-      "alliance_name": "Stone Warriors Fleet",
-      "ship_type_name": "Scythe Fleet Issue"
     }
   }
 ]
