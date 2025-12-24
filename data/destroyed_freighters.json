@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132148003,
+    "killmail_hash": "d7d4a6240c5efcb58e60948530d3570d4966d26d",
+    "kill_time": "2025-12-24T19:14:01Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000194,
+    "solar_system_name": "Otsela",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121923492,
+      "character_name": "Kush0rCake",
+      "corporation_id": 98767169,
+      "corporation_name": "Legion Ascending",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132148003/",
+    "total_value": 10763864440.23,
+    "final_attacker": {
+      "character_name": "Spodumain Slurper",
+      "corporation_name": "ROID CRACKERS",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132147324,
+    "killmail_hash": "2c7e14086b95af8da4cf039c32f392b5274d696e",
+    "kill_time": "2025-12-24T18:35:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 96262915,
+      "character_name": "Roda Xadi",
+      "corporation_id": 187842830,
+      "corporation_name": "Circus of Silence",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132147324/",
+    "total_value": 6401996647.88,
+    "final_attacker": {
+      "character_name": "Abhored Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132139962,
     "killmail_hash": "d089643e8186a4df3e53ada127d9e92154656fef",
     "kill_time": "2025-12-24T10:18:19Z",
