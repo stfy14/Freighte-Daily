@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132137862,
+    "killmail_hash": "0c830de02a360669e493fdee88d4fc49cf4b5eba",
+    "kill_time": "2025-12-24T06:59:56Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001368,
+    "solar_system_name": "Uemisaisen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2119051872,
+      "character_name": "Arbuse Brals",
+      "corporation_id": 98690202,
+      "corporation_name": "Soviet Arctic",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132137862/",
+    "total_value": 28447472263.48,
+    "final_attacker": {
+      "character_name": "Minur",
+      "corporation_name": "Empire Pirates",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 132137692,
+    "killmail_hash": "3beb9f56d1f5ebecc6a842b9d1a6593bcb5354aa",
+    "kill_time": "2025-12-24T06:44:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001668,
+    "solar_system_name": "Yong",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 93259214,
+      "character_name": "Kaliska Orti",
+      "corporation_id": 98437301,
+      "corporation_name": "The Study of Wumbology",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132137692/",
+    "total_value": 8404036354.81,
+    "final_attacker": {
+      "character_name": "Dok Regyri",
+      "corporation_name": "DoctorOzz",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Moros"
+    }
+  },
+  {
+    "killmail_id": 132137688,
+    "killmail_hash": "fd3034b00278d65e44e6490f8afe260cd84624db",
+    "kill_time": "2025-12-24T06:43:45Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001668,
+    "solar_system_name": "Yong",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 93519381,
+      "character_name": "Lilu Egnald",
+      "corporation_id": 98437301,
+      "corporation_name": "The Study of Wumbology",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132137688/",
+    "total_value": 9413349375.19,
+    "final_attacker": {
+      "character_name": "Dok Regyri",
+      "corporation_name": "DoctorOzz",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Moros"
+    }
+  },
+  {
     "killmail_id": 132129689,
     "killmail_hash": "6edf0a40bc88fe6e25f41c01c78853024cd687b0",
     "kill_time": "2025-12-23T21:25:45Z",
@@ -1945,110 +2023,6 @@
     "final_attacker": {
       "character_name": "zLegion I",
       "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 131985929,
-    "killmail_hash": "67a60956fb3d143392a8530f353ce90e907a1b37",
-    "kill_time": "2025-12-17T07:10:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1712385405,
-      "character_name": "easternbrown",
-      "corporation_id": 98148202,
-      "corporation_name": "Kenshin.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131985929/",
-    "total_value": 9437487545.18,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131985567,
-    "killmail_hash": "4a84d4334dc1fb3f8aaa2331ccbf380ea935fa8b",
-    "kill_time": "2025-12-17T06:27:14Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94014710,
-      "character_name": "5lefh gmgm",
-      "corporation_id": 1000066,
-      "corporation_name": "Viziam",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131985567/",
-    "total_value": 5077053387.46,
-    "final_attacker": {
-      "character_name": "Revan Crow",
-      "corporation_name": "The Stone Garden",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131984812,
-    "killmail_hash": "d46a37bedb0ee67ca8a82a907bebcfc4dda4f688",
-    "kill_time": "2025-12-17T05:09:26Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000037,
-    "solar_system_name": "Uplingur",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2117041386,
-      "character_name": "Terl Psychlo",
-      "corporation_id": 98815702,
-      "corporation_name": "Quark Industrial",
-      "alliance_id": 99014247,
-      "alliance_name": "Twenty Thousand Leagues Out of the SEA."
-    },
-    "zkb_url": "https://zkillboard.com/kill/131984812/",
-    "total_value": 14185516527.94,
-    "final_attacker": {
-      "character_name": "Shani Lafisques",
-      "corporation_name": "Strictly Moral Support",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131984792,
-    "killmail_hash": "b150ca3e5ce16844d1a7bb13cabe069cb285a1a3",
-    "kill_time": "2025-12-17T05:09:03Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 332931055,
-      "character_name": "CELADUS",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131984792/",
-    "total_value": 2865717263.24,
-    "final_attacker": {
-      "character_name": "3 Of Several",
-      "corporation_name": "Several Bodies One Master",
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
