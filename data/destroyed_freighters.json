@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132139962,
+    "killmail_hash": "d089643e8186a4df3e53ada127d9e92154656fef",
+    "kill_time": "2025-12-24T10:18:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120248937,
+      "character_name": "DLC3",
+      "corporation_id": 98618097,
+      "corporation_name": "ChuangShi Industry",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132139962/",
+    "total_value": 14198261337.88,
+    "final_attacker": {
+      "character_name": "Apo Bong",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 132138715,
+    "killmail_hash": "b90cafb4c7b5f89abba139edf65511d71ab8fa17",
+    "kill_time": "2025-12-24T08:22:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1350930299,
+      "character_name": "AURORA0",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132138715/",
+    "total_value": 9168413372.01,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132137862,
     "killmail_hash": "0c830de02a360669e493fdee88d4fc49cf4b5eba",
     "kill_time": "2025-12-24T06:59:56Z",
@@ -75,6 +127,32 @@
       "corporation_name": "DoctorOzz",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Moros"
+    }
+  },
+  {
+    "killmail_id": 132137142,
+    "killmail_hash": "03703379bced96f43a264f0f79608e24ba10d899",
+    "kill_time": "2025-12-24T06:06:13Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2114130086,
+      "character_name": "bingxuan 0571",
+      "corporation_id": 98725744,
+      "corporation_name": "SGtransport",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132137142/",
+    "total_value": 9264236114.32,
+    "final_attacker": {
+      "character_name": "zLegion J",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
     }
   },
   {
@@ -1999,32 +2077,6 @@
       "corporation_name": "N/A",
       "alliance_name": null,
       "ship_type_name": "Raznaborg Renewing Leshak"
-    }
-  },
-  {
-    "killmail_id": 131989043,
-    "killmail_hash": "9b1e809479e61b0e2e89771f19894057d181a653",
-    "kill_time": "2025-12-17T12:55:49Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001394,
-    "solar_system_name": "Korama",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2116365665,
-      "character_name": "Mrouth D",
-      "corporation_id": 98584433,
-      "corporation_name": "FateGrandOrder",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131989043/",
-    "total_value": 11131425881.14,
-    "final_attacker": {
-      "character_name": "zLegion I",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
