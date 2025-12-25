@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132167832,
+    "killmail_hash": "165ffd8fc160a01729f986c98fe04e5f7ab52ccf",
+    "kill_time": "2025-12-25T20:19:15Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 426641860,
+      "character_name": "Pojo",
+      "corporation_id": 98808527,
+      "corporation_name": "V.A.R.R.I.C.",
+      "alliance_id": 99014238,
+      "alliance_name": "Unbound Horizons"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132167832/",
+    "total_value": 4191522434.25,
+    "final_attacker": {
+      "character_name": "Obsidian Scar",
+      "corporation_name": "Dies Irae",
+      "alliance_name": "The Ancients.",
+      "ship_type_name": "Kikimora"
+    }
+  },
+  {
+    "killmail_id": 132164139,
+    "killmail_hash": "8ecceed62b24608313df6b9c34367714332dc88b",
+    "kill_time": "2025-12-25T16:50:05Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000164,
+    "solar_system_name": "Messoya",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94940727,
+      "character_name": "Benson Kailoic",
+      "corporation_id": 98793215,
+      "corporation_name": "Ouroboros Conglomerate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132164139/",
+    "total_value": 2598561845.21,
+    "final_attacker": {
+      "character_name": "xia erdai",
+      "corporation_name": "Arknights.",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132163914,
+    "killmail_hash": "0d72c4221cd927b1f09309d02e7e186040e12d79",
+    "kill_time": "2025-12-25T16:32:39Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1692254195,
+      "character_name": "Matth Snapper",
+      "corporation_id": 98057377,
+      "corporation_name": "Core Industry.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132163914/",
+    "total_value": 1984400741.35,
+    "final_attacker": {
+      "character_name": "Roland 99",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 132163695,
     "killmail_hash": "73c5f98dbd4d293e6c9f1493e09fa185a5b1b15d",
     "kill_time": "2025-12-25T16:14:57Z",
