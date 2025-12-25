@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132152679,
+    "killmail_hash": "6e98e03d942b513d827dfdfe01c570e9e4a05387",
+    "kill_time": "2025-12-25T00:42:43Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119737120,
+      "character_name": "Vendedor Maestro",
+      "corporation_id": 98707105,
+      "corporation_name": "Ex Pax Ultio",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132152679/",
+    "total_value": 20844669968.88,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132148003,
     "killmail_hash": "d7d4a6240c5efcb58e60948530d3570d4966d26d",
     "kill_time": "2025-12-24T19:14:01Z",
@@ -48,6 +74,32 @@
       "character_name": "Abhored Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132143288,
+    "killmail_hash": "ea7d9cddb42a1665be2786c4bc983d4d849c2626",
+    "kill_time": "2025-12-24T14:16:50Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123868637,
+      "character_name": "ACRG3",
+      "corporation_id": 98820340,
+      "corporation_name": "Project CA-B",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132143288/",
+    "total_value": 4574078758.8,
+    "final_attacker": {
+      "character_name": "Abfallprodukt der Gesellschaft",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   },
@@ -2025,84 +2077,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 131997429,
-    "killmail_hash": "24234f3019c26f25d2bc7126c77f10fc980f3e5e",
-    "kill_time": "2025-12-17T21:29:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001389,
-    "solar_system_name": "Isanamo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2116773016,
-      "character_name": "Prosysteam Chemists",
-      "corporation_id": 98635328,
-      "corporation_name": "Lighthouse Society",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131997429/",
-    "total_value": 5997144653.94,
-    "final_attacker": {
-      "character_name": "Euel Perne",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 131997034,
-    "killmail_hash": "45b609b5405382ef4d38f288f8f45e97e28aaefd",
-    "kill_time": "2025-12-17T21:09:11Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000118,
-    "solar_system_name": "Uanzin",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 96592437,
-      "character_name": "Adamas Cobon-Han",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/131997034/",
-    "total_value": 12909285926.03,
-    "final_attacker": {
-      "character_name": "Luko Melis",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 131996720,
-    "killmail_hash": "d9ac507939f16364062a8b5d5a7a43ed6f9b2e16",
-    "kill_time": "2025-12-17T20:52:53Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 96789218,
-      "character_name": "Demis T",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/131996720/",
-    "total_value": 8696804731.03,
-    "final_attacker": {
-      "character_name": "Gemini 3",
-      "corporation_name": "Xynodyne",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
