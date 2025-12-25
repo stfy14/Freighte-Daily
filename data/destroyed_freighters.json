@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132163695,
+    "killmail_hash": "73c5f98dbd4d293e6c9f1493e09fa185a5b1b15d",
+    "kill_time": "2025-12-25T16:14:57Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004706,
+    "solar_system_name": "UHKL-N",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 2118734254,
+      "character_name": "QlockHeartz Hellbourne",
+      "corporation_id": 98747248,
+      "corporation_name": "Xenospace Nexus",
+      "alliance_id": 154104258,
+      "alliance_name": "Apocalypse Now."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132163695/",
+    "total_value": 20290461326.31,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Blood Raiders",
+      "alliance_name": null,
+      "ship_type_name": "♦ Apocalypse"
+    }
+  },
+  {
     "killmail_id": 132159824,
     "killmail_hash": "be1f83fea43cac731000be6ea2beb010c97e54c5",
     "kill_time": "2025-12-25T12:09:17Z",
@@ -1973,32 +1999,6 @@
       "corporation_name": "Anoikis Equilibrium",
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 132011587,
-    "killmail_hash": "f466c71383d5b9736c58bd85ba0ba8b334e443aa",
-    "kill_time": "2025-12-18T16:30:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2120497309,
-      "character_name": "Elamaa Otichoda",
-      "corporation_id": 98722832,
-      "corporation_name": "Mostly Warping",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132011587/",
-    "total_value": 30439304702.77,
-    "final_attacker": {
-      "character_name": "Caria Huren",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
