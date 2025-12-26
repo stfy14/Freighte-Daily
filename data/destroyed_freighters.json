@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132183152,
+    "killmail_hash": "fd96645024bc34baf6ea1e4dc45e8b8301ad08a9",
+    "kill_time": "2025-12-26T15:59:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2114320537,
+      "character_name": "Jeff O-Neil",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132183152/",
+    "total_value": 3538390244.35,
+    "final_attacker": {
+      "character_name": "Little Miss Zionist",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
     "killmail_id": 132179025,
     "killmail_hash": "68d89283b01c1bc4b00a16303ed87f34aee3ae5b",
     "kill_time": "2025-12-26T11:59:06Z",
@@ -1999,32 +2025,6 @@
       "corporation_name": "DemonicAncestory.",
       "alliance_name": "Howitzers and Champagne",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132027329,
-    "killmail_hash": "c1ea85788fbfd468fea8f214dbdcd1653df24838",
-    "kill_time": "2025-12-19T12:59:49Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2119492487,
-      "character_name": "Matedalk",
-      "corporation_id": 98799062,
-      "corporation_name": "Navka Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132027329/",
-    "total_value": 35837505897.69,
-    "final_attacker": {
-      "character_name": "zLegion G",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
