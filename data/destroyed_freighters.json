@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132179025,
+    "killmail_hash": "68d89283b01c1bc4b00a16303ed87f34aee3ae5b",
+    "kill_time": "2025-12-26T11:59:06Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116371845,
+      "character_name": "WHroller 69",
+      "corporation_id": 98820015,
+      "corporation_name": "Shine Jumpy Box",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132179025/",
+    "total_value": 10447198790.54,
+    "final_attacker": {
+      "character_name": "Alex DeWalker",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132176220,
     "killmail_hash": "11853decfe0ada9faf99565aebe2ef565007d6b5",
     "kill_time": "2025-12-26T07:27:36Z",
@@ -1997,58 +2023,6 @@
     "final_attacker": {
       "character_name": "zLegion G",
       "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132025998,
-    "killmail_hash": "3859e387414152ab27e998ad8f11fb5243532099",
-    "kill_time": "2025-12-19T10:52:32Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 349884826,
-      "character_name": "alphapharm",
-      "corporation_id": 583616018,
-      "corporation_name": "Black Aces",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132025998/",
-    "total_value": 9818851397.63,
-    "final_attacker": {
-      "character_name": "Hyper Kiwi",
-      "corporation_name": "Shadow Legion X",
-      "alliance_name": "Seriously Suspicious",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132024948,
-    "killmail_hash": "57037f2d83dfc7d7cf7e719d6a345e22e51f833a",
-    "kill_time": "2025-12-19T08:56:58Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 92997730,
-      "character_name": "Kathy Infernus",
-      "corporation_id": 98749774,
-      "corporation_name": "The Bishops Logistics",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132024948/",
-    "total_value": 36182523478.2,
-    "final_attacker": {
-      "character_name": "Minur",
-      "corporation_name": "Empire Pirates",
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
