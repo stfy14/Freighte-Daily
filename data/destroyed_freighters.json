@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132176220,
+    "killmail_hash": "11853decfe0ada9faf99565aebe2ef565007d6b5",
+    "kill_time": "2025-12-26T07:27:36Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002767,
+    "solar_system_name": "Kubinen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122710598,
+      "character_name": "Konuko Ispur",
+      "corporation_id": 98818541,
+      "corporation_name": "Hadley's Hope Mining and Research",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132176220/",
+    "total_value": 2017543835.5,
+    "final_attacker": {
+      "character_name": "Monika Townsendt",
+      "corporation_name": "Special Assault Unit",
+      "alliance_name": "Synergy of Steel",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
+    "killmail_id": 132174793,
+    "killmail_hash": "ef2250bd68e2a8b27e3c7892d9d4c84faaec2af0",
+    "kill_time": "2025-12-26T04:48:56Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121441251,
+      "character_name": "Bank Gremlin",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132174793/",
+    "total_value": 2299773387.43,
+    "final_attacker": {
+      "character_name": "Hadom",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132174685,
+    "killmail_hash": "5176b4bbcd6634e262d05fe3f53f59d8a0a8dd0b",
+    "kill_time": "2025-12-26T04:39:35Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2115524968,
+      "character_name": "MG Gold",
+      "corporation_id": 635210548,
+      "corporation_name": "Fusion Enterprises Ltd",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132174685/",
+    "total_value": 9135028545.23,
+    "final_attacker": {
+      "character_name": "H3llblazer",
+      "corporation_name": "Heretic Army",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 132174310,
     "killmail_hash": "d877145d3017ffae2fda0d85e89267d101be5cea",
     "kill_time": "2025-12-26T03:57:53Z",
