@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132196567,
+    "killmail_hash": "074cac998376dc33042d86200e153ad99bcba150",
+    "kill_time": "2025-12-27T04:19:09Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 91164308,
+      "character_name": "Zeko Miromme",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132196567/",
+    "total_value": 3311579899.68,
+    "final_attacker": {
+      "character_name": "Charlotte Hazelrink",
+      "corporation_name": "Rita's choice",
+      "alliance_name": null,
+      "ship_type_name": "Raven"
+    }
+  },
+  {
     "killmail_id": 132190258,
     "killmail_hash": "4b7353bdf7615e2a1c8aa8fbf3016cad02b6f892",
     "kill_time": "2025-12-26T21:38:05Z",
@@ -2025,58 +2051,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132042738,
-    "killmail_hash": "9afac67d2bf9fc5ec80b8dcc5a13f7588343171b",
-    "kill_time": "2025-12-20T03:59:39Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92238033,
-      "character_name": "weawen necroschild",
-      "corporation_id": 98695967,
-      "corporation_name": "Shackled Vault",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132042738/",
-    "total_value": 5319565713.67,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
-    }
-  },
-  {
-    "killmail_id": 132042155,
-    "killmail_hash": "19b0e5bf93c57bd5e8fbd0bf6a951f0dabf94312",
-    "kill_time": "2025-12-20T03:18:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 91139143,
-      "character_name": "flojack Achasse",
-      "corporation_id": 98083089,
-      "corporation_name": "Redhogs",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132042155/",
-    "total_value": 2151193496.79,
-    "final_attacker": {
-      "character_name": "zuline",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Manticore"
     }
   }
 ]
