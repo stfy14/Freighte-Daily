@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132208897,
+    "killmail_hash": "4cb6d3d9c1c804864437481030e8c9d466704ca5",
+    "kill_time": "2025-12-27T17:23:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 383148690,
+      "character_name": "Ula",
+      "corporation_id": 904355729,
+      "corporation_name": "Jurchen",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132208897/",
+    "total_value": 2021045713.15,
+    "final_attacker": {
+      "character_name": "Charlotte Hazelrink",
+      "corporation_name": "Rita's choice",
+      "alliance_name": null,
+      "ship_type_name": "Raven"
+    }
+  },
+  {
     "killmail_id": 132200596,
     "killmail_hash": "a0af24857df8f16695762bffff339087e7b2ca31",
     "kill_time": "2025-12-27T09:33:41Z",
@@ -1895,84 +1921,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132058973,
-    "killmail_hash": "854e440031dc38086a54ac7cc9c4992b817adcb9",
-    "kill_time": "2025-12-20T20:16:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2113939999,
-      "character_name": "Cody Hakoke",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132058973/",
-    "total_value": 4778571065.47,
-    "final_attacker": {
-      "character_name": "Navy'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132057672,
-    "killmail_hash": "e6a88b5b33bc3c3c13e153dd58b9e504da5237a4",
-    "kill_time": "2025-12-20T19:24:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005000,
-    "solar_system_name": "Old Man Star",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 2123449417,
-      "character_name": "vt2asia",
-      "corporation_id": 98806453,
-      "corporation_name": "Mining Corp LLC.",
-      "alliance_id": 99014524,
-      "alliance_name": "Silhouettes."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132057672/",
-    "total_value": 1981450519.81,
-    "final_attacker": {
-      "character_name": "Turance Yahzria",
-      "corporation_name": "No Vacancies",
-      "alliance_name": "No Vacancies.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132054915,
-    "killmail_hash": "43440510d0adb8d755875fdfada0ebe8196ed5c4",
-    "kill_time": "2025-12-20T17:10:15Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93936960,
-      "character_name": "Quang Regalus",
-      "corporation_id": 98521526,
-      "corporation_name": "Regalus Trade Union",
-      "alliance_id": 99013759,
-      "alliance_name": "Imurukka Conglomerate"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132054915/",
-    "total_value": 9059812945.73,
-    "final_attacker": {
-      "character_name": "Herbiderpi",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
