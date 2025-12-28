@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132238958,
+    "killmail_hash": "cafc89b72db05c5b80f3edee835b8d85dfb13be2",
+    "kill_time": "2025-12-28T19:22:59Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004472,
+    "solar_system_name": "RIT-A7",
+    "region_name": "Feythabolis",
+    "victim": {
+      "character_id": 2123804115,
+      "character_name": "OREyouwinning",
+      "corporation_id": 98665672,
+      "corporation_name": "Rise Of Exiles",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132238958/",
+    "total_value": 2618112650.14,
+    "final_attacker": {
+      "character_name": "MerlinWR",
+      "corporation_name": "Beach Boys",
+      "alliance_name": "The Minions.",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 132237046,
+    "killmail_hash": "1157f8fa126f7fca9795680cbeaea8294c27c51a",
+    "kill_time": "2025-12-28T18:01:57Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1678702726,
+      "character_name": "Zerellis Ensa",
+      "corporation_id": 1452910096,
+      "corporation_name": "Estrale Frontiers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132237046/",
+    "total_value": 4828749331.49,
+    "final_attacker": {
+      "character_name": "Belt Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132235683,
+    "killmail_hash": "0672b461474a812703d358f7b49b3953f07bd37d",
+    "kill_time": "2025-12-28T16:52:01Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30004833,
+    "solar_system_name": "KW-OAM",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 566881330,
+      "character_name": "Daelic Shadowolf",
+      "corporation_id": 98780132,
+      "corporation_name": "30plus LLC",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132235683/",
+    "total_value": 2152430861.47,
+    "final_attacker": {
+      "character_name": "POMAH HETOBIR",
+      "corporation_name": "Pocket Tiger",
+      "alliance_name": "Ant Tiger",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132234096,
     "killmail_hash": "ebb833a6d9e88dcab34ff23a6d6f93e91f25e26a",
     "kill_time": "2025-12-28T15:35:52Z",
@@ -1921,32 +1999,6 @@
       "corporation_name": "Africanized Enraged HIV Wasps",
       "alliance_name": "ur dunked",
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 132086471,
-    "killmail_hash": "c9acea578073ae320c820f09b058c8bd7a40a812",
-    "kill_time": "2025-12-21T20:16:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002411,
-    "solar_system_name": "Skarkon",
-    "region_name": "Pochven",
-    "victim": {
-      "character_id": 2113564212,
-      "character_name": "Dale Maily",
-      "corporation_id": 98540794,
-      "corporation_name": "Dudreda Real News Corp Inc Ltd",
-      "alliance_id": 99011606,
-      "alliance_name": "Strange Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132086471/",
-    "total_value": 2012942242.23,
-    "final_attacker": {
-      "character_name": "Manguejus",
-      "corporation_name": "Texas of Requiem",
-      "alliance_name": "Texas.",
-      "ship_type_name": "Barghest"
     }
   }
 ]
