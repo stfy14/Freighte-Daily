@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 132229407,
+    "killmail_hash": "11c8940c1b50a658ceff32a74a7faced2e992f3e",
+    "kill_time": "2025-12-28T12:03:06Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112225199,
+      "character_name": "Elliot Stark",
+      "corporation_id": 98721350,
+      "corporation_name": "Angry Midlife Aliens",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132229407/",
+    "total_value": 2017920660.6,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 132228619,
+    "killmail_hash": "55660b4d7ec598a056461802b9d50263ad52e805",
+    "kill_time": "2025-12-28T10:56:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1382935206,
+      "character_name": "DIctator127",
+      "corporation_id": 98273983,
+      "corporation_name": "DIctator127 land",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132228619/",
+    "total_value": 1822347897.14,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 132228332,
+    "killmail_hash": "dc1d5b841c7d7d666fcbe74bbfcf7c7eb6bd9e74",
+    "kill_time": "2025-12-28T10:28:37Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000156,
+    "solar_system_name": "Josameto",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95710079,
+      "character_name": "Turas Arsten",
+      "corporation_id": 98004509,
+      "corporation_name": "Fabin Innovations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132228332/",
+    "total_value": 4339602134.39,
+    "final_attacker": {
+      "character_name": "Little Miss Stubborn",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 132228320,
+    "killmail_hash": "8afdd98ecab33b7859339b1bb244236a5e452100",
+    "kill_time": "2025-12-28T10:27:49Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122252155,
+      "character_name": "shikongsa",
+      "corporation_id": 98808817,
+      "corporation_name": "Knight of Zero Ultra",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132228320/",
+    "total_value": 1983793583.65,
+    "final_attacker": {
+      "character_name": "Luukje",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
     "killmail_id": 132222617,
     "killmail_hash": "3e889454705d6af01881fb08138e8e456c80e460",
     "kill_time": "2025-12-28T03:34:23Z",
@@ -1765,84 +1869,6 @@
       "corporation_name": "Beyond Redemption Corp",
       "alliance_name": "Beyond Redemption.",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132074614,
-    "killmail_hash": "8b178becdb15b1376d9c74b4cd9fec888e81825c",
-    "kill_time": "2025-12-21T12:21:29Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113649123,
-      "character_name": "specter Haginen",
-      "corporation_id": 1000006,
-      "corporation_name": "Deep Core Mining Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132074614/",
-    "total_value": 20789995219.17,
-    "final_attacker": {
-      "character_name": "Mk18",
-      "corporation_name": "The Skies Descend",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132073692,
-    "killmail_hash": "a15d407830411bb274837511151274abe25d556b",
-    "kill_time": "2025-12-21T11:07:40Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122200365,
-      "character_name": "FullDeck",
-      "corporation_id": 98698983,
-      "corporation_name": "Scan Stakan",
-      "alliance_id": 99012122,
-      "alliance_name": "HOLD MY PROBS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132073692/",
-    "total_value": 1983209131.48,
-    "final_attacker": {
-      "character_name": "Error404BrainNotFound",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 132073615,
-    "killmail_hash": "5cd76d23fbd58a69db4f496902c07f7335d3c5e3",
-    "kill_time": "2025-12-21T10:55:50Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000134,
-    "solar_system_name": "Hykkota",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96784923,
-      "character_name": "Draken Nakrar",
-      "corporation_id": 98500828,
-      "corporation_name": "DogsoldierZ",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132073615/",
-    "total_value": 10708663394.33,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
