@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132240696,
+    "killmail_hash": "30428a07d37b61e2cc67036ee7554fa7e8eb130a",
+    "kill_time": "2025-12-28T20:30:09Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003833,
+    "solar_system_name": "Oulley",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2122152258,
+      "character_name": "Ouelletta Saissore",
+      "corporation_id": 98767648,
+      "corporation_name": "Beryll Research Corp",
+      "alliance_id": 99010193,
+      "alliance_name": "Ivy League Alt Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132240696/",
+    "total_value": 6459146465.72,
+    "final_attacker": {
+      "character_name": "Alex DeWalker",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132238958,
     "killmail_hash": "cafc89b72db05c5b80f3edee835b8d85dfb13be2",
     "kill_time": "2025-12-28T19:22:59Z",
@@ -1895,110 +1921,6 @@
       "corporation_name": "Monkey Out of Sleeve",
       "alliance_name": "Brotherhood of Spacers",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 132092418,
-    "killmail_hash": "fb4e43738aee4f1f8637ee9ed86eae6c5df37ee2",
-    "kill_time": "2025-12-22T01:36:39Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120380458,
-      "character_name": "A'Seliya Sharvas",
-      "corporation_id": 98721754,
-      "corporation_name": "A'Seliya Industry",
-      "alliance_id": 99009287,
-      "alliance_name": "Beyond the Breach"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132092418/",
-    "total_value": 10441226776.74,
-    "final_attacker": {
-      "character_name": "Achylies",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132090936,
-    "killmail_hash": "d591ddd48f7b9a4c646a9aa912378e4f2ca39caa",
-    "kill_time": "2025-12-21T23:53:53Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000241,
-    "solar_system_name": "YMJG-4",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116365665,
-      "character_name": "Mrouth D",
-      "corporation_id": 98584433,
-      "corporation_name": "FateGrandOrder",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132090936/",
-    "total_value": 2328737828.54,
-    "final_attacker": {
-      "character_name": "Vladislav Matviienko",
-      "corporation_name": "Memento. Mori.",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 132090347,
-    "killmail_hash": "ede805a570988b7f595db75af31a0470324f0d02",
-    "kill_time": "2025-12-21T23:13:55Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 410066171,
-      "character_name": "Catil Zade",
-      "corporation_id": 1637311014,
-      "corporation_name": "Brobdingnagians",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132090347/",
-    "total_value": 9205879210.06,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132087445,
-    "killmail_hash": "ffa6136084993752b209e24587f95f44bf8f75c8",
-    "kill_time": "2025-12-21T20:46:43Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93156716,
-      "character_name": "Sven-Florence Af Takstol",
-      "corporation_id": 1000066,
-      "corporation_name": "Viziam",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132087445/",
-    "total_value": 9083042818.32,
-    "final_attacker": {
-      "character_name": "Dankeguy",
-      "corporation_name": "Africanized Enraged HIV Wasps",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
     }
   }
 ]
