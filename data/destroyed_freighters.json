@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132254357,
+    "killmail_hash": "cc9a5c1139cdbc8dfbfa77894c855d9c2f28083c",
+    "kill_time": "2025-12-29T11:34:02Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003833,
+    "solar_system_name": "Oulley",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2118155497,
+      "character_name": "Tobias Bennett",
+      "corporation_id": 928402720,
+      "corporation_name": "Mystical Knights",
+      "alliance_id": 99008905,
+      "alliance_name": "EZ. Street"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132254357/",
+    "total_value": 7962892095.55,
+    "final_attacker": {
+      "character_name": "Loredana Cameron",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132251405,
     "killmail_hash": "5e1b94740802b7daf6cd352121acaf210c96cdbb",
     "kill_time": "2025-12-29T06:56:48Z",
@@ -1817,84 +1843,6 @@
       "corporation_name": "Violent Collective",
       "alliance_name": null,
       "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 132099020,
-    "killmail_hash": "6b6f4d572858e3c228e0f27a97e0a4e953125d04",
-    "kill_time": "2025-12-22T11:40:33Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 548259448,
-      "character_name": "KabraPL",
-      "corporation_id": 98032908,
-      "corporation_name": "Point Refuge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132099020/",
-    "total_value": 2018381843.12,
-    "final_attacker": {
-      "character_name": "n1tsuj",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132098584,
-    "killmail_hash": "8384f40f03085db97dc293e0805da3c2e96f73ca",
-    "kill_time": "2025-12-22T10:49:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118270216,
-      "character_name": "Katherin Regulus",
-      "corporation_id": 98768922,
-      "corporation_name": "Produce Krabbers",
-      "alliance_id": 99012162,
-      "alliance_name": "The Chicken Coop"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132098584/",
-    "total_value": 12571065345.19,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132097643,
-    "killmail_hash": "b1be92e1354f233b679bf94f4c78837b84a00b63",
-    "kill_time": "2025-12-22T09:11:50Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 798733978,
-      "character_name": "Mynisha",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132097643/",
-    "total_value": 3379167272.78,
-    "final_attacker": {
-      "character_name": "Little Miss Jealous",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
     }
   }
 ]
