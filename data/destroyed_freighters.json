@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132281194,
+    "killmail_hash": "b08b28867cb1a8b16f58de361399174e983b23e3",
+    "kill_time": "2025-12-30T15:12:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122098552,
+      "character_name": "Zelotes Rockhunter",
+      "corporation_id": 98595099,
+      "corporation_name": "Vanguard Dynamics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132281194/",
+    "total_value": 11079862189.22,
+    "final_attacker": {
+      "character_name": "SCP9400",
+      "corporation_name": "Maxx-C",
+      "alliance_name": "Yu-Gi-Oh Duel",
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
     "killmail_id": 132275380,
     "killmail_hash": "72fb0d73beb46f356a5515300e7aec2a8fe441b5",
     "kill_time": "2025-12-30T08:33:35Z",
@@ -1869,110 +1895,6 @@
       "corporation_name": "Ominous Hole Protection Services",
       "alliance_name": null,
       "ship_type_name": "Coercer Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132124275,
-    "killmail_hash": "d3b8dd0a9bee9a21274d162ae07016ebf5cff748",
-    "kill_time": "2025-12-23T16:28:30Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121749211,
-      "character_name": "Yuriko Yosimoto",
-      "corporation_id": 2082062386,
-      "corporation_name": "Watch your six",
-      "alliance_id": 99007629,
-      "alliance_name": "Ferrata Victrix"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132124275/",
-    "total_value": 2015274317.13,
-    "final_attacker": {
-      "character_name": "Elphy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132122775,
-    "killmail_hash": "752710307b6e5013adb245f4424f1d6c3338ffd5",
-    "kill_time": "2025-12-23T15:05:53Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002577,
-    "solar_system_name": "Bundindus",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2121133834,
-      "character_name": "Hammon Erkkinen",
-      "corporation_id": 98558506,
-      "corporation_name": "A Blessed Bean",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132122775/",
-    "total_value": 23179101776.08,
-    "final_attacker": {
-      "character_name": "Niruat",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132121450,
-    "killmail_hash": "e85001b0295c86256fdf65ccbfce371bd03162d0",
-    "kill_time": "2025-12-23T14:04:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113676510,
-      "character_name": "Rhea Tzashi",
-      "corporation_id": 1404698852,
-      "corporation_name": "Der Schatten",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132121450/",
-    "total_value": 1810204940.14,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132120443,
-    "killmail_hash": "f7b6df85cb1d04be91a37180c30914736ce11e7b",
-    "kill_time": "2025-12-23T13:05:52Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118741874,
-      "character_name": "ip Stareine",
-      "corporation_id": 98707601,
-      "corporation_name": "ip mayo Production",
-      "alliance_id": 99011267,
-      "alliance_name": "Siege Green Friends"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132120443/",
-    "total_value": 1981275993.29,
-    "final_attacker": {
-      "character_name": "DemonicProstitute",
-      "corporation_name": "DemonicAncestory.",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Moros"
     }
   }
 ]
