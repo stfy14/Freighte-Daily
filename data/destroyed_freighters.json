@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 132269975,
+    "killmail_hash": "48d59f57978bb5b9ab67df6277081649679584bb",
+    "kill_time": "2025-12-30T01:38:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003522,
+    "solar_system_name": "Sarum Prime",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2117659940,
+      "character_name": "Kaylen Kross",
+      "corporation_id": 98732877,
+      "corporation_name": "Iron Whales",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132269975/",
+    "total_value": 3318131001.71,
+    "final_attacker": {
+      "character_name": "Illyasviel Von Eizbern",
+      "corporation_name": "Fist By Fist",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 132268175,
+    "killmail_hash": "e64cc66e6dfe319c697b71e8b9e9900fb24b961e",
+    "kill_time": "2025-12-29T23:26:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1854360116,
+      "character_name": "Brother Clotten",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132268175/",
+    "total_value": 2225204292.29,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132267537,
+    "killmail_hash": "82c3e9703aabe7925b2e9ea5330a1c05e9d26fe1",
+    "kill_time": "2025-12-29T22:49:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115510148,
+      "character_name": "Rangers Blackwood",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132267537/",
+    "total_value": 3000014511.34,
+    "final_attacker": {
+      "character_name": "Anima Shy",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Odysseus"
+    }
+  },
+  {
+    "killmail_id": 132266317,
+    "killmail_hash": "6063432825e10d1719bddc84afa72f277698e80b",
+    "kill_time": "2025-12-29T21:44:03Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121631249,
+      "character_name": "Zandor Udan",
+      "corporation_id": 98793933,
+      "corporation_name": "BigBrainProducers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132266317/",
+    "total_value": 1822489972.4,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
     "killmail_id": 132259293,
     "killmail_hash": "56a0a3187c9085fb3b3ca3b772de451a8ffceb09",
     "kill_time": "2025-12-29T16:07:35Z",
@@ -1765,188 +1869,6 @@
       "corporation_name": "Xenomine Industries",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Phoenix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132113343,
-    "killmail_hash": "bf12d1ce15b37819952313f4ff629a7db6a5b519",
-    "kill_time": "2025-12-23T02:01:36Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2119720820,
-      "character_name": "Elemfield",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132113343/",
-    "total_value": 1979903340.15,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 132112463,
-    "killmail_hash": "3840dda83ed7d2cb3036ccfb581a6dc62af6d9d3",
-    "kill_time": "2025-12-23T00:53:19Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 625550881,
-      "character_name": "Torothin",
-      "corporation_id": 98591932,
-      "corporation_name": "Crimson Dawn Enterprises",
-      "alliance_id": 99014163,
-      "alliance_name": "Bog Brotherhood"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132112463/",
-    "total_value": 10173672183.42,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Valravn"
-    }
-  },
-  {
-    "killmail_id": 132110023,
-    "killmail_hash": "585b7c15c4d20a9c1e782f08fc087f63a026af33",
-    "kill_time": "2025-12-22T22:07:15Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2121672845,
-      "character_name": "Tigers Eye15",
-      "corporation_id": 98745763,
-      "corporation_name": "Bifrost Manufacturing",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132110023/",
-    "total_value": 7820348459.13,
-    "final_attacker": {
-      "character_name": "Dr Volt",
-      "corporation_name": "High Voltage Labs",
-      "alliance_name": null,
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 132110010,
-    "killmail_hash": "d65eb6251424f6e06fa2c11990766f294a0cbc72",
-    "kill_time": "2025-12-22T22:06:54Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2121672847,
-      "character_name": "Tigers Eye13",
-      "corporation_id": 98745763,
-      "corporation_name": "Bifrost Manufacturing",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132110010/",
-    "total_value": 8021339927.33,
-    "final_attacker": {
-      "character_name": "Dr Volt",
-      "corporation_name": "High Voltage Labs",
-      "alliance_name": null,
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 132109998,
-    "killmail_hash": "f3b4bf40619944148172a3b7075139fd5ce99f42",
-    "kill_time": "2025-12-22T22:06:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2121672844,
-      "character_name": "Tigers Eye16",
-      "corporation_id": 98745763,
-      "corporation_name": "Bifrost Manufacturing",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132109998/",
-    "total_value": 6115357476.88,
-    "final_attacker": {
-      "character_name": "Dr Volt",
-      "corporation_name": "High Voltage Labs",
-      "alliance_name": null,
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 132109425,
-    "killmail_hash": "4873fc4fa31c523bfbbab93155bca29dcc50d0e7",
-    "kill_time": "2025-12-22T21:41:10Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95631913,
-      "character_name": "Gugeor Darine",
-      "corporation_id": 98427948,
-      "corporation_name": "Narnia Pharmaceuticals",
-      "alliance_id": 99012936,
-      "alliance_name": "Daughters of Ane"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132109425/",
-    "total_value": 14071517840.84,
-    "final_attacker": {
-      "character_name": "zLegion B",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132108511,
-    "killmail_hash": "27abee3cba77d0e81be4df57a9fc0be452af43b3",
-    "kill_time": "2025-12-22T20:50:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 92190662,
-      "character_name": "Popen Fresh",
-      "corporation_id": 98390683,
-      "corporation_name": "Hogyoku",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132108511/",
-    "total_value": 2761351553.57,
-    "final_attacker": {
-      "character_name": "Xavier Flak",
-      "corporation_name": "V0LTA",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Khizriel"
     }
   }
 ]
