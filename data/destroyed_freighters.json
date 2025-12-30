@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132275380,
+    "killmail_hash": "72fb0d73beb46f356a5515300e7aec2a8fe441b5",
+    "kill_time": "2025-12-30T08:33:35Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003968,
+    "solar_system_name": "W-IX39",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 96052203,
+      "character_name": "Akiria wakizashi",
+      "corporation_id": 98451868,
+      "corporation_name": "Les Petits Pedestres",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132275380/",
+    "total_value": 2195467563.31,
+    "final_attacker": {
+      "character_name": "min mie",
+      "corporation_name": "Alkaid Broken Army",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132273540,
+    "killmail_hash": "87236527585feb75db8b8bcf89ac7347c72a35d4",
+    "kill_time": "2025-12-30T05:49:18Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95739837,
+      "character_name": "Kami Ellecon",
+      "corporation_id": 98578907,
+      "corporation_name": "jevDan United",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132273540/",
+    "total_value": 1994509682.76,
+    "final_attacker": {
+      "character_name": "Zemi Guazabara",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132271182,
     "killmail_hash": "6873227f0fb8a3512454bbd0e33ed7e307325928",
     "kill_time": "2025-12-30T03:03:08Z",
