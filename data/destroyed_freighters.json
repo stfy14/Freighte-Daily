@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132298178,
+    "killmail_hash": "aeee63aa35db231c2b750bec22b574767ad55b6b",
+    "kill_time": "2025-12-31T07:03:50Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 91965190,
+      "character_name": "Fabienne Faust",
+      "corporation_id": 98102106,
+      "corporation_name": "One Percent Tax Rate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132298178/",
+    "total_value": 2789473250.45,
+    "final_attacker": {
+      "character_name": "l am Gundam",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 132295339,
     "killmail_hash": "9b1e7c0d387a03ee20f25cf850389e016479c49e",
     "kill_time": "2025-12-31T03:16:57Z",
@@ -1867,136 +1893,6 @@
     "final_attacker": {
       "character_name": "Apo Bong",
       "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132138715,
-    "killmail_hash": "b90cafb4c7b5f89abba139edf65511d71ab8fa17",
-    "kill_time": "2025-12-24T08:22:28Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1350930299,
-      "character_name": "AURORA0",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132138715/",
-    "total_value": 9168413372.01,
-    "final_attacker": {
-      "character_name": "zLegion",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132137862,
-    "killmail_hash": "0c830de02a360669e493fdee88d4fc49cf4b5eba",
-    "kill_time": "2025-12-24T06:59:56Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001368,
-    "solar_system_name": "Uemisaisen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2119051872,
-      "character_name": "Arbuse Brals",
-      "corporation_id": 98690202,
-      "corporation_name": "Soviet Arctic",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132137862/",
-    "total_value": 28447472263.48,
-    "final_attacker": {
-      "character_name": "Minur",
-      "corporation_name": "Empire Pirates",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132137692,
-    "killmail_hash": "3beb9f56d1f5ebecc6a842b9d1a6593bcb5354aa",
-    "kill_time": "2025-12-24T06:44:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001668,
-    "solar_system_name": "Yong",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 93259214,
-      "character_name": "Kaliska Orti",
-      "corporation_id": 98437301,
-      "corporation_name": "The Study of Wumbology",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132137692/",
-    "total_value": 8404036354.81,
-    "final_attacker": {
-      "character_name": "Dok Regyri",
-      "corporation_name": "DoctorOzz",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Moros"
-    }
-  },
-  {
-    "killmail_id": 132137688,
-    "killmail_hash": "fd3034b00278d65e44e6490f8afe260cd84624db",
-    "kill_time": "2025-12-24T06:43:45Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001668,
-    "solar_system_name": "Yong",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 93519381,
-      "character_name": "Lilu Egnald",
-      "corporation_id": 98437301,
-      "corporation_name": "The Study of Wumbology",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132137688/",
-    "total_value": 9413349375.19,
-    "final_attacker": {
-      "character_name": "Dok Regyri",
-      "corporation_name": "DoctorOzz",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Moros"
-    }
-  },
-  {
-    "killmail_id": 132137142,
-    "killmail_hash": "03703379bced96f43a264f0f79608e24ba10d899",
-    "kill_time": "2025-12-24T06:06:13Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114130086,
-      "character_name": "bingxuan 0571",
-      "corporation_id": 98725744,
-      "corporation_name": "SGtransport",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132137142/",
-    "total_value": 9264236114.32,
-    "final_attacker": {
-      "character_name": "zLegion J",
-      "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
