@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132292840,
+    "killmail_hash": "c878f43dd682456baba717e20341da8ba5373a98",
+    "kill_time": "2025-12-31T00:07:16Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122726276,
+      "character_name": "Muncher of Anus",
+      "corporation_id": 98792834,
+      "corporation_name": "Firille Logistics",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132292840/",
+    "total_value": 10092717896.87,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132292047,
+    "killmail_hash": "e2dbe4e6a870f8db6fc1579a63853a1dd9fe2eaf",
+    "kill_time": "2025-12-30T23:41:18Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117666573,
+      "character_name": "IaLTO",
+      "corporation_id": 98788285,
+      "corporation_name": "The Logisticians",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132292047/",
+    "total_value": 10242711629.26,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132286255,
     "killmail_hash": "4ca519467433f73e6832f3444036f1369f177c48",
     "kill_time": "2025-12-30T19:31:09Z",
@@ -49,6 +101,58 @@
       "corporation_name": "2 Slow 2 Win 2 Dumb 2 Quit",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Moros Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132284141,
+    "killmail_hash": "0f742a535ed6469c6ba455aeef7218f1c47f9375",
+    "kill_time": "2025-12-30T17:54:39Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119741449,
+      "character_name": "Tempest04",
+      "corporation_id": 98778105,
+      "corporation_name": "Galactic Industries SA",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132284141/",
+    "total_value": 11761569613.87,
+    "final_attacker": {
+      "character_name": "Gate Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 132281341,
+    "killmail_hash": "547db159a53c44d1ca10d19f8bde71313364b750",
+    "kill_time": "2025-12-30T15:19:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114660231,
+      "character_name": "Wang ZZ",
+      "corporation_id": 98104182,
+      "corporation_name": "East T",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132281341/",
+    "total_value": 4942340651.85,
+    "final_attacker": {
+      "character_name": "Belt Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -1843,84 +1947,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132129689,
-    "killmail_hash": "6edf0a40bc88fe6e25f41c01c78853024cd687b0",
-    "kill_time": "2025-12-23T21:25:45Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004054,
-    "solar_system_name": "Q-UA3C",
-    "region_name": "Cloud Ring",
-    "victim": {
-      "character_id": 2123048617,
-      "character_name": "Ceremony",
-      "corporation_id": 1000171,
-      "corporation_name": "Republic University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132129689/",
-    "total_value": 2210724087.6,
-    "final_attacker": {
-      "character_name": "d1rtt",
-      "corporation_name": "STK Scientific",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Muninn"
-    }
-  },
-  {
-    "killmail_id": 132129668,
-    "killmail_hash": "6f6087b9feef301734750271edc6dc768a7df15b",
-    "kill_time": "2025-12-23T21:24:51Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004054,
-    "solar_system_name": "Q-UA3C",
-    "region_name": "Cloud Ring",
-    "victim": {
-      "character_id": 95166957,
-      "character_name": "Jennifer abbreviation",
-      "corporation_id": 98726719,
-      "corporation_name": "Big Dong Energy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132129668/",
-    "total_value": 2026519560.11,
-    "final_attacker": {
-      "character_name": "URDEAD2ME",
-      "corporation_name": "Comply Or Die",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Muninn"
-    }
-  },
-  {
-    "killmail_id": 132129452,
-    "killmail_hash": "8103b5e769b1dc597a12beb47e9fcb29274640d8",
-    "kill_time": "2025-12-23T21:11:23Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30005195,
-    "solar_system_name": "Vecamia",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 95936185,
-      "character_name": "Asimon216",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132129452/",
-    "total_value": 12382986616.92,
-    "final_attacker": {
-      "character_name": "MineDude777",
-      "corporation_name": "Prostate Jackhammer",
-      "alliance_name": "Daughters of Ane",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
