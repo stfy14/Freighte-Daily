@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132295339,
+    "killmail_hash": "9b1e7c0d387a03ee20f25cf850389e016479c49e",
+    "kill_time": "2025-12-31T03:16:57Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 960998385,
+      "character_name": "Shadow Queen1",
+      "corporation_id": 159398714,
+      "corporation_name": "LEGION OF DEATHADDERS",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132295339/",
+    "total_value": 3830088364.44,
+    "final_attacker": {
+      "character_name": "Yellow'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132295032,
+    "killmail_hash": "a5f7cfe292dc5cb761266073579edfe30bf34715",
+    "kill_time": "2025-12-31T02:55:52Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122528100,
+      "character_name": "Li Shunsheng",
+      "corporation_id": 98732722,
+      "corporation_name": "The Shattered Legions",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132295032/",
+    "total_value": 8077642000.75,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 132292840,
     "killmail_hash": "c878f43dd682456baba717e20341da8ba5373a98",
     "kill_time": "2025-12-31T00:07:16Z",
