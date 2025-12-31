@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132300770,
+    "killmail_hash": "70e5254108a94d52b721e43338afb9db29ce287b",
+    "kill_time": "2025-12-31T11:16:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003899,
+    "solar_system_name": "Vezila",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2113965646,
+      "character_name": "Melissa Akachi",
+      "corporation_id": 98817201,
+      "corporation_name": "Space Eagles From Space Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132300770/",
+    "total_value": 5775335382.77,
+    "final_attacker": {
+      "character_name": "discusman Tsero",
+      "corporation_name": "Dead and Delirious",
+      "alliance_name": "BBQ BOIS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132298178,
     "killmail_hash": "aeee63aa35db231c2b750bec22b574767ad55b6b",
     "kill_time": "2025-12-31T07:03:50Z",
@@ -127,6 +153,32 @@
       "corporation_name": "Best Cool Stories",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132288245,
+    "killmail_hash": "781692cf68e5046a370c8e34e3507ab831e5822a",
+    "kill_time": "2025-12-30T20:55:35Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1160146404,
+      "character_name": "Rixhar",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132288245/",
+    "total_value": 8018517144.79,
+    "final_attacker": {
+      "character_name": "Braingirl",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
     }
   },
   {
@@ -1869,32 +1921,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132139962,
-    "killmail_hash": "d089643e8186a4df3e53ada127d9e92154656fef",
-    "kill_time": "2025-12-24T10:18:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120248937,
-      "character_name": "DLC3",
-      "corporation_id": 98618097,
-      "corporation_name": "ChuangShi Industry",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132139962/",
-    "total_value": 14198261337.88,
-    "final_attacker": {
-      "character_name": "Apo Bong",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
