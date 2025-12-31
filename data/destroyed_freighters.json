@@ -520,6 +520,32 @@
     }
   },
   {
+    "killmail_id": 132267222,
+    "killmail_hash": "d3d1d5327d1167765433f38e3fada07a5c3e8830",
+    "kill_time": "2025-12-29T22:32:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118185453,
+      "character_name": "Black-Thunder",
+      "corporation_id": 98797323,
+      "corporation_name": "KryptoThunder-Clad COOP",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132267222/",
+    "total_value": 4802243433.2,
+    "final_attacker": {
+      "character_name": "Belt Patrol",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132266317,
     "killmail_hash": "6063432825e10d1719bddc84afa72f277698e80b",
     "kill_time": "2025-12-29T21:44:03Z",
@@ -569,6 +595,32 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 132257262,
+    "killmail_hash": "1ea348c2f0b3be23b71acd9c962dfaa994c8e7a5",
+    "kill_time": "2025-12-29T14:21:51Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123189707,
+      "character_name": "Stark Freight",
+      "corporation_id": 98822151,
+      "corporation_name": "Stark Incorporated",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132257262/",
+    "total_value": 4214760629.46,
+    "final_attacker": {
+      "character_name": "Peet-Seeeep Avar Shaman",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -1894,32 +1946,6 @@
       "character_name": "Abhored Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132143288,
-    "killmail_hash": "ea7d9cddb42a1665be2786c4bc983d4d849c2626",
-    "kill_time": "2025-12-24T14:16:50Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123868637,
-      "character_name": "ACRG3",
-      "corporation_id": 98820340,
-      "corporation_name": "Project CA-B",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132143288/",
-    "total_value": 4574078758.8,
-    "final_attacker": {
-      "character_name": "Abfallprodukt der Gesellschaft",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   }
