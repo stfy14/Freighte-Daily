@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132317923,
+    "killmail_hash": "6ab17d217de80eaacd0f606d49d8de999e3c8b70",
+    "kill_time": "2026-01-01T07:46:37Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 185004214,
+      "character_name": "Aaron Rex",
+      "corporation_id": 98594586,
+      "corporation_name": "Caldari Amarr Liaison Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132317923/",
+    "total_value": 6678398560.59,
+    "final_attacker": {
+      "character_name": "White'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132317754,
+    "killmail_hash": "8653f52e02109fe3c52804cf419c875a66a52da1",
+    "kill_time": "2026-01-01T07:31:11Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2115889410,
+      "character_name": "kadir Heven",
+      "corporation_id": 98675170,
+      "corporation_name": "Black Wing",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132317754/",
+    "total_value": 22551528518.27,
+    "final_attacker": {
+      "character_name": "Takunn",
+      "corporation_name": "Obsidian Armament",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
     "killmail_id": 132315454,
     "killmail_hash": "724bb248c8ff3efeadb9b1a223e3aff250c8a138",
     "kill_time": "2026-01-01T03:41:07Z",
