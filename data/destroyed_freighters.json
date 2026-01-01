@@ -1948,57 +1948,5 @@
       "alliance_name": null,
       "ship_type_name": "♦ Apocalypse"
     }
-  },
-  {
-    "killmail_id": 132159824,
-    "killmail_hash": "be1f83fea43cac731000be6ea2beb010c97e54c5",
-    "kill_time": "2025-12-25T12:09:17Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117240771,
-      "character_name": "Solo Europa",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132159824/",
-    "total_value": 1810170630.73,
-    "final_attacker": {
-      "character_name": "DuctTape Diplomat",
-      "corporation_name": "DemonicAncestory.",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 132159107,
-    "killmail_hash": "02b060bc759e5ccc77751ff9e350e4f1950d6281",
-    "kill_time": "2025-12-25T10:46:21Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002577,
-    "solar_system_name": "Bundindus",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2117440134,
-      "character_name": "Stranding",
-      "corporation_id": 98608055,
-      "corporation_name": "Levy Guards",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132159107/",
-    "total_value": 26623114459,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
   }
 ]
