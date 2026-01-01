@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132331378,
+    "killmail_hash": "0ba3faa1e8d768f1ee3f26e744ab3e5078a75ac2",
+    "kill_time": "2026-01-01T20:07:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95108377,
+      "character_name": "Boneslammer Fizzgig",
+      "corporation_id": 98784685,
+      "corporation_name": "Merc engineering corp",
+      "alliance_id": 99010004,
+      "alliance_name": "DammFam"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132331378/",
+    "total_value": 2003120282.37,
+    "final_attacker": {
+      "character_name": "Charlotte Hazelrink",
+      "corporation_name": "Rita's choice",
+      "alliance_name": null,
+      "ship_type_name": "Raven"
+    }
+  },
+  {
+    "killmail_id": 132326642,
+    "killmail_hash": "eb29054b68ffac21a84824ce9ee2a9de27b02b75",
+    "kill_time": "2026-01-01T16:45:26Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121902004,
+      "character_name": "james330",
+      "corporation_id": 98758662,
+      "corporation_name": "3 Kings Trade Federation",
+      "alliance_id": 99012843,
+      "alliance_name": "Kenshin Shogunate."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132326642/",
+    "total_value": 2029180243.09,
+    "final_attacker": {
+      "character_name": "Don Gregorio",
+      "corporation_name": "Republic Military School",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 132324921,
     "killmail_hash": "9481e091478af53d4573c4ecb365be146803252b",
     "kill_time": "2026-01-01T15:24:08Z",
@@ -1869,58 +1921,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132167832,
-    "killmail_hash": "165ffd8fc160a01729f986c98fe04e5f7ab52ccf",
-    "kill_time": "2025-12-25T20:19:15Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 426641860,
-      "character_name": "Pojo",
-      "corporation_id": 98808527,
-      "corporation_name": "V.A.R.R.I.C.",
-      "alliance_id": 99014238,
-      "alliance_name": "Unbound Horizons"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132167832/",
-    "total_value": 4191522434.25,
-    "final_attacker": {
-      "character_name": "Obsidian Scar",
-      "corporation_name": "Dies Irae",
-      "alliance_name": "The Ancients.",
-      "ship_type_name": "Kikimora"
-    }
-  },
-  {
-    "killmail_id": 132164139,
-    "killmail_hash": "8ecceed62b24608313df6b9c34367714332dc88b",
-    "kill_time": "2025-12-25T16:50:05Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000164,
-    "solar_system_name": "Messoya",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94940727,
-      "character_name": "Benson Kailoic",
-      "corporation_id": 98793215,
-      "corporation_name": "Ouroboros Conglomerate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132164139/",
-    "total_value": 2598561845.21,
-    "final_attacker": {
-      "character_name": "xia erdai",
-      "corporation_name": "Arknights.",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Exequror Navy Issue"
     }
   }
 ]
