@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132313242,
+    "killmail_hash": "033f4cad59d1947f3d686645400c8d93e0f2611b",
+    "kill_time": "2026-01-01T00:34:40Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93376542,
+      "character_name": "Zahra en Distel",
+      "corporation_id": 98258093,
+      "corporation_name": "Strategic Exploration and Development Corp",
+      "alliance_id": 99009268,
+      "alliance_name": "Silent Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132313242/",
+    "total_value": 8930294427.08,
+    "final_attacker": {
+      "character_name": "smater van",
+      "corporation_name": "Temple of Tuvan Orth",
+      "alliance_name": "Guardians of Tranquility",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 132312701,
+    "killmail_hash": "b12f8f03ad84ed195913bf613e389c59d4e8c95f",
+    "kill_time": "2025-12-31T23:47:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 812996155,
+      "character_name": "Ehlannia Rhen",
+      "corporation_id": 98249443,
+      "corporation_name": "The Icarus Expedition",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132312701/",
+    "total_value": 9969195902.85,
+    "final_attacker": {
+      "character_name": "Charlotte Hazelrink",
+      "corporation_name": "Rita's choice",
+      "alliance_name": null,
+      "ship_type_name": "Raven"
+    }
+  },
+  {
+    "killmail_id": 132310224,
+    "killmail_hash": "fc4098e9524cb229b56f125f3a694bf158ff4d72",
+    "kill_time": "2025-12-31T20:29:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001368,
+    "solar_system_name": "Uemisaisen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123940134,
+      "character_name": "Vanguard Wolf",
+      "corporation_id": 98738777,
+      "corporation_name": "Rising Moon Wolf Pack Inc.",
+      "alliance_id": 99014584,
+      "alliance_name": "Lonetrek Benevolent Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132310224/",
+    "total_value": 8025122376.27,
+    "final_attacker": {
+      "character_name": "Don Anacleto",
+      "corporation_name": "Paulo Coelho Industries S.A.",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132300770,
     "killmail_hash": "70e5254108a94d52b721e43338afb9db29ce287b",
     "kill_time": "2025-12-31T11:16:00Z",
@@ -1817,58 +1895,6 @@
       "corporation_name": "Pinky and the Brain.",
       "alliance_name": null,
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132153292,
-    "killmail_hash": "1c38e41c92404bc53cab2b62b3c3af120deb1532",
-    "kill_time": "2025-12-25T01:49:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94144438,
-      "character_name": "GUNNER MAGNUSSEN",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132153292/",
-    "total_value": 12690590309.86,
-    "final_attacker": {
-      "character_name": "Belt Patrol",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132152679,
-    "killmail_hash": "6e98e03d942b513d827dfdfe01c570e9e4a05387",
-    "kill_time": "2025-12-25T00:42:43Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119737120,
-      "character_name": "Vendedor Maestro",
-      "corporation_id": 98707105,
-      "corporation_name": "Ex Pax Ultio",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132152679/",
-    "total_value": 20844669968.88,
-    "final_attacker": {
-      "character_name": "zLegion B",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
