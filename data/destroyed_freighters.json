@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132324921,
+    "killmail_hash": "9481e091478af53d4573c4ecb365be146803252b",
+    "kill_time": "2026-01-01T15:24:08Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 838770386,
+      "character_name": "DnEugen",
+      "corporation_id": 98183161,
+      "corporation_name": "Agora Navy Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132324921/",
+    "total_value": 1718333730.13,
+    "final_attacker": {
+      "character_name": "Fund GirlBoss",
+      "corporation_name": "Bunty Little Smubbles",
+      "alliance_name": "Tradeport Operations",
+      "ship_type_name": "Abaddon"
+    }
+  },
+  {
     "killmail_id": 132317923,
     "killmail_hash": "6ab17d217de80eaacd0f606d49d8de999e3c8b70",
     "kill_time": "2026-01-01T07:46:37Z",
@@ -1895,58 +1921,6 @@
       "corporation_name": "Arknights.",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132163914,
-    "killmail_hash": "0d72c4221cd927b1f09309d02e7e186040e12d79",
-    "kill_time": "2025-12-25T16:32:39Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1692254195,
-      "character_name": "Matth Snapper",
-      "corporation_id": 98057377,
-      "corporation_name": "Core Industry.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132163914/",
-    "total_value": 1984400741.35,
-    "final_attacker": {
-      "character_name": "Roland 99",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 132163695,
-    "killmail_hash": "73c5f98dbd4d293e6c9f1493e09fa185a5b1b15d",
-    "kill_time": "2025-12-25T16:14:57Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004706,
-    "solar_system_name": "UHKL-N",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2118734254,
-      "character_name": "QlockHeartz Hellbourne",
-      "corporation_id": 98747248,
-      "corporation_name": "Xenospace Nexus",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132163695/",
-    "total_value": 20290461326.31,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Blood Raiders",
-      "alliance_name": null,
-      "ship_type_name": "♦ Apocalypse"
     }
   }
 ]
