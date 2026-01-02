@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132345118,
+    "killmail_hash": "e227dc5dc68e46301fcfaaed61dc3cd0092d5182",
+    "kill_time": "2026-01-02T10:45:42Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122833682,
+      "character_name": "CIME TEMPESTOSE",
+      "corporation_id": 98639667,
+      "corporation_name": "Fountain Hunter",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132345118/",
+    "total_value": 18572916498.5,
+    "final_attacker": {
+      "character_name": "AG control",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132332362,
     "killmail_hash": "b5237f9090e1706f4d9593d6514dabb90e7ca011",
     "kill_time": "2026-01-01T20:47:51Z",
@@ -1817,32 +1843,6 @@
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 132179025,
-    "killmail_hash": "68d89283b01c1bc4b00a16303ed87f34aee3ae5b",
-    "kill_time": "2025-12-26T11:59:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116371845,
-      "character_name": "WHroller 69",
-      "corporation_id": 98820015,
-      "corporation_name": "Shine Jumpy Box",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132179025/",
-    "total_value": 10447198790.54,
-    "final_attacker": {
-      "character_name": "Alex DeWalker",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
