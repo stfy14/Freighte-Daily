@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132347897,
+    "killmail_hash": "54792b9accc0b531838f67973f0098cb06b5d241",
+    "kill_time": "2026-01-02T13:28:20Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123597521,
+      "character_name": "Aokanen Hakoke",
+      "corporation_id": 98683808,
+      "corporation_name": "Not a D.HOF alt corp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132347897/",
+    "total_value": 13602925609.65,
+    "final_attacker": {
+      "character_name": "Cute Nado",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 132347024,
+    "killmail_hash": "7e0169ec96b45cd5d81d348f2634d2808130ac13",
+    "kill_time": "2026-01-02T12:57:39Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2118966159,
+      "character_name": "Honour muon",
+      "corporation_id": 98334523,
+      "corporation_name": "PLA Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132347024/",
+    "total_value": 9384046673.31,
+    "final_attacker": {
+      "character_name": "Reginald Bong",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132345118,
     "killmail_hash": "e227dc5dc68e46301fcfaaed61dc3cd0092d5182",
     "kill_time": "2026-01-02T10:45:42Z",
@@ -1817,32 +1869,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132183152,
-    "killmail_hash": "fd96645024bc34baf6ea1e4dc45e8b8301ad08a9",
-    "kill_time": "2025-12-26T15:59:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114320537,
-      "character_name": "Jeff O-Neil",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132183152/",
-    "total_value": 3538390244.35,
-    "final_attacker": {
-      "character_name": "Little Miss Zionist",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
     }
   }
 ]
