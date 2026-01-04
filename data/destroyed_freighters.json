@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132399140,
+    "killmail_hash": "660c979a1e6dd7c9dd9b7af8200fcdd06394074f",
+    "kill_time": "2026-01-04T10:57:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2112362511,
+      "character_name": "chuc VN",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132399140/",
+    "total_value": 2154179994.54,
+    "final_attacker": {
+      "character_name": "SUICIDAL Larsen",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 132399134,
+    "killmail_hash": "a31cf694153a720e9b3058ae23e6eb8dfa903351",
+    "kill_time": "2026-01-04T10:56:55Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000444,
+    "solar_system_name": "H-FGJO",
+    "region_name": "Detorid",
+    "victim": {
+      "character_id": 2117243158,
+      "character_name": "Elite Miko",
+      "corporation_id": 98524939,
+      "corporation_name": "Sing Hua",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132399134/",
+    "total_value": 17443104073.54,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Rapier"
+    }
+  },
+  {
     "killmail_id": 132388321,
     "killmail_hash": "ccd4e5599feb6919b2489a8a1a89db7880838c8d",
     "kill_time": "2026-01-03T22:49:55Z",
@@ -410,6 +462,32 @@
     "total_value": 18572916498.5,
     "final_attacker": {
       "character_name": "AG control",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 132342877,
+    "killmail_hash": "eda1278939c748e8be9bd7d8261f432647392f1a",
+    "kill_time": "2026-01-02T07:42:15Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2120518206,
+      "character_name": "Nik Zuko5",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132342877/",
+    "total_value": 15760717922.49,
+    "final_attacker": {
+      "character_name": "Bored And Violent",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
@@ -1791,136 +1869,6 @@
       "corporation_name": "Long Pig Luncheon Meat",
       "alliance_name": "Sending Thots And Players",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132229407,
-    "killmail_hash": "11c8940c1b50a658ceff32a74a7faced2e992f3e",
-    "kill_time": "2025-12-28T12:03:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112225199,
-      "character_name": "Elliot Stark",
-      "corporation_id": 98721350,
-      "corporation_name": "Angry Midlife Aliens",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132229407/",
-    "total_value": 2017920660.6,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 132229366,
-    "killmail_hash": "7716d00d948b95828aab6ba3a8b42c441810c47f",
-    "kill_time": "2025-12-28T12:01:07Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1765830116,
-      "character_name": "Luras Vamic",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132229366/",
-    "total_value": 3757736800.68,
-    "final_attacker": {
-      "character_name": "Peet-Seeeep Avar Shaman",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132228619,
-    "killmail_hash": "55660b4d7ec598a056461802b9d50263ad52e805",
-    "kill_time": "2025-12-28T10:56:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1382935206,
-      "character_name": "DIctator127",
-      "corporation_id": 98273983,
-      "corporation_name": "DIctator127 land",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132228619/",
-    "total_value": 1822347897.14,
-    "final_attacker": {
-      "character_name": "SinthEmortal",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132228332,
-    "killmail_hash": "dc1d5b841c7d7d666fcbe74bbfcf7c7eb6bd9e74",
-    "kill_time": "2025-12-28T10:28:37Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000156,
-    "solar_system_name": "Josameto",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95710079,
-      "character_name": "Turas Arsten",
-      "corporation_id": 98004509,
-      "corporation_name": "Fabin Innovations",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132228332/",
-    "total_value": 4339602134.39,
-    "final_attacker": {
-      "character_name": "Little Miss Stubborn",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 132228320,
-    "killmail_hash": "8afdd98ecab33b7859339b1bb244236a5e452100",
-    "kill_time": "2025-12-28T10:27:49Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122252155,
-      "character_name": "shikongsa",
-      "corporation_id": 98808817,
-      "corporation_name": "Knight of Zero Ultra",
-      "alliance_id": 99010877,
-      "alliance_name": "Out of the Blue."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132228320/",
-    "total_value": 1983793583.65,
-    "final_attacker": {
-      "character_name": "Luukje",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Vindicator"
     }
   }
 ]
