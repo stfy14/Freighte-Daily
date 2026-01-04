@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132388321,
+    "killmail_hash": "ccd4e5599feb6919b2489a8a1a89db7880838c8d",
+    "kill_time": "2026-01-03T22:49:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124024300,
+      "character_name": "hiroko kazae",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132388321/",
+    "total_value": 1831055340.99,
+    "final_attacker": {
+      "character_name": "Proxytrix",
+      "corporation_name": "Yeet Inc.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132385632,
+    "killmail_hash": "59091e1c0465f416ff77af93f48c767340c23ba2",
+    "kill_time": "2026-01-03T21:20:54Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2113203003,
+      "character_name": "jasonj Raholan",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132385632/",
+    "total_value": 5404445075.94,
+    "final_attacker": {
+      "character_name": "Ali lize",
+      "corporation_name": "Capital Fusion.",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132379221,
     "killmail_hash": "a589c4328d20b2df3884f152b3226507651378b3",
     "kill_time": "2026-01-03T17:37:16Z",
@@ -673,6 +725,32 @@
       "corporation_name": "Rita's choice",
       "alliance_name": null,
       "ship_type_name": "Raven"
+    }
+  },
+  {
+    "killmail_id": 132312437,
+    "killmail_hash": "3cad86e1c4aef72115332be36bc66e3230b71d20",
+    "kill_time": "2025-12-31T23:26:23Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2119155950,
+      "character_name": "DamianWarlock",
+      "corporation_id": 98668936,
+      "corporation_name": "The Awoken",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132312437/",
+    "total_value": 2063635701.27,
+    "final_attacker": {
+      "character_name": "Aspida Protofanis",
+      "corporation_name": "KarmaFleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Leviathan"
     }
   },
   {
