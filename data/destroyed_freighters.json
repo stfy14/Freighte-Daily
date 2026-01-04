@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132403735,
+    "killmail_hash": "d01a1f1d57aaea209578d0b9b7f9cdb0be95d4c5",
+    "kill_time": "2026-01-04T15:10:03Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123549497,
+      "character_name": "Igorat Grinder",
+      "corporation_id": 98775860,
+      "corporation_name": "Marauders Logistic",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132403735/",
+    "total_value": 19683704897.68,
+    "final_attacker": {
+      "character_name": "Cute Nado Ganker",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132399140,
     "killmail_hash": "660c979a1e6dd7c9dd9b7af8200fcdd06394074f",
     "kill_time": "2026-01-04T10:57:11Z",
@@ -1764,110 +1790,6 @@
       "character_name": "POMAH HETOBIR",
       "corporation_name": "Pocket Tiger",
       "alliance_name": "Ant Tiger",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132234096,
-    "killmail_hash": "ebb833a6d9e88dcab34ff23a6d6f93e91f25e26a",
-    "kill_time": "2025-12-28T15:35:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 94593654,
-      "character_name": "Harvey Aivoras",
-      "corporation_id": 98311299,
-      "corporation_name": "United Aerospace Mining Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132234096/",
-    "total_value": 2939784041.25,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132233753,
-    "killmail_hash": "cd5c96ac3435d76d5330d0f288a203b8fe622cb9",
-    "kill_time": "2025-12-28T15:18:15Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117066655,
-      "character_name": "Aske Djaks",
-      "corporation_id": 98788569,
-      "corporation_name": "Independent Chamber of Unstable Misfits",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132233753/",
-    "total_value": 20463269560.36,
-    "final_attacker": {
-      "character_name": "Abfallprodukt der Gesellschaft",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132232347,
-    "killmail_hash": "e9620a2c5a28f17c8166fb650ea34e08a37905d9",
-    "kill_time": "2025-12-28T14:13:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1814992676,
-      "character_name": "Sacred1986",
-      "corporation_id": 98089014,
-      "corporation_name": "STONE CUBE",
-      "alliance_id": 99013690,
-      "alliance_name": "Critical. Mass."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132232347/",
-    "total_value": 3130824863.77,
-    "final_attacker": {
-      "character_name": "Police Inspector",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132232127,
-    "killmail_hash": "ae3b36713301b4a982deb7c719d773242539941b",
-    "kill_time": "2025-12-28T14:04:08Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 383148690,
-      "character_name": "Ula",
-      "corporation_id": 904355729,
-      "corporation_name": "Jurchen",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132232127/",
-    "total_value": 1817820731.25,
-    "final_attacker": {
-      "character_name": "Jukio Saisima",
-      "corporation_name": "Long Pig Luncheon Meat",
-      "alliance_name": "Sending Thots And Players",
       "ship_type_name": "Redeemer"
     }
   }
