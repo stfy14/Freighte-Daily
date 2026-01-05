@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132418400,
+    "killmail_hash": "fe2e296ea63e067e9625af1fc56138c4ef69aeca",
+    "kill_time": "2026-01-05T02:48:22Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1125606812,
+      "character_name": "Bruce Mogul",
+      "corporation_id": 98812928,
+      "corporation_name": "Nightfall Fleet",
+      "alliance_id": 99011162,
+      "alliance_name": "Shadow Ultimatum"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132418400/",
+    "total_value": 17899020141.52,
+    "final_attacker": {
+      "character_name": "Highsec Administration",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132416291,
     "killmail_hash": "ef893f9b6b2730a891f9e70c0ce2acfdc9b65c9b",
     "kill_time": "2026-01-05T00:43:07Z",
@@ -1791,32 +1817,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132250099,
-    "killmail_hash": "0a518f1b1682de501154ba85c37284540b1ff6bb",
-    "kill_time": "2025-12-29T04:57:52Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123818595,
-      "character_name": "Rags to riche",
-      "corporation_id": 98817064,
-      "corporation_name": "Blue juice hulling",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132250099/",
-    "total_value": 8408648428.45,
-    "final_attacker": {
-      "character_name": "Belt Inspector",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
