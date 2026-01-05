@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132420439,
+    "killmail_hash": "8e49a8c39fca05695958ed403c82567b5bedefe8",
+    "kill_time": "2026-01-05T05:36:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 1501707565,
+      "character_name": "Repulsions",
+      "corporation_id": 917701062,
+      "corporation_name": "EVE University",
+      "alliance_id": 937872513,
+      "alliance_name": "Ivy League"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132420439/",
+    "total_value": 5563865235.04,
+    "final_attacker": {
+      "character_name": "Teal'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132420255,
+    "killmail_hash": "88469e7df3477bfbb56610bacd019a0544d5b82a",
+    "kill_time": "2026-01-05T05:18:12Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2118393781,
+      "character_name": "Ant-1 Space",
+      "corporation_id": 98705137,
+      "corporation_name": "Red Star 3.0",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132420255/",
+    "total_value": 8832690386.27,
+    "final_attacker": {
+      "character_name": "Charlotte Hazelrink",
+      "corporation_name": "Rita's choice",
+      "alliance_name": null,
+      "ship_type_name": "Raven"
+    }
+  },
+  {
     "killmail_id": 132418400,
     "killmail_hash": "fe2e296ea63e067e9625af1fc56138c4ef69aeca",
     "kill_time": "2026-01-05T02:48:22Z",
@@ -1790,32 +1842,6 @@
       "character_name": "Emotional Gank Support",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132251405,
-    "killmail_hash": "5e1b94740802b7daf6cd352121acaf210c96cdbb",
-    "kill_time": "2025-12-29T06:56:48Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 1934409494,
-      "character_name": "trojan star",
-      "corporation_id": 98383710,
-      "corporation_name": "From Dusk till Dawn 1",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132251405/",
-    "total_value": 15142057089.2,
-    "final_attacker": {
-      "character_name": "White'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
   }
