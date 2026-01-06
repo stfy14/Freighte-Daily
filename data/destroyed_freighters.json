@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132449715,
+    "killmail_hash": "5f8f75d2e194454c5e7d7eba059f643e47baceac",
+    "kill_time": "2026-01-06T16:19:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000998,
+    "solar_system_name": "M9U-75",
+    "region_name": "Great Wildlands",
+    "victim": {
+      "character_id": 2116972853,
+      "character_name": "Prae Kimuvinen",
+      "corporation_id": 98491871,
+      "corporation_name": "Incognito Mode",
+      "alliance_id": 99007887,
+      "alliance_name": "Brotherhood of Spacers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132449715/",
+    "total_value": 8972266914.13,
+    "final_attacker": {
+      "character_name": "SUICIDAL Larsen",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 132448795,
+    "killmail_hash": "39d983b82ca9b5b576fce3752a75428429c3884e",
+    "kill_time": "2026-01-06T15:22:32Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001368,
+    "solar_system_name": "Uemisaisen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2113000600,
+      "character_name": "Minmatarrius Anonymous",
+      "corporation_id": 98513097,
+      "corporation_name": "Los Pollos Hermanos Restaraunts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132448795/",
+    "total_value": 15901416789.51,
+    "final_attacker": {
+      "character_name": "Don Inocencio",
+      "corporation_name": "Paulo Coelho Industries S.A.",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 132448070,
+    "killmail_hash": "f4869d3edbeb034cee179c89b111d46dafdfa3d8",
+    "kill_time": "2026-01-06T14:43:49Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003905,
+    "solar_system_name": "Chamemi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2122841443,
+      "character_name": "Freyja Ezkiel",
+      "corporation_id": 539000123,
+      "corporation_name": "EndlessRain",
+      "alliance_id": 99011279,
+      "alliance_name": "Naval Defence Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132448070/",
+    "total_value": 2033137679.74,
+    "final_attacker": {
+      "character_name": "Lotor Blackstar",
+      "corporation_name": "Infinite Point",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132445547,
     "killmail_hash": "c70fb480483d08aee66092c005f4ae951d3daa37",
     "kill_time": "2026-01-06T12:41:05Z",
@@ -1557,58 +1635,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132281341,
-    "killmail_hash": "547db159a53c44d1ca10d19f8bde71313364b750",
-    "kill_time": "2025-12-30T15:19:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114660231,
-      "character_name": "Wang ZZ",
-      "corporation_id": 98104182,
-      "corporation_name": "East T",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132281341/",
-    "total_value": 4942340651.85,
-    "final_attacker": {
-      "character_name": "Belt Inspector",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132281194,
-    "killmail_hash": "b08b28867cb1a8b16f58de361399174e983b23e3",
-    "kill_time": "2025-12-30T15:12:22Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122098552,
-      "character_name": "Zelotes Rockhunter",
-      "corporation_id": 98595099,
-      "corporation_name": "Vanguard Dynamics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132281194/",
-    "total_value": 11079862189.22,
-    "final_attacker": {
-      "character_name": "SCP9400",
-      "corporation_name": "Maxx-C",
-      "alliance_name": "Yu-Gi-Oh Duel",
-      "ship_type_name": "Valravn"
     }
   }
 ]
