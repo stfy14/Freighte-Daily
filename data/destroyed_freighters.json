@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132453830,
+    "killmail_hash": "762efbf509b38854094f9db2ef628eacdf7d1d42",
+    "kill_time": "2026-01-06T19:46:40Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002048,
+    "solar_system_name": "Bei",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117850733,
+      "character_name": "Quintus Loyal",
+      "corporation_id": 98664189,
+      "corporation_name": "Loyal Contracting",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132453830/",
+    "total_value": 3020410408.42,
+    "final_attacker": {
+      "character_name": "Iliad D'jax",
+      "corporation_name": "GentIeman Bastards",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Deimos"
+    }
+  },
+  {
+    "killmail_id": 132450479,
+    "killmail_hash": "f8fd274e3cc538953499949703f29f1645ae13fd",
+    "kill_time": "2026-01-06T17:01:51Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002048,
+    "solar_system_name": "Bei",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1612767810,
+      "character_name": "The Billboard",
+      "corporation_id": 1668620471,
+      "corporation_name": "Inspirational Creations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132450479/",
+    "total_value": 8637012261.24,
+    "final_attacker": {
+      "character_name": "AnnElise von Thukker",
+      "corporation_name": "von Thukkers Interstellar Space Cleaning Services",
+      "alliance_name": null,
+      "ship_type_name": "Rupture"
+    }
+  },
+  {
     "killmail_id": 132449715,
     "killmail_hash": "5f8f75d2e194454c5e7d7eba059f643e47baceac",
     "kill_time": "2026-01-06T16:19:22Z",
@@ -1554,84 +1606,6 @@
     "total_value": 8018517144.79,
     "final_attacker": {
       "character_name": "Braingirl",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132286255,
-    "killmail_hash": "4ca519467433f73e6832f3444036f1369f177c48",
-    "kill_time": "2025-12-30T19:31:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000665,
-    "solar_system_name": "K212-A",
-    "region_name": "Scalding Pass",
-    "victim": {
-      "character_id": 91099059,
-      "character_name": "Anne Gross",
-      "corporation_id": 98470949,
-      "corporation_name": "Fehl Prime",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132286255/",
-    "total_value": 1906829726.98,
-    "final_attacker": {
-      "character_name": "fchelo",
-      "corporation_name": "Echelon Research",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Revelation Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132286250,
-    "killmail_hash": "7e990b3353a54a28307146d1cfa1a66b6f0de8f3",
-    "kill_time": "2025-12-30T19:30:54Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000665,
-    "solar_system_name": "K212-A",
-    "region_name": "Scalding Pass",
-    "victim": {
-      "character_id": 385667344,
-      "character_name": "Kebet",
-      "corporation_id": 98484901,
-      "corporation_name": "Illegal immigrants",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132286250/",
-    "total_value": 1906829726.98,
-    "final_attacker": {
-      "character_name": "I vana Humpalot",
-      "corporation_name": "2 Slow 2 Win 2 Dumb 2 Quit",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Moros Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132284141,
-    "killmail_hash": "0f742a535ed6469c6ba455aeef7218f1c47f9375",
-    "kill_time": "2025-12-30T17:54:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119741449,
-      "character_name": "Tempest04",
-      "corporation_id": 98778105,
-      "corporation_name": "Galactic Industries SA",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132284141/",
-    "total_value": 11761569613.87,
-    "final_attacker": {
-      "character_name": "Gate Inspector",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
