@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132465761,
+    "killmail_hash": "473948e3ca2db485e28a651c95d7010ccf49ccf3",
+    "kill_time": "2026-01-07T10:59:45Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003086,
+    "solar_system_name": "Sahtogas",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 2123161970,
+      "character_name": "Philippe D'Avignone",
+      "corporation_id": 98613748,
+      "corporation_name": "Silver Fog Dragon Ride",
+      "alliance_id": 99012995,
+      "alliance_name": "Dragon Riders Legion"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132465761/",
+    "total_value": 2037318978.28,
+    "final_attacker": {
+      "character_name": "Astra-Stella",
+      "corporation_name": "Silver Fog Dragon Ride",
+      "alliance_name": "Dragon Riders Legion",
+      "ship_type_name": "Azariel"
+    }
+  },
+  {
+    "killmail_id": 132464371,
+    "killmail_hash": "dde2fa1b95489a66b67d033bd4d0ad2e6485b388",
+    "kill_time": "2026-01-07T08:36:00Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 893572486,
+      "character_name": "RockSuck3r",
+      "corporation_id": 98323388,
+      "corporation_name": "Insidious Systems Division",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132464371/",
+    "total_value": 15676768370.19,
+    "final_attacker": {
+      "character_name": "Shalltear Bl00dfallen",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 132464355,
+    "killmail_hash": "56df0ab2ad4acbd90bc193ce15d4bfd589fe4548",
+    "kill_time": "2026-01-07T08:34:49Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002577,
+    "solar_system_name": "Bundindus",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2122495912,
+      "character_name": "Ivan su2",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132464355/",
+    "total_value": 11699634175.16,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 132462499,
     "killmail_hash": "54f24a264015e87a369e4e53d8593818348cdc9f",
     "kill_time": "2026-01-07T05:22:44Z",
@@ -1557,32 +1635,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132300770,
-    "killmail_hash": "70e5254108a94d52b721e43338afb9db29ce287b",
-    "kill_time": "2025-12-31T11:16:00Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003899,
-    "solar_system_name": "Vezila",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2113965646,
-      "character_name": "Melissa Akachi",
-      "corporation_id": 98817201,
-      "corporation_name": "Space Eagles From Space Inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132300770/",
-    "total_value": 5775335382.77,
-    "final_attacker": {
-      "character_name": "discusman Tsero",
-      "corporation_name": "Dead and Delirious",
-      "alliance_name": "BBQ BOIS",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
