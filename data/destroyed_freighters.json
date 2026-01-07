@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132473294,
+    "killmail_hash": "02b325cc4a9ab756a5c3b907f07fa38c4d92b5c4",
+    "kill_time": "2026-01-07T19:05:06Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002390,
+    "solar_system_name": "Heild",
+    "region_name": "Molden Heath",
+    "victim": {
+      "character_id": 91669963,
+      "character_name": "Cooper Pollard",
+      "corporation_id": 98457434,
+      "corporation_name": "TIePerPeB",
+      "alliance_id": 1411711376,
+      "alliance_name": "Legion of xXDEATHXx"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132473294/",
+    "total_value": 5077683118.43,
+    "final_attacker": {
+      "character_name": "Ant Onim",
+      "corporation_name": "Biological Hazard.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132467698,
     "killmail_hash": "fc5f8ea88502e56ac505b658434059b9aebbc745",
     "kill_time": "2026-01-07T13:44:29Z",
@@ -153,6 +179,32 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132461205,
+    "killmail_hash": "59066983cd2e7f8ae675540bcf6d46aa475f53a1",
+    "kill_time": "2026-01-07T03:39:23Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 705026343,
+      "character_name": "Mining Forman",
+      "corporation_id": 144965822,
+      "corporation_name": "Oberon Incorporated",
+      "alliance_id": 99009116,
+      "alliance_name": "Post Nord"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132461205/",
+    "total_value": 14173308460.63,
+    "final_attacker": {
+      "character_name": "Highsec Defender",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
     }
   },
   {
@@ -1687,58 +1739,6 @@
       "corporation_name": "KarmaFleet",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Leviathan"
-    }
-  },
-  {
-    "killmail_id": 132310224,
-    "killmail_hash": "fc4098e9524cb229b56f125f3a694bf158ff4d72",
-    "kill_time": "2025-12-31T20:29:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001368,
-    "solar_system_name": "Uemisaisen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123940134,
-      "character_name": "Vanguard Wolf",
-      "corporation_id": 98738777,
-      "corporation_name": "Rising Moon Wolf Pack Inc.",
-      "alliance_id": 99014584,
-      "alliance_name": "Lonetrek Benevolent Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132310224/",
-    "total_value": 8025122376.27,
-    "final_attacker": {
-      "character_name": "Don Anacleto",
-      "corporation_name": "Paulo Coelho Industries S.A.",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132309369,
-    "killmail_hash": "b3749429c642f1ae7aea1c0e4de2074c196edfe0",
-    "kill_time": "2025-12-31T20:00:35Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123990747,
-      "character_name": "Nothin ToSee Heeah",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132309369/",
-    "total_value": 2895444932.21,
-    "final_attacker": {
-      "character_name": "Irked Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
