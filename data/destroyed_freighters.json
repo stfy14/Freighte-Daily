@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132495237,
+    "killmail_hash": "dfdcabb2a6dfee16e141ba15833ee3fe4ca73267",
+    "kill_time": "2026-01-08T19:45:14Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004819,
+    "solar_system_name": "S-9RCJ",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2122361789,
+      "character_name": "BezeaBezea",
+      "corporation_id": 98665672,
+      "corporation_name": "Rise Of Exiles",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132495237/",
+    "total_value": 9358071315.19,
+    "final_attacker": {
+      "character_name": "L1vent",
+      "corporation_name": "Nocte Vigilo",
+      "alliance_name": "HOLD MY PROBS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132494089,
+    "killmail_hash": "2ca1509d878cd07e3f601d7efc802339f750359e",
+    "kill_time": "2026-01-08T18:57:04Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003559,
+    "solar_system_name": "Mamet",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2121917393,
+      "character_name": "LND-fx",
+      "corporation_id": 98756906,
+      "corporation_name": "Jay's Army",
+      "alliance_id": 99006260,
+      "alliance_name": "The Republic."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132494089/",
+    "total_value": 2032233866.69,
+    "final_attacker": {
+      "character_name": "Vorn",
+      "corporation_name": "I'm Super Bad At This",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 132493402,
+    "killmail_hash": "a46fa89c77f8d17ceeae3daec7f6011fa538a790",
+    "kill_time": "2026-01-08T18:17:34Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001049,
+    "solar_system_name": "Farit",
+    "region_name": "Curse",
+    "victim": {
+      "character_id": 1089900098,
+      "character_name": "Netjist",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132493402/",
+    "total_value": 17049182109.2,
+    "final_attacker": {
+      "character_name": "Dr Fly",
+      "corporation_name": "Hostile.",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132491181,
     "killmail_hash": "a7bfd8a027f3a266d5a33be10b067597787d2347",
     "kill_time": "2026-01-08T15:45:46Z",
@@ -1661,58 +1739,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Phobos"
-    }
-  },
-  {
-    "killmail_id": 132331378,
-    "killmail_hash": "0ba3faa1e8d768f1ee3f26e744ab3e5078a75ac2",
-    "kill_time": "2026-01-01T20:07:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95108377,
-      "character_name": "Boneslammer Fizzgig",
-      "corporation_id": 98784685,
-      "corporation_name": "Merc engineering corp",
-      "alliance_id": 99010004,
-      "alliance_name": "DammFam"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132331378/",
-    "total_value": 2003120282.37,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
-    }
-  },
-  {
-    "killmail_id": 132326642,
-    "killmail_hash": "eb29054b68ffac21a84824ce9ee2a9de27b02b75",
-    "kill_time": "2026-01-01T16:45:26Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121902004,
-      "character_name": "james330",
-      "corporation_id": 98758662,
-      "corporation_name": "3 Kings Trade Federation",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132326642/",
-    "total_value": 2029180243.09,
-    "final_attacker": {
-      "character_name": "Don Gregorio",
-      "corporation_name": "Republic Military School",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
