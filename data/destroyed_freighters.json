@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132480399,
+    "killmail_hash": "93135ab72ef3610785b425354da4738391d9afba",
+    "kill_time": "2026-01-08T01:42:46Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118155536,
+      "character_name": "Nogat Vokan",
+      "corporation_id": 98753829,
+      "corporation_name": "Dark Star Horizons",
+      "alliance_id": 99010896,
+      "alliance_name": "Caldari Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132480399/",
+    "total_value": 13775075327.24,
+    "final_attacker": {
+      "character_name": "Nogat Vokan's Brother",
+      "corporation_name": "Dark Star Horizons",
+      "alliance_name": "Caldari Alliance",
+      "ship_type_name": "Sunesis"
+    }
+  },
+  {
     "killmail_id": 132473294,
     "killmail_hash": "02b325cc4a9ab756a5c3b907f07fa38c4d92b5c4",
     "kill_time": "2026-01-07T19:05:06Z",
@@ -1661,84 +1687,6 @@
       "corporation_name": "Rita's choice",
       "alliance_name": null,
       "ship_type_name": "Raven"
-    }
-  },
-  {
-    "killmail_id": 132313242,
-    "killmail_hash": "033f4cad59d1947f3d686645400c8d93e0f2611b",
-    "kill_time": "2026-01-01T00:34:40Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93376542,
-      "character_name": "Zahra en Distel",
-      "corporation_id": 98258093,
-      "corporation_name": "Strategic Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132313242/",
-    "total_value": 8930294427.08,
-    "final_attacker": {
-      "character_name": "smater van",
-      "corporation_name": "Temple of Tuvan Orth",
-      "alliance_name": "Guardians of Tranquility",
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 132312701,
-    "killmail_hash": "b12f8f03ad84ed195913bf613e389c59d4e8c95f",
-    "kill_time": "2025-12-31T23:47:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 812996155,
-      "character_name": "Ehlannia Rhen",
-      "corporation_id": 98249443,
-      "corporation_name": "The Icarus Expedition",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132312701/",
-    "total_value": 9969195902.85,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
-    }
-  },
-  {
-    "killmail_id": 132312437,
-    "killmail_hash": "3cad86e1c4aef72115332be36bc66e3230b71d20",
-    "kill_time": "2025-12-31T23:26:23Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2119155950,
-      "character_name": "DamianWarlock",
-      "corporation_id": 98668936,
-      "corporation_name": "The Awoken",
-      "alliance_id": 99011223,
-      "alliance_name": "Sigma Grindset"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132312437/",
-    "total_value": 2063635701.27,
-    "final_attacker": {
-      "character_name": "Aspida Protofanis",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Leviathan"
     }
   }
 ]
