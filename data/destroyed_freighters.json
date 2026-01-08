@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132482125,
+    "killmail_hash": "4a1bcee6c4d50c6e3f8a465f8f71354f8910f20e",
+    "kill_time": "2026-01-08T03:27:11Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2112953464,
+      "character_name": "Marcin LubiePlacki",
+      "corporation_id": 98735533,
+      "corporation_name": "Triglavian Hunters lcc",
+      "alliance_id": 99014221,
+      "alliance_name": "Weapons of Mass Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132482125/",
+    "total_value": 3671038905.82,
+    "final_attacker": {
+      "character_name": "Indigo'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132481672,
+    "killmail_hash": "41a97b3333ddfc75c89eb5328c79849db45071d7",
+    "kill_time": "2026-01-08T02:59:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 91713067,
+      "character_name": "Falibel Tashika",
+      "corporation_id": 98790508,
+      "corporation_name": "Moonlight Mouse Hole",
+      "alliance_id": 99014050,
+      "alliance_name": "Lunar Luminescence"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132481672/",
+    "total_value": 6245058672.68,
+    "final_attacker": {
+      "character_name": "Yellow'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132480399,
     "killmail_hash": "93135ab72ef3610785b425354da4738391d9afba",
     "kill_time": "2026-01-08T01:42:46Z",
@@ -1635,58 +1687,6 @@
       "corporation_name": "Obsidian Armament",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 132315454,
-    "killmail_hash": "724bb248c8ff3efeadb9b1a223e3aff250c8a138",
-    "kill_time": "2026-01-01T03:41:07Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003557,
-    "solar_system_name": "Sieh",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 91520022,
-      "character_name": "Jaxon Sturdy",
-      "corporation_id": 98796799,
-      "corporation_name": "Podion Industries",
-      "alliance_id": 99014369,
-      "alliance_name": "Polychromatic Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132315454/",
-    "total_value": 1711545690.98,
-    "final_attacker": {
-      "character_name": "Njord Nergal",
-      "corporation_name": "Deadly Interstellar Cynosural Killing Squad",
-      "alliance_name": null,
-      "ship_type_name": "Avatar"
-    }
-  },
-  {
-    "killmail_id": 132315286,
-    "killmail_hash": "6e4d25af88ba2aa35467ef86518a6af4f88eb147",
-    "kill_time": "2026-01-01T03:21:34Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95494896,
-      "character_name": "Tyygoor Aldard",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132315286/",
-    "total_value": 2746012198.09,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
     }
   }
 ]
