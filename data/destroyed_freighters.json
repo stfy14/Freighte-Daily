@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132491181,
+    "killmail_hash": "a7bfd8a027f3a266d5a33be10b067597787d2347",
+    "kill_time": "2026-01-08T15:45:46Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003905,
+    "solar_system_name": "Chamemi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2116049919,
+      "character_name": "Sion Aurgnet",
+      "corporation_id": 98795743,
+      "corporation_name": "ITTY Industries",
+      "alliance_id": 99014427,
+      "alliance_name": "Itty Bitty Asteroid Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132491181/",
+    "total_value": 2817884555.37,
+    "final_attacker": {
+      "character_name": "Adarxx",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
     "killmail_id": 132486815,
     "killmail_hash": "c71ff2640ac5a6272c8930f8b513aca8f65e6a9f",
     "kill_time": "2026-01-08T10:42:13Z",
@@ -1687,32 +1713,6 @@
       "corporation_name": "Republic Military School",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132324921,
-    "killmail_hash": "9481e091478af53d4573c4ecb365be146803252b",
-    "kill_time": "2026-01-01T15:24:08Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 838770386,
-      "character_name": "DnEugen",
-      "corporation_id": 98183161,
-      "corporation_name": "Agora Navy Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132324921/",
-    "total_value": 1718333730.13,
-    "final_attacker": {
-      "character_name": "Fund GirlBoss",
-      "corporation_name": "Bunty Little Smubbles",
-      "alliance_name": "Tradeport Operations",
-      "ship_type_name": "Abaddon"
     }
   }
 ]
