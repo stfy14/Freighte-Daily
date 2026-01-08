@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132486815,
+    "killmail_hash": "c71ff2640ac5a6272c8930f8b513aca8f65e6a9f",
+    "kill_time": "2026-01-08T10:42:13Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003070,
+    "solar_system_name": "Sosala",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 94583897,
+      "character_name": "Gutter Snnipe",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132486815/",
+    "total_value": 1846341958.7,
+    "final_attacker": {
+      "character_name": "RHlNOX",
+      "corporation_name": "Spaghetti Militia",
+      "alliance_name": null,
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 132484785,
     "killmail_hash": "940342b1cce1c28f8fb7a842ecad6f3d8361d867",
     "kill_time": "2026-01-08T06:57:59Z",
@@ -1687,32 +1713,6 @@
       "corporation_name": "Bunty Little Smubbles",
       "alliance_name": "Tradeport Operations",
       "ship_type_name": "Abaddon"
-    }
-  },
-  {
-    "killmail_id": 132319683,
-    "killmail_hash": "f63bc3f2bc108fa293e0f932b665f714d3994b84",
-    "kill_time": "2026-01-01T10:21:59Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123998910,
-      "character_name": "Azalon Azalyr",
-      "corporation_id": 98821991,
-      "corporation_name": "Azalyr Logistics And Industry Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132319683/",
-    "total_value": 12565584226.45,
-    "final_attacker": {
-      "character_name": "Gate Inspector",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
