@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132511376,
+    "killmail_hash": "529e3349127c6a135d34e049acfdc761a201dc94",
+    "kill_time": "2026-01-09T14:38:05Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003905,
+    "solar_system_name": "Chamemi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 92393462,
+      "character_name": "Philippe Rochard",
+      "corporation_id": 98775860,
+      "corporation_name": "Marauders Logistic",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132511376/",
+    "total_value": 11432482802.05,
+    "final_attacker": {
+      "character_name": "BeBoPp",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132506195,
     "killmail_hash": "426af7694cefbc5eb4b7c9596964b0fcadd3fd5f",
     "kill_time": "2026-01-09T07:43:09Z",
@@ -1739,32 +1765,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132347897,
-    "killmail_hash": "54792b9accc0b531838f67973f0098cb06b5d241",
-    "kill_time": "2026-01-02T13:28:20Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123597521,
-      "character_name": "Aokanen Hakoke",
-      "corporation_id": 98683808,
-      "corporation_name": "Not a D.HOF alt corp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132347897/",
-    "total_value": 13602925609.65,
-    "final_attacker": {
-      "character_name": "Cute Nado",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
