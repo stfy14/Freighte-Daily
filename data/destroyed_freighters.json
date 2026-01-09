@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 132506195,
+    "killmail_hash": "426af7694cefbc5eb4b7c9596964b0fcadd3fd5f",
+    "kill_time": "2026-01-09T07:43:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2119025093,
+      "character_name": "Normarius",
+      "corporation_id": 98692249,
+      "corporation_name": "Amarr Guild of Wanderers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132506195/",
+    "total_value": 3078862704.38,
+    "final_attacker": {
+      "character_name": "White'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132506061,
+    "killmail_hash": "fe733d80ba5ef74d6d6f45dc2ac536e988171a58",
+    "kill_time": "2026-01-09T07:28:05Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004751,
+    "solar_system_name": "K-6K16",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 91351508,
+      "character_name": "Anna York",
+      "corporation_id": 98673001,
+      "corporation_name": "Space Beer Industry",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132506061/",
+    "total_value": 2809660402.95,
+    "final_attacker": {
+      "character_name": "Hwi Kante",
+      "corporation_name": "Outcasts Only",
+      "alliance_name": "Abyssal Brick Rollers",
+      "ship_type_name": "Nightmare"
+    }
+  },
+  {
+    "killmail_id": 132504462,
+    "killmail_hash": "62d043d54117dd18d8e52297cf6f2f6eb1f4f070",
+    "kill_time": "2026-01-09T04:52:16Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002188,
+    "solar_system_name": "Boranai",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 275195620,
+      "character_name": "A Bluntman",
+      "corporation_id": 98782663,
+      "corporation_name": "Weyland Yutani Tyrell Heavy Industries",
+      "alliance_id": 99012908,
+      "alliance_name": "Seker Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132504462/",
+    "total_value": 4412142862.87,
+    "final_attacker": {
+      "character_name": "worgar weltschmerz",
+      "corporation_name": "HEK CIRCUS",
+      "alliance_name": null,
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132503620,
+    "killmail_hash": "3afc1212034fa80e94086cb1c886ffa47299607a",
+    "kill_time": "2026-01-09T03:46:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 129849242,
+      "character_name": "Heo'ir",
+      "corporation_id": 98623519,
+      "corporation_name": "Intragalactic Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132503620/",
+    "total_value": 10864175632.16,
+    "final_attacker": {
+      "character_name": "Olive'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132502247,
     "killmail_hash": "b629ab08d81fe0e4ff09044547267468dba960f6",
     "kill_time": "2026-01-09T02:03:31Z",
@@ -1710,32 +1814,6 @@
     "total_value": 18572916498.5,
     "final_attacker": {
       "character_name": "AG control",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132342877,
-    "killmail_hash": "eda1278939c748e8be9bd7d8261f432647392f1a",
-    "kill_time": "2026-01-02T07:42:15Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2120518206,
-      "character_name": "Nik Zuko5",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132342877/",
-    "total_value": 15760717922.49,
-    "final_attacker": {
-      "character_name": "Bored And Violent",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
