@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132523749,
+    "killmail_hash": "858261d4042acd929d2ac11ae5fab72d1f600a6e",
+    "kill_time": "2026-01-10T00:08:29Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001356,
+    "solar_system_name": "Dantumi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124005237,
+      "character_name": "rata de basura",
+      "corporation_id": 98813850,
+      "corporation_name": "Sol Ringen",
+      "alliance_id": 99014671,
+      "alliance_name": "NecroSphere."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132523749/",
+    "total_value": 2032407326.37,
+    "final_attacker": {
+      "character_name": "Jarle",
+      "corporation_name": "NovaCore Executive Corporation",
+      "alliance_name": "Outsmarted",
+      "ship_type_name": "Cyclone Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 132514231,
     "killmail_hash": "99871cd981c08f478261206b180bf29774987936",
     "kill_time": "2026-01-09T16:54:05Z",
@@ -52,6 +78,32 @@
     }
   },
   {
+    "killmail_id": 132512735,
+    "killmail_hash": "150720bc26f2524d8d67174519cc65bab330d73e",
+    "kill_time": "2026-01-09T15:43:20Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122191563,
+      "character_name": "bomberb3",
+      "corporation_id": 98689962,
+      "corporation_name": "Black Market Seeding",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132512735/",
+    "total_value": 33601629561.09,
+    "final_attacker": {
+      "character_name": "zLegion P",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 132511376,
     "killmail_hash": "529e3349127c6a135d34e049acfdc761a201dc94",
     "kill_time": "2026-01-09T14:38:05Z",
@@ -75,6 +127,32 @@
       "corporation_name": "Best Kept Dunked",
       "alliance_name": "OnlyFleets.",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132508619,
+    "killmail_hash": "5a1ae6a018a0ba91331f0df73e9d46d4870bd6d3",
+    "kill_time": "2026-01-09T12:01:50Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94949552,
+      "character_name": "Elise Ekilsdotter",
+      "corporation_id": 384667640,
+      "corporation_name": "Black Frog Logistics",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132508619/",
+    "total_value": 11863279392.47,
+    "final_attacker": {
+      "character_name": "zLegion K",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -1739,58 +1817,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132362776,
-    "killmail_hash": "03f9aa2e922f395f1ee43305fac1a194c95ef1e2",
-    "kill_time": "2026-01-03T00:15:46Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121168845,
-      "character_name": "SanshaDebris",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132362776/",
-    "total_value": 2004889617.74,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132362378,
-    "killmail_hash": "ce8bfed5228cb2a61baf6a7b2a48e7541760fe79",
-    "kill_time": "2026-01-02T23:54:17Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94267307,
-      "character_name": "PaNa Bob",
-      "corporation_id": 98807248,
-      "corporation_name": "Galactic Pet Carrier",
-      "alliance_id": 99011314,
-      "alliance_name": "SLOW Logistics Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132362378/",
-    "total_value": 9695427789.82,
-    "final_attacker": {
-      "character_name": "ChimpChimpChimp",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Bane"
     }
   }
 ]
