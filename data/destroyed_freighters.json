@@ -1974,57 +1974,5 @@
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 132399140,
-    "killmail_hash": "660c979a1e6dd7c9dd9b7af8200fcdd06394074f",
-    "kill_time": "2026-01-04T10:57:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2112362511,
-      "character_name": "chuc VN",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132399140/",
-    "total_value": 2154179994.54,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132399134,
-    "killmail_hash": "a31cf694153a720e9b3058ae23e6eb8dfa903351",
-    "kill_time": "2026-01-04T10:56:55Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000444,
-    "solar_system_name": "H-FGJO",
-    "region_name": "Detorid",
-    "victim": {
-      "character_id": 2117243158,
-      "character_name": "Elite Miko",
-      "corporation_id": 98524939,
-      "corporation_name": "Sing Hua",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132399134/",
-    "total_value": 17443104073.54,
-    "final_attacker": {
-      "character_name": "Hultaji Gogiko",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Rapier"
-    }
   }
 ]
