@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132558010,
+    "killmail_hash": "7b6f0b046d687cc29ada2dd63c13892530fa1b24",
+    "kill_time": "2026-01-11T04:20:50Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2064054534,
+      "character_name": "cybrannod",
+      "corporation_id": 98315512,
+      "corporation_name": "the space reapers corp",
+      "alliance_id": 99006125,
+      "alliance_name": "SLYCE Pirates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132558010/",
+    "total_value": 2932814473.39,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 132556612,
+    "killmail_hash": "3bffd8fc2f60dcf58e6946c98c1ab19679cf7a8a",
+    "kill_time": "2026-01-11T02:57:42Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2113646332,
+      "character_name": "Ambriel Wulf'Gar",
+      "corporation_id": 98641372,
+      "corporation_name": "Delta Incorporated",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132556612/",
+    "total_value": 2072751477.75,
+    "final_attacker": {
+      "character_name": "MystinaCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Raven"
+    }
+  },
+  {
     "killmail_id": 132553667,
     "killmail_hash": "77da4b5240aa6add3e3ccab7e1a940dd1a40c34c",
     "kill_time": "2026-01-11T00:05:26Z",
