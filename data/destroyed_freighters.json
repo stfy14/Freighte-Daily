@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132582617,
+    "killmail_hash": "30d73162e9a2b03d55eae3463125f29496c56253",
+    "kill_time": "2026-01-11T23:59:39Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 91782270,
+      "character_name": "Patboy Exposa",
+      "corporation_id": 98282527,
+      "corporation_name": "Galactic Hauling Solutions Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132582617/",
+    "total_value": 12469181925.83,
+    "final_attacker": {
+      "character_name": "EF Sigma",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132577853,
+    "killmail_hash": "4771de4cce785b8633c429f493f44393682d18c3",
+    "kill_time": "2026-01-11T20:27:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001198,
+    "solar_system_name": "GE-8JV",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 839636405,
+      "character_name": "Anac'h Sunamunn",
+      "corporation_id": 624539652,
+      "corporation_name": "Priory Of The Lemon",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132577853/",
+    "total_value": 2018853802.9,
+    "final_attacker": {
+      "character_name": "Merch Ent",
+      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132577843,
+    "killmail_hash": "46deb4effb8aab2b1c5409d11264c6166a6c8b8a",
+    "kill_time": "2026-01-11T20:27:20Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001198,
+    "solar_system_name": "GE-8JV",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 335569198,
+      "character_name": "CCGeneral",
+      "corporation_id": 624539652,
+      "corporation_name": "Priory Of The Lemon",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132577843/",
+    "total_value": 2018853802.9,
+    "final_attacker": {
+      "character_name": "Yume Mahou",
+      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132576899,
     "killmail_hash": "acf8c4d71fe903f1b7d1b0537d2081f03e3fa0d7",
     "kill_time": "2026-01-11T19:55:10Z",
@@ -1973,58 +2051,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132416291,
-    "killmail_hash": "ef893f9b6b2730a891f9e70c0ce2acfdc9b65c9b",
-    "kill_time": "2026-01-05T00:43:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001138,
-    "solar_system_name": "RXTY-4",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 2122603479,
-      "character_name": "Ogyonin Ovela Tadaruwa",
-      "corporation_id": 98819161,
-      "corporation_name": "Ironclad Warborn Consortium",
-      "alliance_id": 99003216,
-      "alliance_name": "Gentlemen's.Club"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132416291/",
-    "total_value": 1835973025.4,
-    "final_attacker": {
-      "character_name": "Shazyyyk",
-      "corporation_name": "Eagle Wing Industries",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Harpy"
-    }
-  },
-  {
-    "killmail_id": 132411674,
-    "killmail_hash": "d58041930dd6f82e0fb3cb95af711472962d078e",
-    "kill_time": "2026-01-04T20:42:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 31001759,
-    "solar_system_name": "J141740",
-    "region_name": "D-R00021",
-    "victim": {
-      "character_id": 2121741198,
-      "character_name": "Corynn Noud",
-      "corporation_id": 98753668,
-      "corporation_name": "Panala Family Foundation Holdings",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132411674/",
-    "total_value": 1834257617.9,
-    "final_attacker": {
-      "character_name": "paul webster",
-      "corporation_name": "CollapseTrap",
-      "alliance_name": null,
-      "ship_type_name": "Proteus"
     }
   }
 ]
