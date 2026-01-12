@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132588081,
+    "killmail_hash": "6d3ca4517e4252919228085256f365ed9966381a",
+    "kill_time": "2026-01-12T07:59:57Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 91207096,
+      "character_name": "Debbie-does Dallas",
+      "corporation_id": 98749510,
+      "corporation_name": "Embellishment",
+      "alliance_id": 99014415,
+      "alliance_name": "Iron Rose."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132588081/",
+    "total_value": 3637706578.73,
+    "final_attacker": {
+      "character_name": "Green'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132586794,
+    "killmail_hash": "f7989a8ef7aff973797b765c4cb601247e09a167",
+    "kill_time": "2026-01-12T05:13:33Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2119197073,
+      "character_name": "SpecterOfSouls",
+      "corporation_id": 98748599,
+      "corporation_name": "Kenshin Industries.",
+      "alliance_id": 99012843,
+      "alliance_name": "Kenshin Shogunate."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132586794/",
+    "total_value": 1938828921.21,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132586133,
     "killmail_hash": "c578ac058dc7e75a8744194db4a467b8dcfea9be",
     "kill_time": "2026-01-12T04:19:06Z",
@@ -1999,58 +2051,6 @@
       "corporation_name": "Africanized Enraged HIV Wasps",
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132420439,
-    "killmail_hash": "8e49a8c39fca05695958ed403c82567b5bedefe8",
-    "kill_time": "2026-01-05T05:36:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 1501707565,
-      "character_name": "Repulsions",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132420439/",
-    "total_value": 5563865235.04,
-    "final_attacker": {
-      "character_name": "Teal'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132420255,
-    "killmail_hash": "88469e7df3477bfbb56610bacd019a0544d5b82a",
-    "kill_time": "2026-01-05T05:18:12Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2118393781,
-      "character_name": "Ant-1 Space",
-      "corporation_id": 98705137,
-      "corporation_name": "Red Star 3.0",
-      "alliance_id": 99007203,
-      "alliance_name": "Siberian Squads"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132420255/",
-    "total_value": 8832690386.27,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
     }
   }
 ]
