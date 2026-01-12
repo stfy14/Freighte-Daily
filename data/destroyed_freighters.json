@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132595853,
+    "killmail_hash": "e174af0cbb4974b5ce2ae5c85b3db744bed6f971",
+    "kill_time": "2026-01-12T18:12:57Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123846378,
+      "character_name": "MrMooseX",
+      "corporation_id": 98817146,
+      "corporation_name": "BlackFlag Freight",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132595853/",
+    "total_value": 8243997088.91,
+    "final_attacker": {
+      "character_name": "Ille XL",
+      "corporation_name": "Healthy Corporation",
+      "alliance_name": null,
+      "ship_type_name": "Arazu"
+    }
+  },
+  {
     "killmail_id": 132593009,
     "killmail_hash": "2b360db87cfd7351e09edebf26b552f048985c22",
     "kill_time": "2026-01-12T14:54:03Z",
@@ -2077,58 +2103,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132432144,
-    "killmail_hash": "5cb3bde10543f34a078f0d141652580d7113a9e4",
-    "kill_time": "2026-01-05T19:44:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2118334267,
-      "character_name": "Haimdall Asgard",
-      "corporation_id": 98691940,
-      "corporation_name": "Green White Wonderwall",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132432144/",
-    "total_value": 5835310215.93,
-    "final_attacker": {
-      "character_name": "Salt Machin3",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 132432131,
-    "killmail_hash": "e8825ad8c911836565574258307575ecf3d81af2",
-    "kill_time": "2026-01-05T19:44:05Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 91553253,
-      "character_name": "Lisa Pleiades",
-      "corporation_id": 98098136,
-      "corporation_name": "Pleiadian Trading",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132432131/",
-    "total_value": 3103175943.81,
-    "final_attacker": {
-      "character_name": "Dankeguy",
-      "corporation_name": "Africanized Enraged HIV Wasps",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
