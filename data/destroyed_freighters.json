@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132619617,
+    "killmail_hash": "7152a982771d15567c278acc64bdb21d9e438310",
+    "kill_time": "2026-01-13T19:27:03Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002187,
+    "solar_system_name": "Amarr",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2115913536,
+      "character_name": "Laurens Utama",
+      "corporation_id": 98688818,
+      "corporation_name": "Big Black Crows",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132619617/",
+    "total_value": 2604109244.4,
+    "final_attacker": {
+      "character_name": "Styx Prana",
+      "corporation_name": "KR4D CIRCUS",
+      "alliance_name": null,
+      "ship_type_name": "Scythe Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 132607187,
     "killmail_hash": "e7ae143886b6c2f6b2e4a78c66c0b7576d9c906d",
     "kill_time": "2026-01-13T07:13:15Z",
@@ -1843,58 +1869,6 @@
       "corporation_name": "Nisroc Angels",
       "alliance_name": "The Obsidian Front - Reborn",
       "ship_type_name": "Megathron Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132453830,
-    "killmail_hash": "762efbf509b38854094f9db2ef628eacdf7d1d42",
-    "kill_time": "2026-01-06T19:46:40Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002048,
-    "solar_system_name": "Bei",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2117850733,
-      "character_name": "Quintus Loyal",
-      "corporation_id": 98664189,
-      "corporation_name": "Loyal Contracting",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132453830/",
-    "total_value": 3020410408.42,
-    "final_attacker": {
-      "character_name": "Iliad D'jax",
-      "corporation_name": "GentIeman Bastards",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Deimos"
-    }
-  },
-  {
-    "killmail_id": 132450479,
-    "killmail_hash": "f8fd274e3cc538953499949703f29f1645ae13fd",
-    "kill_time": "2026-01-06T17:01:51Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002048,
-    "solar_system_name": "Bei",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1612767810,
-      "character_name": "The Billboard",
-      "corporation_id": 1668620471,
-      "corporation_name": "Inspirational Creations",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132450479/",
-    "total_value": 8637012261.24,
-    "final_attacker": {
-      "character_name": "AnnElise von Thukker",
-      "corporation_name": "von Thukkers Interstellar Space Cleaning Services",
-      "alliance_name": null,
-      "ship_type_name": "Rupture"
     }
   }
 ]
