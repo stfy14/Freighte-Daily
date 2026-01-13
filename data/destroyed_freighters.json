@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132601249,
+    "killmail_hash": "2933ffc3bcdb28a77f9c240fc21e5f374cc9dc33",
+    "kill_time": "2026-01-12T22:57:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000623,
+    "solar_system_name": "04EI-U",
+    "region_name": "Cache",
+    "victim": {
+      "character_id": 91244551,
+      "character_name": "Bach Roughneck",
+      "corporation_id": 98546739,
+      "corporation_name": "Balkan Kings",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132601249/",
+    "total_value": 5358943886.43,
+    "final_attacker": {
+      "character_name": "Oashe Zarcov",
+      "corporation_name": "Black Rose Inc.",
+      "alliance_name": "Black Rose.",
+      "ship_type_name": "Wolf"
+    }
+  },
+  {
     "killmail_id": 132595853,
     "killmail_hash": "e174af0cbb4974b5ce2ae5c85b3db744bed6f971",
     "kill_time": "2026-01-12T18:12:57Z",
