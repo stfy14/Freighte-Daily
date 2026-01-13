@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132607187,
+    "killmail_hash": "e7ae143886b6c2f6b2e4a78c66c0b7576d9c906d",
+    "kill_time": "2026-01-13T07:13:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2119250870,
+      "character_name": "Mither Artal Khashour",
+      "corporation_id": 98694020,
+      "corporation_name": "Amarr Resources Unlimited",
+      "alliance_id": 99014427,
+      "alliance_name": "Itty Bitty Asteroid Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132607187/",
+    "total_value": 3989456167.85,
+    "final_attacker": {
+      "character_name": "Im-Just-An-Immortal",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132601249,
     "killmail_hash": "2933ffc3bcdb28a77f9c240fc21e5f374cc9dc33",
     "kill_time": "2026-01-12T22:57:26Z",
@@ -2074,58 +2100,6 @@
     "total_value": 14121910531.45,
     "final_attacker": {
       "character_name": "zLegion M",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132442780,
-    "killmail_hash": "86b319261022f769c220b50ab2e1b5da2da45d97",
-    "kill_time": "2026-01-06T08:16:00Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005208,
-    "solar_system_name": "Ziasad",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2115947502,
-      "character_name": "Salena Pserad",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132442780/",
-    "total_value": 1759570692.77,
-    "final_attacker": {
-      "character_name": "Mike Kisiel",
-      "corporation_name": "Sokar Syndicate",
-      "alliance_name": "Habitual Chaos",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132442431,
-    "killmail_hash": "49562b659b1975058df910488757cb5d198357c8",
-    "kill_time": "2026-01-06T07:42:11Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114130086,
-      "character_name": "bingxuan 0571",
-      "corporation_id": 98725744,
-      "corporation_name": "SGtransport",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132442431/",
-    "total_value": 12777657258.14,
-    "final_attacker": {
-      "character_name": "zLegion F",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
