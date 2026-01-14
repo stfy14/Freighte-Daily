@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132628699,
+    "killmail_hash": "d988a396188aa47671ee8d93d2fa0e6b0f9f7a5a",
+    "kill_time": "2026-01-14T04:49:11Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004839,
+    "solar_system_name": "JI1-SY",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2121005158,
+      "character_name": "MegaPupEx",
+      "corporation_id": 98648361,
+      "corporation_name": "Deadspace Excavations",
+      "alliance_id": 99011162,
+      "alliance_name": "Shadow Ultimatum"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132628699/",
+    "total_value": 2566805119.36,
+    "final_attacker": {
+      "character_name": "Lula Dragon",
+      "corporation_name": "Resilience.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Vagabond"
+    }
+  },
+  {
     "killmail_id": 132628397,
     "killmail_hash": "22de5286187155c4edfc7c1ee80164eb80a7df6d",
     "kill_time": "2026-01-14T04:13:55Z",
@@ -1765,84 +1791,6 @@
       "corporation_name": "Silver Fog Dragon Ride",
       "alliance_name": "Dragon Riders Legion",
       "ship_type_name": "Azariel"
-    }
-  },
-  {
-    "killmail_id": 132464371,
-    "killmail_hash": "dde2fa1b95489a66b67d033bd4d0ad2e6485b388",
-    "kill_time": "2026-01-07T08:36:00Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 893572486,
-      "character_name": "RockSuck3r",
-      "corporation_id": 98323388,
-      "corporation_name": "Insidious Systems Division",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132464371/",
-    "total_value": 15676768370.19,
-    "final_attacker": {
-      "character_name": "Shalltear Bl00dfallen",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132464355,
-    "killmail_hash": "56df0ab2ad4acbd90bc193ce15d4bfd589fe4548",
-    "kill_time": "2026-01-07T08:34:49Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002577,
-    "solar_system_name": "Bundindus",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2122495912,
-      "character_name": "Ivan su2",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132464355/",
-    "total_value": 11699634175.16,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132462499,
-    "killmail_hash": "54f24a264015e87a369e4e53d8593818348cdc9f",
-    "kill_time": "2026-01-07T05:22:44Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 92788800,
-      "character_name": "Zahra Sangouard",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132462499/",
-    "total_value": 9735026894.22,
-    "final_attacker": {
-      "character_name": "White'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
