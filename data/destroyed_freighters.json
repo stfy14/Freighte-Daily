@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132628397,
+    "killmail_hash": "22de5286187155c4edfc7c1ee80164eb80a7df6d",
+    "kill_time": "2026-01-14T04:13:55Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003584,
+    "solar_system_name": "Sarline",
+    "region_name": "Solitude",
+    "victim": {
+      "character_id": 93220962,
+      "character_name": "Bella Cadelanne",
+      "corporation_id": 98244087,
+      "corporation_name": "Blade's Of Hell",
+      "alliance_id": 99006232,
+      "alliance_name": "No Blue For You"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132628397/",
+    "total_value": 31228673634.35,
+    "final_attacker": {
+      "character_name": "Sharlandra",
+      "corporation_name": "Phoenix Naval Operations",
+      "alliance_name": "Phoenix Naval Systems",
+      "ship_type_name": "Archon"
+    }
+  },
+  {
     "killmail_id": 132623663,
     "killmail_hash": "8daf668c6d23401d4366f5014a888825f8657913",
     "kill_time": "2026-01-13T22:26:09Z",
@@ -1817,32 +1843,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132461205,
-    "killmail_hash": "59066983cd2e7f8ae675540bcf6d46aa475f53a1",
-    "kill_time": "2026-01-07T03:39:23Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 705026343,
-      "character_name": "Mining Forman",
-      "corporation_id": 144965822,
-      "corporation_name": "Oberon Incorporated",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132461205/",
-    "total_value": 14173308460.63,
-    "final_attacker": {
-      "character_name": "Highsec Defender",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
