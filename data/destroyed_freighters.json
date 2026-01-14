@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132623663,
+    "killmail_hash": "8daf668c6d23401d4366f5014a888825f8657913",
+    "kill_time": "2026-01-13T22:26:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2114978690,
+      "character_name": "Ulf Grunwald",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132623663/",
+    "total_value": 2523374949.03,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132622770,
+    "killmail_hash": "8e89fe1d57c90ab60f728c44f45cd3e525980f42",
+    "kill_time": "2026-01-13T21:29:26Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123748422,
+      "character_name": "Akatosh Dragon God",
+      "corporation_id": 98633976,
+      "corporation_name": "Tamriel Trade Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132622770/",
+    "total_value": 5284833918.68,
+    "final_attacker": {
+      "character_name": "Gate Tax Specialist",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132622713,
+    "killmail_hash": "e2d6e37ab8de41e638ebeca70475c33ef35464c4",
+    "kill_time": "2026-01-13T21:27:33Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001368,
+    "solar_system_name": "Uemisaisen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 91927048,
+      "character_name": "sexylips2012 Gaterau",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132622713/",
+    "total_value": 13246117010.19,
+    "final_attacker": {
+      "character_name": "Don Gregorio",
+      "corporation_name": "Highsec Expropriation Office",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132619617,
     "killmail_hash": "7152a982771d15567c278acc64bdb21d9e438310",
     "kill_time": "2026-01-13T19:27:03Z",
@@ -23,6 +101,32 @@
       "corporation_name": "KR4D CIRCUS",
       "alliance_name": null,
       "ship_type_name": "Scythe Fleet Issue"
+    }
+  },
+  {
+    "killmail_id": 132612395,
+    "killmail_hash": "7f7b8b1de35d9733fa20c61141cc609142301bce",
+    "kill_time": "2026-01-13T14:12:12Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1487977242,
+      "character_name": "Mecha Polcha",
+      "corporation_id": 1690069799,
+      "corporation_name": "Cause of Crisis",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132612395/",
+    "total_value": 2902529829.7,
+    "final_attacker": {
+      "character_name": "Xeron Vann",
+      "corporation_name": "BlackCore Tactics",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Nidhoggur"
     }
   },
   {
@@ -1739,136 +1843,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132460200,
-    "killmail_hash": "9d14156f80fc9023d7908b79f6042ff0c3023ebc",
-    "kill_time": "2026-01-07T02:15:18Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2121178639,
-      "character_name": "shadowjaster",
-      "corporation_id": 98775777,
-      "corporation_name": "From the Shadows comes Life",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132460200/",
-    "total_value": 2026264016.75,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 132459648,
-    "killmail_hash": "defeae3731dd31526d1283bec5cce22189d6fba8",
-    "kill_time": "2026-01-07T01:29:35Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 1098163422,
-      "character_name": "Ryanqzqz",
-      "corporation_id": 1000046,
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132459648/",
-    "total_value": 2277475641.5,
-    "final_attacker": {
-      "character_name": "RHlNOX",
-      "corporation_name": "Spaghetti Militia",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132458497,
-    "killmail_hash": "9b191ba4f7fbf07b96e9b6d82013baf0b1962a60",
-    "kill_time": "2026-01-07T00:10:41Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002574,
-    "solar_system_name": "Hrondedir",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2118896957,
-      "character_name": "andyinnit",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132458497/",
-    "total_value": 2047191831.17,
-    "final_attacker": {
-      "character_name": "Raila Karismaki",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132456079,
-    "killmail_hash": "85c7df36179ad0133ac68d7818dd4755ba33ec89",
-    "kill_time": "2026-01-06T21:33:13Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95574242,
-      "character_name": "Shena Enaka",
-      "corporation_id": 98818111,
-      "corporation_name": "PUSHZ",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132456079/",
-    "total_value": 8258142926.27,
-    "final_attacker": {
-      "character_name": "Alexingeras",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132455919,
-    "killmail_hash": "176ffc21241331bee6d78b4ae2614a02442ad1bb",
-    "kill_time": "2026-01-06T21:25:34Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002048,
-    "solar_system_name": "Bei",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123439234,
-      "character_name": "Mikhshar Kafshaz",
-      "corporation_id": 98473379,
-      "corporation_name": "Cambridge Mountain Rescue",
-      "alliance_id": 99013028,
-      "alliance_name": "The Monarchy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132455919/",
-    "total_value": 2028622383.31,
-    "final_attacker": {
-      "character_name": "Syth Sunmaster",
-      "corporation_name": "Nisroc Angels",
-      "alliance_name": "The Obsidian Front - Reborn",
-      "ship_type_name": "Megathron Navy Issue"
     }
   }
 ]
