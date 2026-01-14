@@ -1714,57 +1714,5 @@
       "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 132467698,
-    "killmail_hash": "fc5f8ea88502e56ac505b658434059b9aebbc745",
-    "kill_time": "2026-01-07T13:44:29Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94652778,
-      "character_name": "Jim Canion Jims",
-      "corporation_id": 98751844,
-      "corporation_name": "Jimmy Squad",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132467698/",
-    "total_value": 28724236146.93,
-    "final_attacker": {
-      "character_name": "zLegion O",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132467045,
-    "killmail_hash": "477133d9be90ef30d433f494643c602a919894de",
-    "kill_time": "2026-01-07T13:09:42Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123457469,
-      "character_name": "Nailong GG",
-      "corporation_id": 98804819,
-      "corporation_name": "Nailong Industry",
-      "alliance_id": 99014196,
-      "alliance_name": "Nailong Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132467045/",
-    "total_value": 18581916225.67,
-    "final_attacker": {
-      "character_name": "zLegion L",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
   }
 ]
