@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132655851,
+    "killmail_hash": "747244664ad9397fa3b92ecd9d47452bc135c1ba",
+    "kill_time": "2026-01-15T14:59:29Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003067,
+    "solar_system_name": "Huola",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 92585279,
+      "character_name": "bambina Miner",
+      "corporation_id": 98808126,
+      "corporation_name": "The Empyrean Hold",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132655851/",
+    "total_value": 2179063015.38,
+    "final_attacker": {
+      "character_name": "kolya123k5",
+      "corporation_name": "x Never Regret x",
+      "alliance_name": "C A M E L O T",
+      "ship_type_name": "Stratios"
+    }
+  },
+  {
     "killmail_id": 132653315,
     "killmail_hash": "e26671b9f99e6317f2ff8c2a015170adcce6acf1",
     "kill_time": "2026-01-15T12:33:42Z",
@@ -1635,32 +1661,6 @@
       "corporation_name": "Hostile.",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132491181,
-    "killmail_hash": "a7bfd8a027f3a266d5a33be10b067597787d2347",
-    "kill_time": "2026-01-08T15:45:46Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003905,
-    "solar_system_name": "Chamemi",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2116049919,
-      "character_name": "Sion Aurgnet",
-      "corporation_id": 98795743,
-      "corporation_name": "ITTY Industries",
-      "alliance_id": 99014427,
-      "alliance_name": "Itty Bitty Asteroid Academy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132491181/",
-    "total_value": 2817884555.37,
-    "final_attacker": {
-      "character_name": "Adarxx",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Marshal"
     }
   }
 ]
