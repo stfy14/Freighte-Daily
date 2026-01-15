@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132660485,
+    "killmail_hash": "d5ac9af7e2617c5053d50ca2045a6c51150a339f",
+    "kill_time": "2026-01-15T19:41:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122062577,
+      "character_name": "Pavlov Tarsonis",
+      "corporation_id": 98771487,
+      "corporation_name": "Interplanetary Ministry of Fortune",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132660485/",
+    "total_value": 1843900275.77,
+    "final_attacker": {
+      "character_name": "Femida Pavlovna",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132658315,
+    "killmail_hash": "185be085ce0f476544ed2bd8d6b32a1b8b5e4a34",
+    "kill_time": "2026-01-15T17:52:48Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000246,
+    "solar_system_name": "KRUN-N",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2122386006,
+      "character_name": "AoCks",
+      "corporation_id": 98626494,
+      "corporation_name": "STARCHASER Inc",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132658315/",
+    "total_value": 1843576379.42,
+    "final_attacker": {
+      "character_name": "Kanaad",
+      "corporation_name": "DO.IT",
+      "alliance_name": null,
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
     "killmail_id": 132655851,
     "killmail_hash": "747244664ad9397fa3b92ecd9d47452bc135c1ba",
     "kill_time": "2026-01-15T14:59:29Z",
@@ -1583,84 +1635,6 @@
       "corporation_name": "10 Potatoes",
       "alliance_name": "Project Potato",
       "ship_type_name": "Sacrilege"
-    }
-  },
-  {
-    "killmail_id": 132495237,
-    "killmail_hash": "dfdcabb2a6dfee16e141ba15833ee3fe4ca73267",
-    "kill_time": "2026-01-08T19:45:14Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30004819,
-    "solar_system_name": "S-9RCJ",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2122361789,
-      "character_name": "BezeaBezea",
-      "corporation_id": 98665672,
-      "corporation_name": "Rise Of Exiles",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132495237/",
-    "total_value": 9358071315.19,
-    "final_attacker": {
-      "character_name": "L1vent",
-      "corporation_name": "Nocte Vigilo",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132494089,
-    "killmail_hash": "2ca1509d878cd07e3f601d7efc802339f750359e",
-    "kill_time": "2026-01-08T18:57:04Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003559,
-    "solar_system_name": "Mamet",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2121917393,
-      "character_name": "LND-fx",
-      "corporation_id": 98756906,
-      "corporation_name": "Jay's Army",
-      "alliance_id": 99006260,
-      "alliance_name": "The Republic."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132494089/",
-    "total_value": 2032233866.69,
-    "final_attacker": {
-      "character_name": "Vorn",
-      "corporation_name": "I'm Super Bad At This",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 132493402,
-    "killmail_hash": "a46fa89c77f8d17ceeae3daec7f6011fa538a790",
-    "kill_time": "2026-01-08T18:17:34Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001049,
-    "solar_system_name": "Farit",
-    "region_name": "Curse",
-    "victim": {
-      "character_id": 1089900098,
-      "character_name": "Netjist",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132493402/",
-    "total_value": 17049182109.2,
-    "final_attacker": {
-      "character_name": "Dr Fly",
-      "corporation_name": "Hostile.",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
