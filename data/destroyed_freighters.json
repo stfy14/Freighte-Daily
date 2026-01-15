@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132647183,
+    "killmail_hash": "49b5b3d50889f47cf5f0cf18d7f9caea09c5db4e",
+    "kill_time": "2026-01-15T03:03:16Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95527827,
+      "character_name": "Samir Duran III",
+      "corporation_id": 98498768,
+      "corporation_name": "Project-Copernicus",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132647183/",
+    "total_value": 13493391165.3,
+    "final_attacker": {
+      "character_name": "Pleasure Hub Escort",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 132642395,
     "killmail_hash": "d4c79206833647ca1b0db098711bb2d461cdf874",
     "kill_time": "2026-01-14T21:12:24Z",
@@ -1632,58 +1658,6 @@
     "total_value": 8329906617.17,
     "final_attacker": {
       "character_name": "Mauve'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132482125,
-    "killmail_hash": "4a1bcee6c4d50c6e3f8a465f8f71354f8910f20e",
-    "kill_time": "2026-01-08T03:27:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2112953464,
-      "character_name": "Marcin LubiePlacki",
-      "corporation_id": 98735533,
-      "corporation_name": "Triglavian Hunters lcc",
-      "alliance_id": 99014221,
-      "alliance_name": "Weapons of Mass Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132482125/",
-    "total_value": 3671038905.82,
-    "final_attacker": {
-      "character_name": "Indigo'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132481672,
-    "killmail_hash": "41a97b3333ddfc75c89eb5328c79849db45071d7",
-    "kill_time": "2026-01-08T02:59:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 91713067,
-      "character_name": "Falibel Tashika",
-      "corporation_id": 98790508,
-      "corporation_name": "Moonlight Mouse Hole",
-      "alliance_id": 99014050,
-      "alliance_name": "Lunar Luminescence"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132481672/",
-    "total_value": 6245058672.68,
-    "final_attacker": {
-      "character_name": "Yellow'Crayon",
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
