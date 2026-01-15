@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132642395,
+    "killmail_hash": "d4c79206833647ca1b0db098711bb2d461cdf874",
+    "kill_time": "2026-01-14T21:12:24Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 343023313,
+      "character_name": "White Bull",
+      "corporation_id": 583616018,
+      "corporation_name": "Black Aces",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132642395/",
+    "total_value": 1844683263.67,
+    "final_attacker": {
+      "character_name": "Endoki",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 132628699,
     "killmail_hash": "d988a396188aa47671ee8d93d2fa0e6b0f9f7a5a",
     "kill_time": "2026-01-14T04:49:11Z",
@@ -1661,32 +1687,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132480399,
-    "killmail_hash": "93135ab72ef3610785b425354da4738391d9afba",
-    "kill_time": "2026-01-08T01:42:46Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118155536,
-      "character_name": "Nogat Vokan",
-      "corporation_id": 98753829,
-      "corporation_name": "Dark Star Horizons",
-      "alliance_id": 99010896,
-      "alliance_name": "Caldari Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132480399/",
-    "total_value": 13775075327.24,
-    "final_attacker": {
-      "character_name": "Nogat Vokan's Brother",
-      "corporation_name": "Dark Star Horizons",
-      "alliance_name": "Caldari Alliance",
-      "ship_type_name": "Sunesis"
     }
   }
 ]
