@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132664190,
+    "killmail_hash": "2e3136d8a40211713117a46a2b78cdce36a444ef",
+    "kill_time": "2026-01-15T22:47:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002764,
+    "solar_system_name": "Hatakani",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1944280240,
+      "character_name": "bmgc",
+      "corporation_id": 98702288,
+      "corporation_name": "Uncommon Horizon",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132664190/",
+    "total_value": 4590252512.2,
+    "final_attacker": {
+      "character_name": "Riley MarieMcGee",
+      "corporation_name": "Uncommon Horizon",
+      "alliance_name": null,
+      "ship_type_name": "Cruor"
+    }
+  },
+  {
+    "killmail_id": 132664161,
+    "killmail_hash": "20c3274f1256c167e52e00701044c65ad7f90401",
+    "kill_time": "2026-01-15T22:46:17Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004583,
+    "solar_system_name": "IGE-RI",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 2123976665,
+      "character_name": "MY BLUEPRINT",
+      "corporation_id": 98821816,
+      "corporation_name": "Rightfully My Treasure",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132664161/",
+    "total_value": 2222706079.39,
+    "final_attacker": {
+      "character_name": "Honeymonstar",
+      "corporation_name": "Void of Eden.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Molok"
+    }
+  },
+  {
     "killmail_id": 132660485,
     "killmail_hash": "d5ac9af7e2617c5053d50ca2045a6c51150a339f",
     "kill_time": "2026-01-15T19:41:28Z",
@@ -1583,58 +1635,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132502247,
-    "killmail_hash": "b629ab08d81fe0e4ff09044547267468dba960f6",
-    "kill_time": "2026-01-09T02:03:31Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002048,
-    "solar_system_name": "Bei",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 681040617,
-      "character_name": "Former Champion",
-      "corporation_id": 98408491,
-      "corporation_name": "Butt Pounder Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132502247/",
-    "total_value": 8899832655.47,
-    "final_attacker": {
-      "character_name": "Spatterjay Hoop",
-      "corporation_name": "Heretic Army",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Broadsword"
-    }
-  },
-  {
-    "killmail_id": 132498539,
-    "killmail_hash": "abdbbd90f29dbee5efe484b9d5ba8ca12af76df9",
-    "kill_time": "2026-01-08T21:55:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004140,
-    "solar_system_name": "Zinoo",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 2115284156,
-      "character_name": "Blind Cyborg",
-      "corporation_id": 98517836,
-      "corporation_name": "Bloodhorn",
-      "alliance_id": 99010325,
-      "alliance_name": "Patchwork Freelancers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132498539/",
-    "total_value": 3377087509.59,
-    "final_attacker": {
-      "character_name": "Ivy Kuznetsova",
-      "corporation_name": "10 Potatoes",
-      "alliance_name": "Project Potato",
-      "ship_type_name": "Sacrilege"
     }
   }
 ]
