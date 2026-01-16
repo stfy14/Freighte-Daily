@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132679878,
+    "killmail_hash": "51f75d02bd03dbc1f9b82e71a84ec26975a334c0",
+    "kill_time": "2026-01-16T18:35:32Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116978516,
+      "character_name": "Firelight7118",
+      "corporation_id": 98767134,
+      "corporation_name": "ETBL Industries",
+      "alliance_id": 99014427,
+      "alliance_name": "Itty Bitty Asteroid Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132679878/",
+    "total_value": 10853666796.7,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 132677616,
+    "killmail_hash": "dd3102fd03e707d6a65005065c5a289087970323",
+    "kill_time": "2026-01-16T16:32:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2122481702,
+      "character_name": "Billy T Madison",
+      "corporation_id": 98779156,
+      "corporation_name": "New Eden Consultant Agency",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132677616/",
+    "total_value": 2104652784.33,
+    "final_attacker": {
+      "character_name": "Slorpos",
+      "corporation_name": "BlackCore Tactics",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
     "killmail_id": 132675296,
     "killmail_hash": "f8fe9dd16d094944045730a8cad2c84995c9016e",
     "kill_time": "2026-01-16T14:38:43Z",
@@ -832,6 +884,32 @@
     }
   },
   {
+    "killmail_id": 132580155,
+    "killmail_hash": "6f2f04d378414209370ade1075719fcfe4dd328b",
+    "kill_time": "2026-01-11T21:51:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000005,
+    "solar_system_name": "Sasta",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 95340813,
+      "character_name": "Jaroslav Bara",
+      "corporation_id": 1000072,
+      "corporation_name": "Imperial Shipment",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132580155/",
+    "total_value": 2627406844.62,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "AEGIS",
+      "alliance_name": null,
+      "ship_type_name": "Elite Imperial Navy Armageddon"
+    }
+  },
+  {
     "killmail_id": 132577853,
     "killmail_hash": "4771de4cce785b8633c429f493f44393682d18c3",
     "kill_time": "2026-01-11T20:27:52Z",
@@ -1505,32 +1583,6 @@
       "corporation_name": "NovaCore Executive Corporation",
       "alliance_name": "Outsmarted",
       "ship_type_name": "Cyclone Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 132514231,
-    "killmail_hash": "99871cd981c08f478261206b180bf29774987936",
-    "kill_time": "2026-01-09T16:54:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004718,
-    "solar_system_name": "FWST-8",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2122976603,
-      "character_name": "Heiligenblut",
-      "corporation_id": 98297722,
-      "corporation_name": "Space Colony",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132514231/",
-    "total_value": 1842907225.16,
-    "final_attacker": {
-      "character_name": "BoxeR-Z",
-      "corporation_name": "Special law enforcement department",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Megathron"
     }
   }
 ]
