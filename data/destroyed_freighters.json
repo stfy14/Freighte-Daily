@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 132690680,
+    "killmail_hash": "95e6f1623c3b4e78054667193ced5cd88f20d6cd",
+    "kill_time": "2026-01-17T03:57:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001161,
+    "solar_system_name": "HED-GP",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 93977164,
+      "character_name": "Ben Wabawls",
+      "corporation_id": 98635953,
+      "corporation_name": "Derpiest Herpiest",
+      "alliance_id": 99011239,
+      "alliance_name": "Ligma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132690680/",
+    "total_value": 1901347550.29,
+    "final_attacker": {
+      "character_name": "Marcus Nosha",
+      "corporation_name": "Desolate Waste",
+      "alliance_name": "Desolate.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132690238,
+    "killmail_hash": "42cece3537ba48d852d5a290180884155f0f4e58",
+    "kill_time": "2026-01-17T03:33:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002722,
+    "solar_system_name": "Lamadent",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1022546401,
+      "character_name": "Viper KB",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132690238/",
+    "total_value": 19376967732.96,
+    "final_attacker": {
+      "character_name": "NovaMoon Enaka",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132688859,
+    "killmail_hash": "37317c0f638ac5538064a9ca9e572023a95623a7",
+    "kill_time": "2026-01-17T02:16:10Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 758904936,
+      "character_name": "Lin Qui",
+      "corporation_id": 98383128,
+      "corporation_name": "Limited GoldMining Production",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132688859/",
+    "total_value": 2147879076.28,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 132688706,
+    "killmail_hash": "28b4c68908b785bca8e9190b325eeaf15f9be70b",
+    "kill_time": "2026-01-17T02:05:24Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123779515,
+      "character_name": "Hagnuneli Musana",
+      "corporation_id": 98750086,
+      "corporation_name": "The MetroPlex",
+      "alliance_id": 99014210,
+      "alliance_name": "Buy Low Die High"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132688706/",
+    "total_value": 1841386414.79,
+    "final_attacker": {
+      "character_name": "Dats'Alotta Damage",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132685375,
     "killmail_hash": "a6ba610bf08155642cea03302506496c4e11cf94",
     "kill_time": "2026-01-16T22:37:48Z",
