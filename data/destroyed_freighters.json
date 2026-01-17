@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132685375,
+    "killmail_hash": "a6ba610bf08155642cea03302506496c4e11cf94",
+    "kill_time": "2026-01-16T22:37:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122043797,
+      "character_name": "Irts Dalt Caderu",
+      "corporation_id": 98637669,
+      "corporation_name": "F.13 - Union of Russians",
+      "alliance_id": 99013924,
+      "alliance_name": "Legion of xXDEATHXx Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132685375/",
+    "total_value": 2229315503.69,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 132679878,
     "killmail_hash": "51f75d02bd03dbc1f9b82e71a84ec26975a334c0",
     "kill_time": "2026-01-16T18:35:32Z",
@@ -1557,32 +1583,6 @@
       "corporation_name": "IZ DEC Corporation",
       "alliance_name": null,
       "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 132523749,
-    "killmail_hash": "858261d4042acd929d2ac11ae5fab72d1f600a6e",
-    "kill_time": "2026-01-10T00:08:29Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001356,
-    "solar_system_name": "Dantumi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2124005237,
-      "character_name": "rata de basura",
-      "corporation_id": 98813850,
-      "corporation_name": "Sol Ringen",
-      "alliance_id": 99014671,
-      "alliance_name": "NecroSphere."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132523749/",
-    "total_value": 2032407326.37,
-    "final_attacker": {
-      "character_name": "Jarle",
-      "corporation_name": "NovaCore Executive Corporation",
-      "alliance_name": "Outsmarted",
-      "ship_type_name": "Cyclone Fleet Issue"
     }
   }
 ]
