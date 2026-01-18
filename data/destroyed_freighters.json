@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132726785,
+    "killmail_hash": "311a24a3d3b97b6940c19aee2fd3c4d1b7355dca",
+    "kill_time": "2026-01-18T11:44:10Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003070,
+    "solar_system_name": "Sosala",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 1077476950,
+      "character_name": "Lord Krenn",
+      "corporation_id": 98735780,
+      "corporation_name": "L.K. INDUSTRIES",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132726785/",
+    "total_value": 2141256000.24,
+    "final_attacker": {
+      "character_name": "RHlNOX",
+      "corporation_name": "Spaghetti Militia",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132726720,
+    "killmail_hash": "7ba24b1312747f95675b602d4a7fbc5a51af6516",
+    "kill_time": "2026-01-18T11:40:55Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2114135866,
+      "character_name": "Cinda Atram",
+      "corporation_id": 1000171,
+      "corporation_name": "Republic University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132726720/",
+    "total_value": 2164690581.55,
+    "final_attacker": {
+      "character_name": "Wild Valenok",
+      "corporation_name": "Interstellar Scum",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Megathron"
+    }
+  },
+  {
+    "killmail_id": 132724619,
+    "killmail_hash": "0ba0635b5976e9df8038dba26a34b9cb00598c23",
+    "kill_time": "2026-01-18T09:02:38Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116159894,
+      "character_name": "Xavier Djuball",
+      "corporation_id": 98306027,
+      "corporation_name": "SpaceFire Holding",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132724619/",
+    "total_value": 3206327167.87,
+    "final_attacker": {
+      "character_name": "Pterry Dactyl Kasterborous",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132718518,
     "killmail_hash": "8f7b0dc95246493e984319dddaffdaf2f0b7ce42",
     "kill_time": "2026-01-18T02:44:12Z",
