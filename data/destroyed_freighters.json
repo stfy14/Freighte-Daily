@@ -1376,57 +1376,5 @@
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 132561566,
-    "killmail_hash": "608ff573f472f713d94a9ec50f9620e2f49546e2",
-    "kill_time": "2026-01-11T07:53:29Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004626,
-    "solar_system_name": "D4KU-5",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 1675191168,
-      "character_name": "FacingHell",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132561566/",
-    "total_value": 8005894517.83,
-    "final_attacker": {
-      "character_name": "changfeng006",
-      "corporation_name": "Alkaid Broken Army",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Golem"
-    }
-  },
-  {
-    "killmail_id": 132560726,
-    "killmail_hash": "b423ef23ef50e019e1cc44f31d94251c0366d865",
-    "kill_time": "2026-01-11T06:52:58Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 92460545,
-      "character_name": "Dale Hekard",
-      "corporation_id": 98548155,
-      "corporation_name": "Black Scorpion Industries",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132560726/",
-    "total_value": 7237900330.65,
-    "final_attacker": {
-      "character_name": "White'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
