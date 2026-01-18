@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132718518,
+    "killmail_hash": "8f7b0dc95246493e984319dddaffdaf2f0b7ce42",
+    "kill_time": "2026-01-18T02:44:12Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123981289,
+      "character_name": "Fenrir Pilot",
+      "corporation_id": 98666585,
+      "corporation_name": "Jumping Jews of Jerusalem",
+      "alliance_id": 99012162,
+      "alliance_name": "The Chicken Coop"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132718518/",
+    "total_value": 8567296788.18,
+    "final_attacker": {
+      "character_name": "Green'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132716987,
     "killmail_hash": "f4a3ee0cd41579fe533baba6f3a3ab22c17d0be2",
     "kill_time": "2026-01-18T01:16:50Z",
@@ -1401,84 +1427,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132558010,
-    "killmail_hash": "7b6f0b046d687cc29ada2dd63c13892530fa1b24",
-    "kill_time": "2026-01-11T04:20:50Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2064054534,
-      "character_name": "cybrannod",
-      "corporation_id": 98315512,
-      "corporation_name": "the space reapers corp",
-      "alliance_id": 99006125,
-      "alliance_name": "SLYCE Pirates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132558010/",
-    "total_value": 2932814473.39,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 132557858,
-    "killmail_hash": "1ae9b9b4dbf4e86f427dbcafb77c0a4d4e9bf810",
-    "kill_time": "2026-01-11T04:13:34Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90611449,
-      "character_name": "Express Panda",
-      "corporation_id": 98744255,
-      "corporation_name": "Atomic Compression",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132557858/",
-    "total_value": 8575881898.95,
-    "final_attacker": {
-      "character_name": "zLegion F",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132556612,
-    "killmail_hash": "3bffd8fc2f60dcf58e6946c98c1ab19679cf7a8a",
-    "kill_time": "2026-01-11T02:57:42Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113646332,
-      "character_name": "Ambriel Wulf'Gar",
-      "corporation_id": 98641372,
-      "corporation_name": "Delta Incorporated",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132556612/",
-    "total_value": 2072751477.75,
-    "final_attacker": {
-      "character_name": "MystinaCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Raven"
     }
   }
 ]
