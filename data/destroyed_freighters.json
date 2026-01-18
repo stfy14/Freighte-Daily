@@ -780,6 +780,32 @@
     }
   },
   {
+    "killmail_id": 132645914,
+    "killmail_hash": "6be41bbec093bb5ebd752f781b5a17da7a099508",
+    "kill_time": "2026-01-15T01:27:00Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91339814,
+      "character_name": "Yuna Rodriguez",
+      "corporation_id": 98814956,
+      "corporation_name": "Your Recurring Nightmare",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132645914/",
+    "total_value": 11400304672.02,
+    "final_attacker": {
+      "character_name": "ErMahGerd DahLewt",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132642395,
     "killmail_hash": "d4c79206833647ca1b0db098711bb2d461cdf874",
     "kill_time": "2026-01-14T21:12:24Z",
@@ -1274,107 +1300,29 @@
     }
   },
   {
-    "killmail_id": 132577853,
-    "killmail_hash": "4771de4cce785b8633c429f493f44393682d18c3",
-    "kill_time": "2026-01-11T20:27:52Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001198,
-    "solar_system_name": "GE-8JV",
-    "region_name": "Catch",
+    "killmail_id": 132579452,
+    "killmail_hash": "d73f1a2e2c9e1bd584f2de857576dbf2795c8909",
+    "kill_time": "2026-01-11T21:27:14Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
     "victim": {
-      "character_id": 839636405,
-      "character_name": "Anac'h Sunamunn",
-      "corporation_id": 624539652,
-      "corporation_name": "Priory Of The Lemon",
-      "alliance_id": 99011223,
-      "alliance_name": "Sigma Grindset"
+      "character_id": 92913227,
+      "character_name": "Brandon Allen Smith",
+      "corporation_id": 1000049,
+      "corporation_name": "Brutor Tribe",
+      "alliance_id": null,
+      "alliance_name": null
     },
-    "zkb_url": "https://zkillboard.com/kill/132577853/",
-    "total_value": 2018853802.9,
+    "zkb_url": "https://zkillboard.com/kill/132579452/",
+    "total_value": 3337511281.94,
     "final_attacker": {
-      "character_name": "Merch Ent",
-      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132577843,
-    "killmail_hash": "46deb4effb8aab2b1c5409d11264c6166a6c8b8a",
-    "kill_time": "2026-01-11T20:27:20Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001198,
-    "solar_system_name": "GE-8JV",
-    "region_name": "Catch",
-    "victim": {
-      "character_id": 335569198,
-      "character_name": "CCGeneral",
-      "corporation_id": 624539652,
-      "corporation_name": "Priory Of The Lemon",
-      "alliance_id": 99011223,
-      "alliance_name": "Sigma Grindset"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132577843/",
-    "total_value": 2018853802.9,
-    "final_attacker": {
-      "character_name": "Yume Mahou",
-      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132576899,
-    "killmail_hash": "acf8c4d71fe903f1b7d1b0537d2081f03e3fa0d7",
-    "kill_time": "2026-01-11T19:55:10Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 193918068,
-      "character_name": "Judus",
-      "corporation_id": 1680593170,
-      "corporation_name": "Drunken Ewoks",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132576899/",
-    "total_value": 8991678574.32,
-    "final_attacker": {
-      "character_name": "sabastyian",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132574429,
-    "killmail_hash": "d5519b07de2ee2f119f6a6015395a679bb2d353d",
-    "kill_time": "2026-01-11T18:21:34Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 193918068,
-      "character_name": "Judus",
-      "corporation_id": 1680593170,
-      "corporation_name": "Drunken Ewoks",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132574429/",
-    "total_value": 8373854525.96,
-    "final_attacker": {
-      "character_name": "alpha lead",
-      "corporation_name": "ElitistOps",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
+      "character_name": "You Gunn LuvMiNuts",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
     }
   }
 ]
