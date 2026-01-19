@@ -1376,57 +1376,5 @@
       "alliance_name": "Polaris Mercenary Alliance",
       "ship_type_name": "Vargur"
     }
-  },
-  {
-    "killmail_id": 132588081,
-    "killmail_hash": "6d3ca4517e4252919228085256f365ed9966381a",
-    "kill_time": "2026-01-12T07:59:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 91207096,
-      "character_name": "Debbie-does Dallas",
-      "corporation_id": 98749510,
-      "corporation_name": "Embellishment",
-      "alliance_id": 99014415,
-      "alliance_name": "Iron Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132588081/",
-    "total_value": 3637706578.73,
-    "final_attacker": {
-      "character_name": "Green'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132586794,
-    "killmail_hash": "f7989a8ef7aff973797b765c4cb601247e09a167",
-    "kill_time": "2026-01-12T05:13:33Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2119197073,
-      "character_name": "SpecterOfSouls",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132586794/",
-    "total_value": 1938828921.21,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
   }
 ]
