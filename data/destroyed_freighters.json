@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 132746280,
+    "killmail_hash": "908b64c11d4db5c8976736207327b680e352b66c",
+    "kill_time": "2026-01-19T01:44:06Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123981289,
+      "character_name": "Fenrir Pilot",
+      "corporation_id": 98666585,
+      "corporation_name": "Jumping Jews of Jerusalem",
+      "alliance_id": 99012162,
+      "alliance_name": "The Chicken Coop"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132746280/",
+    "total_value": 13258576733.74,
+    "final_attacker": {
+      "character_name": "Cute Gank",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 132740265,
+    "killmail_hash": "0d872a30e1d2647431290b9acbf4046f17ee7c40",
+    "kill_time": "2026-01-18T20:31:12Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 91964659,
+      "character_name": "Kira Shazih",
+      "corporation_id": 98617208,
+      "corporation_name": "The Untraceable",
+      "alliance_id": 99010653,
+      "alliance_name": "M A R A K U G A"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132740265/",
+    "total_value": 2169197445.73,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 132732281,
+    "killmail_hash": "62e9959b56a9498d441f4c111880969b4492adf8",
+    "kill_time": "2026-01-18T15:44:02Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002772,
+    "solar_system_name": "Rairomon",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114556267,
+      "character_name": "Lorinna Fooswa",
+      "corporation_id": 98645662,
+      "corporation_name": "HaffeLaffen",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132732281/",
+    "total_value": 11474814977.74,
+    "final_attacker": {
+      "character_name": "Fraud Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 132732103,
+    "killmail_hash": "e1582a3266d1e13de6048d4397dfd0c51355b25a",
+    "kill_time": "2026-01-18T15:38:32Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 96777768,
+      "character_name": "Clepp Aurilen",
+      "corporation_id": 384667640,
+      "corporation_name": "Black Frog Logistics",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132732103/",
+    "total_value": 9916612877.81,
+    "final_attacker": {
+      "character_name": "B-534 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 132730709,
+    "killmail_hash": "3c0b81a2713b0616fbd97f167fd181c481677e64",
+    "kill_time": "2026-01-18T14:41:03Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2115546859,
+      "character_name": "Del Chuuu",
+      "corporation_id": 98730596,
+      "corporation_name": "Mandatory Collateral",
+      "alliance_id": 99000580,
+      "alliance_name": "Ignore This."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132730709/",
+    "total_value": 46456961414.75,
+    "final_attacker": {
+      "character_name": "P-66 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 132726785,
     "killmail_hash": "311a24a3d3b97b6940c19aee2fd3c4d1b7355dca",
     "kill_time": "2026-01-18T11:44:10Z",
@@ -156,6 +286,58 @@
     }
   },
   {
+    "killmail_id": 132706063,
+    "killmail_hash": "f1904761e2e80ba981c8412e51114721cf0f6ee9",
+    "kill_time": "2026-01-17T18:13:18Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002772,
+    "solar_system_name": "Rairomon",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1782471603,
+      "character_name": "Ilasin Tokra",
+      "corporation_id": 98786223,
+      "corporation_name": "Imperial Trading LTD",
+      "alliance_id": 99012862,
+      "alliance_name": "Influential Operations"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132706063/",
+    "total_value": 8909265950.71,
+    "final_attacker": {
+      "character_name": "Deceive Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 132702971,
+    "killmail_hash": "0f9b5fb06183a8326883f27e4f969cc7226d02cf",
+    "kill_time": "2026-01-17T16:08:04Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001394,
+    "solar_system_name": "Korama",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2118361555,
+      "character_name": "Aula Virpio",
+      "corporation_id": 98627606,
+      "corporation_name": "Alt corp 9778236423904",
+      "alliance_id": 99008783,
+      "alliance_name": "Olde Guarde Historical Preservation Society"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132702971/",
+    "total_value": 28325796656.25,
+    "final_attacker": {
+      "character_name": "Nado 27 Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 132695629,
     "killmail_hash": "571424483901fc779bae8f48e3a0f0d4da2e171c",
     "kill_time": "2026-01-17T10:17:00Z",
@@ -231,6 +413,32 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132690978,
+    "killmail_hash": "486967be18ff106e13686f17b71f6019b4de2b9d",
+    "kill_time": "2026-01-17T04:16:02Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1689600651,
+      "character_name": "Gunshotwound",
+      "corporation_id": 98529314,
+      "corporation_name": "FAT32",
+      "alliance_id": 99014547,
+      "alliance_name": "IP-Org"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132690978/",
+    "total_value": 32598162419.55,
+    "final_attacker": {
+      "character_name": "small brain ideas",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -1245,84 +1453,6 @@
       "corporation_name": "Konflict",
       "alliance_name": null,
       "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 132582617,
-    "killmail_hash": "30d73162e9a2b03d55eae3463125f29496c56253",
-    "kill_time": "2026-01-11T23:59:39Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 91782270,
-      "character_name": "Patboy Exposa",
-      "corporation_id": 98282527,
-      "corporation_name": "Galactic Hauling Solutions Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132582617/",
-    "total_value": 12469181925.83,
-    "final_attacker": {
-      "character_name": "EF Sigma",
-      "corporation_name": "Endless-Fury",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132580155,
-    "killmail_hash": "6f2f04d378414209370ade1075719fcfe4dd328b",
-    "kill_time": "2026-01-11T21:51:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000005,
-    "solar_system_name": "Sasta",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 95340813,
-      "character_name": "Jaroslav Bara",
-      "corporation_id": 1000072,
-      "corporation_name": "Imperial Shipment",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132580155/",
-    "total_value": 2627406844.62,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "AEGIS",
-      "alliance_name": null,
-      "ship_type_name": "Elite Imperial Navy Armageddon"
-    }
-  },
-  {
-    "killmail_id": 132579452,
-    "killmail_hash": "d73f1a2e2c9e1bd584f2de857576dbf2795c8909",
-    "kill_time": "2026-01-11T21:27:14Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 92913227,
-      "character_name": "Brandon Allen Smith",
-      "corporation_id": 1000049,
-      "corporation_name": "Brutor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132579452/",
-    "total_value": 3337511281.94,
-    "final_attacker": {
-      "character_name": "You Gunn LuvMiNuts",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
