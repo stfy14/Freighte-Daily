@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132757897,
+    "killmail_hash": "6abe19ecca5c60fc1eb3109978d745678b1edbbe",
+    "kill_time": "2026-01-19T15:58:27Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1042088645,
+      "character_name": "Hana Bazura",
+      "corporation_id": 98751587,
+      "corporation_name": "The Grumble",
+      "alliance_id": 99013502,
+      "alliance_name": "Itty Bitty Asteroid Committee"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132757897/",
+    "total_value": 11289088233.8,
+    "final_attacker": {
+      "character_name": "SUICIDAL Larsen",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 132757612,
+    "killmail_hash": "bd7a29e4b1d8666c305bad9dfd76c9506dff56ba",
+    "kill_time": "2026-01-19T15:42:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001157,
+    "solar_system_name": "36N-HZ",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 2112220585,
+      "character_name": "Rick Orleonardi",
+      "corporation_id": 98629133,
+      "corporation_name": "Oracle Arms",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132757612/",
+    "total_value": 1971571388.14,
+    "final_attacker": {
+      "character_name": "Marco Tierney",
+      "corporation_name": "Mostly Cap Stable",
+      "alliance_name": "Sigma Grindset",
+      "ship_type_name": "Vagabond"
+    }
+  },
+  {
     "killmail_id": 132746280,
     "killmail_hash": "908b64c11d4db5c8976736207327b680e352b66c",
     "kill_time": "2026-01-19T01:44:06Z",
@@ -1323,32 +1375,6 @@
       "corporation_name": "Healthy Corporation",
       "alliance_name": null,
       "ship_type_name": "Arazu"
-    }
-  },
-  {
-    "killmail_id": 132593009,
-    "killmail_hash": "2b360db87cfd7351e09edebf26b552f048985c22",
-    "kill_time": "2026-01-12T14:54:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003905,
-    "solar_system_name": "Chamemi",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 94134652,
-      "character_name": "rutcon Kashuken",
-      "corporation_id": 98780132,
-      "corporation_name": "30plus LLC",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132593009/",
-    "total_value": 11178939113.95,
-    "final_attacker": {
-      "character_name": "Thaxllssyllia",
-      "corporation_name": "I Have a Plan",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Naglfar"
     }
   }
 ]
