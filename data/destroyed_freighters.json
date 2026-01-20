@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132771820,
+    "killmail_hash": "d454fa3effa39f3862e0637ff56ea80fc0b2a662",
+    "kill_time": "2026-01-20T06:48:11Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 231365523,
+      "character_name": "Krolik Sablezubov",
+      "corporation_id": 126506233,
+      "corporation_name": "Eve Mining Corp",
+      "alliance_id": 99007969,
+      "alliance_name": "THE RUSSIA"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132771820/",
+    "total_value": 7006415212.15,
+    "final_attacker": {
+      "character_name": "Dante Fasttackle",
+      "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132769897,
+    "killmail_hash": "b8011dcc42f4848f9a3412239834107606b6cfd6",
+    "kill_time": "2026-01-20T03:38:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123932681,
+      "character_name": "CandleKnight",
+      "corporation_id": 98821142,
+      "corporation_name": "China In EVE",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132769897/",
+    "total_value": 12176036968.59,
+    "final_attacker": {
+      "character_name": "Blue'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132768961,
     "killmail_hash": "fcfe37a36b5d6d8711878f56981e5ea983adb3c7",
     "kill_time": "2026-01-20T02:18:13Z",
@@ -1349,32 +1401,6 @@
       "corporation_name": "BlackCore Tactics",
       "alliance_name": "Ahbazon-Prime",
       "ship_type_name": "Nidhoggur"
-    }
-  },
-  {
-    "killmail_id": 132607187,
-    "killmail_hash": "e7ae143886b6c2f6b2e4a78c66c0b7576d9c906d",
-    "kill_time": "2026-01-13T07:13:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2119250870,
-      "character_name": "Mither Artal Khashour",
-      "corporation_id": 98694020,
-      "corporation_name": "Amarr Resources Unlimited",
-      "alliance_id": 99014427,
-      "alliance_name": "Itty Bitty Asteroid Academy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132607187/",
-    "total_value": 3989456167.85,
-    "final_attacker": {
-      "character_name": "Im-Just-An-Immortal",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
