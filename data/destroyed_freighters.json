@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132768961,
+    "killmail_hash": "fcfe37a36b5d6d8711878f56981e5ea983adb3c7",
+    "kill_time": "2026-01-20T02:18:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003070,
+    "solar_system_name": "Sosala",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 869600246,
+      "character_name": "Kronus Thaxton",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132768961/",
+    "total_value": 3128131961.71,
+    "final_attacker": {
+      "character_name": "Aliventi",
+      "corporation_name": "Rattini Tribe",
+      "alliance_name": "Minmatar Fleet Alliance",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 132767614,
+    "killmail_hash": "70dd78fe97cf2c398f6892a5016190bd9fafb031",
+    "kill_time": "2026-01-20T00:43:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005195,
+    "solar_system_name": "Vecamia",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 415605298,
+      "character_name": "Xanthe Poni",
+      "corporation_id": 98773416,
+      "corporation_name": "Primal Instinct Inc.",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132767614/",
+    "total_value": 3993988197.84,
+    "final_attacker": {
+      "character_name": "Norrec Vizjerei",
+      "corporation_name": "Portia Squad",
+      "alliance_name": "Daughters of Ane",
+      "ship_type_name": "Nightmare"
+    }
+  },
+  {
     "killmail_id": 132757897,
     "killmail_hash": "6abe19ecca5c60fc1eb3109978d745678b1edbbe",
     "kill_time": "2026-01-19T15:58:27Z",
@@ -1323,32 +1375,6 @@
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132601249,
-    "killmail_hash": "2933ffc3bcdb28a77f9c240fc21e5f374cc9dc33",
-    "kill_time": "2026-01-12T22:57:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000623,
-    "solar_system_name": "04EI-U",
-    "region_name": "Cache",
-    "victim": {
-      "character_id": 91244551,
-      "character_name": "Bach Roughneck",
-      "corporation_id": 98546739,
-      "corporation_name": "Balkan Kings",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132601249/",
-    "total_value": 5358943886.43,
-    "final_attacker": {
-      "character_name": "Oashe Zarcov",
-      "corporation_name": "Black Rose Inc.",
-      "alliance_name": "Black Rose.",
-      "ship_type_name": "Wolf"
     }
   }
 ]
