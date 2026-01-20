@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132784629,
+    "killmail_hash": "9d84a9adf8c8915f0660ae5bd6326ee1d4af7315",
+    "kill_time": "2026-01-20T20:36:58Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1961171356,
+      "character_name": "asshatter",
+      "corporation_id": 98532156,
+      "corporation_name": "Pareto Improvements",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132784629/",
+    "total_value": 12078082282.22,
+    "final_attacker": {
+      "character_name": "Fyrsta",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132776612,
     "killmail_hash": "a6910f343490a144b83d0f29315290cb34960864",
     "kill_time": "2026-01-20T14:32:38Z",
@@ -1401,32 +1427,6 @@
       "corporation_name": "Highsec Expropriation Office",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132619617,
-    "killmail_hash": "7152a982771d15567c278acc64bdb21d9e438310",
-    "kill_time": "2026-01-13T19:27:03Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002187,
-    "solar_system_name": "Amarr",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2115913536,
-      "character_name": "Laurens Utama",
-      "corporation_id": 98688818,
-      "corporation_name": "Big Black Crows",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132619617/",
-    "total_value": 2604109244.4,
-    "final_attacker": {
-      "character_name": "Styx Prana",
-      "corporation_name": "KR4D CIRCUS",
-      "alliance_name": null,
-      "ship_type_name": "Scythe Fleet Issue"
     }
   }
 ]
