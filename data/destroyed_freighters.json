@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132786230,
+    "killmail_hash": "d7ab419590f1f62d37d9bbb6a86f94e34d5c7093",
+    "kill_time": "2026-01-20T22:06:19Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003948,
+    "solar_system_name": "7GCD-P",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2113388487,
+      "character_name": "Asinine",
+      "corporation_id": 98469412,
+      "corporation_name": "Godless Horizon.",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132786230/",
+    "total_value": 11002785086.18,
+    "final_attacker": {
+      "character_name": "Infinity38",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Naglfar"
+    }
+  },
+  {
+    "killmail_id": 132784801,
+    "killmail_hash": "00050d84dadb9007cb63dd5b583c53cd45266362",
+    "kill_time": "2026-01-20T20:47:12Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 1999759294,
+      "character_name": "Stonesmith",
+      "corporation_id": 98785345,
+      "corporation_name": "Unbound Legacy",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132784801/",
+    "total_value": 8215285446.76,
+    "final_attacker": {
+      "character_name": "VLD Miromme",
+      "corporation_name": "Project 1237",
+      "alliance_name": "The Tuskers Co.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
     "killmail_id": 132784629,
     "killmail_hash": "9d84a9adf8c8915f0660ae5bd6326ee1d4af7315",
     "kill_time": "2026-01-20T20:36:58Z",
@@ -1349,84 +1401,6 @@
       "corporation_name": "Phoenix Naval Operations",
       "alliance_name": "Phoenix Naval Systems",
       "ship_type_name": "Archon"
-    }
-  },
-  {
-    "killmail_id": 132623663,
-    "killmail_hash": "8daf668c6d23401d4366f5014a888825f8657913",
-    "kill_time": "2026-01-13T22:26:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114978690,
-      "character_name": "Ulf Grunwald",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132623663/",
-    "total_value": 2523374949.03,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132622770,
-    "killmail_hash": "8e89fe1d57c90ab60f728c44f45cd3e525980f42",
-    "kill_time": "2026-01-13T21:29:26Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123748422,
-      "character_name": "Akatosh Dragon God",
-      "corporation_id": 98633976,
-      "corporation_name": "Tamriel Trade Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132622770/",
-    "total_value": 5284833918.68,
-    "final_attacker": {
-      "character_name": "Gate Tax Specialist",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132622713,
-    "killmail_hash": "e2d6e37ab8de41e638ebeca70475c33ef35464c4",
-    "kill_time": "2026-01-13T21:27:33Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001368,
-    "solar_system_name": "Uemisaisen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 91927048,
-      "character_name": "sexylips2012 Gaterau",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132622713/",
-    "total_value": 13246117010.19,
-    "final_attacker": {
-      "character_name": "Don Gregorio",
-      "corporation_name": "Highsec Expropriation Office",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
