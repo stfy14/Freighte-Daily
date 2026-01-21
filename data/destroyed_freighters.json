@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132790944,
+    "killmail_hash": "21de64d40dfdf29e237218bb9873730ca732cc2a",
+    "kill_time": "2026-01-21T04:21:13Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2124054782,
+      "character_name": "Padraig Holma",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132790944/",
+    "total_value": 2002946180.36,
+    "final_attacker": {
+      "character_name": "Red Krest",
+      "corporation_name": "Know-Nothings",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132786230,
     "killmail_hash": "d7ab419590f1f62d37d9bbb6a86f94e34d5c7093",
     "kill_time": "2026-01-20T22:06:19Z",
@@ -1349,58 +1375,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 132628699,
-    "killmail_hash": "d988a396188aa47671ee8d93d2fa0e6b0f9f7a5a",
-    "kill_time": "2026-01-14T04:49:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004839,
-    "solar_system_name": "JI1-SY",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2121005158,
-      "character_name": "MegaPupEx",
-      "corporation_id": 98648361,
-      "corporation_name": "Deadspace Excavations",
-      "alliance_id": 99011162,
-      "alliance_name": "Shadow Ultimatum"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132628699/",
-    "total_value": 2566805119.36,
-    "final_attacker": {
-      "character_name": "Lula Dragon",
-      "corporation_name": "Resilience.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Vagabond"
-    }
-  },
-  {
-    "killmail_id": 132628397,
-    "killmail_hash": "22de5286187155c4edfc7c1ee80164eb80a7df6d",
-    "kill_time": "2026-01-14T04:13:55Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003584,
-    "solar_system_name": "Sarline",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 93220962,
-      "character_name": "Bella Cadelanne",
-      "corporation_id": 98244087,
-      "corporation_name": "Blade's Of Hell",
-      "alliance_id": 99006232,
-      "alliance_name": "No Blue For You"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132628397/",
-    "total_value": 31228673634.35,
-    "final_attacker": {
-      "character_name": "Sharlandra",
-      "corporation_name": "Phoenix Naval Operations",
-      "alliance_name": "Phoenix Naval Systems",
-      "ship_type_name": "Archon"
     }
   }
 ]
