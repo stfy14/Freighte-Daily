@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132807222,
+    "killmail_hash": "02a192e339c197c12326b1490243b8fac5059969",
+    "kill_time": "2026-01-21T23:04:31Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 31002258,
+    "solar_system_name": "J144944",
+    "region_name": "E-R00028",
+    "victim": {
+      "character_id": 2115024457,
+      "character_name": "Black sould",
+      "corporation_id": 98052373,
+      "corporation_name": "I N T I",
+      "alliance_id": 99011268,
+      "alliance_name": "Reeloaded."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132807222/",
+    "total_value": 8452470722.57,
+    "final_attacker": {
+      "character_name": "Maverick Parmala",
+      "corporation_name": "Inevitable Outcome",
+      "alliance_name": "E.C.H.O",
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
     "killmail_id": 132799801,
     "killmail_hash": "fd82d4eb2da548a648851c4bb9b660e5f32ac5ed",
     "kill_time": "2026-01-21T16:59:34Z",
@@ -1453,58 +1479,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 132645914,
-    "killmail_hash": "6be41bbec093bb5ebd752f781b5a17da7a099508",
-    "kill_time": "2026-01-15T01:27:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91339814,
-      "character_name": "Yuna Rodriguez",
-      "corporation_id": 98814956,
-      "corporation_name": "Your Recurring Nightmare",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132645914/",
-    "total_value": 11400304672.02,
-    "final_attacker": {
-      "character_name": "ErMahGerd DahLewt",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132642395,
-    "killmail_hash": "d4c79206833647ca1b0db098711bb2d461cdf874",
-    "kill_time": "2026-01-14T21:12:24Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 343023313,
-      "character_name": "White Bull",
-      "corporation_id": 583616018,
-      "corporation_name": "Black Aces",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132642395/",
-    "total_value": 1844683263.67,
-    "final_attacker": {
-      "character_name": "Endoki",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Manticore"
     }
   }
 ]
