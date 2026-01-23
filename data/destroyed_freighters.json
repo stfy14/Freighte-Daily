@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132846223,
+    "killmail_hash": "8f6e720c3a17926c929bc5f682a56122b5f46eb0",
+    "kill_time": "2026-01-23T20:31:48Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002767,
+    "solar_system_name": "Kubinen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113192482,
+      "character_name": "Alex Shia",
+      "corporation_id": 98795843,
+      "corporation_name": "ASH Company 2",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132846223/",
+    "total_value": 11520778521.69,
+    "final_attacker": {
+      "character_name": "Dwark",
+      "corporation_name": "Harmonist",
+      "alliance_name": "Parallaxis Alliance",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132843125,
+    "killmail_hash": "8155224cbed706485ae9d62768736e4de29c3339",
+    "kill_time": "2026-01-23T18:26:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002049,
+    "solar_system_name": "Uttindar",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94490607,
+      "character_name": "Tari Haklar",
+      "corporation_id": 98821093,
+      "corporation_name": "Golden Age Empire",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132843125/",
+    "total_value": 3470862821.61,
+    "final_attacker": {
+      "character_name": "Larson Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 132839838,
     "killmail_hash": "386036e720d8d44c836c5f1b6d93fefa7c6ec310",
     "kill_time": "2026-01-23T15:27:21Z",
@@ -309,6 +361,58 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 132811217,
+    "killmail_hash": "6edd35130df105031c5f3a1d47bf2d8d7384bdef",
+    "kill_time": "2026-01-22T04:41:27Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1763250178,
+      "character_name": "Dimdro",
+      "corporation_id": 98388339,
+      "corporation_name": "ACR Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132811217/",
+    "total_value": 16588871993.1,
+    "final_attacker": {
+      "character_name": "Sven Bauer",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132808820,
+    "killmail_hash": "632a5739386e6e9cd14975004b6fd96d382de416",
+    "kill_time": "2026-01-22T01:24:45Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95314612,
+      "character_name": "SmokinButt",
+      "corporation_id": 98014141,
+      "corporation_name": "MasterWizards",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132808820/",
+    "total_value": 7950602489.66,
+    "final_attacker": {
+      "character_name": "Sven Bauer",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
     }
   },
   {
@@ -1396,32 +1500,6 @@
     },
     "zkb_url": "https://zkillboard.com/kill/132685375/",
     "total_value": 2229315503.69,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132679878,
-    "killmail_hash": "51f75d02bd03dbc1f9b82e71a84ec26975a334c0",
-    "kill_time": "2026-01-16T18:35:32Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2116978516,
-      "character_name": "Firelight7118",
-      "corporation_id": 98767134,
-      "corporation_name": "ETBL Industries",
-      "alliance_id": 99014427,
-      "alliance_name": "Itty Bitty Asteroid Academy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132679878/",
-    "total_value": 10853666796.7,
     "final_attacker": {
       "character_name": "B0ZziLLa",
       "corporation_name": "One Risky Click",
