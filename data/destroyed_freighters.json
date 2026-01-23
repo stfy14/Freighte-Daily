@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132829605,
+    "killmail_hash": "711eceb705e4d10e0c1a7cdaf4d65a9625200d10",
+    "kill_time": "2026-01-23T01:45:47Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003499,
+    "solar_system_name": "Mai",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 189405474,
+      "character_name": "Radek Lewter",
+      "corporation_id": 149984277,
+      "corporation_name": "Sinister Corporation",
+      "alliance_id": 99010484,
+      "alliance_name": "The Burning Contingent Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132829605/",
+    "total_value": 16356597081.82,
+    "final_attacker": {
+      "character_name": "Force Fire",
+      "corporation_name": "Kantian Principle",
+      "alliance_name": null,
+      "ship_type_name": "Hyperion"
+    }
+  },
+  {
     "killmail_id": 132824716,
     "killmail_hash": "a858546ab2d4c18b83d68f79b0b09a76acce69a2",
     "kill_time": "2026-01-22T20:21:29Z",
@@ -1427,58 +1453,6 @@
       "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132664190,
-    "killmail_hash": "2e3136d8a40211713117a46a2b78cdce36a444ef",
-    "kill_time": "2026-01-15T22:47:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002764,
-    "solar_system_name": "Hatakani",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1944280240,
-      "character_name": "bmgc",
-      "corporation_id": 98702288,
-      "corporation_name": "Uncommon Horizon",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132664190/",
-    "total_value": 4590252512.2,
-    "final_attacker": {
-      "character_name": "Riley MarieMcGee",
-      "corporation_name": "Uncommon Horizon",
-      "alliance_name": null,
-      "ship_type_name": "Cruor"
-    }
-  },
-  {
-    "killmail_id": 132664161,
-    "killmail_hash": "20c3274f1256c167e52e00701044c65ad7f90401",
-    "kill_time": "2026-01-15T22:46:17Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004583,
-    "solar_system_name": "IGE-RI",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 2123976665,
-      "character_name": "MY BLUEPRINT",
-      "corporation_id": 98821816,
-      "corporation_name": "Rightfully My Treasure",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132664161/",
-    "total_value": 2222706079.39,
-    "final_attacker": {
-      "character_name": "Honeymonstar",
-      "corporation_name": "Void of Eden.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Molok"
     }
   }
 ]
