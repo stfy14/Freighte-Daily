@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132839838,
+    "killmail_hash": "386036e720d8d44c836c5f1b6d93fefa7c6ec310",
+    "kill_time": "2026-01-23T15:27:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002531,
+    "solar_system_name": "Gerek",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 544980481,
+      "character_name": "Gidgets",
+      "corporation_id": 98822696,
+      "corporation_name": "United Capsuleer Consortium",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132839838/",
+    "total_value": 4096551688.77,
+    "final_attacker": {
+      "character_name": "Jushur Kish Corona",
+      "corporation_name": "Chaos arbiter",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Harbinger"
+    }
+  },
+  {
+    "killmail_id": 132837872,
+    "killmail_hash": "ab90de02706dfccad375602cf22111ac52c74848",
+    "kill_time": "2026-01-23T13:39:54Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001740,
+    "solar_system_name": "Arakor",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 1120051206,
+      "character_name": "Citinetty",
+      "corporation_id": 98809477,
+      "corporation_name": "Not A Threat. I Promise",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132837872/",
+    "total_value": 3587690363.9,
+    "final_attacker": {
+      "character_name": "carlosgace",
+      "corporation_name": "From Hisec with Love Holdings",
+      "alliance_name": "From Hisec with Love Coalition",
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
     "killmail_id": 132832650,
     "killmail_hash": "db70bebeac5897839bc214cea088a6d3b7640841",
     "kill_time": "2026-01-23T05:37:46Z",
@@ -1375,58 +1427,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132677616,
-    "killmail_hash": "dd3102fd03e707d6a65005065c5a289087970323",
-    "kill_time": "2026-01-16T16:32:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2122481702,
-      "character_name": "Billy T Madison",
-      "corporation_id": 98779156,
-      "corporation_name": "New Eden Consultant Agency",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132677616/",
-    "total_value": 2104652784.33,
-    "final_attacker": {
-      "character_name": "Slorpos",
-      "corporation_name": "BlackCore Tactics",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 132675296,
-    "killmail_hash": "f8fe9dd16d094944045730a8cad2c84995c9016e",
-    "kill_time": "2026-01-16T14:38:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2119253731,
-      "character_name": "Autono Uona Talvanen",
-      "corporation_id": 98183161,
-      "corporation_name": "Agora Navy Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132675296/",
-    "total_value": 3462037571.47,
-    "final_attacker": {
-      "character_name": "Lani Noobani",
-      "corporation_name": "Wrong Hole Transportation",
-      "alliance_name": null,
-      "ship_type_name": "Omen Navy Issue"
     }
   }
 ]
