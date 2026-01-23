@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132830221,
+    "killmail_hash": "36a09b4318e94d8a5b6e99ea83b0b4decd5c101e",
+    "kill_time": "2026-01-23T02:29:55Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113031605,
+      "character_name": "SinGhost",
+      "corporation_id": 98598432,
+      "corporation_name": "Taramark",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132830221/",
+    "total_value": 9655826251.43,
+    "final_attacker": {
+      "character_name": "Sven Bauer",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
     "killmail_id": 132829605,
     "killmail_hash": "711eceb705e4d10e0c1a7cdaf4d65a9625200d10",
     "kill_time": "2026-01-23T01:45:47Z",
