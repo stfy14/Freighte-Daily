@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132848016,
+    "killmail_hash": "08060e5987c5d75d06e316a8e76d5bcbe1201c09",
+    "kill_time": "2026-01-23T21:35:33Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1433394963,
+      "character_name": "Britney Harder",
+      "corporation_id": 98719510,
+      "corporation_name": "WILD FLAME",
+      "alliance_id": 99014730,
+      "alliance_name": "Fatal Disaster"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132848016/",
+    "total_value": 11263960248.23,
+    "final_attacker": {
+      "character_name": "Proxey",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132847433,
+    "killmail_hash": "77a7e52e330acc60cec8e801354893fa954ddd3f",
+    "kill_time": "2026-01-23T21:20:46Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122970910,
+      "character_name": "MrObshak",
+      "corporation_id": 98719510,
+      "corporation_name": "WILD FLAME",
+      "alliance_id": 99014730,
+      "alliance_name": "Fatal Disaster"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132847433/",
+    "total_value": 25708016783.33,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 132846223,
     "killmail_hash": "8f6e720c3a17926c929bc5f682a56122b5f46eb0",
     "kill_time": "2026-01-23T20:31:48Z",
@@ -1427,84 +1479,6 @@
       "corporation_name": "Best Kept Dunked",
       "alliance_name": "OnlyFleets.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132688859,
-    "killmail_hash": "37317c0f638ac5538064a9ca9e572023a95623a7",
-    "kill_time": "2026-01-17T02:16:10Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 758904936,
-      "character_name": "Lin Qui",
-      "corporation_id": 98383128,
-      "corporation_name": "Limited GoldMining Production",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132688859/",
-    "total_value": 2147879076.28,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 132688706,
-    "killmail_hash": "28b4c68908b785bca8e9190b325eeaf15f9be70b",
-    "kill_time": "2026-01-17T02:05:24Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123779515,
-      "character_name": "Hagnuneli Musana",
-      "corporation_id": 98750086,
-      "corporation_name": "The MetroPlex",
-      "alliance_id": 99014210,
-      "alliance_name": "Buy Low Die High"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132688706/",
-    "total_value": 1841386414.79,
-    "final_attacker": {
-      "character_name": "Dats'Alotta Damage",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132685375,
-    "killmail_hash": "a6ba610bf08155642cea03302506496c4e11cf94",
-    "kill_time": "2026-01-16T22:37:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2122043797,
-      "character_name": "Irts Dalt Caderu",
-      "corporation_id": 98637669,
-      "corporation_name": "F.13 - Union of Russians",
-      "alliance_id": 99013924,
-      "alliance_name": "Legion of xXDEATHXx Academy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132685375/",
-    "total_value": 2229315503.69,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
