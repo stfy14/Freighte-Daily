@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132865424,
+    "killmail_hash": "d617d8e9d06e95fec0213c39e719c2dd056b98a4",
+    "kill_time": "2026-01-24T14:56:21Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004667,
+    "solar_system_name": "JI-K5H",
+    "region_name": "Paragon Soul",
+    "victim": {
+      "character_id": 2117454740,
+      "character_name": "ANBO GGG",
+      "corporation_id": 98779710,
+      "corporation_name": "Tactical Trauma Team",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132865424/",
+    "total_value": 1988531361.7,
+    "final_attacker": {
+      "character_name": "Lance Esil",
+      "corporation_name": "Fuxi Legion",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Caracal Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 132862957,
+    "killmail_hash": "dd47f85c3fd84471ad43863fe335ed342b6b923f",
+    "kill_time": "2026-01-24T13:18:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121464735,
+      "character_name": "Stores Boss Wife",
+      "corporation_id": 98746359,
+      "corporation_name": "Stores inc",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132862957/",
+    "total_value": 22470651202.09,
+    "final_attacker": {
+      "character_name": "zLegion D",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 132862948,
+    "killmail_hash": "dd9a665e79db8a21cf9bc614973e55a6c915bcba",
+    "kill_time": "2026-01-24T13:18:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121408392,
+      "character_name": "small kiki",
+      "corporation_id": 98746359,
+      "corporation_name": "Stores inc",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132862948/",
+    "total_value": 22442998255.36,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 132858475,
     "killmail_hash": "c17f5cc081b9d2d68a4ec395f7d97b2d3e41c72a",
     "kill_time": "2026-01-24T08:35:14Z",
@@ -208,6 +286,32 @@
     }
   },
   {
+    "killmail_id": 132838455,
+    "killmail_hash": "68ea612c273a3c6772f3bb2d0fc08c459ec3b416",
+    "kill_time": "2026-01-23T14:10:33Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117788754,
+      "character_name": "Seb Wheeler",
+      "corporation_id": 98731258,
+      "corporation_name": "Anti Gate Freight",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132838455/",
+    "total_value": 20301347190.38,
+    "final_attacker": {
+      "character_name": "Schleimkeim",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 132837872,
     "killmail_hash": "ab90de02706dfccad375602cf22111ac52c74848",
     "kill_time": "2026-01-23T13:39:54Z",
@@ -231,6 +335,32 @@
       "corporation_name": "From Hisec with Love Holdings",
       "alliance_name": "From Hisec with Love Coalition",
       "ship_type_name": "Vedmak"
+    }
+  },
+  {
+    "killmail_id": 132833725,
+    "killmail_hash": "1c95bcf0674d07798ed2afc725a83d5a048f4fe1",
+    "kill_time": "2026-01-23T07:41:20Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122816923,
+      "character_name": "Takadio Arashi",
+      "corporation_id": 98630228,
+      "corporation_name": "United Mining and Hauling Janitor Plc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132833725/",
+    "total_value": 24639448426.56,
+    "final_attacker": {
+      "character_name": "Schleimkeim",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -413,6 +543,32 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132818628,
+    "killmail_hash": "0961e48da8a8e87afbf5c04122da818fd3c758a4",
+    "kill_time": "2026-01-22T15:25:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123822587,
+      "character_name": "cctvday",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132818628/",
+    "total_value": 16562449369.65,
+    "final_attacker": {
+      "character_name": "Guard Cow",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
@@ -1144,6 +1300,32 @@
     }
   },
   {
+    "killmail_id": 132727880,
+    "killmail_hash": "29dc34e1e823a778e3bf2d27d93ded31cbc3aa9f",
+    "kill_time": "2026-01-18T12:47:31Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121278555,
+      "character_name": "Orpaert Thellere",
+      "corporation_id": 98651612,
+      "corporation_name": "Industrial Mining and Mayhem HS",
+      "alliance_id": 99011239,
+      "alliance_name": "Ligma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132727880/",
+    "total_value": 23515810084.38,
+    "final_attacker": {
+      "character_name": "choo choo ganker",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 132727120,
     "killmail_hash": "dfd6bd8fbea379a1b7873e26076caf2a7c2bdeb1",
     "kill_time": "2026-01-18T12:07:00Z",
@@ -1219,6 +1401,32 @@
       "corporation_name": "Interstellar Scum",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Megathron"
+    }
+  },
+  {
+    "killmail_id": 132725941,
+    "killmail_hash": "4579ecca85b940abad8b994afcbdeba5a5d848b8",
+    "kill_time": "2026-01-18T10:31:41Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118088002,
+      "character_name": "Lusciouss Linda",
+      "corporation_id": 98706206,
+      "corporation_name": "Full Service Bureau",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132725941/",
+    "total_value": 52683082783.28,
+    "final_attacker": {
+      "character_name": "small brain ideas",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
@@ -1326,6 +1534,32 @@
     }
   },
   {
+    "killmail_id": 132715846,
+    "killmail_hash": "b9219ed8973f53f7005479cc86afce4dfaf3f6f8",
+    "kill_time": "2026-01-18T00:03:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 953458252,
+      "character_name": "lady preety",
+      "corporation_id": 98641066,
+      "corporation_name": "EE Logistics",
+      "alliance_id": 99012849,
+      "alliance_name": "Invidia consilium perdit"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132715846/",
+    "total_value": 36237750303.08,
+    "final_attacker": {
+      "character_name": "Fluffy Gankbear",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 132714831,
     "killmail_hash": "b60626a1d238cc6222208d0824725c6b7494e1ed",
     "kill_time": "2026-01-17T23:13:10Z",
@@ -1352,6 +1586,32 @@
     }
   },
   {
+    "killmail_id": 132712275,
+    "killmail_hash": "b04ba333b2ff02747d6e68765f4eda15853ec8db",
+    "kill_time": "2026-01-17T21:28:46Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96835371,
+      "character_name": "Julia Zdecydowana",
+      "corporation_id": 1444028566,
+      "corporation_name": "Sandworms of Dune",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132712275/",
+    "total_value": 17582214404.56,
+    "final_attacker": {
+      "character_name": "Bovine Patrol",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 132706063,
     "killmail_hash": "f1904761e2e80ba981c8412e51114721cf0f6ee9",
     "kill_time": "2026-01-17T18:13:18Z",
@@ -1372,32 +1632,6 @@
     "total_value": 8909265950.71,
     "final_attacker": {
       "character_name": "Deceive Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132702971,
-    "killmail_hash": "0f9b5fb06183a8326883f27e4f969cc7226d02cf",
-    "kill_time": "2026-01-17T16:08:04Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001394,
-    "solar_system_name": "Korama",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2118361555,
-      "character_name": "Aula Virpio",
-      "corporation_id": 98627606,
-      "corporation_name": "Alt corp 9778236423904",
-      "alliance_id": 99008783,
-      "alliance_name": "Olde Guarde Historical Preservation Society"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132702971/",
-    "total_value": 28325796656.25,
-    "final_attacker": {
-      "character_name": "Nado 27 Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Tornado"
