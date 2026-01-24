@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132869510,
+    "killmail_hash": "bc0c263b43076ae1f52bc8a60306f864dac4e120",
+    "kill_time": "2026-01-24T17:55:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1874988839,
+      "character_name": "doyouwannatrade",
+      "corporation_id": 98794513,
+      "corporation_name": "3rd-ACR",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132869510/",
+    "total_value": 19267901679.97,
+    "final_attacker": {
+      "character_name": "Death Killer21",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 132867649,
+    "killmail_hash": "89550e0545e682caabe1b0dc721d43a603ad66ad",
+    "kill_time": "2026-01-24T16:34:15Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003650,
+    "solar_system_name": "A-1IJ9",
+    "region_name": "Tenal",
+    "victim": {
+      "character_id": 2116478529,
+      "character_name": "zas an",
+      "corporation_id": 98812464,
+      "corporation_name": "Northern Dominion",
+      "alliance_id": 99009129,
+      "alliance_name": "No Visual."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132867649/",
+    "total_value": 7196823478.42,
+    "final_attacker": {
+      "character_name": "ps HQ",
+      "corporation_name": "Dangerous technical cooperatives",
+      "alliance_name": "Invidia Gloriae Comes",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 132865424,
     "killmail_hash": "d617d8e9d06e95fec0213c39e719c2dd056b98a4",
     "kill_time": "2026-01-24T14:56:21Z",
@@ -1609,32 +1661,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132706063,
-    "killmail_hash": "f1904761e2e80ba981c8412e51114721cf0f6ee9",
-    "kill_time": "2026-01-17T18:13:18Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002772,
-    "solar_system_name": "Rairomon",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1782471603,
-      "character_name": "Ilasin Tokra",
-      "corporation_id": 98786223,
-      "corporation_name": "Imperial Trading LTD",
-      "alliance_id": 99012862,
-      "alliance_name": "Influential Operations"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132706063/",
-    "total_value": 8909265950.71,
-    "final_attacker": {
-      "character_name": "Deceive Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
     }
   }
 ]
