@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132896850,
+    "killmail_hash": "273464988bc2db7694b0365f00297aca84569c30",
+    "kill_time": "2026-01-25T16:58:40Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30004046,
+    "solar_system_name": "F7C-H0",
+    "region_name": "Cloud Ring",
+    "victim": {
+      "character_id": 1869573834,
+      "character_name": "Dark Shines",
+      "corporation_id": 98723369,
+      "corporation_name": "Void of Eden.",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132896850/",
+    "total_value": 3782837089.19,
+    "final_attacker": {
+      "character_name": "mrakan",
+      "corporation_name": "No.Mercy",
+      "alliance_name": "Triumvirate.",
+      "ship_type_name": "Jackdaw"
+    }
+  },
+  {
     "killmail_id": 132893293,
     "killmail_hash": "c15e16d431d12593b7a27e74f7a54160a4a069c4",
     "kill_time": "2026-01-25T14:14:40Z",
@@ -1453,32 +1479,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132740265,
-    "killmail_hash": "0d872a30e1d2647431290b9acbf4046f17ee7c40",
-    "kill_time": "2026-01-18T20:31:12Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 91964659,
-      "character_name": "Kira Shazih",
-      "corporation_id": 98617208,
-      "corporation_name": "The Untraceable",
-      "alliance_id": 99010653,
-      "alliance_name": "M A R A K U G A"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132740265/",
-    "total_value": 2169197445.73,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
