@@ -1688,57 +1688,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
     }
-  },
-  {
-    "killmail_id": 132720414,
-    "killmail_hash": "3684765abf553c1331f02fb47317b935fa35d8b2",
-    "kill_time": "2026-01-18T04:25:30Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96754661,
-      "character_name": "Naivas Miromme",
-      "corporation_id": 98736918,
-      "corporation_name": "Galactic Deep Space Associates",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132720414/",
-    "total_value": 19440495931.05,
-    "final_attacker": {
-      "character_name": "Bovine Patrol",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132718518,
-    "killmail_hash": "8f7b0dc95246493e984319dddaffdaf2f0b7ce42",
-    "kill_time": "2026-01-18T02:44:12Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123981289,
-      "character_name": "Fenrir Pilot",
-      "corporation_id": 98666585,
-      "corporation_name": "Jumping Jews of Jerusalem",
-      "alliance_id": 99012162,
-      "alliance_name": "The Chicken Coop"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132718518/",
-    "total_value": 8567296788.18,
-    "final_attacker": {
-      "character_name": "Green'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
