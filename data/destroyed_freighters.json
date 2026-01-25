@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132893293,
+    "killmail_hash": "c15e16d431d12593b7a27e74f7a54160a4a069c4",
+    "kill_time": "2026-01-25T14:14:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2117767944,
+      "character_name": "MelTuc",
+      "corporation_id": 98816744,
+      "corporation_name": "MelTuc Engineering Logistics And Trade Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132893293/",
+    "total_value": 2585384372.31,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132881819,
     "killmail_hash": "fe62c52f4a14fbfe082b352ca575d798376bfa24",
     "kill_time": "2026-01-25T02:25:16Z",
@@ -1453,84 +1479,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132732281,
-    "killmail_hash": "62e9959b56a9498d441f4c111880969b4492adf8",
-    "kill_time": "2026-01-18T15:44:02Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002772,
-    "solar_system_name": "Rairomon",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114556267,
-      "character_name": "Lorinna Fooswa",
-      "corporation_id": 98645662,
-      "corporation_name": "HaffeLaffen",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132732281/",
-    "total_value": 11474814977.74,
-    "final_attacker": {
-      "character_name": "Fraud Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132732103,
-    "killmail_hash": "e1582a3266d1e13de6048d4397dfd0c51355b25a",
-    "kill_time": "2026-01-18T15:38:32Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 96777768,
-      "character_name": "Clepp Aurilen",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132732103/",
-    "total_value": 9916612877.81,
-    "final_attacker": {
-      "character_name": "B-534 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132730709,
-    "killmail_hash": "3c0b81a2713b0616fbd97f167fd181c481677e64",
-    "kill_time": "2026-01-18T14:41:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115546859,
-      "character_name": "Del Chuuu",
-      "corporation_id": 98730596,
-      "corporation_name": "Mandatory Collateral",
-      "alliance_id": 99000580,
-      "alliance_name": "Ignore This."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132730709/",
-    "total_value": 46456961414.75,
-    "final_attacker": {
-      "character_name": "P-66 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
     }
   }
 ]
