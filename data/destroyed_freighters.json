@@ -1,5 +1,187 @@
 [
   {
+    "killmail_id": 132881819,
+    "killmail_hash": "fe62c52f4a14fbfe082b352ca575d798376bfa24",
+    "kill_time": "2026-01-25T02:25:16Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003886,
+    "solar_system_name": "Ashmarir",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2121390076,
+      "character_name": "Akaelus",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132881819/",
+    "total_value": 2481562590.65,
+    "final_attacker": {
+      "character_name": "Katherine Stewart",
+      "corporation_name": "Di-Tron Heavy Industries",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132881287,
+    "killmail_hash": "02b3ace8a572cd82b4f336d8ab9431d1f2b927ef",
+    "kill_time": "2026-01-25T01:56:20Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 466972257,
+      "character_name": "Zigam",
+      "corporation_id": 98817637,
+      "corporation_name": "Tactical Withdrawal Team",
+      "alliance_id": 99014523,
+      "alliance_name": "The Rejected."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132881287/",
+    "total_value": 7860599391.5,
+    "final_attacker": {
+      "character_name": "InEULAweTrust",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 132881285,
+    "killmail_hash": "4211b20ffa6f7f657bc3937d6b8a8828da3a60c1",
+    "kill_time": "2026-01-25T01:56:08Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117609877,
+      "character_name": "Moon Money",
+      "corporation_id": 98817637,
+      "corporation_name": "Tactical Withdrawal Team",
+      "alliance_id": 99014523,
+      "alliance_name": "The Rejected."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132881285/",
+    "total_value": 7834565835.02,
+    "final_attacker": {
+      "character_name": "InEULAweTrust",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 132881282,
+    "killmail_hash": "8d7ec82ec52f0f6d9ba3fbc260749128a5ba6985",
+    "kill_time": "2026-01-25T01:55:55Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122376732,
+      "character_name": "Eull Panacan",
+      "corporation_id": 98817637,
+      "corporation_name": "Tactical Withdrawal Team",
+      "alliance_id": 99014523,
+      "alliance_name": "The Rejected."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132881282/",
+    "total_value": 7806440559.2,
+    "final_attacker": {
+      "character_name": "InEULAweTrust",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 132881276,
+    "killmail_hash": "cc9b78dce40b9a6085bd91c26004da95b02866a6",
+    "kill_time": "2026-01-25T01:55:34Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 93189111,
+      "character_name": "Ninjajolic",
+      "corporation_id": 98818388,
+      "corporation_name": "Gobbins MoonGoo Reserve",
+      "alliance_id": 99014523,
+      "alliance_name": "The Rejected."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132881276/",
+    "total_value": 7847140821.26,
+    "final_attacker": {
+      "character_name": "InEULAweTrust",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 132881140,
+    "killmail_hash": "2ae16ea7436733a10ddca22c70160fd5bf9ba5b5",
+    "kill_time": "2026-01-25T01:44:42Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117690774,
+      "character_name": "didek916",
+      "corporation_id": 98697448,
+      "corporation_name": "The Dead Woods",
+      "alliance_id": 99011119,
+      "alliance_name": "Absolute Glory"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132881140/",
+    "total_value": 2117428746.06,
+    "final_attacker": {
+      "character_name": "Hasu Storm",
+      "corporation_name": "DNO DNA DNO",
+      "alliance_name": null,
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 132870710,
+    "killmail_hash": "652fd87d8dd36b007668a35a015bbb3c03583ca1",
+    "kill_time": "2026-01-24T18:47:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002718,
+    "solar_system_name": "Rancer",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95638246,
+      "character_name": "Ronan Aegus",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132870710/",
+    "total_value": 1818963749.91,
+    "final_attacker": {
+      "character_name": "Sallyvan",
+      "corporation_name": "jUST DO It..",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 132869510,
     "killmail_hash": "bc0c263b43076ae1f52bc8a60306f864dac4e120",
     "kill_time": "2026-01-24T17:55:31Z",
@@ -1557,110 +1739,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132716987,
-    "killmail_hash": "f4a3ee0cd41579fe533baba6f3a3ab22c17d0be2",
-    "kill_time": "2026-01-18T01:16:50Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119675496,
-      "character_name": "Wh3te Horse",
-      "corporation_id": 98794495,
-      "corporation_name": "ExoMining Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132716987/",
-    "total_value": 1817081730.06,
-    "final_attacker": {
-      "character_name": "The Toe Rag",
-      "corporation_name": "Iniquity Inc.",
-      "alliance_name": null,
-      "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 132715846,
-    "killmail_hash": "b9219ed8973f53f7005479cc86afce4dfaf3f6f8",
-    "kill_time": "2026-01-18T00:03:22Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 953458252,
-      "character_name": "lady preety",
-      "corporation_id": 98641066,
-      "corporation_name": "EE Logistics",
-      "alliance_id": 99012849,
-      "alliance_name": "Invidia consilium perdit"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132715846/",
-    "total_value": 36237750303.08,
-    "final_attacker": {
-      "character_name": "Fluffy Gankbear",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132714831,
-    "killmail_hash": "b60626a1d238cc6222208d0824725c6b7494e1ed",
-    "kill_time": "2026-01-17T23:13:10Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95053759,
-      "character_name": "iLLegaLe trans",
-      "corporation_id": 98404673,
-      "corporation_name": "RED-SUPREME",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132714831/",
-    "total_value": 14940641915.38,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132712275,
-    "killmail_hash": "b04ba333b2ff02747d6e68765f4eda15853ec8db",
-    "kill_time": "2026-01-17T21:28:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96835371,
-      "character_name": "Julia Zdecydowana",
-      "corporation_id": 1444028566,
-      "corporation_name": "Sandworms of Dune",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132712275/",
-    "total_value": 17582214404.56,
-    "final_attacker": {
-      "character_name": "Bovine Patrol",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
