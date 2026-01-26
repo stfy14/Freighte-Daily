@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 132917526,
+    "killmail_hash": "ade981e71b2256e712d511fe66d21eaeb2d1b87f",
+    "kill_time": "2026-01-26T13:57:06Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002355,
+    "solar_system_name": "LXQ2-T",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 94645699,
+      "character_name": "Gannicus Maximos",
+      "corporation_id": 1340454813,
+      "corporation_name": "Harbingers of Chaos Inc.",
+      "alliance_id": 99003216,
+      "alliance_name": "Gentlemen's.Club"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132917526/",
+    "total_value": 7713859116.8,
+    "final_attacker": {
+      "character_name": "Viktor Huxwright",
+      "corporation_name": "Lahti Business City",
+      "alliance_name": "Rote Works",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
+    "killmail_id": 132917518,
+    "killmail_hash": "ed874f5a391df43b032d4f6f918b6f03acf214b2",
+    "kill_time": "2026-01-26T13:56:43Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002355,
+    "solar_system_name": "LXQ2-T",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2112643002,
+      "character_name": "Sterrit",
+      "corporation_id": 1340454813,
+      "corporation_name": "Harbingers of Chaos Inc.",
+      "alliance_id": 99003216,
+      "alliance_name": "Gentlemen's.Club"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132917518/",
+    "total_value": 7734644330.81,
+    "final_attacker": {
+      "character_name": "We Escelated",
+      "corporation_name": "Stimulus",
+      "alliance_name": "Rote Kapelle",
+      "ship_type_name": "Zirnitra"
+    }
+  },
+  {
+    "killmail_id": 132917508,
+    "killmail_hash": "3da47855985072d75e2e86c87085b6e166acd16a",
+    "kill_time": "2026-01-26T13:56:07Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002355,
+    "solar_system_name": "LXQ2-T",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2112602796,
+      "character_name": "Xjin",
+      "corporation_id": 1340454813,
+      "corporation_name": "Harbingers of Chaos Inc.",
+      "alliance_id": 99003216,
+      "alliance_name": "Gentlemen's.Club"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132917508/",
+    "total_value": 7718850567.55,
+    "final_attacker": {
+      "character_name": "Viktor Huxwright",
+      "corporation_name": "Lahti Business City",
+      "alliance_name": "Rote Works",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
     "killmail_id": 132907450,
     "killmail_hash": "9e9465c13056001b0b799eec1afe184b3209fdb3",
     "kill_time": "2026-01-26T00:10:12Z",
@@ -1505,58 +1583,6 @@
       "corporation_name": "Portia Squad",
       "alliance_name": "Daughters of Ane",
       "ship_type_name": "Nightmare"
-    }
-  },
-  {
-    "killmail_id": 132757897,
-    "killmail_hash": "6abe19ecca5c60fc1eb3109978d745678b1edbbe",
-    "kill_time": "2026-01-19T15:58:27Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1042088645,
-      "character_name": "Hana Bazura",
-      "corporation_id": 98751587,
-      "corporation_name": "The Grumble",
-      "alliance_id": 99013502,
-      "alliance_name": "Itty Bitty Asteroid Committee"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132757897/",
-    "total_value": 11289088233.8,
-    "final_attacker": {
-      "character_name": "SUICIDAL Larsen",
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132757612,
-    "killmail_hash": "bd7a29e4b1d8666c305bad9dfd76c9506dff56ba",
-    "kill_time": "2026-01-19T15:42:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001157,
-    "solar_system_name": "36N-HZ",
-    "region_name": "Catch",
-    "victim": {
-      "character_id": 2112220585,
-      "character_name": "Rick Orleonardi",
-      "corporation_id": 98629133,
-      "corporation_name": "Oracle Arms",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132757612/",
-    "total_value": 1971571388.14,
-    "final_attacker": {
-      "character_name": "Marco Tierney",
-      "corporation_name": "Mostly Cap Stable",
-      "alliance_name": "Sigma Grindset",
-      "ship_type_name": "Vagabond"
     }
   }
 ]
