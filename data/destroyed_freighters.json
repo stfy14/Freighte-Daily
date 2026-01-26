@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 132907450,
+    "killmail_hash": "9e9465c13056001b0b799eec1afe184b3209fdb3",
+    "kill_time": "2026-01-26T00:10:12Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30045333,
+    "solar_system_name": "Prism",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2120976561,
+      "character_name": "Rolly Lax",
+      "corporation_id": 98306027,
+      "corporation_name": "SpaceFire Holding",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132907450/",
+    "total_value": 8267954957.87,
+    "final_attacker": {
+      "character_name": "Miami Vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
+    "killmail_id": 132906412,
+    "killmail_hash": "1d48fe5c93c49eeeb1d3c5dd5de2a043672c2480",
+    "kill_time": "2026-01-25T23:00:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122772004,
+      "character_name": "Vertigo Crown Killer",
+      "corporation_id": 98777141,
+      "corporation_name": "0Tolerance Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132906412/",
+    "total_value": 8424216810.57,
+    "final_attacker": {
+      "character_name": "Deus Ex Astra",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 132906392,
+    "killmail_hash": "5a4b3bfbaec78948dd8b9703477061dedc6b0d23",
+    "kill_time": "2026-01-25T22:58:55Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121988752,
+      "character_name": "MF1305",
+      "corporation_id": 98777141,
+      "corporation_name": "0Tolerance Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132906392/",
+    "total_value": 8513117124.45,
+    "final_attacker": {
+      "character_name": "Eddie Van Shipkiller",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 132906295,
+    "killmail_hash": "064d924b34646d39edf695a4d02b9ea5ec3020df",
+    "kill_time": "2026-01-25T22:52:04Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2114292033,
+      "character_name": "Quantum Symphony",
+      "corporation_id": 98820707,
+      "corporation_name": "Ferrengi Imperial Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132906295/",
+    "total_value": 9154924716.24,
+    "final_attacker": {
+      "character_name": "Eddie Van Shipkiller",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 132896850,
     "killmail_hash": "273464988bc2db7694b0365f00297aca84569c30",
     "kill_time": "2026-01-25T16:58:40Z",
@@ -1453,32 +1557,6 @@
       "corporation_name": "Mostly Cap Stable",
       "alliance_name": "Sigma Grindset",
       "ship_type_name": "Vagabond"
-    }
-  },
-  {
-    "killmail_id": 132746280,
-    "killmail_hash": "908b64c11d4db5c8976736207327b680e352b66c",
-    "kill_time": "2026-01-19T01:44:06Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123981289,
-      "character_name": "Fenrir Pilot",
-      "corporation_id": 98666585,
-      "corporation_name": "Jumping Jews of Jerusalem",
-      "alliance_id": 99012162,
-      "alliance_name": "The Chicken Coop"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132746280/",
-    "total_value": 13258576733.74,
-    "final_attacker": {
-      "character_name": "Cute Gank",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
