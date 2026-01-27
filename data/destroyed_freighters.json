@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132943583,
+    "killmail_hash": "8dfb4b24226831b6c5055cb7f3d19f1f157fc9c1",
+    "kill_time": "2026-01-27T18:23:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 90995369,
+      "character_name": "Riusay Issier",
+      "corporation_id": 98091301,
+      "corporation_name": "RomFleet",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132943583/",
+    "total_value": 5764130079.16,
+    "final_attacker": {
+      "character_name": "Dr Volt",
+      "corporation_name": "High Voltage Labs",
+      "alliance_name": null,
+      "ship_type_name": "Revelation"
+    }
+  },
+  {
     "killmail_id": 132929301,
     "killmail_hash": "cbe5dc90967c2bfbfbf95cc698c669c15268ec0e",
     "kill_time": "2026-01-27T01:03:42Z",
