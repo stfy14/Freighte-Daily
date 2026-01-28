@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 132956293,
+    "killmail_hash": "348ce59d9498198dad39b8f97a47a68ebad84208",
+    "kill_time": "2026-01-28T10:26:08Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2114742243,
+      "character_name": "Sir Emerald Tsunami",
+      "corporation_id": 98617361,
+      "corporation_name": "United Delta Quadrant",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132956293/",
+    "total_value": 10231066088.99,
+    "final_attacker": {
+      "character_name": "MystinaCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 132955703,
+    "killmail_hash": "b389d0fcd066726b7ff636ac1a29a4067cbc161d",
+    "kill_time": "2026-01-28T09:27:09Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2120567602,
+      "character_name": "Bad Eddie Morphy",
+      "corporation_id": 98258093,
+      "corporation_name": "Strategic Exploration and Development Corp",
+      "alliance_id": 99009268,
+      "alliance_name": "Silent Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/132955703/",
+    "total_value": 4381195229.18,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 132955193,
     "killmail_hash": "528f2437a4b39b7a3ffc2e722b1ab55740c38aa5",
     "kill_time": "2026-01-28T08:26:53Z",
@@ -1505,84 +1557,6 @@
       "corporation_name": "My Little Pony.",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Stabber"
-    }
-  },
-  {
-    "killmail_id": 132794757,
-    "killmail_hash": "3b93628bc0f242803b39d7af460e8ffee36f818d",
-    "kill_time": "2026-01-21T11:18:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123960975,
-      "character_name": "Tek Hakuli",
-      "corporation_id": 98817637,
-      "corporation_name": "Tactical Withdrawal Team",
-      "alliance_id": 99014523,
-      "alliance_name": "The Rejected."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132794757/",
-    "total_value": 1825840952.83,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 132794722,
-    "killmail_hash": "032b4794e16f38a8024506312eb76ab18f77f857",
-    "kill_time": "2026-01-21T11:08:56Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92727557,
-      "character_name": "Nacky Nackine",
-      "corporation_id": 98733616,
-      "corporation_name": "The Last Foundation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132794722/",
-    "total_value": 2946387430.42,
-    "final_attacker": {
-      "character_name": "Rikard Panala",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132794328,
-    "killmail_hash": "0a62df36c53c9edbe65c70d7c5caeb17184108f9",
-    "kill_time": "2026-01-21T10:11:17Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002531,
-    "solar_system_name": "Gerek",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2122138535,
-      "character_name": "Sibilisia2",
-      "corporation_id": 98767134,
-      "corporation_name": "ETBL Industries",
-      "alliance_id": 99014427,
-      "alliance_name": "Itty Bitty Asteroid Academy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132794328/",
-    "total_value": 8267392336.76,
-    "final_attacker": {
-      "character_name": "Miss Connduct",
-      "corporation_name": "Malakim Zealots",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
