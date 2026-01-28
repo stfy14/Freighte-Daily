@@ -1558,31 +1558,5 @@
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 132790944,
-    "killmail_hash": "21de64d40dfdf29e237218bb9873730ca732cc2a",
-    "kill_time": "2026-01-21T04:21:13Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2124054782,
-      "character_name": "Padraig Holma",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132790944/",
-    "total_value": 2002946180.36,
-    "final_attacker": {
-      "character_name": "Red Krest",
-      "corporation_name": "Know-Nothings",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
