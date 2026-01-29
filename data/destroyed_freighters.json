@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132984790,
+    "killmail_hash": "d4f7063be244da98d6d8d47f9762097885f5e648",
+    "kill_time": "2026-01-29T19:12:17Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004949,
+    "solar_system_name": "48I1-X",
+    "region_name": "Period Basis",
+    "victim": {
+      "character_id": 2112015420,
+      "character_name": "Molly Linden",
+      "corporation_id": 98802736,
+      "corporation_name": "Unpleasant Warriors",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132984790/",
+    "total_value": 11971181643.92,
+    "final_attacker": {
+      "character_name": "Mamrah Polymath",
+      "corporation_name": "Nano Rhinos",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Hecate"
+    }
+  },
+  {
     "killmail_id": 132971012,
     "killmail_hash": "b484851d1bd8c5126fcd16aff3657a20d9f59c11",
     "kill_time": "2026-01-29T02:10:32Z",
@@ -1349,110 +1375,6 @@
       "corporation_name": "Kantian Principle",
       "alliance_name": null,
       "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 132824716,
-    "killmail_hash": "a858546ab2d4c18b83d68f79b0b09a76acce69a2",
-    "kill_time": "2026-01-22T20:21:29Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003584,
-    "solar_system_name": "Sarline",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 91109835,
-      "character_name": "Lilly Tnara",
-      "corporation_id": 1115843935,
-      "corporation_name": "Fighters Union Shipyards",
-      "alliance_id": 99014136,
-      "alliance_name": "New Eden Wanderers."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132824716/",
-    "total_value": 8573781138.63,
-    "final_attacker": {
-      "character_name": "YouLikeIt MyKOPbITO",
-      "corporation_name": "YouLikeIt",
-      "alliance_name": null,
-      "ship_type_name": "Paladin"
-    }
-  },
-  {
-    "killmail_id": 132821650,
-    "killmail_hash": "073ae9edf420f8c5b0da353caf6750cc923f9c1c",
-    "kill_time": "2026-01-22T18:19:17Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2045625712,
-      "character_name": "XZeeX",
-      "corporation_id": 98630949,
-      "corporation_name": "Fancypants Shipping",
-      "alliance_id": 99010977,
-      "alliance_name": "Fancypants Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132821650/",
-    "total_value": 11768737190.36,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Ibis"
-    }
-  },
-  {
-    "killmail_id": 132821391,
-    "killmail_hash": "e7e5983e1ea89a896f3c70e67e0a16468877b665",
-    "kill_time": "2026-01-22T18:08:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96828284,
-      "character_name": "Silvia Creig",
-      "corporation_id": 98527847,
-      "corporation_name": "Age of Rogue",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132821391/",
-    "total_value": 1824930244.81,
-    "final_attacker": {
-      "character_name": "Anastasiya Okanata",
-      "corporation_name": "10 Potatoes",
-      "alliance_name": "Project Potato",
-      "ship_type_name": "Phoenix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132821207,
-    "killmail_hash": "e68c1aef4d62e6b612fcb40f108f8aef82b9f206",
-    "kill_time": "2026-01-22T18:01:19Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 93908539,
-      "character_name": "TheWhaleKing",
-      "corporation_id": 1211383288,
-      "corporation_name": "Lucifer's Hammer",
-      "alliance_id": 99004295,
-      "alliance_name": "A Band Apart."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132821207/",
-    "total_value": 11172249405.6,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
