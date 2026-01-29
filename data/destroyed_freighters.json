@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132971012,
+    "killmail_hash": "b484851d1bd8c5126fcd16aff3657a20d9f59c11",
+    "kill_time": "2026-01-29T02:10:32Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30045339,
+    "solar_system_name": "Enaluri",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 1762655813,
+      "character_name": "Stixter",
+      "corporation_id": 439896599,
+      "corporation_name": "Therapy.",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/132971012/",
+    "total_value": 16597428543.88,
+    "final_attacker": {
+      "character_name": "lizlyzbc",
+      "corporation_name": "Space Oddities Join Us",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst Navy Issue"
+    }
+  },
+  {
     "killmail_id": 132963807,
     "killmail_hash": "60e1796da39cbc3bbb84b27a0571e15db3f6d4fa",
     "kill_time": "2026-01-28T19:04:26Z",
@@ -1557,58 +1583,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132808820,
-    "killmail_hash": "632a5739386e6e9cd14975004b6fd96d382de416",
-    "kill_time": "2026-01-22T01:24:45Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95314612,
-      "character_name": "SmokinButt",
-      "corporation_id": 98014141,
-      "corporation_name": "MasterWizards",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132808820/",
-    "total_value": 7950602489.66,
-    "final_attacker": {
-      "character_name": "Sven Bauer",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132807222,
-    "killmail_hash": "02a192e339c197c12326b1490243b8fac5059969",
-    "kill_time": "2026-01-21T23:04:31Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 31002258,
-    "solar_system_name": "J144944",
-    "region_name": "E-R00028",
-    "victim": {
-      "character_id": 2115024457,
-      "character_name": "Black sould",
-      "corporation_id": 98052373,
-      "corporation_name": "I N T I",
-      "alliance_id": 99011268,
-      "alliance_name": "Reeloaded."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132807222/",
-    "total_value": 8452470722.57,
-    "final_attacker": {
-      "character_name": "Maverick Parmala",
-      "corporation_name": "Inevitable Outcome",
-      "alliance_name": "E.C.H.O",
-      "ship_type_name": "Vindicator"
     }
   }
 ]
