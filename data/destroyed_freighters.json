@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 132998893,
+    "killmail_hash": "8b75b5798b0c125067b453d9f49e6b7a543d68e6",
+    "kill_time": "2026-01-30T13:52:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112932657,
+      "character_name": "Rekniti Ghost",
+      "corporation_id": 98803991,
+      "corporation_name": "Tick Tick Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/132998893/",
+    "total_value": 11930514483.32,
+    "final_attacker": {
+      "character_name": "Mackers87",
+      "corporation_name": "From Hisec with Love Holdings",
+      "alliance_name": "From Hisec with Love Coalition",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
     "killmail_id": 132984790,
     "killmail_hash": "d4f7063be244da98d6d8d47f9762097885f5e648",
     "kill_time": "2026-01-29T19:12:17Z",
@@ -1219,84 +1245,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 132839838,
-    "killmail_hash": "386036e720d8d44c836c5f1b6d93fefa7c6ec310",
-    "kill_time": "2026-01-23T15:27:21Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002531,
-    "solar_system_name": "Gerek",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 544980481,
-      "character_name": "Gidgets",
-      "corporation_id": 98822696,
-      "corporation_name": "United Capsuleer Consortium",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132839838/",
-    "total_value": 4096551688.77,
-    "final_attacker": {
-      "character_name": "Jushur Kish Corona",
-      "corporation_name": "Chaos arbiter",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Harbinger"
-    }
-  },
-  {
-    "killmail_id": 132838455,
-    "killmail_hash": "68ea612c273a3c6772f3bb2d0fc08c459ec3b416",
-    "kill_time": "2026-01-23T14:10:33Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117788754,
-      "character_name": "Seb Wheeler",
-      "corporation_id": 98731258,
-      "corporation_name": "Anti Gate Freight",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132838455/",
-    "total_value": 20301347190.38,
-    "final_attacker": {
-      "character_name": "Schleimkeim",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132837872,
-    "killmail_hash": "ab90de02706dfccad375602cf22111ac52c74848",
-    "kill_time": "2026-01-23T13:39:54Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001740,
-    "solar_system_name": "Arakor",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 1120051206,
-      "character_name": "Citinetty",
-      "corporation_id": 98809477,
-      "corporation_name": "Not A Threat. I Promise",
-      "alliance_id": 99010389,
-      "alliance_name": "Outsmarted"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132837872/",
-    "total_value": 3587690363.9,
-    "final_attacker": {
-      "character_name": "carlosgace",
-      "corporation_name": "From Hisec with Love Holdings",
-      "alliance_name": "From Hisec with Love Coalition",
-      "ship_type_name": "Vedmak"
     }
   }
 ]
