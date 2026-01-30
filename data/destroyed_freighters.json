@@ -1272,57 +1272,5 @@
       "alliance_name": "From Hisec with Love Coalition",
       "ship_type_name": "Vedmak"
     }
-  },
-  {
-    "killmail_id": 132833725,
-    "killmail_hash": "1c95bcf0674d07798ed2afc725a83d5a048f4fe1",
-    "kill_time": "2026-01-23T07:41:20Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122816923,
-      "character_name": "Takadio Arashi",
-      "corporation_id": 98630228,
-      "corporation_name": "United Mining and Hauling Janitor Plc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132833725/",
-    "total_value": 24639448426.56,
-    "final_attacker": {
-      "character_name": "Schleimkeim",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132832650,
-    "killmail_hash": "db70bebeac5897839bc214cea088a6d3b7640841",
-    "kill_time": "2026-01-23T05:37:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2116872960,
-      "character_name": "Jonesy Ripley",
-      "corporation_id": 98652891,
-      "corporation_name": "Dutch Legions",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132832650/",
-    "total_value": 14208792867.35,
-    "final_attacker": {
-      "character_name": "henhain zzz Davaham",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Broadsword"
-    }
   }
 ]
