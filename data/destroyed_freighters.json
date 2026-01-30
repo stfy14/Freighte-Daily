@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133002797,
+    "killmail_hash": "cae798c5ef8b207806f01d4c5b785791c91eb4ce",
+    "kill_time": "2026-01-30T17:21:36Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 1716574516,
+      "character_name": "Sawney JuskaRath",
+      "corporation_id": 310281086,
+      "corporation_name": "Un4seen Development",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133002797/",
+    "total_value": 1935308913.69,
+    "final_attacker": {
+      "character_name": "Milfgaard",
+      "corporation_name": "Militant Industrialists LLC",
+      "alliance_name": "Militant Consortium",
+      "ship_type_name": "Thrasher Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 132998893,
     "killmail_hash": "8b75b5798b0c125067b453d9f49e6b7a543d68e6",
     "kill_time": "2026-01-30T13:52:13Z",
@@ -1193,58 +1219,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 132846223,
-    "killmail_hash": "8f6e720c3a17926c929bc5f682a56122b5f46eb0",
-    "kill_time": "2026-01-23T20:31:48Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002767,
-    "solar_system_name": "Kubinen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113192482,
-      "character_name": "Alex Shia",
-      "corporation_id": 98795843,
-      "corporation_name": "ASH Company 2",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132846223/",
-    "total_value": 11520778521.69,
-    "final_attacker": {
-      "character_name": "Dwark",
-      "corporation_name": "Harmonist",
-      "alliance_name": "Parallaxis Alliance",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132843125,
-    "killmail_hash": "8155224cbed706485ae9d62768736e4de29c3339",
-    "kill_time": "2026-01-23T18:26:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 94490607,
-      "character_name": "Tari Haklar",
-      "corporation_id": 98821093,
-      "corporation_name": "Golden Age Empire",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132843125/",
-    "total_value": 3470862821.61,
-    "final_attacker": {
-      "character_name": "Larson Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
