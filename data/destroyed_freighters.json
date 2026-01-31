@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133032514,
+    "killmail_hash": "dcdb43c01073b1390001533a5fef5e576b179cf7",
+    "kill_time": "2026-01-31T20:02:56Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003905,
+    "solar_system_name": "Chamemi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 556283353,
+      "character_name": "Dixie Flatline",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133032514/",
+    "total_value": 24210606152.44,
+    "final_attacker": {
+      "character_name": "Lotor",
+      "corporation_name": "Infinite Point",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133027830,
+    "killmail_hash": "c48c5f55d2356d11ee04670e1995f85d552ad87b",
+    "kill_time": "2026-01-31T16:49:42Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 509912995,
+      "character_name": "Liget",
+      "corporation_id": 98777498,
+      "corporation_name": "1st Order",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133027830/",
+    "total_value": 16851564286.26,
+    "final_attacker": {
+      "character_name": "Fraud Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133023869,
     "killmail_hash": "aacdff8520bdbbe8127e78a963a5e46238cc857d",
     "kill_time": "2026-01-31T14:22:28Z",
@@ -1063,58 +1115,6 @@
       "corporation_name": "DNO DNA DNO",
       "alliance_name": null,
       "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 132870710,
-    "killmail_hash": "652fd87d8dd36b007668a35a015bbb3c03583ca1",
-    "kill_time": "2026-01-24T18:47:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002718,
-    "solar_system_name": "Rancer",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95638246,
-      "character_name": "Ronan Aegus",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132870710/",
-    "total_value": 1818963749.91,
-    "final_attacker": {
-      "character_name": "Sallyvan",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132869510,
-    "killmail_hash": "bc0c263b43076ae1f52bc8a60306f864dac4e120",
-    "kill_time": "2026-01-24T17:55:31Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1874988839,
-      "character_name": "doyouwannatrade",
-      "corporation_id": 98794513,
-      "corporation_name": "3rd-ACR",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132869510/",
-    "total_value": 19267901679.97,
-    "final_attacker": {
-      "character_name": "Death Killer21",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
     }
   }
 ]
