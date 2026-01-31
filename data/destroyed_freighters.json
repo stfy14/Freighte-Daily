@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133014833,
+    "killmail_hash": "492702743a9976ad18e8b6c9efb9ba6b79386182",
+    "kill_time": "2026-01-31T05:35:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31001833,
+    "solar_system_name": "J132532",
+    "region_name": "D-R00022",
+    "victim": {
+      "character_id": 94270831,
+      "character_name": "Estilad Grenrum",
+      "corporation_id": 98720281,
+      "corporation_name": "Blood Alcohol Content",
+      "alliance_id": 99014617,
+      "alliance_name": "D E L I R I U M"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133014833/",
+    "total_value": 1793844032.01,
+    "final_attacker": {
+      "character_name": "Charles's Lancer II",
+      "corporation_name": "Lethal Devotion",
+      "alliance_name": "D E L I R I U M",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133014591,
+    "killmail_hash": "4c45ebf7278748d50a2b9f0a5ad8897915143137",
+    "kill_time": "2026-01-31T05:23:41Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1591938075,
+      "character_name": "Ricardos Fordisimo",
+      "corporation_id": 98679428,
+      "corporation_name": "SCREECHING GRASS",
+      "alliance_id": 99010320,
+      "alliance_name": "Bully Brigade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133014591/",
+    "total_value": 9286217727.49,
+    "final_attacker": {
+      "character_name": "Requiescat",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
+    "killmail_id": 133014569,
+    "killmail_hash": "0de64fa3da386ba2045b682545ce49ebc41cc3ed",
+    "kill_time": "2026-01-31T05:22:12Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 97203987,
+      "character_name": "CHOPOBKA",
+      "corporation_id": 98679428,
+      "corporation_name": "SCREECHING GRASS",
+      "alliance_id": 99010320,
+      "alliance_name": "Bully Brigade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133014569/",
+    "total_value": 9330212203.73,
+    "final_attacker": {
+      "character_name": "Pterry Dactyl Kasterborous",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
     "killmail_id": 133012665,
     "killmail_hash": "125b13f5bff915268af79a176fe709e1fbb1c679",
     "kill_time": "2026-01-31T03:23:16Z",
@@ -1114,84 +1192,6 @@
       "character_name": "zLegion A",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132858475,
-    "killmail_hash": "c17f5cc081b9d2d68a4ec395f7d97b2d3e41c72a",
-    "kill_time": "2026-01-24T08:35:14Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114545710,
-      "character_name": "Voss Sasen",
-      "corporation_id": 98608141,
-      "corporation_name": "Farmers Union Iced Coffee",
-      "alliance_id": 99006249,
-      "alliance_name": "DISASTER Delivery Service"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132858475/",
-    "total_value": 14887289447.18,
-    "final_attacker": {
-      "character_name": "zLegion E",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132857119,
-    "killmail_hash": "24deda7acec0f2eb0552f863fcc54503e8c4c0c2",
-    "kill_time": "2026-01-24T06:41:22Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004979,
-    "solar_system_name": "Heydieles",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 96269990,
-      "character_name": "Anansi Veles",
-      "corporation_id": 98482619,
-      "corporation_name": "Liminal",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132857119/",
-    "total_value": 1990173341.5,
-    "final_attacker": {
-      "character_name": "tahoma sakura",
-      "corporation_name": "angry bird's",
-      "alliance_name": "C A M E L O T",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 132856442,
-    "killmail_hash": "6480f9f5dd926954277eee06fa7f4cb424fb7287",
-    "kill_time": "2026-01-24T05:48:17Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001394,
-    "solar_system_name": "Korama",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122764357,
-      "character_name": "Jay Delia",
-      "corporation_id": 98185110,
-      "corporation_name": "Fuxi Legion",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132856442/",
-    "total_value": 14889419006.42,
-    "final_attacker": {
-      "character_name": "Nado 22 Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
       "ship_type_name": "Tornado"
     }
   }
