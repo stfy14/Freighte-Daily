@@ -1168,57 +1168,5 @@
       "alliance_name": "The Conference",
       "ship_type_name": "Tornado"
     }
-  },
-  {
-    "killmail_id": 132848016,
-    "killmail_hash": "08060e5987c5d75d06e316a8e76d5bcbe1201c09",
-    "kill_time": "2026-01-23T21:35:33Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1433394963,
-      "character_name": "Britney Harder",
-      "corporation_id": 98719510,
-      "corporation_name": "WILD FLAME",
-      "alliance_id": 99014730,
-      "alliance_name": "Fatal Disaster"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132848016/",
-    "total_value": 11263960248.23,
-    "final_attacker": {
-      "character_name": "Proxey",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132847433,
-    "killmail_hash": "77a7e52e330acc60cec8e801354893fa954ddd3f",
-    "kill_time": "2026-01-23T21:20:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122970910,
-      "character_name": "MrObshak",
-      "corporation_id": 98719510,
-      "corporation_name": "WILD FLAME",
-      "alliance_id": 99014730,
-      "alliance_name": "Fatal Disaster"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132847433/",
-    "total_value": 25708016783.33,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
-    }
   }
 ]
