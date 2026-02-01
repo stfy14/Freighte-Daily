@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133055952,
+    "killmail_hash": "e9204572329d751dc9c4a29b222dbae326ea68e8",
+    "kill_time": "2026-02-01T15:22:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 1093729377,
+      "character_name": "Girock",
+      "corporation_id": 98651050,
+      "corporation_name": "Absolute Order XVIII",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133055952/",
+    "total_value": 1925949164.29,
+    "final_attacker": {
+      "character_name": "solon101",
+      "corporation_name": "Way So Mad",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 133051224,
     "killmail_hash": "0e4e9f957e3ca1ca8d643593b001cf06cc04ad50",
     "kill_time": "2026-02-01T12:07:05Z",
@@ -1115,32 +1141,6 @@
       "corporation_name": "No.Mercy",
       "alliance_name": "Triumvirate.",
       "ship_type_name": "Jackdaw"
-    }
-  },
-  {
-    "killmail_id": 132893293,
-    "killmail_hash": "c15e16d431d12593b7a27e74f7a54160a4a069c4",
-    "kill_time": "2026-01-25T14:14:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2117767944,
-      "character_name": "MelTuc",
-      "corporation_id": 98816744,
-      "corporation_name": "MelTuc Engineering Logistics And Trade Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132893293/",
-    "total_value": 2585384372.31,
-    "final_attacker": {
-      "character_name": "Odyssey 2049",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
