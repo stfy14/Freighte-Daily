@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133060232,
+    "killmail_hash": "2c9251c977e121480449f96a7643fdc19d93e92f",
+    "kill_time": "2026-02-01T18:18:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114254574,
+      "character_name": "Michael Strikker",
+      "corporation_id": 98411227,
+      "corporation_name": "Hideaway Hunters",
+      "alliance_id": 99010597,
+      "alliance_name": "The Hideaway."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133060232/",
+    "total_value": 2811383325.75,
+    "final_attacker": {
+      "character_name": "Lord Escobar Gaviria",
+      "corporation_name": "The Stone Garden",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133057063,
+    "killmail_hash": "fe3d6306d4e2d65743ef570b1e1d0badcbc00d49",
+    "kill_time": "2026-02-01T16:06:35Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 95472046,
+      "character_name": "Traekinz",
+      "corporation_id": 98478981,
+      "corporation_name": "RSE Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133057063/",
+    "total_value": 12310785014.16,
+    "final_attacker": {
+      "character_name": "LA-5 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133055952,
     "killmail_hash": "e9204572329d751dc9c4a29b222dbae326ea68e8",
     "kill_time": "2026-02-01T15:22:19Z",
@@ -23,6 +75,32 @@
       "corporation_name": "Way So Mad",
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 133055723,
+    "killmail_hash": "bf3cdf26a5f6b9fee446e7537d2ec9746cb4464a",
+    "kill_time": "2026-02-01T15:13:53Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 838770386,
+      "character_name": "DnEugen",
+      "corporation_id": 98183161,
+      "corporation_name": "Agora Navy Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133055723/",
+    "total_value": 5712249426.56,
+    "final_attacker": {
+      "character_name": "Suicide Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -98,6 +176,32 @@
     "total_value": 7577837183.02,
     "final_attacker": {
       "character_name": "P-66 BombHawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133042658,
+    "killmail_hash": "808ada994d37d02ac9f3d1df4c55b8f507ea760d",
+    "kill_time": "2026-02-01T02:35:23Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001394,
+    "solar_system_name": "Korama",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122499212,
+      "character_name": "Mick QwQ",
+      "corporation_id": 98715563,
+      "corporation_name": "Chaos Aribter Industry",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133042658/",
+    "total_value": 25730706820.6,
+    "final_attacker": {
+      "character_name": "Nado 18 Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Tornado"
@@ -254,6 +358,58 @@
     "total_value": 16851564286.26,
     "final_attacker": {
       "character_name": "Fraud Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133027120,
+    "killmail_hash": "fbdc7a8bc6a30d1c157e6a015f8c3607258b37f9",
+    "kill_time": "2026-01-31T16:22:08Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001394,
+    "solar_system_name": "Korama",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2113958455,
+      "character_name": "soraikaros angle3",
+      "corporation_id": 98750141,
+      "corporation_name": "Comprehensive sales",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133027120/",
+    "total_value": 9138899419.58,
+    "final_attacker": {
+      "character_name": "Nado 25 Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133025242,
+    "killmail_hash": "41ef1f33ffd7b04d01042e231921af84afa2209a",
+    "kill_time": "2026-01-31T15:14:25Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001394,
+    "solar_system_name": "Korama",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95642708,
+      "character_name": "claw Dahma",
+      "corporation_id": 98469261,
+      "corporation_name": "Habitual-Dr3amZ",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133025242/",
+    "total_value": 9296212661.12,
+    "final_attacker": {
+      "character_name": "Nado 20 Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Tornado"
@@ -1115,32 +1271,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132896850,
-    "killmail_hash": "273464988bc2db7694b0365f00297aca84569c30",
-    "kill_time": "2026-01-25T16:58:40Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004046,
-    "solar_system_name": "F7C-H0",
-    "region_name": "Cloud Ring",
-    "victim": {
-      "character_id": 1869573834,
-      "character_name": "Dark Shines",
-      "corporation_id": 98723369,
-      "corporation_name": "Void of Eden.",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132896850/",
-    "total_value": 3782837089.19,
-    "final_attacker": {
-      "character_name": "mrakan",
-      "corporation_name": "No.Mercy",
-      "alliance_name": "Triumvirate.",
-      "ship_type_name": "Jackdaw"
     }
   }
 ]
