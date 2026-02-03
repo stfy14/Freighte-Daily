@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133105193,
+    "killmail_hash": "4d53a0a0bb07dbd83888d24681c86fb424042869",
+    "kill_time": "2026-02-03T18:55:09Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003063,
+    "solar_system_name": "Lamaa",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 1314417888,
+      "character_name": "Ace RelbmaG",
+      "corporation_id": 98677174,
+      "corporation_name": "Omni Defense Intelligence Network",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133105193/",
+    "total_value": 10489075854.42,
+    "final_attacker": {
+      "character_name": "Pea S0up",
+      "corporation_name": "Stairway To Zkill",
+      "alliance_name": null,
+      "ship_type_name": "Hel"
+    }
+  },
+  {
+    "killmail_id": 133103812,
+    "killmail_hash": "e43efbdff58afc8dfc7df54444a201a5c639ee7d",
+    "kill_time": "2026-02-03T17:52:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 92512461,
+      "character_name": "Rob Malukker",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133103812/",
+    "total_value": 8575718635,
+    "final_attacker": {
+      "character_name": "Shadow SithII",
+      "corporation_name": "I Have a Plan",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 133100717,
     "killmail_hash": "5ce97ea7edfa5ef66dc5db31450a923e873c2aa1",
     "kill_time": "2026-02-03T15:00:34Z",
@@ -1505,32 +1557,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132943583,
-    "killmail_hash": "8dfb4b24226831b6c5055cb7f3d19f1f157fc9c1",
-    "kill_time": "2026-01-27T18:23:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 90995369,
-      "character_name": "Riusay Issier",
-      "corporation_id": 98091301,
-      "corporation_name": "RomFleet",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132943583/",
-    "total_value": 5764130079.16,
-    "final_attacker": {
-      "character_name": "Dr Volt",
-      "corporation_name": "High Voltage Labs",
-      "alliance_name": null,
-      "ship_type_name": "Revelation"
     }
   }
 ]
