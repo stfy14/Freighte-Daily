@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133083959,
+    "killmail_hash": "3372238ea2dce95abafd0561cc41e1ca49247b88",
+    "kill_time": "2026-02-02T19:07:40Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2123228227,
+      "character_name": "P-26 Freight05",
+      "corporation_id": 98749774,
+      "corporation_name": "The Bishops Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133083959/",
+    "total_value": 18536081776.99,
+    "final_attacker": {
+      "character_name": "Marc Kalouf",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 133083956,
+    "killmail_hash": "872c2e506ef09b0fb37a8099c228889edb411c64",
+    "kill_time": "2026-02-02T19:07:34Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2123228300,
+      "character_name": "P-26 Freight09",
+      "corporation_id": 98749774,
+      "corporation_name": "The Bishops Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133083956/",
+    "total_value": 46588640857.44,
+    "final_attacker": {
+      "character_name": "deathtouch Bastanold",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133080228,
     "killmail_hash": "285f17498331bcfa4a3c9a4f5336e87468157764",
     "kill_time": "2026-02-02T15:59:08Z",
@@ -1115,110 +1167,6 @@
       "corporation_name": "High Voltage Labs",
       "alliance_name": null,
       "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 132929301,
-    "killmail_hash": "cbe5dc90967c2bfbfbf95cc698c669c15268ec0e",
-    "kill_time": "2026-01-27T01:03:42Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 977687735,
-      "character_name": "Munson'd",
-      "corporation_id": 98812870,
-      "corporation_name": "ARDCO",
-      "alliance_id": 99014402,
-      "alliance_name": "Plenitude Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132929301/",
-    "total_value": 2083730767.4,
-    "final_attacker": {
-      "character_name": "Highsec Defender",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132929199,
-    "killmail_hash": "dbf95fbd4a8d63f20156466824a8737903889524",
-    "kill_time": "2026-01-27T00:55:53Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2121177191,
-      "character_name": "Dimitri Nemura",
-      "corporation_id": 98630616,
-      "corporation_name": "Absolute Order IV",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132929199/",
-    "total_value": 1812131321.75,
-    "final_attacker": {
-      "character_name": "Polarized Dreams",
-      "corporation_name": "Don't Be Suspicious.",
-      "alliance_name": "ISK Sink.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132927965,
-    "killmail_hash": "d4a92ce105c23900f969bec8ccef203597b5fb5d",
-    "kill_time": "2026-01-26T23:17:15Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 93401124,
-      "character_name": "Gregorius Aubarios",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132927965/",
-    "total_value": 15945308387.13,
-    "final_attacker": {
-      "character_name": "Seowon Jung",
-      "corporation_name": "Wife Is Sleeping",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132920514,
-    "killmail_hash": "d469b2643d76f646f23c6910d6f274dd250ac101",
-    "kill_time": "2026-01-26T16:57:11Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123005287,
-      "character_name": "Xaviar Repinuj",
-      "corporation_id": 98792038,
-      "corporation_name": "The Bleak Lands Supply and Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132920514/",
-    "total_value": 32802047150.3,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
