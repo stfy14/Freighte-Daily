@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133116714,
+    "killmail_hash": "f9f2df2344c920f4fe43db3f305ce2316e89b223",
+    "kill_time": "2026-02-04T07:58:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118505935,
+      "character_name": "LaraFFM",
+      "corporation_id": 98813019,
+      "corporation_name": "Waechter der Sternenschmiede",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133116714/",
+    "total_value": 1781088954.18,
+    "final_attacker": {
+      "character_name": "zLegion 01",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 133116215,
+    "killmail_hash": "9b063c31f49f37dd160e27e7e80e3f08737585f6",
+    "kill_time": "2026-02-04T07:02:42Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001161,
+    "solar_system_name": "HED-GP",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 2117964911,
+      "character_name": "Yusanani Kado",
+      "corporation_id": 98760616,
+      "corporation_name": "Brave Empire Inc.",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133116215/",
+    "total_value": 10306560234.58,
+    "final_attacker": {
+      "character_name": "Dante Fasttackle",
+      "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133115837,
+    "killmail_hash": "606d2b49b7dac738a1c607668cf69bedbc8dd942",
+    "kill_time": "2026-02-04T06:28:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2124019492,
+      "character_name": "Taliah Reinhardt",
+      "corporation_id": 98597090,
+      "corporation_name": "Beyond Knowledge Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133115837/",
+    "total_value": 3540441026.8,
+    "final_attacker": {
+      "character_name": "Yellow'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 133114116,
     "killmail_hash": "73ff6f83fbeed46b22c05cbbba6224a46e674250",
     "kill_time": "2026-02-04T03:46:10Z",
@@ -1531,58 +1609,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 132955193,
-    "killmail_hash": "528f2437a4b39b7a3ffc2e722b1ab55740c38aa5",
-    "kill_time": "2026-01-28T08:26:53Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2120723859,
-      "character_name": "Jay Ward",
-      "corporation_id": 98774775,
-      "corporation_name": "Zenith Solutions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132955193/",
-    "total_value": 1806673869.68,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 132954230,
-    "killmail_hash": "b549139cfcc53272062c057308e77a5d38cf92c8",
-    "kill_time": "2026-01-28T06:34:15Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001394,
-    "solar_system_name": "Korama",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 94541369,
-      "character_name": "Nishi Hakoke",
-      "corporation_id": 98057138,
-      "corporation_name": "Welcome to Estonia",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132954230/",
-    "total_value": 8379439029.82,
-    "final_attacker": {
-      "character_name": "zLegion V",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
