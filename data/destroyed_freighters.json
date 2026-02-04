@@ -1558,57 +1558,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst Navy Issue"
     }
-  },
-  {
-    "killmail_id": 132963807,
-    "killmail_hash": "60e1796da39cbc3bbb84b27a0571e15db3f6d4fa",
-    "kill_time": "2026-01-28T19:04:26Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 985032894,
-      "character_name": "Yeslek Noohac",
-      "corporation_id": 98475956,
-      "corporation_name": "Schweine im Weltall GmbH",
-      "alliance_id": 99003995,
-      "alliance_name": "Invidia Gloriae Comes"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132963807/",
-    "total_value": 2546189885.48,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 132962693,
-    "killmail_hash": "7385540b7d2eadd574fbbd454a29281e2d37a538",
-    "kill_time": "2026-01-28T18:03:34Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002440,
-    "solar_system_name": "BWF-ZZ",
-    "region_name": "Geminate",
-    "victim": {
-      "character_id": 96626794,
-      "character_name": "Hallvard",
-      "corporation_id": 98473189,
-      "corporation_name": "Banda di Amici",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132962693/",
-    "total_value": 2156318318.7,
-    "final_attacker": {
-      "character_name": "Manka Obligacia",
-      "corporation_name": "The Stone Garden",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Sleipnir"
-    }
   }
 ]
