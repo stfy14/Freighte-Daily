@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133117631,
+    "killmail_hash": "fd698655cde295733b4e39af4dbe87b12e4f4d5f",
+    "kill_time": "2026-02-04T09:35:06Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30045344,
+    "solar_system_name": "Nennamaila",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 415605298,
+      "character_name": "Xanthe Poni",
+      "corporation_id": 98773416,
+      "corporation_name": "Primal Instinct Inc.",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133117631/",
+    "total_value": 9323393049.17,
+    "final_attacker": {
+      "character_name": "Makaze Koufu",
+      "corporation_name": "The Wandering Inn",
+      "alliance_name": "Ribbit.",
+      "ship_type_name": "Harbinger Navy Issue"
+    }
+  },
+  {
     "killmail_id": 133116714,
     "killmail_hash": "f9f2df2344c920f4fe43db3f305ce2316e89b223",
     "kill_time": "2026-02-04T07:58:20Z",
@@ -1557,58 +1583,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 132956293,
-    "killmail_hash": "348ce59d9498198dad39b8f97a47a68ebad84208",
-    "kill_time": "2026-01-28T10:26:08Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2114742243,
-      "character_name": "Sir Emerald Tsunami",
-      "corporation_id": 98617361,
-      "corporation_name": "United Delta Quadrant",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132956293/",
-    "total_value": 10231066088.99,
-    "final_attacker": {
-      "character_name": "MystinaCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 132955703,
-    "killmail_hash": "b389d0fcd066726b7ff636ac1a29a4067cbc161d",
-    "kill_time": "2026-01-28T09:27:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2120567602,
-      "character_name": "Bad Eddie Morphy",
-      "corporation_id": 98258093,
-      "corporation_name": "Strategic Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132955703/",
-    "total_value": 4381195229.18,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
