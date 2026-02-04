@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133112357,
+    "killmail_hash": "8b8b1f2df3ffb0a54942a23281202628f051cd8f",
+    "kill_time": "2026-02-04T01:22:17Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002666,
+    "solar_system_name": "Basgerin",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 985119637,
+      "character_name": "Alixxi",
+      "corporation_id": 506928548,
+      "corporation_name": "Forge Boyz",
+      "alliance_id": 99012944,
+      "alliance_name": "Explorations EVE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133112357/",
+    "total_value": 27045786522.92,
+    "final_attacker": {
+      "character_name": "Mean1e",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133109702,
+    "killmail_hash": "ddafe3fe25c527f260b71b733d3a8abb16af88f7",
+    "kill_time": "2026-02-03T22:04:24Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112484960,
+      "character_name": "SlipperyButt",
+      "corporation_id": 98014141,
+      "corporation_name": "MasterWizards",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133109702/",
+    "total_value": 6111692800.62,
+    "final_attacker": {
+      "character_name": "Little Miss Zionist",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 133108702,
+    "killmail_hash": "b9b2ae6c8ca6832a41d2840b4f245d9c42b089d7",
+    "kill_time": "2026-02-03T21:20:10Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001367,
+    "solar_system_name": "Hageken",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 96641631,
+      "character_name": "sprocket grublet",
+      "corporation_id": 98286981,
+      "corporation_name": "Bluehogs",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133108702/",
+    "total_value": 1894279721.74,
+    "final_attacker": {
+      "character_name": "Tempest Itonula",
+      "corporation_name": "STK Scientific",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Hurricane"
+    }
+  },
+  {
     "killmail_id": 133105193,
     "killmail_hash": "4d53a0a0bb07dbd83888d24681c86fb424042869",
     "kill_time": "2026-02-03T18:55:09Z",
@@ -1479,84 +1557,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 132950404,
-    "killmail_hash": "64b5c0bcaf9ea6e34494e369c5ac61c4316cf157",
-    "kill_time": "2026-01-28T00:47:23Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113930751,
-      "character_name": "Dugtrio Solette",
-      "corporation_id": 98678836,
-      "corporation_name": "Headwind freight",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132950404/",
-    "total_value": 9477974945.2,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 132949441,
-    "killmail_hash": "05a54df5e89fe1e20959c88f09ea2cc4e87ad964",
-    "kill_time": "2026-01-27T23:26:54Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122369202,
-      "character_name": "Sukai Muvila",
-      "corporation_id": 98798071,
-      "corporation_name": "ADFU Kum N Go Transport Group",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132949441/",
-    "total_value": 8762981499.81,
-    "final_attacker": {
-      "character_name": "choo choo ganker",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 132948388,
-    "killmail_hash": "5cd2bf2c5c7f951de60c0aa972c3f27f3ea6bb3e",
-    "kill_time": "2026-01-27T22:06:18Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 795073444,
-      "character_name": "mrProfit Vinyljunkie",
-      "corporation_id": 98656651,
-      "corporation_name": "Men of High Stables",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/132948388/",
-    "total_value": 9690915528.75,
-    "final_attacker": {
-      "character_name": "Herbiderpi",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
