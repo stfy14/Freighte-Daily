@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133146553,
+    "killmail_hash": "8964b215dd70f5ad80081a649d55a58c2598dbf3",
+    "kill_time": "2026-02-05T19:02:40Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2117906585,
+      "character_name": "GrayMan Shadow",
+      "corporation_id": 98619206,
+      "corporation_name": "OutLaws Corporation",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133146553/",
+    "total_value": 2138012349.33,
+    "final_attacker": {
+      "character_name": "H3llblazer",
+      "corporation_name": "Heretic Army",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 133141363,
     "killmail_hash": "b447f7f7dad4ba103ceb1744ded60f0b2cf2d1bd",
     "kill_time": "2026-02-05T14:08:29Z",
@@ -1635,32 +1661,6 @@
       "corporation_name": "From Hisec with Love Holdings",
       "alliance_name": "From Hisec with Love Coalition",
       "ship_type_name": "Machariel"
-    }
-  },
-  {
-    "killmail_id": 132984790,
-    "killmail_hash": "d4f7063be244da98d6d8d47f9762097885f5e648",
-    "kill_time": "2026-01-29T19:12:17Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004949,
-    "solar_system_name": "48I1-X",
-    "region_name": "Period Basis",
-    "victim": {
-      "character_id": 2112015420,
-      "character_name": "Molly Linden",
-      "corporation_id": 98802736,
-      "corporation_name": "Unpleasant Warriors",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/132984790/",
-    "total_value": 11971181643.92,
-    "final_attacker": {
-      "character_name": "Mamrah Polymath",
-      "corporation_name": "Nano Rhinos",
-      "alliance_name": "PURPLE HELMETED WARRIORS",
-      "ship_type_name": "Hecate"
     }
   }
 ]
