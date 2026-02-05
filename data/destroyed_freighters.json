@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133138870,
+    "killmail_hash": "089727cda968912648d3d6c4ddda5d0def01e79b",
+    "kill_time": "2026-02-05T11:45:19Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000194,
+    "solar_system_name": "Otsela",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118666837,
+      "character_name": "BigKaya",
+      "corporation_id": 98110767,
+      "corporation_name": "Lisnave",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133138870/",
+    "total_value": 32297484322.95,
+    "final_attacker": {
+      "character_name": "Tickle Bottom",
+      "corporation_name": "Your Killboard Our Playground",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 133138836,
+    "killmail_hash": "3f4760adf0ece43f4e65efce9c12a109882abf24",
+    "kill_time": "2026-02-05T11:41:05Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116852588,
+      "character_name": "RawData Thorium",
+      "corporation_id": 98815271,
+      "corporation_name": "Bee2Bee21",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133138836/",
+    "total_value": 3770824356.29,
+    "final_attacker": {
+      "character_name": "Ashma Zebulon",
+      "corporation_name": "Primal Elemental",
+      "alliance_name": "MARABUNTA",
+      "ship_type_name": "Megathron"
+    }
+  },
+  {
+    "killmail_id": 133137667,
+    "killmail_hash": "6d3ab55eb84b1fd24ec8ecd7cb0b306fae8758d5",
+    "kill_time": "2026-02-05T09:19:44Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1128275856,
+      "character_name": "Jaxify",
+      "corporation_id": 691601243,
+      "corporation_name": "Ysaatiunn",
+      "alliance_id": 99010022,
+      "alliance_name": "Scary Wormhole People"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133137667/",
+    "total_value": 21113334446.92,
+    "final_attacker": {
+      "character_name": "zLegion T",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133137275,
     "killmail_hash": "003118bfde67af9bd148d52bae5c3d0029809906",
     "kill_time": "2026-02-05T08:42:45Z",
