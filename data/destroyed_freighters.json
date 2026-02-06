@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133159509,
+    "killmail_hash": "10d0f4d7c29f8e0bd0b14fbfb618cc32d07ea817",
+    "kill_time": "2026-02-06T10:20:41Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 92875322,
+      "character_name": "Nathin Witt",
+      "corporation_id": 98419517,
+      "corporation_name": "Weasels in the Rabbithole",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133159509/",
+    "total_value": 38609679482.42,
+    "final_attacker": {
+      "character_name": "Gankbear",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133159234,
+    "killmail_hash": "c117c4f40dc09409af3b7b548b08ba5b87b9211c",
+    "kill_time": "2026-02-06T09:54:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124100717,
+      "character_name": "Mizuki Arasaka",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133159234/",
+    "total_value": 1909666577.88,
+    "final_attacker": {
+      "character_name": "Miss Zyd",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
+    "killmail_id": 133158973,
+    "killmail_hash": "8fc1e76a500c4c36686e09180dc9cb0a8095df6c",
+    "kill_time": "2026-02-06T09:30:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124110820,
+      "character_name": "Ace Antenna",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133158973/",
+    "total_value": 1774575701.64,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133151654,
     "killmail_hash": "f8528dcde3cf1366683956b58e5c42d67df1e90d",
     "kill_time": "2026-02-05T22:52:37Z",
