@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133164109,
+    "killmail_hash": "0f5d9add0f81a36ef30a9b80988cdb5242381c2e",
+    "kill_time": "2026-02-06T15:18:45Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003996,
+    "solar_system_name": "ZAU-JW",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2123076333,
+      "character_name": "Cutty FrammOP",
+      "corporation_id": 98297722,
+      "corporation_name": "Space Colony",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133164109/",
+    "total_value": 7295635857.8,
+    "final_attacker": {
+      "character_name": "Terisya Espoir",
+      "corporation_name": "Diplomatie Rapide",
+      "alliance_name": "Wreckflix and chill",
+      "ship_type_name": "Zirnitra"
+    }
+  },
+  {
+    "killmail_id": 133162836,
+    "killmail_hash": "ab426dded462545b07922df4ab852a44245fbee3",
+    "kill_time": "2026-02-06T14:08:40Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95570909,
+      "character_name": "Kleio Lysandra",
+      "corporation_id": 98778431,
+      "corporation_name": "Cursed Legacy Keepers",
+      "alliance_id": 99014309,
+      "alliance_name": "Bright Side of Life"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133162836/",
+    "total_value": 24920238931.2,
+    "final_attacker": {
+      "character_name": "zLegion I",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133161004,
+    "killmail_hash": "6126b3ea0c3baf2556637056e6a9cbb9062fe829",
+    "kill_time": "2026-02-06T12:47:17Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122373837,
+      "character_name": "tomato today",
+      "corporation_id": 98682807,
+      "corporation_name": "Ferrari Express",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133161004/",
+    "total_value": 14740872586.06,
+    "final_attacker": {
+      "character_name": "zLegion I",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133159509,
     "killmail_hash": "10d0f4d7c29f8e0bd0b14fbfb618cc32d07ea817",
     "kill_time": "2026-02-06T10:20:41Z",
@@ -1739,32 +1817,6 @@
       "corporation_name": "Militant Industrialists LLC",
       "alliance_name": "Militant Consortium",
       "ship_type_name": "Thrasher Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 132998893,
-    "killmail_hash": "8b75b5798b0c125067b453d9f49e6b7a543d68e6",
-    "kill_time": "2026-01-30T13:52:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112932657,
-      "character_name": "Rekniti Ghost",
-      "corporation_id": 98803991,
-      "corporation_name": "Tick Tick Industry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/132998893/",
-    "total_value": 11930514483.32,
-    "final_attacker": {
-      "character_name": "Mackers87",
-      "corporation_name": "From Hisec with Love Holdings",
-      "alliance_name": "From Hisec with Love Coalition",
-      "ship_type_name": "Machariel"
     }
   }
 ]
