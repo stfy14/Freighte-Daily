@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133168794,
+    "killmail_hash": "a2a19280531d71760405a817b335237c17ce5996",
+    "kill_time": "2026-02-06T19:37:58Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002440,
+    "solar_system_name": "BWF-ZZ",
+    "region_name": "Geminate",
+    "victim": {
+      "character_id": 2123392583,
+      "character_name": "xupinfleet",
+      "corporation_id": 98792038,
+      "corporation_name": "The Bleak Lands Supply and Provisions",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133168794/",
+    "total_value": 15392952348.09,
+    "final_attacker": {
+      "character_name": "Lucnab",
+      "corporation_name": "UK Corp",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
+    "killmail_id": 133166589,
+    "killmail_hash": "582756e4a900aa25e6c556adf832318a92902a35",
+    "kill_time": "2026-02-06T17:44:15Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002759,
+    "solar_system_name": "Uuna",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113596778,
+      "character_name": "Kira Kring",
+      "corporation_id": 98779152,
+      "corporation_name": "Starkmanir Uprise",
+      "alliance_id": 99013400,
+      "alliance_name": "OnlyAlts."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133166589/",
+    "total_value": 9764026868.2,
+    "final_attacker": {
+      "character_name": "Bega Hadah",
+      "corporation_name": "2 Guys 1 Badger",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 133164109,
     "killmail_hash": "0f5d9add0f81a36ef30a9b80988cdb5242381c2e",
     "kill_time": "2026-02-06T15:18:45Z",
@@ -1791,32 +1843,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 133002797,
-    "killmail_hash": "cae798c5ef8b207806f01d4c5b785791c91eb4ce",
-    "kill_time": "2026-01-30T17:21:36Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 1716574516,
-      "character_name": "Sawney JuskaRath",
-      "corporation_id": 310281086,
-      "corporation_name": "Un4seen Development",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133002797/",
-    "total_value": 1935308913.69,
-    "final_attacker": {
-      "character_name": "Milfgaard",
-      "corporation_name": "Militant Industrialists LLC",
-      "alliance_name": "Militant Consortium",
-      "ship_type_name": "Thrasher Fleet Issue"
     }
   }
 ]
