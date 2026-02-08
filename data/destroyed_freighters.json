@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133212146,
+    "killmail_hash": "f188758997db513350832d9aa922a5465b6a2755",
+    "kill_time": "2026-02-08T07:37:20Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000139,
+    "solar_system_name": "Urlen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120769421,
+      "character_name": "McLain Kasey",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133212146/",
+    "total_value": 9415200146.13,
+    "final_attacker": {
+      "character_name": "zLegion Alfa",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 133211264,
+    "killmail_hash": "0a26c5274e09cff5f169255f07565a9beeb4ab47",
+    "kill_time": "2026-02-08T06:43:02Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96504117,
+      "character_name": "Daniel Mentzel",
+      "corporation_id": 98694483,
+      "corporation_name": "Cockroaches of the Syndicate",
+      "alliance_id": 99014695,
+      "alliance_name": "Blackout Protocol"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133211264/",
+    "total_value": 10880997805.22,
+    "final_attacker": {
+      "character_name": "zLegion 21",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 133209703,
     "killmail_hash": "1b746a23b09771ad030665a2eb280d6800eba813",
     "kill_time": "2026-02-08T05:02:16Z",
@@ -2181,32 +2233,6 @@
       "corporation_name": "State War Academy",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133046062,
-    "killmail_hash": "75d5c6261a0a57af254f51cee869d74f4a586c9b",
-    "kill_time": "2026-02-01T05:40:43Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119237620,
-      "character_name": "barmalei-75",
-      "corporation_id": 98516157,
-      "corporation_name": "Cepn u MoJIoT",
-      "alliance_id": 99014264,
-      "alliance_name": "Vocate Draconis"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133046062/",
-    "total_value": 7577837183.02,
-    "final_attacker": {
-      "character_name": "P-66 BombHawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Tornado"
     }
   }
 ]
