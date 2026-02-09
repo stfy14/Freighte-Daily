@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133236788,
+    "killmail_hash": "33d9ef7285907af51bd8c3e195b79c8486450d3f",
+    "kill_time": "2026-02-09T03:57:15Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003996,
+    "solar_system_name": "ZAU-JW",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2121080491,
+      "character_name": "Apocalyptoxx",
+      "corporation_id": 98814595,
+      "corporation_name": "Akaishi Knowledge Syndicate",
+      "alliance_id": 154104258,
+      "alliance_name": "Apocalypse Now."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133236788/",
+    "total_value": 8062009611.33,
+    "final_attacker": {
+      "character_name": "Balo Iyes Chaddington",
+      "corporation_name": "Jump 2 Beacon",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133236070,
     "killmail_hash": "7f961bb6580c3206176400694fe9b8829548f8b9",
     "kill_time": "2026-02-09T02:48:42Z",
@@ -2386,32 +2412,6 @@
     "total_value": 40489932699.26,
     "final_attacker": {
       "character_name": "damn gankers",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133072810,
-    "killmail_hash": "5c7e7b521e079efabcc6b7bf8b2875e3b0df5636",
-    "kill_time": "2026-02-02T05:17:33Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 356848110,
-      "character_name": "Lookitdatmarket",
-      "corporation_id": 98684131,
-      "corporation_name": "Evola Deliveries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133072810/",
-    "total_value": 38317307740.05,
-    "final_attacker": {
-      "character_name": "Highsec Defender",
       "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Tornado"
