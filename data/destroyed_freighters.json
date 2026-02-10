@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133256389,
+    "killmail_hash": "4833f71348fff78ea84e2a6243d764a2858fc8ee",
+    "kill_time": "2026-02-10T01:14:39Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96396096,
+      "character_name": "Magnat Ver",
+      "corporation_id": 98495577,
+      "corporation_name": "Ver Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133256389/",
+    "total_value": 10063288993.2,
+    "final_attacker": {
+      "character_name": "chris candel",
+      "corporation_name": "Know-Nothings",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133253972,
+    "killmail_hash": "21c1a1f5dc6521f35ac10b79659158fd924f0dd4",
+    "kill_time": "2026-02-09T22:20:07Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001402,
+    "solar_system_name": "Passari",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1535008706,
+      "character_name": "Sgt Scorges",
+      "corporation_id": 172447487,
+      "corporation_name": "Shi no Kage",
+      "alliance_id": 99004537,
+      "alliance_name": "The Tormented."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133253972/",
+    "total_value": 9906915116.5,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133252047,
+    "killmail_hash": "dd9a24d099a83b94c3e1a8b4822e7f95b6c01af8",
+    "kill_time": "2026-02-09T20:57:36Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122787254,
+      "character_name": "Akito Saito",
+      "corporation_id": 98815838,
+      "corporation_name": "Saitos Ore Production",
+      "alliance_id": 99014557,
+      "alliance_name": "SUETA UNIVERSE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133252047/",
+    "total_value": 7532162296.78,
+    "final_attacker": {
+      "character_name": "yoiky",
+      "corporation_name": "Know-Nothings",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 133248884,
     "killmail_hash": "701eb26a89744f4df440ab6128976cca5ba09ad9",
     "kill_time": "2026-02-09T18:41:20Z",
@@ -2441,32 +2519,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133092112,
-    "killmail_hash": "fcce2cc2418a46855f8e7f4866b02b05c94c2f87",
-    "kill_time": "2026-02-03T03:09:57Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1497366822,
-      "character_name": "Energy God",
-      "corporation_id": 98371350,
-      "corporation_name": "Holy Light of Israel",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133092112/",
-    "total_value": 10804786591.59,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
     }
   }
 ]
