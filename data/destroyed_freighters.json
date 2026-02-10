@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133271308,
+    "killmail_hash": "12e80c99b231712050d494153c1b0accd77e85d1",
+    "kill_time": "2026-02-10T18:40:02Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2119487361,
+      "character_name": "Tjin Thei Ghao",
+      "corporation_id": 98802402,
+      "corporation_name": "Prophets Of Glassing",
+      "alliance_id": 99013786,
+      "alliance_name": "Cryonic Origin Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133271308/",
+    "total_value": 7885580707.09,
+    "final_attacker": {
+      "character_name": "Kel Ataru",
+      "corporation_name": "Deaths Shitposters",
+      "alliance_name": "I have a jar of relish I cant open",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 133265771,
     "killmail_hash": "5aa0b1eeb8250d3d801f1de3842ad6462f8a7af1",
     "kill_time": "2026-02-10T13:51:34Z",
@@ -2233,58 +2259,6 @@
       "corporation_name": "STK Scientific",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Hurricane"
-    }
-  },
-  {
-    "killmail_id": 133105193,
-    "killmail_hash": "4d53a0a0bb07dbd83888d24681c86fb424042869",
-    "kill_time": "2026-02-03T18:55:09Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003063,
-    "solar_system_name": "Lamaa",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 1314417888,
-      "character_name": "Ace RelbmaG",
-      "corporation_id": 98677174,
-      "corporation_name": "Omni Defense Intelligence Network",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133105193/",
-    "total_value": 10489075854.42,
-    "final_attacker": {
-      "character_name": "Pea S0up",
-      "corporation_name": "Stairway To Zkill",
-      "alliance_name": null,
-      "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 133103812,
-    "killmail_hash": "e43efbdff58afc8dfc7df54444a201a5c639ee7d",
-    "kill_time": "2026-02-03T17:52:53Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003935,
-    "solar_system_name": "Irmalin",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 92512461,
-      "character_name": "Rob Malukker",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133103812/",
-    "total_value": 8575718635,
-    "final_attacker": {
-      "character_name": "Shadow SithII",
-      "corporation_name": "I Have a Plan",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Panther"
     }
   }
 ]
