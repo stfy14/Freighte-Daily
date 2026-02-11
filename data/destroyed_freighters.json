@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133275811,
+    "killmail_hash": "351a3abd1790850d74983f8003110349fc9e343c",
+    "kill_time": "2026-02-10T22:00:17Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003563,
+    "solar_system_name": "Misaba",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 892715782,
+      "character_name": "Neisis Neitas",
+      "corporation_id": 98765845,
+      "corporation_name": "Daddy Was A Milkman",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133275811/",
+    "total_value": 9753770760.13,
+    "final_attacker": {
+      "character_name": "Tarkhan Warjan",
+      "corporation_name": "French Angels or demons Federation",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 133273974,
+    "killmail_hash": "aa1c1e396166075b3274892e6216b2c8c7a6e683",
+    "kill_time": "2026-02-10T20:46:09Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114551879,
+      "character_name": "Alex Covsh",
+      "corporation_id": 98403073,
+      "corporation_name": "S0viet Uni0n",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133273974/",
+    "total_value": 15815149854.49,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133271308,
     "killmail_hash": "12e80c99b231712050d494153c1b0accd77e85d1",
     "kill_time": "2026-02-10T18:40:02Z",
@@ -2181,84 +2233,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133112357,
-    "killmail_hash": "8b8b1f2df3ffb0a54942a23281202628f051cd8f",
-    "kill_time": "2026-02-04T01:22:17Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002666,
-    "solar_system_name": "Basgerin",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 985119637,
-      "character_name": "Alixxi",
-      "corporation_id": 506928548,
-      "corporation_name": "Forge Boyz",
-      "alliance_id": 99012944,
-      "alliance_name": "Explorations EVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133112357/",
-    "total_value": 27045786522.92,
-    "final_attacker": {
-      "character_name": "Mean1e",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133109702,
-    "killmail_hash": "ddafe3fe25c527f260b71b733d3a8abb16af88f7",
-    "kill_time": "2026-02-03T22:04:24Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112484960,
-      "character_name": "SlipperyButt",
-      "corporation_id": 98014141,
-      "corporation_name": "MasterWizards",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133109702/",
-    "total_value": 6111692800.62,
-    "final_attacker": {
-      "character_name": "Little Miss Zionist",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 133108702,
-    "killmail_hash": "b9b2ae6c8ca6832a41d2840b4f245d9c42b089d7",
-    "kill_time": "2026-02-03T21:20:10Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001367,
-    "solar_system_name": "Hageken",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96641631,
-      "character_name": "sprocket grublet",
-      "corporation_id": 98286981,
-      "corporation_name": "Bluehogs",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133108702/",
-    "total_value": 1894279721.74,
-    "final_attacker": {
-      "character_name": "Tempest Itonula",
-      "corporation_name": "STK Scientific",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Hurricane"
     }
   }
 ]
