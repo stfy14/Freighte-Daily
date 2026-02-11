@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133286672,
+    "killmail_hash": "3aa40c480f37dffe4d01330696188c208f7c9e74",
+    "kill_time": "2026-02-11T11:34:52Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002154,
+    "solar_system_name": "4DV-1T",
+    "region_name": "Immensea",
+    "victim": {
+      "character_id": 96507818,
+      "character_name": "mottt",
+      "corporation_id": 1116537731,
+      "corporation_name": "Per astera ad astra",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133286672/",
+    "total_value": 12057521808.29,
+    "final_attacker": {
+      "character_name": "Revenant K",
+      "corporation_name": "Jump 2 Beacon",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133283851,
     "killmail_hash": "c6b6b888fcc95eb64da0900a07d595aa511c38bc",
     "kill_time": "2026-02-11T06:43:08Z",
@@ -2129,84 +2155,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133118963,
-    "killmail_hash": "c65b45b203e165d69e01689fdf0f4df8e8672d43",
-    "kill_time": "2026-02-04T12:16:15Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96797258,
-      "character_name": "Grazyna z dziecmi",
-      "corporation_id": 1444028566,
-      "corporation_name": "Sandworms of Dune",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133118963/",
-    "total_value": 11961594795.57,
-    "final_attacker": {
-      "character_name": "Highsec Defender",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133117882,
-    "killmail_hash": "d6b1faddd38fb00d5c41003851020846e83468b4",
-    "kill_time": "2026-02-04T09:58:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 892715782,
-      "character_name": "Neisis Neitas",
-      "corporation_id": 98765845,
-      "corporation_name": "Daddy Was A Milkman",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133117882/",
-    "total_value": 27669197144.91,
-    "final_attacker": {
-      "character_name": "Final Gank",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133117631,
-    "killmail_hash": "fd698655cde295733b4e39af4dbe87b12e4f4d5f",
-    "kill_time": "2026-02-04T09:35:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30045344,
-    "solar_system_name": "Nennamaila",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 415605298,
-      "character_name": "Xanthe Poni",
-      "corporation_id": 98773416,
-      "corporation_name": "Primal Instinct Inc.",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133117631/",
-    "total_value": 9323393049.17,
-    "final_attacker": {
-      "character_name": "Makaze Koufu",
-      "corporation_name": "The Wandering Inn",
-      "alliance_name": "Ribbit.",
-      "ship_type_name": "Harbinger Navy Issue"
     }
   }
 ]
