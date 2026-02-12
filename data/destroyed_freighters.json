@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133307216,
+    "killmail_hash": "faf3953528426dda622112a6a8b9d89b9d46d702",
+    "kill_time": "2026-02-12T09:56:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004012,
+    "solar_system_name": "8QT-H4",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 96194110,
+      "character_name": "Reon Timmire",
+      "corporation_id": 98761340,
+      "corporation_name": "Heavenly Strategies",
+      "alliance_id": 1411711376,
+      "alliance_name": "Legion of xXDEATHXx"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133307216/",
+    "total_value": 1739746729.01,
+    "final_attacker": {
+      "character_name": "Rev Navy Pilot",
+      "corporation_name": "Farmhouse.",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133306738,
+    "killmail_hash": "04d89b62b133854759e90234215fcec5adcd0f38",
+    "kill_time": "2026-02-12T09:13:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005007,
+    "solar_system_name": "Lisbaetanne",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 91206116,
+      "character_name": "Mokslas001",
+      "corporation_id": 98071334,
+      "corporation_name": "SpaceFrost Inc.",
+      "alliance_id": 99014726,
+      "alliance_name": "Terminally Inept Traders and Scanners"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133306738/",
+    "total_value": 1829249453.93,
+    "final_attacker": {
+      "character_name": "TsukiAkari",
+      "corporation_name": "Stars Corporate Group",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Ikitursa"
+    }
+  },
+  {
     "killmail_id": 133306519,
     "killmail_hash": "34726e0bdc7ae463dbc7f903d4db6b0e3295afb7",
     "kill_time": "2026-02-12T08:52:23Z",
@@ -2204,84 +2256,6 @@
     "total_value": 29486541338.11,
     "final_attacker": {
       "character_name": "zLegion N",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133138870,
-    "killmail_hash": "089727cda968912648d3d6c4ddda5d0def01e79b",
-    "kill_time": "2026-02-05T11:45:19Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000194,
-    "solar_system_name": "Otsela",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118666837,
-      "character_name": "BigKaya",
-      "corporation_id": 98110767,
-      "corporation_name": "Lisnave",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133138870/",
-    "total_value": 32297484322.95,
-    "final_attacker": {
-      "character_name": "Tickle Bottom",
-      "corporation_name": "Your Killboard Our Playground",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 133138836,
-    "killmail_hash": "3f4760adf0ece43f4e65efce9c12a109882abf24",
-    "kill_time": "2026-02-05T11:41:05Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116852588,
-      "character_name": "RawData Thorium",
-      "corporation_id": 98815271,
-      "corporation_name": "Bee2Bee21",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133138836/",
-    "total_value": 3770824356.29,
-    "final_attacker": {
-      "character_name": "Ashma Zebulon",
-      "corporation_name": "Primal Elemental",
-      "alliance_name": "MARABUNTA",
-      "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 133137667,
-    "killmail_hash": "6d3ab55eb84b1fd24ec8ecd7cb0b306fae8758d5",
-    "kill_time": "2026-02-05T09:19:44Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1128275856,
-      "character_name": "Jaxify",
-      "corporation_id": 691601243,
-      "corporation_name": "Ysaatiunn",
-      "alliance_id": 99010022,
-      "alliance_name": "Scary Wormhole People"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133137667/",
-    "total_value": 21113334446.92,
-    "final_attacker": {
-      "character_name": "zLegion T",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
