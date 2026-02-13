@@ -2182,57 +2182,5 @@
       "alliance_name": null,
       "ship_type_name": "Purifier"
     }
-  },
-  {
-    "killmail_id": 133164109,
-    "killmail_hash": "0f5d9add0f81a36ef30a9b80988cdb5242381c2e",
-    "kill_time": "2026-02-06T15:18:45Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003996,
-    "solar_system_name": "ZAU-JW",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 2123076333,
-      "character_name": "Cutty FrammOP",
-      "corporation_id": 98297722,
-      "corporation_name": "Space Colony",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133164109/",
-    "total_value": 7295635857.8,
-    "final_attacker": {
-      "character_name": "Terisya Espoir",
-      "corporation_name": "Diplomatie Rapide",
-      "alliance_name": "Wreckflix and chill",
-      "ship_type_name": "Zirnitra"
-    }
-  },
-  {
-    "killmail_id": 133162836,
-    "killmail_hash": "ab426dded462545b07922df4ab852a44245fbee3",
-    "kill_time": "2026-02-06T14:08:40Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95570909,
-      "character_name": "Kleio Lysandra",
-      "corporation_id": 98778431,
-      "corporation_name": "Cursed Legacy Keepers",
-      "alliance_id": 99014309,
-      "alliance_name": "Bright Side of Life"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133162836/",
-    "total_value": 24920238931.2,
-    "final_attacker": {
-      "character_name": "zLegion I",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
   }
 ]
