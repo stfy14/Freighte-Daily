@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133351670,
+    "killmail_hash": "a3617fdc872aa906809a17ee82fe24a21c3b35a8",
+    "kill_time": "2026-02-14T03:04:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2112542239,
+      "character_name": "Silviu Tomescus",
+      "corporation_id": 98805299,
+      "corporation_name": "Cherry Defence Shipyards",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133351670/",
+    "total_value": 1729201201.41,
+    "final_attacker": {
+      "character_name": "Blanc Neige",
+      "corporation_name": "Shining Tears v2.0",
+      "alliance_name": null,
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
     "killmail_id": 133351247,
     "killmail_hash": "45aa8819484f79735f90baa575c2421a01cc02fd",
     "kill_time": "2026-02-14T02:32:58Z",
@@ -2181,32 +2207,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 133179014,
-    "killmail_hash": "947ac745e05c10e6e23af0e1e234ec32b5baf956",
-    "kill_time": "2026-02-07T03:23:22Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004766,
-    "solar_system_name": "39P-1J",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 92642897,
-      "character_name": "Orion Talvanen",
-      "corporation_id": 98755360,
-      "corporation_name": "Black Rose Inc.",
-      "alliance_id": 99012770,
-      "alliance_name": "Black Rose."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133179014/",
-    "total_value": 7321890990.48,
-    "final_attacker": {
-      "character_name": "Jared O'Haugen",
-      "corporation_name": "Haugen-Dazs",
-      "alliance_name": "OnlyAlts.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
