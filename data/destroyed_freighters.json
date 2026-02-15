@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133383960,
+    "killmail_hash": "2883215c5a975d8677d6f8953661697b4d961b99",
+    "kill_time": "2026-02-15T07:48:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93039163,
+      "character_name": "alago",
+      "corporation_id": 1000009,
+      "corporation_name": "Caldari Provisions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133383960/",
+    "total_value": 10974343460.6,
+    "final_attacker": {
+      "character_name": "zLegion Y",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 133383645,
+    "killmail_hash": "8464fc5191fa31d5d0cf4968dd0c74cb6875ef75",
+    "kill_time": "2026-02-15T07:26:57Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95480017,
+      "character_name": "Obsidian Isu",
+      "corporation_id": 98252761,
+      "corporation_name": "Br0wn Coat5",
+      "alliance_id": 99009961,
+      "alliance_name": "The Gorram Shiney Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133383645/",
+    "total_value": 4768345234.44,
+    "final_attacker": {
+      "character_name": "zLegion F",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 133381818,
     "killmail_hash": "97386296273e3a8f131b79988538a075c24509dc",
     "kill_time": "2026-02-15T05:19:40Z",
@@ -20,6 +72,32 @@
     "total_value": 5463390687.19,
     "final_attacker": {
       "character_name": "zLegion R",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 133380479,
+    "killmail_hash": "7fa682b6cab6a6253406467d33a5f2aca6790a96",
+    "kill_time": "2026-02-15T03:38:13Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94507507,
+      "character_name": "Imni Nso",
+      "corporation_id": 1000006,
+      "corporation_name": "Deep Core Mining Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133380479/",
+    "total_value": 9191346747.63,
+    "final_attacker": {
+      "character_name": "zLegion G",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Hound"
@@ -1661,58 +1739,6 @@
       "corporation_name": "Interstellar Scum",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 133212146,
-    "killmail_hash": "f188758997db513350832d9aa922a5465b6a2755",
-    "kill_time": "2026-02-08T07:37:20Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000139,
-    "solar_system_name": "Urlen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2120769421,
-      "character_name": "McLain Kasey",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133212146/",
-    "total_value": 9415200146.13,
-    "final_attacker": {
-      "character_name": "zLegion Alfa",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 133211264,
-    "killmail_hash": "0a26c5274e09cff5f169255f07565a9beeb4ab47",
-    "kill_time": "2026-02-08T06:43:02Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96504117,
-      "character_name": "Daniel Mentzel",
-      "corporation_id": 98694483,
-      "corporation_name": "Cockroaches of the Syndicate",
-      "alliance_id": 99014695,
-      "alliance_name": "Blackout Protocol"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133211264/",
-    "total_value": 10880997805.22,
-    "final_attacker": {
-      "character_name": "zLegion 21",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
     }
   }
 ]
