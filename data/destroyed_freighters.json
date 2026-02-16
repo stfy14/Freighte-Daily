@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133414690,
+    "killmail_hash": "b7ec882b7a8f6e3801259bb4aaafab8473cfa56f",
+    "kill_time": "2026-02-16T07:03:15Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001161,
+    "solar_system_name": "HED-GP",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 508260195,
+      "character_name": "Yhurii",
+      "corporation_id": 1063360566,
+      "corporation_name": "SUNDERING",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133414690/",
+    "total_value": 17100305329.64,
+    "final_attacker": {
+      "character_name": "Noreiran Nardieu",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 133412115,
     "killmail_hash": "3066e1817a3ed4b9c7163f7a3e4b1a8e657986a0",
     "kill_time": "2026-02-16T04:34:28Z",
