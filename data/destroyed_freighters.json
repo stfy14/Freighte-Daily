@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133412115,
+    "killmail_hash": "3066e1817a3ed4b9c7163f7a3e4b1a8e657986a0",
+    "kill_time": "2026-02-16T04:34:28Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001162,
+    "solar_system_name": "V-3YG7",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 2113656093,
+      "character_name": "Arianar Terona",
+      "corporation_id": 98769211,
+      "corporation_name": "Yamato Tech Solutions",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133412115/",
+    "total_value": 14442477833.74,
+    "final_attacker": {
+      "character_name": "Ethien Green",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133405113,
     "killmail_hash": "713360ce312d4089cd597c46d22e331284af347c",
     "kill_time": "2026-02-15T22:12:04Z",
@@ -1479,32 +1505,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133236788,
-    "killmail_hash": "33d9ef7285907af51bd8c3e195b79c8486450d3f",
-    "kill_time": "2026-02-09T03:57:15Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003996,
-    "solar_system_name": "ZAU-JW",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 2121080491,
-      "character_name": "Apocalyptoxx",
-      "corporation_id": 98814595,
-      "corporation_name": "Akaishi Knowledge Syndicate",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133236788/",
-    "total_value": 8062009611.33,
-    "final_attacker": {
-      "character_name": "Balo Iyes Chaddington",
-      "corporation_name": "Jump 2 Beacon",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
