@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133430680,
+    "killmail_hash": "a87a1632b0bda833752cdc8bb9be36a869f09e2a",
+    "kill_time": "2026-02-16T20:25:34Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003530,
+    "solar_system_name": "Raravath",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2120702608,
+      "character_name": "Curved GR",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133430680/",
+    "total_value": 1700550264.28,
+    "final_attacker": {
+      "character_name": "Malizar Kondur",
+      "corporation_name": "The Raravathians",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Vigilant"
+    }
+  },
+  {
+    "killmail_id": 133429891,
+    "killmail_hash": "4e49ed8231ba8ef4da3948854cb2a3057e7def03",
+    "kill_time": "2026-02-16T19:54:22Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000155,
+    "solar_system_name": "Obanen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2119245661,
+      "character_name": "Helloween Master",
+      "corporation_id": 98615588,
+      "corporation_name": "10 Potatoes",
+      "alliance_id": 99014743,
+      "alliance_name": "Project Potato"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133429891/",
+    "total_value": 2539533093,
+    "final_attacker": {
+      "character_name": "Dread Goddess",
+      "corporation_name": "Gay Triglavian Force Operations",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 133427811,
+    "killmail_hash": "3e6086d381874fe686dd745321a816926fdd01a0",
+    "kill_time": "2026-02-16T18:40:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94033034,
+      "character_name": "Wayne Honcho",
+      "corporation_id": 98266820,
+      "corporation_name": "Mordella Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133427811/",
+    "total_value": 2031231116.18,
+    "final_attacker": {
+      "character_name": "Little Miss Calamity",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 133414690,
     "killmail_hash": "b7ec882b7a8f6e3801259bb4aaafab8473cfa56f",
     "kill_time": "2026-02-16T07:03:15Z",
@@ -1348,32 +1426,6 @@
       "character_name": "yoiky",
       "corporation_name": "Know-Nothings",
       "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 133248884,
-    "killmail_hash": "701eb26a89744f4df440ab6128976cca5ba09ad9",
-    "kill_time": "2026-02-09T18:41:20Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001388,
-    "solar_system_name": "Mara",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123898411,
-      "character_name": "Qui Son",
-      "corporation_id": 98821864,
-      "corporation_name": "Strategic Sourcing Association",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133248884/",
-    "total_value": 7593134102.48,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
     }
   }
