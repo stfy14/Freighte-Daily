@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133441170,
+    "killmail_hash": "b09e027c1cf281de6a176c19b6b0434bd8b68f25",
+    "kill_time": "2026-02-17T03:04:33Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002772,
+    "solar_system_name": "Rairomon",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1373474944,
+      "character_name": "Jen Ivar",
+      "corporation_id": 98809703,
+      "corporation_name": "2nd Cavalry Regiment",
+      "alliance_id": 99014537,
+      "alliance_name": "Southern Grip"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133441170/",
+    "total_value": 13929615463.88,
+    "final_attacker": {
+      "character_name": "zLegion S",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 133440336,
     "killmail_hash": "dd690333a85ed4a3790fcc7749900d6e4a110efc",
     "kill_time": "2026-02-17T02:24:27Z",
@@ -23,6 +49,32 @@
       "corporation_name": "Punk MadnesS",
       "alliance_name": null,
       "ship_type_name": "Drekavac"
+    }
+  },
+  {
+    "killmail_id": 133439589,
+    "killmail_hash": "8b440beba867f12e3e0729ed923aba76ae5bfe32",
+    "kill_time": "2026-02-17T01:52:13Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002772,
+    "solar_system_name": "Rairomon",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95086036,
+      "character_name": "Jessica Sharisa",
+      "corporation_id": 98759940,
+      "corporation_name": "Radio Free Zerg",
+      "alliance_id": 99013442,
+      "alliance_name": "The Frog Foundry"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133439589/",
+    "total_value": 7957503227.21,
+    "final_attacker": {
+      "character_name": "zLegion S",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
     }
   },
   {
