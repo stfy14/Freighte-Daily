@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133456351,
+    "killmail_hash": "3f9c87629d218d7128efd925e58917c2cfccc151",
+    "kill_time": "2026-02-17T19:51:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120688721,
+      "character_name": "Xoubii From Heart",
+      "corporation_id": 98595253,
+      "corporation_name": "Absolute Order II",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133456351/",
+    "total_value": 1719580211.89,
+    "final_attacker": {
+      "character_name": "Han Cho",
+      "corporation_name": "10 Potatoes",
+      "alliance_name": "Project Potato",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133455244,
+    "killmail_hash": "a2b65f63896fbcf3328582b0102efdec623a2fd5",
+    "kill_time": "2026-02-17T18:57:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003833,
+    "solar_system_name": "Oulley",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2115101007,
+      "character_name": "Ranka Srbic",
+      "corporation_id": 98820741,
+      "corporation_name": "Nightforge Voidworks",
+      "alliance_id": 99014711,
+      "alliance_name": "Forge Eternal"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133455244/",
+    "total_value": 1739314610.36,
+    "final_attacker": {
+      "character_name": "Telli Isk",
+      "corporation_name": "Applied Anarchy",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133452938,
     "killmail_hash": "724249d38432ad1e2b377c381353511962445635",
     "kill_time": "2026-02-17T17:00:13Z",
@@ -1453,58 +1505,6 @@
       "corporation_name": "French Angels or demons Federation",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 133273974,
-    "killmail_hash": "aa1c1e396166075b3274892e6216b2c8c7a6e683",
-    "kill_time": "2026-02-10T20:46:09Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114551879,
-      "character_name": "Alex Covsh",
-      "corporation_id": 98403073,
-      "corporation_name": "S0viet Uni0n",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133273974/",
-    "total_value": 15815149854.49,
-    "final_attacker": {
-      "character_name": "Herbiderpi",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133271308,
-    "killmail_hash": "12e80c99b231712050d494153c1b0accd77e85d1",
-    "kill_time": "2026-02-10T18:40:02Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119487361,
-      "character_name": "Tjin Thei Ghao",
-      "corporation_id": 98802402,
-      "corporation_name": "Prophets Of Glassing",
-      "alliance_id": 99013786,
-      "alliance_name": "Cryonic Origin Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133271308/",
-    "total_value": 7885580707.09,
-    "final_attacker": {
-      "character_name": "Kel Ataru",
-      "corporation_name": "Deaths Shitposters",
-      "alliance_name": "I have a jar of relish I cant open",
-      "ship_type_name": "Panther"
     }
   }
 ]
