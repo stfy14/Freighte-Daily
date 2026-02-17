@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133452938,
+    "killmail_hash": "724249d38432ad1e2b377c381353511962445635",
+    "kill_time": "2026-02-17T17:00:13Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002123,
+    "solar_system_name": "GXK-7F",
+    "region_name": "Immensea",
+    "victim": {
+      "character_id": 94625329,
+      "character_name": "Nenmo Tryen",
+      "corporation_id": 1116537731,
+      "corporation_name": "Per astera ad astra",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133452938/",
+    "total_value": 1916037407.7,
+    "final_attacker": {
+      "character_name": "PsyBlade",
+      "corporation_name": "The Holy Church of the Barghest",
+      "alliance_name": "The Excommunicati",
+      "ship_type_name": "Drake Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 133452833,
+    "killmail_hash": "5fb1c91467faeb361b488c80570721c029c3e852",
+    "kill_time": "2026-02-17T16:54:16Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 93897115,
+      "character_name": "Tina Katze Krauss",
+      "corporation_id": 98791915,
+      "corporation_name": "Ssuarks",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133452833/",
+    "total_value": 4444352374,
+    "final_attacker": {
+      "character_name": "New Order Enforcer",
+      "corporation_name": "Unofficial Probation Service",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 133448184,
     "killmail_hash": "45e45b9f17900f1e81933baf6499b2f77852acfa",
     "kill_time": "2026-02-17T12:08:32Z",
@@ -1453,32 +1505,6 @@
       "corporation_name": "Deaths Shitposters",
       "alliance_name": "I have a jar of relish I cant open",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 133265771,
-    "killmail_hash": "5aa0b1eeb8250d3d801f1de3842ad6462f8a7af1",
-    "kill_time": "2026-02-10T13:51:34Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 702508736,
-      "character_name": "Svend Smed",
-      "corporation_id": 1653766237,
-      "corporation_name": "Q-Tech Solutions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133265771/",
-    "total_value": 13480951322.48,
-    "final_attacker": {
-      "character_name": "Professor Edgelord",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
     }
   }
 ]
