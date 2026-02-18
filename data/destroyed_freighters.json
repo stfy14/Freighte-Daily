@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133476889,
+    "killmail_hash": "6b6900bbc8b4d81b3ddbc03b994ccc874311a756",
+    "kill_time": "2026-02-18T20:09:30Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30004980,
+    "solar_system_name": "Fliet",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 923913929,
+      "character_name": "chubby boy",
+      "corporation_id": 98793036,
+      "corporation_name": "Goats A'hoy - Miners Of The Deep",
+      "alliance_id": 99013803,
+      "alliance_name": "Wicked Goats Enterprises"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133476889/",
+    "total_value": 7431374801.51,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 133470457,
     "killmail_hash": "7879ee58fd23d8dec4183c986c57b392fedb6200",
     "kill_time": "2026-02-18T14:02:48Z",
@@ -1427,84 +1453,6 @@
       "corporation_name": "KarmaFleet",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Crusader"
-    }
-  },
-  {
-    "killmail_id": 133295596,
-    "killmail_hash": "6a1db601ad7cc5df87b3b94be48aaa4fd2ea0b8b",
-    "kill_time": "2026-02-11T20:22:40Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122669393,
-      "character_name": "Atlas McMerc",
-      "corporation_id": 98575203,
-      "corporation_name": "Dark Venture Corporation",
-      "alliance_id": 99010980,
-      "alliance_name": "Kitchen Sinkhole"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133295596/",
-    "total_value": 7698501775.81,
-    "final_attacker": {
-      "character_name": "drones man",
-      "corporation_name": "The Ring Sting",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 133294337,
-    "killmail_hash": "77b6f0a6bf223c7fca635542c20bf5b58053f471",
-    "kill_time": "2026-02-11T19:18:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 96333681,
-      "character_name": "Dropsdem Marbel",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133294337/",
-    "total_value": 2234751604.2,
-    "final_attacker": {
-      "character_name": "Charlotte Hazelrink",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Raven"
-    }
-  },
-  {
-    "killmail_id": 133292644,
-    "killmail_hash": "629ad249058b14f81055f564d9d4ef5776aaf974",
-    "kill_time": "2026-02-11T18:09:23Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003935,
-    "solar_system_name": "Irmalin",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 92263726,
-      "character_name": "Jita Gogolowska",
-      "corporation_id": 98512754,
-      "corporation_name": "Space Claws",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133292644/",
-    "total_value": 10178036065.52,
-    "final_attacker": {
-      "character_name": "Jasandra",
-      "corporation_name": "Infinite Point",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Valravn"
     }
   }
 ]
