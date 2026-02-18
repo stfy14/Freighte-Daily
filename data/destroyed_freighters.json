@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133470457,
+    "killmail_hash": "7879ee58fd23d8dec4183c986c57b392fedb6200",
+    "kill_time": "2026-02-18T14:02:48Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002973,
+    "solar_system_name": "Lisudeh",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 586878196,
+      "character_name": "WoB Diamond",
+      "corporation_id": 98796160,
+      "corporation_name": "Koschei of the Otherverse",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133470457/",
+    "total_value": 2306823899.94,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Amarr Navy",
+      "alliance_name": null,
+      "ship_type_name": "Imperial Navy Fleet Marshall"
+    }
+  },
+  {
     "killmail_id": 133468463,
     "killmail_hash": "594223a4185099aad8ba0569e7ffbdb16f7c4ac5",
     "kill_time": "2026-02-18T10:35:29Z",
@@ -1479,32 +1505,6 @@
       "corporation_name": "Infinite Point",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Valravn"
-    }
-  },
-  {
-    "killmail_id": 133289017,
-    "killmail_hash": "0ccb3f93ce2db8bd08074ea370e91cb3106035c7",
-    "kill_time": "2026-02-11T14:24:08Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005273,
-    "solar_system_name": "Galnafsad",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 394254668,
-      "character_name": "KaziKai",
-      "corporation_id": 98443407,
-      "corporation_name": "Fly Together Die Together",
-      "alliance_id": 99013992,
-      "alliance_name": "Federations of Miners"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133289017/",
-    "total_value": 3820799211.57,
-    "final_attacker": {
-      "character_name": "Holy Amarr Laser",
-      "corporation_name": "RadioActivia",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Vedmak"
     }
   }
 ]
