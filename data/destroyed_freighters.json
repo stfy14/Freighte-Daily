@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133481760,
+    "killmail_hash": "ec5d1e61cbe4df160d5fa4047b4b56005d7152e8",
+    "kill_time": "2026-02-19T01:02:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115129858,
+      "character_name": "Aetius Fog",
+      "corporation_id": 98812779,
+      "corporation_name": "Maraque Mining Militia",
+      "alliance_id": 99008905,
+      "alliance_name": "EZ. Street"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133481760/",
+    "total_value": 1715441047.29,
+    "final_attacker": {
+      "character_name": "COYTE",
+      "corporation_name": "The Ruckus",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 133479698,
+    "killmail_hash": "33ffa003d196ed2281df770b9df359c8cb2023b7",
+    "kill_time": "2026-02-18T22:39:32Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001161,
+    "solar_system_name": "HED-GP",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 94625329,
+      "character_name": "Nenmo Tryen",
+      "corporation_id": 1116537731,
+      "corporation_name": "Per astera ad astra",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133479698/",
+    "total_value": 2454028988.4,
+    "final_attacker": {
+      "character_name": "Gefunkt",
+      "corporation_name": "0mega.",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 133478323,
+    "killmail_hash": "82df7277f18b17fb93b72e701daf5144df697f8e",
+    "kill_time": "2026-02-18T21:20:53Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 423981032,
+      "character_name": "Havoc AQM",
+      "corporation_id": 98651050,
+      "corporation_name": "Absolute Order XVIII",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133478323/",
+    "total_value": 6260168039.71,
+    "final_attacker": {
+      "character_name": "Xanndros Yamato",
+      "corporation_name": "O C C U P Y",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 133476889,
     "killmail_hash": "6b6900bbc8b4d81b3ddbc03b994ccc874311a756",
     "kill_time": "2026-02-18T20:09:30Z",
@@ -1401,58 +1479,6 @@
       "corporation_name": "Sodium Chloride Mining Institute",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133301840,
-    "killmail_hash": "080008e8bff9e35a74665db40f5f66584fc6e481",
-    "kill_time": "2026-02-12T02:35:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002049,
-    "solar_system_name": "Uttindar",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 93224188,
-      "character_name": "Miles Edgar",
-      "corporation_id": 98755111,
-      "corporation_name": "Black Rise Industial Association",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133301840/",
-    "total_value": 2649648354.55,
-    "final_attacker": {
-      "character_name": "Swipe Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133301542,
-    "killmail_hash": "9177f3558fa7829e01fa8b70ba9d39e38bcee974",
-    "kill_time": "2026-02-12T02:13:19Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002481,
-    "solar_system_name": "D-I9HJ",
-    "region_name": "Geminate",
-    "victim": {
-      "character_id": 2117604538,
-      "character_name": "Pollux Rendrag",
-      "corporation_id": 98814441,
-      "corporation_name": "Infinite Directive",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133301542/",
-    "total_value": 2051243332.81,
-    "final_attacker": {
-      "character_name": "NikpmulB",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Crusader"
     }
   }
 ]
