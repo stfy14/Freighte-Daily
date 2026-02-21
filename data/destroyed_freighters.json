@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133532983,
+    "killmail_hash": "ef424cf80745049ee0f3d0aa03285edc16c7653d",
+    "kill_time": "2026-02-21T09:15:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001161,
+    "solar_system_name": "HED-GP",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 96350850,
+      "character_name": "Heald Nituralig",
+      "corporation_id": 98732136,
+      "corporation_name": "Family Guys",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133532983/",
+    "total_value": 1797885632.76,
+    "final_attacker": {
+      "character_name": "Ethien Green",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
     "killmail_id": 133531406,
     "killmail_hash": "c3488feadb5495f4da3a97ce2a812287a3d11815",
     "kill_time": "2026-02-21T07:22:59Z",
@@ -1635,32 +1661,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133360669,
-    "killmail_hash": "9dbb4679dea51c9ed7e146f24081b20e300ec8df",
-    "kill_time": "2026-02-14T12:23:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96504117,
-      "character_name": "Daniel Mentzel",
-      "corporation_id": 98297722,
-      "corporation_name": "Space Colony",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133360669/",
-    "total_value": 1903707246.32,
-    "final_attacker": {
-      "character_name": "Hurome",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Sin"
     }
   }
 ]
