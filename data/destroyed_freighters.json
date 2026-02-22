@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133571346,
+    "killmail_hash": "e4054c4e978d0c8121cfbe3eecf524269f2faf77",
+    "kill_time": "2026-02-22T15:56:06Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112331261,
+      "character_name": "Shanks Maulerant",
+      "corporation_id": 98793036,
+      "corporation_name": "Goats A'hoy - Miners Of The Deep",
+      "alliance_id": 99013803,
+      "alliance_name": "Wicked Goats Enterprises"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133571346/",
+    "total_value": 7047092407.56,
+    "final_attacker": {
+      "character_name": "Herbiderpi",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133560861,
     "killmail_hash": "3aca3ae6453560535f64e89d439d5b2571ce825f",
     "kill_time": "2026-02-22T06:44:36Z",
@@ -1531,58 +1557,6 @@
       "corporation_name": "Anoikis Equilibrium",
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 133391860,
-    "killmail_hash": "c6405fb5fdba7ef5d1448e7e73fe5c6753ebd34a",
-    "kill_time": "2026-02-15T14:40:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003151,
-    "solar_system_name": "R-ARKN",
-    "region_name": "Esoteria",
-    "victim": {
-      "character_id": 2117652508,
-      "character_name": "Eldra Kingsley",
-      "corporation_id": 98640383,
-      "corporation_name": "Swiss Mining and Trading",
-      "alliance_id": 99003995,
-      "alliance_name": "Invidia Gloriae Comes"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133391860/",
-    "total_value": 1725175804.51,
-    "final_attacker": {
-      "character_name": "Raph Toulouse",
-      "corporation_name": "DON'T LOGIN PLAY PYFA",
-      "alliance_name": null,
-      "ship_type_name": "Confessor"
-    }
-  },
-  {
-    "killmail_id": 133391351,
-    "killmail_hash": "ad07a26609b67771647e09b78e24285f575fad29",
-    "kill_time": "2026-02-15T14:14:52Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001384,
-    "solar_system_name": "Autaris",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 624101176,
-      "character_name": "samuel123",
-      "corporation_id": 98022245,
-      "corporation_name": "German Project",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133391351/",
-    "total_value": 7377581158.42,
-    "final_attacker": {
-      "character_name": "Error404BrainNotFound",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Vargur"
     }
   }
 ]
