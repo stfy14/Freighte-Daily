@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133575630,
+    "killmail_hash": "d2b44ee9a30d0dfb741c610d94adf33809bb5ebd",
+    "kill_time": "2026-02-22T18:32:02Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120562218,
+      "character_name": "Zaggy Canz",
+      "corporation_id": 98539166,
+      "corporation_name": "INIT. Freight",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133575630/",
+    "total_value": 23112495796.56,
+    "final_attacker": {
+      "character_name": "Mug Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 133571346,
     "killmail_hash": "e4054c4e978d0c8121cfbe3eecf524269f2faf77",
     "kill_time": "2026-02-22T15:56:06Z",
