@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133560861,
+    "killmail_hash": "3aca3ae6453560535f64e89d439d5b2571ce825f",
+    "kill_time": "2026-02-22T06:44:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95437360,
+      "character_name": "Themis Risalo",
+      "corporation_id": 98316453,
+      "corporation_name": "Outfit 418",
+      "alliance_id": 99010265,
+      "alliance_name": "Blue Loot Not Included"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133560861/",
+    "total_value": 15554799270.69,
+    "final_attacker": {
+      "character_name": "small brain ideas",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 133556833,
+    "killmail_hash": "56938b844fcea478b461383615c690334a7f1366",
+    "kill_time": "2026-02-22T03:13:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 983143732,
+      "character_name": "Geranimo Sorjourner",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133556833/",
+    "total_value": 8584652423.82,
+    "final_attacker": {
+      "character_name": "Mauve'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 133553910,
     "killmail_hash": "dadc67370064a42faad7e3cd26b4bf7e5dc5914d",
     "kill_time": "2026-02-22T00:35:22Z",
@@ -1528,110 +1580,6 @@
     "total_value": 5788296928.6,
     "final_attacker": {
       "character_name": "zLegion S",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133384547,
-    "killmail_hash": "1c8025098b6b435a8a5109689ccc1ec704763343",
-    "kill_time": "2026-02-15T08:28:30Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112954356,
-      "character_name": "1slava",
-      "corporation_id": 98599210,
-      "corporation_name": "STC LAST FRONTIER",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133384547/",
-    "total_value": 5170600708.34,
-    "final_attacker": {
-      "character_name": "zLegion L",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133383960,
-    "killmail_hash": "2883215c5a975d8677d6f8953661697b4d961b99",
-    "kill_time": "2026-02-15T07:48:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93039163,
-      "character_name": "alago",
-      "corporation_id": 1000009,
-      "corporation_name": "Caldari Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133383960/",
-    "total_value": 10974343460.6,
-    "final_attacker": {
-      "character_name": "zLegion Y",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133383645,
-    "killmail_hash": "8464fc5191fa31d5d0cf4968dd0c74cb6875ef75",
-    "kill_time": "2026-02-15T07:26:57Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95480017,
-      "character_name": "Obsidian Isu",
-      "corporation_id": 98252761,
-      "corporation_name": "Br0wn Coat5",
-      "alliance_id": 99009961,
-      "alliance_name": "The Gorram Shiney Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133383645/",
-    "total_value": 4768345234.44,
-    "final_attacker": {
-      "character_name": "zLegion F",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133381818,
-    "killmail_hash": "97386296273e3a8f131b79988538a075c24509dc",
-    "kill_time": "2026-02-15T05:19:40Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1663941005,
-      "character_name": "Alice II",
-      "corporation_id": 1150722203,
-      "corporation_name": "The Minutemen",
-      "alliance_id": 99014577,
-      "alliance_name": "High Sec Mining Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133381818/",
-    "total_value": 5463390687.19,
-    "final_attacker": {
-      "character_name": "zLegion R",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Hound"
