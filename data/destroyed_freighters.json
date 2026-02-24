@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133624416,
+    "killmail_hash": "1d4e8b05245a413e675db586d10678fa90bd801e",
+    "kill_time": "2026-02-24T20:39:53Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002693,
+    "solar_system_name": "Egghelende",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1339080225,
+      "character_name": "Athenatoi",
+      "corporation_id": 551138509,
+      "corporation_name": "Liquid Cold",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133624416/",
+    "total_value": 2463095717.34,
+    "final_attacker": {
+      "character_name": "Teysha Blackblade",
+      "corporation_name": "Rattini Tribe",
+      "alliance_name": "Minmatar Fleet Alliance",
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
+    "killmail_id": 133622085,
+    "killmail_hash": "fe394fe87ed79f67974fc8419b825fa368caa51c",
+    "kill_time": "2026-02-24T18:38:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000154,
+    "solar_system_name": "Liekuri",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122612965,
+      "character_name": "ThirtyTwo RedGeese",
+      "corporation_id": 98031743,
+      "corporation_name": "Mong's Marauders",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133622085/",
+    "total_value": 3089449195.51,
+    "final_attacker": {
+      "character_name": "New Order Enforcer",
+      "corporation_name": "Unofficial Probation Service",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 133617863,
     "killmail_hash": "6e7d9204857fff24528c3f5c79b308196853a10f",
     "kill_time": "2026-02-24T15:21:13Z",
@@ -1687,58 +1739,6 @@
       "corporation_name": "Sniggerdly",
       "alliance_name": "Pandemic Legion",
       "ship_type_name": "Orthrus"
-    }
-  },
-  {
-    "killmail_id": 133456351,
-    "killmail_hash": "3f9c87629d218d7128efd925e58917c2cfccc151",
-    "kill_time": "2026-02-17T19:51:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120688721,
-      "character_name": "Xoubii From Heart",
-      "corporation_id": 98595253,
-      "corporation_name": "Absolute Order II",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133456351/",
-    "total_value": 1719580211.89,
-    "final_attacker": {
-      "character_name": "Han Cho",
-      "corporation_name": "10 Potatoes",
-      "alliance_name": "Project Potato",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133455244,
-    "killmail_hash": "a2b65f63896fbcf3328582b0102efdec623a2fd5",
-    "kill_time": "2026-02-17T18:57:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003833,
-    "solar_system_name": "Oulley",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2115101007,
-      "character_name": "Ranka Srbic",
-      "corporation_id": 98820741,
-      "corporation_name": "Nightforge Voidworks",
-      "alliance_id": 99014711,
-      "alliance_name": "Forge Eternal"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133455244/",
-    "total_value": 1739314610.36,
-    "final_attacker": {
-      "character_name": "Telli Isk",
-      "corporation_name": "Applied Anarchy",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
