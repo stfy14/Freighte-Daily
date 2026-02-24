@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133614075,
+    "killmail_hash": "df52160fbbe1ee9ce874ee86101558adf36f13ca",
+    "kill_time": "2026-02-24T10:27:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001443,
+    "solar_system_name": "Vuorrassi",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2119613888,
+      "character_name": "Dharveddin",
+      "corporation_id": 98323930,
+      "corporation_name": "Mirror Machine",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133614075/",
+    "total_value": 1696536392.88,
+    "final_attacker": {
+      "character_name": "Zorg Emperor",
+      "corporation_name": "Commonwealth Mercenaries",
+      "alliance_name": "BLACKFLAG.",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
+    "killmail_id": 133613359,
+    "killmail_hash": "7c74a18ab272e08b7360f3628453556719bc0373",
+    "kill_time": "2026-02-24T09:05:21Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002752,
+    "solar_system_name": "Ahynada",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124118952,
+      "character_name": "Lorenzo McWaffle",
+      "corporation_id": 98765845,
+      "corporation_name": "Daddy Was A Milkman",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133613359/",
+    "total_value": 14362609662.46,
+    "final_attacker": {
+      "character_name": "zLegion U",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133611423,
     "killmail_hash": "3757009e27618b213abe66a82fdd3104d7144cb0",
     "kill_time": "2026-02-24T05:59:38Z",
@@ -1713,32 +1765,6 @@
       "corporation_name": "Unofficial Probation Service",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 133448184,
-    "killmail_hash": "45e45b9f17900f1e81933baf6499b2f77852acfa",
-    "kill_time": "2026-02-17T12:08:32Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119302246,
-      "character_name": "PS-Smokie",
-      "corporation_id": 98742144,
-      "corporation_name": "D I E . S T E I N B E I S S E R",
-      "alliance_id": 99012369,
-      "alliance_name": "OUT OF THE DEEP"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133448184/",
-    "total_value": 1821882072.25,
-    "final_attacker": {
-      "character_name": "Death Killer21",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
     }
   }
 ]
