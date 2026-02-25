@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133629958,
+    "killmail_hash": "ebcdb16a400029b9abf619f82614ec0d9d9b3a26",
+    "kill_time": "2026-02-25T03:02:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2121242277,
+      "character_name": "Torvi Nola Frost",
+      "corporation_id": 98415615,
+      "corporation_name": "Opulent Halcyon Star",
+      "alliance_id": 99014096,
+      "alliance_name": "Lux Inter Astra"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133629958/",
+    "total_value": 1913455542.11,
+    "final_attacker": {
+      "character_name": "Shen'dralar Zeratul",
+      "corporation_name": "Aggression Protocol",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133628982,
     "killmail_hash": "098440204db0f104a0c328357aac05114ac18ad5",
     "kill_time": "2026-02-25T01:39:02Z",
@@ -1765,32 +1791,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133464176,
-    "killmail_hash": "c8dd9191ea9d06169009caac28c7c4a0d30eb1a2",
-    "kill_time": "2026-02-18T03:46:43Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2114002727,
-      "character_name": "sarase serres",
-      "corporation_id": 98726614,
-      "corporation_name": "Grandmex",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133464176/",
-    "total_value": 1488674161.2,
-    "final_attacker": {
-      "character_name": "Darth A30NZ",
-      "corporation_name": "Deep Axion",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Republic Fleet Firetail"
     }
   }
 ]
