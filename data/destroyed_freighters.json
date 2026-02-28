@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133700143,
+    "killmail_hash": "ec918a8df68de6bd9b06e8a51040736b6a31280f",
+    "kill_time": "2026-02-28T13:11:39Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004246,
+    "solar_system_name": "Vehan",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 640885398,
+      "character_name": "Nerdanel",
+      "corporation_id": 945595944,
+      "corporation_name": "Tachyon Community",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133700143/",
+    "total_value": 1786313465.53,
+    "final_attacker": {
+      "character_name": "Tample II",
+      "corporation_name": "RadioActivia",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133699561,
     "killmail_hash": "20c466fdff1d7f01f900fcf5ba243b58b6eefc95",
     "kill_time": "2026-02-28T12:39:03Z",
@@ -1921,32 +1947,6 @@
       "corporation_name": "Gay Triglavian Force Operations",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 133537978,
-    "killmail_hash": "915acdd90ef340bf18e571b741900e585dd61b9a",
-    "kill_time": "2026-02-21T14:28:51Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002054,
-    "solar_system_name": "Hror",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123762023,
-      "character_name": "HristacheX",
-      "corporation_id": 98451927,
-      "corporation_name": "HALO - United Nations Space Command",
-      "alliance_id": 99011119,
-      "alliance_name": "Absolute Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133537978/",
-    "total_value": 2973755551.96,
-    "final_attacker": {
-      "character_name": "lothia",
-      "corporation_name": "Section XIII",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Armageddon"
     }
   }
 ]
