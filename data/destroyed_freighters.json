@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133773870,
+    "killmail_hash": "0c02a3783ad9bff9d9a7a01be10f36d95ad5da4b",
+    "kill_time": "2026-03-03T15:15:14Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1201163364,
+      "character_name": "Mulla Maker",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133773870/",
+    "total_value": 8707951046.37,
+    "final_attacker": {
+      "character_name": "Wild Valenok",
+      "corporation_name": "Interstellar Scum",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Megathron"
+    }
+  },
+  {
     "killmail_id": 133770590,
     "killmail_hash": "09ed38b3d27593d899601ba1be3695ccbe6135fb",
     "kill_time": "2026-03-03T11:31:10Z",
@@ -2103,32 +2129,6 @@
       "corporation_name": "Unofficial Probation Service",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 133617863,
-    "killmail_hash": "6e7d9204857fff24528c3f5c79b308196853a10f",
-    "kill_time": "2026-02-24T15:21:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 92576594,
-      "character_name": "Tidus Damask",
-      "corporation_id": 917617333,
-      "corporation_name": "DIRTS MOVING AN STORAGE",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133617863/",
-    "total_value": 14875888338.51,
-    "final_attacker": {
-      "character_name": "Cid Kagen0u",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
