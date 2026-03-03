@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133769260,
+    "killmail_hash": "74d39a322354449f929b40d03055c7416b30be82",
+    "kill_time": "2026-03-03T08:50:36Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 491446726,
+      "character_name": "DooM Frenzier",
+      "corporation_id": 98730917,
+      "corporation_name": "The Void's Edge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133769260/",
+    "total_value": 12345400278.11,
+    "final_attacker": {
+      "character_name": "zLegion M",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 133766346,
     "killmail_hash": "2a4bbcbdb68f699c225a19154e2541d5b6483242",
     "kill_time": "2026-03-03T03:39:59Z",
@@ -72,6 +98,58 @@
     "total_value": 3747243304.96,
     "final_attacker": {
       "character_name": "Pink'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 133765576,
+    "killmail_hash": "a31fc3be42917de2f600a47338c5a9a83fc0658b",
+    "kill_time": "2026-03-03T02:41:20Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 210672850,
+      "character_name": "Reddherring",
+      "corporation_id": 98059493,
+      "corporation_name": "Freightergank",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133765576/",
+    "total_value": 6272007450.48,
+    "final_attacker": {
+      "character_name": "Beige'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 133764122,
+    "killmail_hash": "09888b929e31c48ac0d7041ac060a336d4469eea",
+    "kill_time": "2026-03-03T00:52:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 92855033,
+      "character_name": "Cosan Lancer",
+      "corporation_id": 98392167,
+      "corporation_name": "Five Grudge Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133764122/",
+    "total_value": 4024984897.84,
+    "final_attacker": {
+      "character_name": "Yellow'Crayon",
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
@@ -2051,32 +2129,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133611423,
-    "killmail_hash": "3757009e27618b213abe66a82fdd3104d7144cb0",
-    "kill_time": "2026-02-24T05:59:38Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95437360,
-      "character_name": "Themis Risalo",
-      "corporation_id": 98316453,
-      "corporation_name": "Outfit 418",
-      "alliance_id": 99010265,
-      "alliance_name": "Blue Loot Not Included"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133611423/",
-    "total_value": 17301840962.2,
-    "final_attacker": {
-      "character_name": "Burgle Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
     }
   }
 ]
