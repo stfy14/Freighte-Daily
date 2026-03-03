@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133770590,
+    "killmail_hash": "09ed38b3d27593d899601ba1be3695ccbe6135fb",
+    "kill_time": "2026-03-03T11:31:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002780,
+    "solar_system_name": "Muvolailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90549927,
+      "character_name": "Gahet Soneka",
+      "corporation_id": 1444028566,
+      "corporation_name": "Sandworms of Dune",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133770590/",
+    "total_value": 11217317088.88,
+    "final_attacker": {
+      "character_name": "zLegion X",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 133770414,
+    "killmail_hash": "ece0331765cdf865483d9ef008a7d468ed79cd1d",
+    "kill_time": "2026-03-03T10:56:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31001742,
+    "solar_system_name": "J140932",
+    "region_name": "D-R00021",
+    "victim": {
+      "character_id": 2115610498,
+      "character_name": "Archogia",
+      "corporation_id": 98765306,
+      "corporation_name": "Soltech Holdings",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133770414/",
+    "total_value": 1653398462.25,
+    "final_attacker": {
+      "character_name": "Navar Askold",
+      "corporation_name": "n0madix",
+      "alliance_name": null,
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
     "killmail_id": 133769260,
     "killmail_hash": "74d39a322354449f929b40d03055c7416b30be82",
     "kill_time": "2026-03-03T08:50:36Z",
@@ -2075,58 +2127,6 @@
     "final_attacker": {
       "character_name": "Cid Kagen0u",
       "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133614075,
-    "killmail_hash": "df52160fbbe1ee9ce874ee86101558adf36f13ca",
-    "kill_time": "2026-02-24T10:27:31Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001443,
-    "solar_system_name": "Vuorrassi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2119613888,
-      "character_name": "Dharveddin",
-      "corporation_id": 98323930,
-      "corporation_name": "Mirror Machine",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133614075/",
-    "total_value": 1696536392.88,
-    "final_attacker": {
-      "character_name": "Zorg Emperor",
-      "corporation_name": "Commonwealth Mercenaries",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 133613359,
-    "killmail_hash": "7c74a18ab272e08b7360f3628453556719bc0373",
-    "kill_time": "2026-02-24T09:05:21Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002752,
-    "solar_system_name": "Ahynada",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124118952,
-      "character_name": "Lorenzo McWaffle",
-      "corporation_id": 98765845,
-      "corporation_name": "Daddy Was A Milkman",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133613359/",
-    "total_value": 14362609662.46,
-    "final_attacker": {
-      "character_name": "zLegion U",
-      "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
     }
