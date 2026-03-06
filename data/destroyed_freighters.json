@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133832922,
+    "killmail_hash": "d454e34daa6bb3ec11922e0d885ebf593387d341",
+    "kill_time": "2026-03-06T14:54:29Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001446,
+    "solar_system_name": "Otsasai",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124142563,
+      "character_name": "Bossco1",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133832922/",
+    "total_value": 1605370820.11,
+    "final_attacker": {
+      "character_name": "Skywalker H",
+      "corporation_name": "Fuxi Legion",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 133827467,
     "killmail_hash": "e38af481fc5796af68c0f61990a319a68115d37a",
     "kill_time": "2026-03-06T07:48:32Z",
@@ -1973,58 +1999,6 @@
       "corporation_name": "Dawn..",
       "alliance_name": "BIue Suns",
       "ship_type_name": "Capsule"
-    }
-  },
-  {
-    "killmail_id": 133679085,
-    "killmail_hash": "188ca0052ec06f6c8bcb046b6be382d9bb1217a1",
-    "kill_time": "2026-02-27T15:25:57Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003935,
-    "solar_system_name": "Unknown System",
-    "region_name": "Unknown Region",
-    "victim": {
-      "character_id": 2123228225,
-      "character_name": "P-26 Freight03",
-      "corporation_id": 98749774,
-      "corporation_name": "The Bishops Logistics",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133679085/",
-    "total_value": 9612707386.68,
-    "final_attacker": {
-      "character_name": "munsking",
-      "corporation_name": "Fat Dragon Pirate Co.",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 133677079,
-    "killmail_hash": "0262475093359eaa7ec062e560e629b8110bc107",
-    "kill_time": "2026-02-27T13:43:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004678,
-    "solar_system_name": "Unknown System",
-    "region_name": "Unknown Region",
-    "victim": {
-      "character_id": 2115349138,
-      "character_name": "Razasov Alexander",
-      "corporation_id": 98547771,
-      "corporation_name": "B.O.P Supplication For Glorious",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133677079/",
-    "total_value": 5669333645.13,
-    "final_attacker": {
-      "character_name": "Katlas CasualHero",
-      "corporation_name": "SXIMONKS",
-      "alliance_name": "WarDogs League",
-      "ship_type_name": "Vedmak"
     }
   }
 ]
