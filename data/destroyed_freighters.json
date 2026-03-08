@@ -26,6 +26,32 @@
     }
   },
   {
+    "killmail_id": 133872119,
+    "killmail_hash": "be2bced6b07adf5153ed4c179ccbc7cf0aacf9ea",
+    "kill_time": "2026-03-08T00:24:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119176288,
+      "character_name": "Devson",
+      "corporation_id": 98815558,
+      "corporation_name": "Neo-Yakuza Ascendancy",
+      "alliance_id": 99010804,
+      "alliance_name": "Macabric Trick"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133872119/",
+    "total_value": 6482287478.24,
+    "final_attacker": {
+      "character_name": "zLegion V",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 133869962,
     "killmail_hash": "1b3203f7ae1d9f6a3cca56ed18327142d132ddac",
     "kill_time": "2026-03-07T22:21:47Z",
@@ -1999,58 +2025,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133722447,
-    "killmail_hash": "889570eec3d339578a4bed9efe709787c08733bf",
-    "kill_time": "2026-03-01T05:31:13Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1781442206,
-      "character_name": "joodaddy",
-      "corporation_id": 98309152,
-      "corporation_name": "LickA LottA PuS",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133722447/",
-    "total_value": 9693965541.08,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133722414,
-    "killmail_hash": "991b4f40228e10cd7a7cd1081e10a1740662dbcc",
-    "kill_time": "2026-03-01T05:29:42Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121858401,
-      "character_name": "phantomdragonx",
-      "corporation_id": 98370987,
-      "corporation_name": "Eagle Wing Industries",
-      "alliance_id": 495729389,
-      "alliance_name": "Shadow Cartel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133722414/",
-    "total_value": 7969363054.36,
-    "final_attacker": {
-      "character_name": "masterbuild",
-      "corporation_name": "Know-Nothings",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
