@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133883732,
+    "killmail_hash": "9dd6c0caa4e7dd91bad11bf8735510384660f472",
+    "kill_time": "2026-03-08T12:49:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004323,
+    "solar_system_name": "AH-B84",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 96557519,
+      "character_name": "Johannes Uta",
+      "corporation_id": 184505725,
+      "corporation_name": "RedOne Division",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133883732/",
+    "total_value": 1625706180.93,
+    "final_attacker": {
+      "character_name": "Blackman Ormand",
+      "corporation_name": "Sons of Black Rise",
+      "alliance_name": "Siege Green.",
+      "ship_type_name": "Ishtar"
+    }
+  },
+  {
+    "killmail_id": 133881584,
+    "killmail_hash": "3e60f7e92784df050859aa7d3f1082c7ec024053",
+    "kill_time": "2026-03-08T10:00:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 93259206,
+      "character_name": "Batman Athonille",
+      "corporation_id": 98746727,
+      "corporation_name": "Lone Wolves Mining",
+      "alliance_id": 99008905,
+      "alliance_name": "EZ. Street"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133881584/",
+    "total_value": 1649774829.53,
+    "final_attacker": {
+      "character_name": "Cucumber ares",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 133875113,
     "killmail_hash": "17dafc052141d20cd5504e959b7f6d9aaeb42188",
     "kill_time": "2026-03-08T03:07:40Z",
@@ -1947,84 +1999,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133729448,
-    "killmail_hash": "4367b8c79e0d5eb498a426c52b236e5790a16250",
-    "kill_time": "2026-03-01T12:58:28Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95664267,
-      "character_name": "MrCashCow",
-      "corporation_id": 98819269,
-      "corporation_name": "Immortal.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133729448/",
-    "total_value": 22685042373.34,
-    "final_attacker": {
-      "character_name": "Raila Karismaki",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133726272,
-    "killmail_hash": "17497a14f68d1004363cf5905bde7afcdd22bf99",
-    "kill_time": "2026-03-01T09:51:47Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000902,
-    "solar_system_name": "NK-7XO",
-    "region_name": "Great Wildlands",
-    "victim": {
-      "character_id": 1727163722,
-      "character_name": "Mr Knife",
-      "corporation_id": 98442833,
-      "corporation_name": "JPL Citizenry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133726272/",
-    "total_value": 1646274508.01,
-    "final_attacker": {
-      "character_name": "Kaeser",
-      "corporation_name": "Stimulus",
-      "alliance_name": "Rote Kapelle",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133725587,
-    "killmail_hash": "806203c7401e6e4dcc5083a870a52a02e05245d2",
-    "kill_time": "2026-03-01T09:06:41Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1584370002,
-      "character_name": "Gideon Tal",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133725587/",
-    "total_value": 15951165981.72,
-    "final_attacker": {
-      "character_name": "zLegion X",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
