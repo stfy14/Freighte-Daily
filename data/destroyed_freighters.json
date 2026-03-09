@@ -208,6 +208,32 @@
     }
   },
   {
+    "killmail_id": 133871545,
+    "killmail_hash": "e98db0dc041a3f3a0850694766a71bd8bd69d2e4",
+    "kill_time": "2026-03-07T23:47:44Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91255920,
+      "character_name": "Foxy Mayaki",
+      "corporation_id": 98395274,
+      "corporation_name": "Otelen Camping Squad",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133871545/",
+    "total_value": 2359599514.14,
+    "final_attacker": {
+      "character_name": "BillyMays ButWait YeeeKaboom",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 133869962,
     "killmail_hash": "1b3203f7ae1d9f6a3cca56ed18327142d132ddac",
     "kill_time": "2026-03-07T22:21:47Z",
@@ -1843,58 +1869,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 133748152,
-    "killmail_hash": "e025a96cd4b139abd3dfe4002a972158016ce9b3",
-    "kill_time": "2026-03-02T05:12:12Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2119459061,
-      "character_name": "Sangimius",
-      "corporation_id": 98758498,
-      "corporation_name": "Fleet Horizon Explorers",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133748152/",
-    "total_value": 2811632977.72,
-    "final_attacker": {
-      "character_name": "Dastard Dian",
-      "corporation_name": "Commonwealth Mercenaries",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 133746665,
-    "killmail_hash": "f8c5874d3b8bde24dc04b399b78b175044c57ca7",
-    "kill_time": "2026-03-02T03:01:55Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 91109835,
-      "character_name": "Lilly Tnara",
-      "corporation_id": 1115843935,
-      "corporation_name": "Fighters Union Shipyards",
-      "alliance_id": 99014136,
-      "alliance_name": "New Eden Wanderers."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133746665/",
-    "total_value": 7706742896.49,
-    "final_attacker": {
-      "character_name": "Yellow'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
