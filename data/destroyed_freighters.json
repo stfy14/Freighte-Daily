@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 133903813,
+    "killmail_hash": "e6feb1d629bd6264e32389ebd05c7fd97e30122a",
+    "kill_time": "2026-03-09T08:36:07Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119409476,
+      "character_name": "Lagertha Kukri",
+      "corporation_id": 98699857,
+      "corporation_name": "Valklears Blade",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133903813/",
+    "total_value": 6603200621.22,
+    "final_attacker": {
+      "character_name": "zLegion D",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 133903158,
+    "killmail_hash": "7be3bd6112ab972375ed7f965bc4c50f442800dd",
+    "kill_time": "2026-03-09T07:33:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 382198115,
+      "character_name": "NuKemNicely",
+      "corporation_id": 98767386,
+      "corporation_name": "Bandits of Eve",
+      "alliance_id": 99012018,
+      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133903158/",
+    "total_value": 4733892667.73,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 133902438,
+    "killmail_hash": "21e1f156fd4cd1f734117fc60dcf16e04cadabb0",
+    "kill_time": "2026-03-09T06:10:26Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2112522173,
+      "character_name": "Todd Damon",
+      "corporation_id": 98480050,
+      "corporation_name": "Fancypants Inc",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133902438/",
+    "total_value": 7429070623.67,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133892442,
     "killmail_hash": "3fc667ccbc48ce3378fff03c6ef44a799c565347",
     "kill_time": "2026-03-08T19:28:06Z",
@@ -1817,58 +1895,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 133749362,
-    "killmail_hash": "fe3a525796ede53a71c036cfdef7507e6bf68d1d",
-    "kill_time": "2026-03-02T07:21:51Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 91322743,
-      "character_name": "Amg553",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133749362/",
-    "total_value": 3348496873.22,
-    "final_attacker": {
-      "character_name": "Blue'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133749288,
-    "killmail_hash": "954d5a29e0fa963e4407a93beccccfc40ce8844a",
-    "kill_time": "2026-03-02T07:16:25Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000131,
-    "solar_system_name": "Nomaa",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 90191105,
-      "character_name": "JiggleButt",
-      "corporation_id": 98014141,
-      "corporation_name": "MasterWizards",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133749288/",
-    "total_value": 12664391443.38,
-    "final_attacker": {
-      "character_name": "Vexed Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
     }
   }
 ]
