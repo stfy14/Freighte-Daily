@@ -1896,57 +1896,5 @@
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 133744777,
-    "killmail_hash": "35a8d1e46d53f417d2efa8493445b06eef8cd619",
-    "kill_time": "2026-03-02T00:25:34Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122518303,
-      "character_name": "Eryss",
-      "corporation_id": 98768933,
-      "corporation_name": "Oroboros Industries",
-      "alliance_id": 99010004,
-      "alliance_name": "DammFam"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133744777/",
-    "total_value": 1781249510.72,
-    "final_attacker": {
-      "character_name": "high hitter",
-      "corporation_name": "Safety Set To Red",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Cynabal"
-    }
-  },
-  {
-    "killmail_id": 133741310,
-    "killmail_hash": "844482df6f4ac00a385f446423527306dcde1e0a",
-    "kill_time": "2026-03-01T21:01:45Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2119308270,
-      "character_name": "Larry Wallace",
-      "corporation_id": 366498483,
-      "corporation_name": "Unquestionable Prosperity",
-      "alliance_id": 99013284,
-      "alliance_name": "Grand Inquisitors Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133741310/",
-    "total_value": 2210463081.7,
-    "final_attacker": {
-      "character_name": "Sidewalk Enforcer",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
   }
 ]
