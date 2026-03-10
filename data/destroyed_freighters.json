@@ -1792,31 +1792,5 @@
       "alliance_name": null,
       "ship_type_name": "Vedmak"
     }
-  },
-  {
-    "killmail_id": 133769260,
-    "killmail_hash": "74d39a322354449f929b40d03055c7416b30be82",
-    "kill_time": "2026-03-03T08:50:36Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 491446726,
-      "character_name": "DooM Frenzier",
-      "corporation_id": 98730917,
-      "corporation_name": "The Void's Edge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133769260/",
-    "total_value": 12345400278.11,
-    "final_attacker": {
-      "character_name": "zLegion M",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
   }
 ]
