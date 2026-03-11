@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133953933,
+    "killmail_hash": "8b0f8f4b27297ab4ad1716e798e05909275b8703",
+    "kill_time": "2026-03-11T18:02:12Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94423329,
+      "character_name": "Layne StaleyRIP",
+      "corporation_id": 98314057,
+      "corporation_name": "Maximum Environmental",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133953933/",
+    "total_value": 7500341675.87,
+    "final_attacker": {
+      "character_name": "Theodore Mosby",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 133942744,
     "killmail_hash": "3274a7bfc3251c589ffa63aade60673b03cbcc24",
     "kill_time": "2026-03-11T03:30:42Z",
@@ -1609,32 +1635,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 133798872,
-    "killmail_hash": "0b6cfdcfedd46cd330a12401c31d7ef99293b542",
-    "kill_time": "2026-03-04T20:12:58Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113703274,
-      "character_name": "MiMi BOOM",
-      "corporation_id": 98808407,
-      "corporation_name": "Suicide Bombr",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133798872/",
-    "total_value": 7538399396.82,
-    "final_attacker": {
-      "character_name": "Atrol Nalelmir",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
