@@ -1688,57 +1688,5 @@
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Guardian"
     }
-  },
-  {
-    "killmail_id": 133781220,
-    "killmail_hash": "00845ccfdc86afacb9a53da7a4c5f637a2403517",
-    "kill_time": "2026-03-03T22:01:01Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000797,
-    "solar_system_name": "Q-3HS5",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 96274895,
-      "character_name": "Daemon's Tyrant",
-      "corporation_id": 1184675423,
-      "corporation_name": "Amok.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133781220/",
-    "total_value": 6917536049.47,
-    "final_attacker": {
-      "character_name": "battlur",
-      "corporation_name": "Nezlamni",
-      "alliance_name": "UA Fleets",
-      "ship_type_name": "Armageddon"
-    }
-  },
-  {
-    "killmail_id": 133780519,
-    "killmail_hash": "c92c4e2fbb293771d7ef2677aa9025213586af4c",
-    "kill_time": "2026-03-03T21:18:27Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 346067769,
-      "character_name": "Leigh Goslin",
-      "corporation_id": 98508428,
-      "corporation_name": "Defence Against the Dark Arts",
-      "alliance_id": 99011416,
-      "alliance_name": "LinkNet"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133780519/",
-    "total_value": 7597657943.49,
-    "final_attacker": {
-      "character_name": "Odyssey 2049",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
