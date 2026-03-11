@@ -1662,31 +1662,5 @@
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 133788115,
-    "killmail_hash": "c4efb42caa104f24b800dc39022b9f8aff4c9582",
-    "kill_time": "2026-03-04T07:32:35Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123293603,
-      "character_name": "Paolo Chasteaux",
-      "corporation_id": 98814215,
-      "corporation_name": "Hermes Cargo",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133788115/",
-    "total_value": 3357786970.35,
-    "final_attacker": {
-      "character_name": "Mauve'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
