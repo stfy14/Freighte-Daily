@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133973151,
+    "killmail_hash": "49cde619577096524de0a67909ed66c6f3a7704d",
+    "kill_time": "2026-03-12T18:19:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002719,
+    "solar_system_name": "Miroitem",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121277293,
+      "character_name": "Ueta Pirkibo",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133973151/",
+    "total_value": 2067522134.21,
+    "final_attacker": {
+      "character_name": "Rebel Rebel-Rebel Rebel",
+      "corporation_name": "Eskimo Callboys",
+      "alliance_name": "Train Wreck.",
+      "ship_type_name": "Abaddon"
+    }
+  },
+  {
     "killmail_id": 133969408,
     "killmail_hash": "98479d16ed5027ae0442c173c10eda13fd66a135",
     "kill_time": "2026-03-12T14:28:48Z",
@@ -1609,58 +1635,6 @@
       "corporation_name": "The Dark Space Initiative",
       "alliance_name": "Scary Wormhole People",
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 133818872,
-    "killmail_hash": "43869a19bb91c7a5f35d4b007ba742663e074058",
-    "kill_time": "2026-03-05T20:36:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122790414,
-      "character_name": "Abdulla Hazulla",
-      "corporation_id": 98471058,
-      "corporation_name": "Supermotard",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133818872/",
-    "total_value": 3718862640.34,
-    "final_attacker": {
-      "character_name": "pSychoaa",
-      "corporation_name": "Kriegsmarinewerft",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 133816804,
-    "killmail_hash": "c6ef942257bdebbea314dc373751e8bbead95460",
-    "kill_time": "2026-03-05T18:50:07Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004230,
-    "solar_system_name": "Van",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 93904542,
-      "character_name": "Jane Morphine",
-      "corporation_id": 98751745,
-      "corporation_name": "Airpower Inc",
-      "alliance_id": 99014778,
-      "alliance_name": "Aridian Legion"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133816804/",
-    "total_value": 1614700986.77,
-    "final_attacker": {
-      "character_name": "Brain Acme",
-      "corporation_name": "RadioActivia",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
