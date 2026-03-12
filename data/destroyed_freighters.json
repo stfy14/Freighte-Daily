@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133965329,
+    "killmail_hash": "ca11c7e736d914a9de1bb7e59f9a6edeebfdf449",
+    "kill_time": "2026-03-12T08:43:11Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000114,
+    "solar_system_name": "Ubtes",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2119132397,
+      "character_name": "Sat0sh1 Nakam0t0",
+      "corporation_id": 98721200,
+      "corporation_name": "Ironhyde Industries LLC",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133965329/",
+    "total_value": 3293591687.17,
+    "final_attacker": {
+      "character_name": "Xicurius Waltz",
+      "corporation_name": "Exploiting fiscal loopholes",
+      "alliance_name": null,
+      "ship_type_name": "Gila"
+    }
+  },
+  {
     "killmail_id": 133963307,
     "killmail_hash": "b579370b4a3b15bacda5d1ce6ea95479e66bbd0a",
     "kill_time": "2026-03-12T05:00:16Z",
@@ -1609,32 +1635,6 @@
       "corporation_name": "Infinity Avenger",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 133808076,
-    "killmail_hash": "ae8d605e422cdd7fdb6725b562bcfbeeda2b774a",
-    "kill_time": "2026-03-05T07:53:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123932681,
-      "character_name": "CandleKnight",
-      "corporation_id": 98821142,
-      "corporation_name": "China In EVE",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133808076/",
-    "total_value": 5989867545.64,
-    "final_attacker": {
-      "character_name": "Maroon'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
