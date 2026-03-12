@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 133965590,
+    "killmail_hash": "330789cf8cd1da85ed2cb7332da87b064bee4e4b",
+    "kill_time": "2026-03-12T09:13:08Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001394,
+    "solar_system_name": "Korama",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 94118684,
+      "character_name": "SorFuS Khashour",
+      "corporation_id": 98457434,
+      "corporation_name": "TIePerPeB",
+      "alliance_id": 1411711376,
+      "alliance_name": "Legion of xXDEATHXx"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133965590/",
+    "total_value": 12035206980.01,
+    "final_attacker": {
+      "character_name": "Error404BrainNotFound",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
     "killmail_id": 133965329,
     "killmail_hash": "ca11c7e736d914a9de1bb7e59f9a6edeebfdf449",
     "kill_time": "2026-03-12T08:43:11Z",
@@ -1609,32 +1635,6 @@
       "corporation_name": "RadioActivia",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133809785,
-    "killmail_hash": "f04f1f016124b537d8ad5e8587469445fc5c797a",
-    "kill_time": "2026-03-05T11:26:33Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2121070309,
-      "character_name": "Mutruk",
-      "corporation_id": 98673544,
-      "corporation_name": "InFlames.",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133809785/",
-    "total_value": 1641544939.66,
-    "final_attacker": {
-      "character_name": "Cucumber ares",
-      "corporation_name": "Infinity Avenger",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Vindicator"
     }
   }
 ]
