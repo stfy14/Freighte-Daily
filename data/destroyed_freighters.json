@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 133985429,
+    "killmail_hash": "c5eae55da0d353b51657812f93649d32a359ecc9",
+    "kill_time": "2026-03-13T07:02:54Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118935303,
+      "character_name": "roverdoge1",
+      "corporation_id": 98633272,
+      "corporation_name": "Trisolaris Military Academy",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/133985429/",
+    "total_value": 10564621044.82,
+    "final_attacker": {
+      "character_name": "Smuggle Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 133984535,
+    "killmail_hash": "6fa479907ff2ba80d9b83251f47a9e5d7ac82831",
+    "kill_time": "2026-03-13T06:06:25Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 91594966,
+      "character_name": "Le Grue",
+      "corporation_id": 1211383288,
+      "corporation_name": "Lucifer's Hammer",
+      "alliance_id": 99004295,
+      "alliance_name": "A Band Apart."
+    },
+    "zkb_url": "https://zkillboard.com/kill/133984535/",
+    "total_value": 1853098673.78,
+    "final_attacker": {
+      "character_name": "Urik Kahn",
+      "corporation_name": "Kahn Corporation",
+      "alliance_name": null,
+      "ship_type_name": "Vengeance"
+    }
+  },
+  {
     "killmail_id": 133981903,
     "killmail_hash": "8d73e73fe72d9833e71e59cb13baa5852e764530",
     "kill_time": "2026-03-13T02:11:04Z",
@@ -205,6 +257,32 @@
       "corporation_name": "Exploiting fiscal loopholes",
       "alliance_name": null,
       "ship_type_name": "Gila"
+    }
+  },
+  {
+    "killmail_id": 133964286,
+    "killmail_hash": "ba3e927989add279c28e37a39e48521ad3c8314e",
+    "kill_time": "2026-03-12T06:47:01Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95186829,
+      "character_name": "Smitty Onzo",
+      "corporation_id": 98502672,
+      "corporation_name": "Express Trade Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133964286/",
+    "total_value": 7385996266.5,
+    "final_attacker": {
+      "character_name": "Pinch Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
     }
   },
   {
@@ -1557,110 +1635,6 @@
       "corporation_name": "Fuxi Legion",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 133827467,
-    "killmail_hash": "e38af481fc5796af68c0f61990a319a68115d37a",
-    "kill_time": "2026-03-06T07:48:32Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113818613,
-      "character_name": "Niko Grape",
-      "corporation_id": 98314266,
-      "corporation_name": "Rare Earth Minerals",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133827467/",
-    "total_value": 11592444598.54,
-    "final_attacker": {
-      "character_name": "Outwit Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133826924,
-    "killmail_hash": "77947e1568d8145a303e1f46ff9c49a77788ca5a",
-    "kill_time": "2026-03-06T06:42:27Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 771939231,
-      "character_name": "Eric McDermott",
-      "corporation_id": 98101410,
-      "corporation_name": "Pan Galactic Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133826924/",
-    "total_value": 8809809236.65,
-    "final_attacker": {
-      "character_name": "Red'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133826556,
-    "killmail_hash": "832374a0c843dc38ce728e7555cc7fd4fdb13999",
-    "kill_time": "2026-03-06T06:09:39Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118741874,
-      "character_name": "ip Stareine",
-      "corporation_id": 98707601,
-      "corporation_name": "ip mayo Production",
-      "alliance_id": 99011267,
-      "alliance_name": "Siege Green Friends"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133826556/",
-    "total_value": 14955435489.17,
-    "final_attacker": {
-      "character_name": "Pinch Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133826248,
-    "killmail_hash": "7d4fa41613a629105755a1c090befe47a8bba5fe",
-    "kill_time": "2026-03-06T05:42:37Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96262767,
-      "character_name": "Marissa Caelin",
-      "corporation_id": 98821395,
-      "corporation_name": "Mercs on Percs",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133826248/",
-    "total_value": 8147075094.11,
-    "final_attacker": {
-      "character_name": "Steal Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
     }
   }
 ]
