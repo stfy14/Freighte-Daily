@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134051558,
+    "killmail_hash": "c77275263f1ad1cf7eefb87ae740cea38985dc35",
+    "kill_time": "2026-03-15T18:33:03Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 94545174,
+      "character_name": "Trevor Kassabian",
+      "corporation_id": 98604962,
+      "corporation_name": "Space Lobster Corp.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134051558/",
+    "total_value": 2700947515.76,
+    "final_attacker": {
+      "character_name": "Obsidian Skar",
+      "corporation_name": "Noctem Irae",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Deimos"
+    }
+  },
+  {
     "killmail_id": 134041066,
     "killmail_hash": "263bce35a8c06569030bf5a0a2894131974bdbbd",
     "kill_time": "2026-03-15T11:11:51Z",
@@ -1427,110 +1453,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133892442,
-    "killmail_hash": "3fc667ccbc48ce3378fff03c6ef44a799c565347",
-    "kill_time": "2026-03-08T19:28:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121803243,
-      "character_name": "Ledy Red",
-      "corporation_id": 98826250,
-      "corporation_name": "What is going on here",
-      "alliance_id": 99013941,
-      "alliance_name": "James Webb Space Telescope"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133892442/",
-    "total_value": 27975755124.18,
-    "final_attacker": {
-      "character_name": "Alexander Angrard",
-      "corporation_name": "Lightning Squad",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133890728,
-    "killmail_hash": "0b999aac644f9441c1d34800562c09f499d6152a",
-    "kill_time": "2026-03-08T18:31:32Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123262285,
-      "character_name": "Kenji Lee",
-      "corporation_id": 98795321,
-      "corporation_name": "Deep Space Hauling Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133890728/",
-    "total_value": 10338570617.61,
-    "final_attacker": {
-      "character_name": "MrEcco",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133889370,
-    "killmail_hash": "de126b6896cac14c62d1efd192c9bc0a35834591",
-    "kill_time": "2026-03-08T17:26:30Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114273650,
-      "character_name": "Calamity Ganon",
-      "corporation_id": 98740042,
-      "corporation_name": "The Gravy Boat",
-      "alliance_id": 99013982,
-      "alliance_name": "Gnomes Rising HoA"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133889370/",
-    "total_value": 8564352790.43,
-    "final_attacker": {
-      "character_name": "Irked Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 133889096,
-    "killmail_hash": "3a7f0a2c94908ed7eb6b84e301df6f91500fe5cf",
-    "kill_time": "2026-03-08T17:11:43Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 896558084,
-      "character_name": "Archangel Phoenix",
-      "corporation_id": 98634936,
-      "corporation_name": "Memento. Mori.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133889096/",
-    "total_value": 8332142478.38,
-    "final_attacker": {
-      "character_name": "Error404BrainNotFound",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Panther"
     }
   }
 ]
