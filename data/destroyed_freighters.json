@@ -156,6 +156,32 @@
     }
   },
   {
+    "killmail_id": 134055049,
+    "killmail_hash": "76be2fd1ab4a221edd6fe1a0b72966fa620e00f3",
+    "kill_time": "2026-03-15T20:31:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115540102,
+      "character_name": "Hershel Eclipse",
+      "corporation_id": 98775448,
+      "corporation_name": "Black Sea Diggers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134055049/",
+    "total_value": 8596248916.44,
+    "final_attacker": {
+      "character_name": "Smuggle Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 134051558,
     "killmail_hash": "c77275263f1ad1cf7eefb87ae740cea38985dc35",
     "kill_time": "2026-03-15T18:33:03Z",
@@ -777,6 +803,32 @@
       "corporation_name": "Unofficial Probation Service",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 133993112,
+    "killmail_hash": "9ccbafc8716718591361e5f8c45f199c39faf73c",
+    "kill_time": "2026-03-13T16:43:19Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94064743,
+      "character_name": "Habanero Prius",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/133993112/",
+    "total_value": 9871198095.85,
+    "final_attacker": {
+      "character_name": "Vindictive Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Purifier"
     }
   },
   {
@@ -1531,84 +1583,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133903813,
-    "killmail_hash": "e6feb1d629bd6264e32389ebd05c7fd97e30122a",
-    "kill_time": "2026-03-09T08:36:07Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119409476,
-      "character_name": "Lagertha Kukri",
-      "corporation_id": 98699857,
-      "corporation_name": "Valklears Blade",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133903813/",
-    "total_value": 6603200621.22,
-    "final_attacker": {
-      "character_name": "zLegion D",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133903158,
-    "killmail_hash": "7be3bd6112ab972375ed7f965bc4c50f442800dd",
-    "kill_time": "2026-03-09T07:33:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 382198115,
-      "character_name": "NuKemNicely",
-      "corporation_id": 98767386,
-      "corporation_name": "Bandits of Eve",
-      "alliance_id": 99012018,
-      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133903158/",
-    "total_value": 4733892667.73,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133902438,
-    "killmail_hash": "21e1f156fd4cd1f734117fc60dcf16e04cadabb0",
-    "kill_time": "2026-03-09T06:10:26Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2112522173,
-      "character_name": "Todd Damon",
-      "corporation_id": 98480050,
-      "corporation_name": "Fancypants Inc",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133902438/",
-    "total_value": 7429070623.67,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
