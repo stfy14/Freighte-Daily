@@ -208,6 +208,32 @@
     }
   },
   {
+    "killmail_id": 134046775,
+    "killmail_hash": "92078829ac3e0a8a85eedf70a17bed7b35f093e1",
+    "kill_time": "2026-03-15T15:22:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123334368,
+      "character_name": "Lucian Picard",
+      "corporation_id": 98795321,
+      "corporation_name": "Deep Space Hauling Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134046775/",
+    "total_value": 1874152488.33,
+    "final_attacker": {
+      "character_name": "Dats'Alotta Damage",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134041066,
     "killmail_hash": "263bce35a8c06569030bf5a0a2894131974bdbbd",
     "kill_time": "2026-03-15T11:11:51Z",
@@ -595,6 +621,32 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 134019405,
+    "killmail_hash": "89fc19244f4317f97a7954d0bbf62545f7830ba3",
+    "kill_time": "2026-03-14T16:35:54Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2119950239,
+      "character_name": "Minebord Jr",
+      "corporation_id": 98763437,
+      "corporation_name": "RED iski",
+      "alliance_id": 99009805,
+      "alliance_name": "Dead Game Society."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134019405/",
+    "total_value": 11402020414.65,
+    "final_attacker": {
+      "character_name": "SurpriseButtsecks",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
     }
   },
   {
