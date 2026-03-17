@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134082034,
+    "killmail_hash": "fae05482eaabd394f0af2dbe8bb8343c77597bd3",
+    "kill_time": "2026-03-17T04:05:44Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122040091,
+      "character_name": "bootgood",
+      "corporation_id": 98764630,
+      "corporation_name": "Mech battle",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134082034/",
+    "total_value": 22348868832.49,
+    "final_attacker": {
+      "character_name": "PornMaker",
+      "corporation_name": "Black Cat Studios XXX",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
     "killmail_id": 134078178,
     "killmail_hash": "9a61051eed88102f31f635013ed6fc2d57bc5545",
     "kill_time": "2026-03-16T22:33:45Z",
@@ -1505,58 +1531,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 133922710,
-    "killmail_hash": "c8547f6edd98abb5daeaa1d870015d99e3695862",
-    "kill_time": "2026-03-10T04:26:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003563,
-    "solar_system_name": "Misaba",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 95379382,
-      "character_name": "PriceFixer Monopolizer",
-      "corporation_id": 98823004,
-      "corporation_name": "Bird Law LLP",
-      "alliance_id": 99014808,
-      "alliance_name": "Bird Law LLP Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133922710/",
-    "total_value": 1865521393.95,
-    "final_attacker": {
-      "character_name": "JOhnDrees",
-      "corporation_name": "Deep Axion",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 133922121,
-    "killmail_hash": "4b7b3168203ea7e1c6cc644835599a87b6a5a0dd",
-    "kill_time": "2026-03-10T03:35:28Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123978015,
-      "character_name": "SigmaWei",
-      "corporation_id": 98823678,
-      "corporation_name": "Socialist Alliance of Astra",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133922121/",
-    "total_value": 1923752056.38,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
