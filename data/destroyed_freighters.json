@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134142763,
+    "killmail_hash": "350095d8ffa3bdf308dd8d5e831a466829008ac5",
+    "kill_time": "2026-03-20T06:58:13Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94287750,
+      "character_name": "Cowbell McManaman",
+      "corporation_id": 98230927,
+      "corporation_name": "Rumblocorp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134142763/",
+    "total_value": 1768134777.19,
+    "final_attacker": {
+      "character_name": "Red'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134141617,
     "killmail_hash": "7a0e5b5c15e95ff3c182de38ea5e96a29a3e6bdf",
     "kill_time": "2026-03-20T04:59:57Z",
@@ -1687,58 +1713,6 @@
       "corporation_name": "Neo-Yakuza Ascendancy",
       "alliance_name": "Macabric Trick",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 133985429,
-    "killmail_hash": "c5eae55da0d353b51657812f93649d32a359ecc9",
-    "kill_time": "2026-03-13T07:02:54Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118935303,
-      "character_name": "roverdoge1",
-      "corporation_id": 98633272,
-      "corporation_name": "Trisolaris Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/133985429/",
-    "total_value": 10564621044.82,
-    "final_attacker": {
-      "character_name": "Smuggle Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 133984535,
-    "killmail_hash": "6fa479907ff2ba80d9b83251f47a9e5d7ac82831",
-    "kill_time": "2026-03-13T06:06:25Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 91594966,
-      "character_name": "Le Grue",
-      "corporation_id": 1211383288,
-      "corporation_name": "Lucifer's Hammer",
-      "alliance_id": 99004295,
-      "alliance_name": "A Band Apart."
-    },
-    "zkb_url": "https://zkillboard.com/kill/133984535/",
-    "total_value": 1853098673.78,
-    "final_attacker": {
-      "character_name": "Urik Kahn",
-      "corporation_name": "Kahn Corporation",
-      "alliance_name": null,
-      "ship_type_name": "Vengeance"
     }
   }
 ]
