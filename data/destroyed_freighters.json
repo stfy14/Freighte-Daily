@@ -1636,31 +1636,5 @@
       "alliance_name": null,
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 133993486,
-    "killmail_hash": "5973bda0a5b0a755eae6250a6a1f583c0d26727c",
-    "kill_time": "2026-03-13T17:00:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 869912154,
-      "character_name": "KiraNerys",
-      "corporation_id": 1700656415,
-      "corporation_name": "Gasworks inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/133993486/",
-    "total_value": 5162546178.31,
-    "final_attacker": {
-      "character_name": "New Order Enforcer",
-      "corporation_name": "Unofficial Probation Service",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
   }
 ]
