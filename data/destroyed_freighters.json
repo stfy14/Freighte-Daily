@@ -1636,57 +1636,5 @@
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
     }
-  },
-  {
-    "killmail_id": 134006657,
-    "killmail_hash": "60b9159efdaa950daea33a95d23efef0c40306fd",
-    "kill_time": "2026-03-14T04:25:16Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95880428,
-      "character_name": "Fuuien",
-      "corporation_id": 98684131,
-      "corporation_name": "Evola Deliveries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134006657/",
-    "total_value": 18880235758.1,
-    "final_attacker": {
-      "character_name": "Swipe Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134004960,
-    "killmail_hash": "fe223612c68db18d6c1fbecd9c9a2037e33cdbe0",
-    "kill_time": "2026-03-14T02:47:37Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123490255,
-      "character_name": "suunday",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134004960/",
-    "total_value": 6895092881.67,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
