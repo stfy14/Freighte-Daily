@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134197064,
+    "killmail_hash": "2d90daf31ad6413505405f256c41a452ed14fe32",
+    "kill_time": "2026-03-22T10:09:40Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122736716,
+      "character_name": "Romper Stompper",
+      "corporation_id": 98776997,
+      "corporation_name": "VVorld of Crabiis",
+      "alliance_id": 99011248,
+      "alliance_name": "Big Green Fly"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134197064/",
+    "total_value": 7303805116.65,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 134194766,
     "killmail_hash": "43d35ffedf6db86f7ee317fd22cc62dfc8ba5966",
     "kill_time": "2026-03-22T07:44:12Z",
@@ -1426,58 +1452,6 @@
       "character_name": "Dats'Alotta Damage",
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134041066,
-    "killmail_hash": "263bce35a8c06569030bf5a0a2894131974bdbbd",
-    "kill_time": "2026-03-15T11:11:51Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2120548035,
-      "character_name": "Zane Ozran",
-      "corporation_id": 98704795,
-      "corporation_name": "Nixie Meteor",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134041066/",
-    "total_value": 1564475428.01,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 134039204,
-    "killmail_hash": "4333102c6f396c1225958950af93d5b8cbbfd936",
-    "kill_time": "2026-03-15T09:02:50Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113052036,
-      "character_name": "Eric Snarski",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134039204/",
-    "total_value": 1845942221.79,
-    "final_attacker": {
-      "character_name": "Im-Just-An-Immortal",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   }
