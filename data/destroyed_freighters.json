@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134223731,
+    "killmail_hash": "f7cc11528d2d3ec909759716e14ad7d60d3a92a1",
+    "kill_time": "2026-03-23T10:28:33Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113452365,
+      "character_name": "Katar Jaen",
+      "corporation_id": 1418791931,
+      "corporation_name": "Risky eXplosion",
+      "alliance_id": 917526329,
+      "alliance_name": "Death or Glory"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134223731/",
+    "total_value": 54747687116.62,
+    "final_attacker": {
+      "character_name": "zLegion R",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 134221971,
     "killmail_hash": "dc3f4be90fdbdf1823cc5a841d7b6bb5031293f7",
     "kill_time": "2026-03-23T07:00:33Z",
