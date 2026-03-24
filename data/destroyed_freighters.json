@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134246210,
+    "killmail_hash": "dda5f790d8a60a3a0c73ed9f0517d12fd5660fd1",
+    "kill_time": "2026-03-24T13:33:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123728695,
+      "character_name": "oceangoing",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134246210/",
+    "total_value": 1515222418.32,
+    "final_attacker": {
+      "character_name": "Alyosha your Daddy",
+      "corporation_name": "Highsec Siege",
+      "alliance_name": "Dreadbomb.",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 134241549,
     "killmail_hash": "61fc8c919e279807a15edb15efc5838d1b15f9d6",
     "kill_time": "2026-03-24T05:46:15Z",
@@ -1687,58 +1713,6 @@
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134085722,
-    "killmail_hash": "cca0e163bb93d39bb7082969bb8ec7dcc12215d1",
-    "kill_time": "2026-03-17T10:47:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96970746,
-      "character_name": "Alvis Prederator",
-      "corporation_id": 98678248,
-      "corporation_name": "Holy Rus Empire",
-      "alliance_id": 99011271,
-      "alliance_name": "4Crabs Tavern"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134085722/",
-    "total_value": 1573166844.1,
-    "final_attacker": {
-      "character_name": "Yoyo Maricadie",
-      "corporation_name": "Federal Navy Academy",
-      "alliance_name": null,
-      "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 134084873,
-    "killmail_hash": "3233e3e0ad7f7d57c36344a1250db29bad5620f9",
-    "kill_time": "2026-03-17T09:26:10Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95473024,
-      "character_name": "Michael A-Alfa",
-      "corporation_id": 98800331,
-      "corporation_name": "Logistics.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134084873/",
-    "total_value": 8452790841.95,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
