@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134251024,
+    "killmail_hash": "201c5a75f2b78fa82675b818039c1400ab41519e",
+    "kill_time": "2026-03-24T18:17:14Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001067,
+    "solar_system_name": "6UT-1K",
+    "region_name": "Malpais",
+    "victim": {
+      "character_id": 92082992,
+      "character_name": "Andrew Bondaeus",
+      "corporation_id": 98607248,
+      "corporation_name": "King Crab Party",
+      "alliance_id": 1220922756,
+      "alliance_name": "Red Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134251024/",
+    "total_value": 9244350825.64,
+    "final_attacker": {
+      "character_name": "Small Cutie",
+      "corporation_name": "Shallow Water Waddlers",
+      "alliance_name": "PUT THE FRIES IN THE BAG",
+      "ship_type_name": "Fortizar"
+    }
+  },
+  {
     "killmail_id": 134248823,
     "killmail_hash": "aa578ed141c785cb14aa5fd92684873c7be7ccad",
     "kill_time": "2026-03-24T15:52:42Z",
@@ -1661,32 +1687,6 @@
       "corporation_name": "Eagle Wing Industries",
       "alliance_name": "Shadow Cartel",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 134094105,
-    "killmail_hash": "185ff2dec2e5aa9fe694b085007d1c4f05369a3c",
-    "kill_time": "2026-03-17T19:52:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 91016637,
-      "character_name": "Aliedora Gaterau",
-      "corporation_id": 98818088,
-      "corporation_name": "Deep Space Argonauts",
-      "alliance_id": 99014816,
-      "alliance_name": "Deep Space Argonauts Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134094105/",
-    "total_value": 1972380101.73,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
     }
   }
 ]
