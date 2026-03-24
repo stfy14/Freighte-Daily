@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134241025,
+    "killmail_hash": "225122d69f1fc8813b7a3bba00809b658809c373",
+    "kill_time": "2026-03-24T04:34:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004820,
+    "solar_system_name": "ZMV9-A",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2115150729,
+      "character_name": "Anders Harconnan",
+      "corporation_id": 98160798,
+      "corporation_name": "Real Simple Academy",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134241025/",
+    "total_value": 2593382817.88,
+    "final_attacker": {
+      "character_name": "Ambitions Stark",
+      "corporation_name": "Meta Zero",
+      "alliance_name": "Meta Reloaded",
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
     "killmail_id": 134236627,
     "killmail_hash": "1f021c4a9f7b857d7548aef89514a9dd1cc58668",
     "kill_time": "2026-03-23T23:11:47Z",
@@ -1713,32 +1739,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134082034,
-    "killmail_hash": "fae05482eaabd394f0af2dbe8bb8343c77597bd3",
-    "kill_time": "2026-03-17T04:05:44Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122040091,
-      "character_name": "bootgood",
-      "corporation_id": 98764630,
-      "corporation_name": "Mech battle",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134082034/",
-    "total_value": 22348868832.49,
-    "final_attacker": {
-      "character_name": "PornMaker",
-      "corporation_name": "Black Cat Studios XXX",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
     }
   }
 ]
