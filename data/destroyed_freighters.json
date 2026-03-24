@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134248823,
+    "killmail_hash": "aa578ed141c785cb14aa5fd92684873c7be7ccad",
+    "kill_time": "2026-03-24T15:52:42Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003292,
+    "solar_system_name": "QWF-6P",
+    "region_name": "Syndicate",
+    "victim": {
+      "character_id": 2123989228,
+      "character_name": "Tarine Trald",
+      "corporation_id": 1000170,
+      "corporation_name": "Republic Military School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134248823/",
+    "total_value": 1766605173.34,
+    "final_attacker": {
+      "character_name": "ZaKoNaL",
+      "corporation_name": "xXRussian SpaceXx",
+      "alliance_name": null,
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
     "killmail_id": 134246210,
     "killmail_hash": "dda5f790d8a60a3a0c73ed9f0517d12fd5660fd1",
     "kill_time": "2026-03-24T13:33:28Z",
@@ -1661,58 +1687,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 134090435,
-    "killmail_hash": "e415ecd6648e018240377e6e1f77af2ed037705a",
-    "kill_time": "2026-03-17T16:17:07Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001067,
-    "solar_system_name": "6UT-1K",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 93452232,
-      "character_name": "Gaavi",
-      "corporation_id": 98442811,
-      "corporation_name": "Northern Crux LLC",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134090435/",
-    "total_value": 9224790873.35,
-    "final_attacker": {
-      "character_name": "Chikoi",
-      "corporation_name": "Puppygirls Anonymous",
-      "alliance_name": "PUT THE FRIES IN THE BAG",
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 134088537,
-    "killmail_hash": "8c8edc897f402cdd5822b5e4b5bb258bdfb5a206",
-    "kill_time": "2026-03-17T14:15:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124201882,
-      "character_name": "Olivia Cape",
-      "corporation_id": 98828482,
-      "corporation_name": "Pan Aviation and Transit Global Trading Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134088537/",
-    "total_value": 5084963310.61,
-    "final_attacker": {
-      "character_name": "Non Consensual Touches",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
