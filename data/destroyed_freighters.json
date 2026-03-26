@@ -1662,57 +1662,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
     }
-  },
-  {
-    "killmail_id": 134129834,
-    "killmail_hash": "754f724aa3b2f8a43605eb22ebfe203c102eba3a",
-    "kill_time": "2026-03-19T16:35:57Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001672,
-    "solar_system_name": "Emrayur",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 2118919315,
-      "character_name": "Daffodile",
-      "corporation_id": 98688387,
-      "corporation_name": "Most Valuable Capsuleers",
-      "alliance_id": 99011268,
-      "alliance_name": "Reeloaded."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134129834/",
-    "total_value": 26193505124.14,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Amarr Civil Service",
-      "alliance_name": null,
-      "ship_type_name": "Amarr Surveillance General Major"
-    }
-  },
-  {
-    "killmail_id": 134128882,
-    "killmail_hash": "73efaf34852af350626647b6179cd44c28ddfa10",
-    "kill_time": "2026-03-19T15:36:54Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001928,
-    "solar_system_name": "L6B-0N",
-    "region_name": "Stain",
-    "victim": {
-      "character_id": 2119349209,
-      "character_name": "Draz Bullneck",
-      "corporation_id": 98799062,
-      "corporation_name": "Navka Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134128882/",
-    "total_value": 1657724402.46,
-    "final_attacker": {
-      "character_name": "Catty Pangpang",
-      "corporation_name": "Snow Moon City",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Kikimora"
-    }
   }
 ]
