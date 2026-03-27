@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134305905,
+    "killmail_hash": "71b81eb3e05417386a1515833b9ab09f530e39de",
+    "kill_time": "2026-03-27T16:46:54Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119657790,
+      "character_name": "I am Cow",
+      "corporation_id": 98817602,
+      "corporation_name": "Alzyan's Army",
+      "alliance_id": 99014522,
+      "alliance_name": "Fireball."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134305905/",
+    "total_value": 3371174408.23,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 134303635,
+    "killmail_hash": "b8f0f58ef8d8489fe5e96ed375944899af06372e",
+    "kill_time": "2026-03-27T14:45:06Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001368,
+    "solar_system_name": "Uemisaisen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2123189323,
+      "character_name": "Sir Jumps Alot",
+      "corporation_id": 191955857,
+      "corporation_name": "DR Holdings",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134303635/",
+    "total_value": 10574594007.48,
+    "final_attacker": {
+      "character_name": "Don Inocencio",
+      "corporation_name": "Workers' Collectivization Bureau",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 134300192,
     "killmail_hash": "2c1632e823d84d619485b79ba4a29e27705c1221",
     "kill_time": "2026-03-27T10:56:42Z",
