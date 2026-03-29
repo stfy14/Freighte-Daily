@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134348009,
+    "killmail_hash": "5c38c88c28ef221d236200727ebb35394ce5639a",
+    "kill_time": "2026-03-29T03:16:10Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 106086264,
+      "character_name": "Maraleith",
+      "corporation_id": 98814817,
+      "corporation_name": "Clown Swords.",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134348009/",
+    "total_value": 7162693120.85,
+    "final_attacker": {
+      "character_name": "Spacemanspifff",
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_name": "Brave Collective",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 134344617,
+    "killmail_hash": "96fbd6f3a9b12505fef32ca51da8ebd818900c28",
+    "kill_time": "2026-03-28T23:56:29Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94033272,
+      "character_name": "Yura Ersh",
+      "corporation_id": 98608364,
+      "corporation_name": "Golden Dragons Corporation",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134344617/",
+    "total_value": 7353508860.33,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
     "killmail_id": 134338999,
     "killmail_hash": "38b9dcdae7e679ee81891f6abc250864c28f72ef",
     "kill_time": "2026-03-28T20:04:12Z",
@@ -1817,110 +1869,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 134190295,
-    "killmail_hash": "0e673223704158576288b5f23075db4cf89e97b0",
-    "kill_time": "2026-03-22T03:06:00Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1498060865,
-      "character_name": "Mazzeru Insomniak",
-      "corporation_id": 1000049,
-      "corporation_name": "Brutor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134190295/",
-    "total_value": 50881332264.18,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 134189756,
-    "killmail_hash": "2695bf62aa043f16a09214b9e8f0e238a4f0b5d7",
-    "kill_time": "2026-03-22T02:34:36Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2116161773,
-      "character_name": "lardaz Badasaz",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134189756/",
-    "total_value": 4666989873.23,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134187880,
-    "killmail_hash": "643b301a9e97effe74fc68d0b3d29602bb8dc0bd",
-    "kill_time": "2026-03-22T00:43:33Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1191370712,
-      "character_name": "phellankell",
-      "corporation_id": 98436313,
-      "corporation_name": "Wolf Brothers INC",
-      "alliance_id": 99007005,
-      "alliance_name": "United Neopian Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134187880/",
-    "total_value": 9643549693.19,
-    "final_attacker": {
-      "character_name": "Teal'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134183459,
-    "killmail_hash": "01d4f277d84267f12f1ca94f4eba2dcab798948d",
-    "kill_time": "2026-03-21T21:26:45Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002746,
-    "solar_system_name": "Oijamon",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1146823601,
-      "character_name": "32o26o30",
-      "corporation_id": 98699553,
-      "corporation_name": "Astral Acquisitions Inc.",
-      "alliance_id": 99014849,
-      "alliance_name": "Astral Ascendancy Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134183459/",
-    "total_value": 1554307722.02,
-    "final_attacker": {
-      "character_name": "Magpul Masada",
-      "corporation_name": "Astral Acquisitions Inc.",
-      "alliance_name": "Astral Ascendancy Initiative.",
-      "ship_type_name": "Tristan"
     }
   }
 ]
