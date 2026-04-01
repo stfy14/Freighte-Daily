@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134428806,
+    "killmail_hash": "f6c746b45c3902ddab5acbabba611fe9750f3e23",
+    "kill_time": "2026-04-01T20:38:06Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 96592437,
+      "character_name": "Adamas Cobon-Han",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134428806/",
+    "total_value": 31430130161.34,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134428148,
+    "killmail_hash": "4c1ac301b202efb0c87e102069c1c1cb9e54eace",
+    "kill_time": "2026-04-01T19:58:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122808512,
+      "character_name": "Ordo Malleus Inquisitor",
+      "corporation_id": 98776878,
+      "corporation_name": "Orchid Combat Patrol and Security Services",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134428148/",
+    "total_value": 1450922557.24,
+    "final_attacker": {
+      "character_name": "RoflanPomojka",
+      "corporation_name": "The Stone Garden",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 134419714,
     "killmail_hash": "6b9328a05b69e4183769a800df1d1cc1f2bde2ed",
     "kill_time": "2026-04-01T10:54:34Z",
@@ -1453,84 +1505,6 @@
       "corporation_name": "Souprise Squad",
       "alliance_name": null,
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 134271379,
-    "killmail_hash": "9fdd005986ca1ffa021732a39b102998fecb057c",
-    "kill_time": "2026-03-25T20:43:24Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002226,
-    "solar_system_name": "Thebeka",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2121080491,
-      "character_name": "Apocalyptoxx",
-      "corporation_id": 98814595,
-      "corporation_name": "Akaishi Knowledge Syndicate",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134271379/",
-    "total_value": 1501696971.64,
-    "final_attacker": {
-      "character_name": "Jackson Jaymes",
-      "corporation_name": "Trent Industries",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 134270447,
-    "killmail_hash": "0beb3caa7b16896f8a2b00da3fe69f73c8dbd25e",
-    "kill_time": "2026-03-25T19:47:03Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 93640015,
-      "character_name": "Bulba Talvanen",
-      "corporation_id": 98692241,
-      "corporation_name": "Wolfostan",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134270447/",
-    "total_value": 7528700704.14,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 134268751,
-    "killmail_hash": "8c1f01d46946db78e9cd247ac493f7aadb0033cb",
-    "kill_time": "2026-03-25T18:02:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003548,
-    "solar_system_name": "Barira",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2122274726,
-      "character_name": "Anjinho",
-      "corporation_id": 98633527,
-      "corporation_name": "Venomous Rebels Industries",
-      "alliance_id": 99013049,
-      "alliance_name": "The Rebels Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134268751/",
-    "total_value": 1509661337.2,
-    "final_attacker": {
-      "character_name": "Wyrm Alnaden",
-      "corporation_name": "W.A.S.P",
-      "alliance_name": "Curatores Veritatis Alliance",
-      "ship_type_name": "Dramiel"
     }
   }
 ]
