@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134417887,
+    "killmail_hash": "3082bd2e0a776d9eb921c742d39ffbd27cc51fb3",
+    "kill_time": "2026-04-01T07:50:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2112776579,
+      "character_name": "Velkoz Cap",
+      "corporation_id": 98629361,
+      "corporation_name": "Plant Flower House Rabbit",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134417887/",
+    "total_value": 12082552864.19,
+    "final_attacker": {
+      "character_name": "SlayerRsBoxeR",
+      "corporation_name": "Kun-Lun",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 134410628,
     "killmail_hash": "a2cff5eb1cec3187a52d3cc90336ae49c301f44d",
     "kill_time": "2026-03-31T21:20:25Z",
@@ -1557,32 +1583,6 @@
       "corporation_name": "Alkaid Broken Army",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 134261897,
-    "killmail_hash": "e6a7f48094062458e0cd0150764f302bdc9dcc98",
-    "kill_time": "2026-03-25T08:20:17Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 587202421,
-      "character_name": "Katrine Lamont",
-      "corporation_id": 98729662,
-      "corporation_name": "Motherlands Hauling Service",
-      "alliance_id": 99003916,
-      "alliance_name": "Viral Society"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134261897/",
-    "total_value": 15931243785.96,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
