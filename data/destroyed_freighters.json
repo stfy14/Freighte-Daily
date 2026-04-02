@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134439305,
+    "killmail_hash": "18636fa5176fdfa1a12e550f8a2a7c3913f3894d",
+    "kill_time": "2026-04-02T13:02:54Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2115821634,
+      "character_name": "Ursula Beerquaffer",
+      "corporation_id": 98707560,
+      "corporation_name": "Optimistic Wasteland Inc.",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134439305/",
+    "total_value": 7056047984.71,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 134437930,
+    "killmail_hash": "5342e30abef0a8ecb36edb43aab38168c238ccf4",
+    "kill_time": "2026-04-02T11:00:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1153276184,
+      "character_name": "Wild Baragoz",
+      "corporation_id": 98780854,
+      "corporation_name": "xXRussian SpaceXx",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134437930/",
+    "total_value": 6440943319.8,
+    "final_attacker": {
+      "character_name": "Wild Valenok",
+      "corporation_name": "Interstellar Scum",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
     "killmail_id": 134434441,
     "killmail_hash": "ad8e422150ce3c6cb121605aca4bb7dd3c27ccbe",
     "kill_time": "2026-04-02T04:13:57Z",
@@ -1427,32 +1479,6 @@
       "corporation_name": "Reliables Inc",
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Babaroga"
-    }
-  },
-  {
-    "killmail_id": 134281520,
-    "killmail_hash": "1e0f99dac49096a1c01669e16aa9bb1b6be08ece",
-    "kill_time": "2026-03-26T12:36:01Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1009682609,
-      "character_name": "caprimick",
-      "corporation_id": 98077648,
-      "corporation_name": "Island Assault Force",
-      "alliance_id": 99014878,
-      "alliance_name": "Fortuna Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134281520/",
-    "total_value": 1460264597,
-    "final_attacker": {
-      "character_name": "MystinaCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Widow"
     }
   }
 ]
