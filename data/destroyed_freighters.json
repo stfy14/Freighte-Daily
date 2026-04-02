@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134434441,
+    "killmail_hash": "ad8e422150ce3c6cb121605aca4bb7dd3c27ccbe",
+    "kill_time": "2026-04-02T04:13:57Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113218321,
+      "character_name": "The Booty Warrier",
+      "corporation_id": 98758649,
+      "corporation_name": "Swiggity Swooty I'm coming for that B00TY",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134434441/",
+    "total_value": 7312434986.37,
+    "final_attacker": {
+      "character_name": "Smuggle Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 134428806,
     "killmail_hash": "f6c746b45c3902ddab5acbabba611fe9750f3e23",
     "kill_time": "2026-04-01T20:38:06Z",
@@ -101,6 +127,32 @@
       "corporation_name": "Kun-Lun",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 134416031,
+    "killmail_hash": "900f4d2a368b992b75ea822daa39d86253dc75de",
+    "kill_time": "2026-04-01T04:45:32Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113977922,
+      "character_name": "fk st",
+      "corporation_id": 98807825,
+      "corporation_name": "Chi Gua Auxiliary",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134416031/",
+    "total_value": 8050416704.6,
+    "final_attacker": {
+      "character_name": "Rabid Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
     }
   },
   {
