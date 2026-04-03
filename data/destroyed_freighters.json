@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134458722,
+    "killmail_hash": "dce5497c924eca1e52e1bf9caf137fe148a2d7af",
+    "kill_time": "2026-04-03T11:36:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2119853670,
+      "character_name": "MedusaCascade4",
+      "corporation_id": 667531913,
+      "corporation_name": "GoonWaffe",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134458722/",
+    "total_value": 1770103823.83,
+    "final_attacker": {
+      "character_name": "Custok Gaterau",
+      "corporation_name": "KarmaFleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Rorqual"
+    }
+  },
+  {
     "killmail_id": 134454741,
     "killmail_hash": "d9da48fc84281989f3b7ea27bc07e95dc964a173",
     "kill_time": "2026-04-03T05:04:15Z",
@@ -1453,84 +1479,6 @@
       "corporation_name": "Workers' Collectivization Bureau",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134300192,
-    "killmail_hash": "2c1632e823d84d619485b79ba4a29e27705c1221",
-    "kill_time": "2026-03-27T10:56:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2113936915,
-      "character_name": "Yoto Inkunen",
-      "corporation_id": 98555510,
-      "corporation_name": "Seventy-first cluster Corp.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134300192/",
-    "total_value": 5500503467.55,
-    "final_attacker": {
-      "character_name": "ChaosDuke Mayhem",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Moros"
-    }
-  },
-  {
-    "killmail_id": 134300084,
-    "killmail_hash": "152f1dc31d7542c8ae221df96a40ea4cc0bc2494",
-    "kill_time": "2026-03-27T10:48:39Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 132171939,
-      "character_name": "boernl",
-      "corporation_id": 1311513105,
-      "corporation_name": "Fallen Angel's",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134300084/",
-    "total_value": 10667894090.62,
-    "final_attacker": {
-      "character_name": "zLegion K",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134300075,
-    "killmail_hash": "ed8cf354d3ef7fabfe595c55f23ba2d0cf415bac",
-    "kill_time": "2026-03-27T10:47:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95781882,
-      "character_name": "Chuthulu Shimaya",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134300075/",
-    "total_value": 6812022000.85,
-    "final_attacker": {
-      "character_name": "l am Gundam",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
