@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134452456,
+    "killmail_hash": "f7988aaf6f8ef9b431c13428294684ccad711920",
+    "kill_time": "2026-04-03T02:08:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2115165643,
+      "character_name": "Astra Iq",
+      "corporation_id": 98677174,
+      "corporation_name": "Omni Defense Intelligence Network",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134452456/",
+    "total_value": 1445720238.2,
+    "final_attacker": {
+      "character_name": "EF Delta",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 134449737,
+    "killmail_hash": "42f34fd031205c4454c37d49fa1844f471337988",
+    "kill_time": "2026-04-02T22:38:16Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003805,
+    "solar_system_name": "Gare",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2123920152,
+      "character_name": "CptCrayons",
+      "corporation_id": 98811330,
+      "corporation_name": "Stellar Nexus",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134449737/",
+    "total_value": 1969281963.26,
+    "final_attacker": {
+      "character_name": "Prodobrey",
+      "corporation_name": "Special operations forces SOF",
+      "alliance_name": null,
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
     "killmail_id": 134447085,
     "killmail_hash": "99921916a0c5a31c4d4d61532bd95a12063d0d6d",
     "kill_time": "2026-04-02T20:11:49Z",
@@ -1453,58 +1505,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134295041,
-    "killmail_hash": "74e753b0890a613d43a97323f0edd3e6c95fab94",
-    "kill_time": "2026-03-27T02:33:08Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003834,
-    "solar_system_name": "Chardalane",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2124052002,
-      "character_name": "Cornelius York",
-      "corporation_id": 98280176,
-      "corporation_name": "Feuersturm am Rhein",
-      "alliance_id": 99014695,
-      "alliance_name": "Blackout Protocol"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134295041/",
-    "total_value": 7251684061.18,
-    "final_attacker": {
-      "character_name": "Kasper Skov",
-      "corporation_name": "Constantine.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 134292823,
-    "killmail_hash": "e3441c179b5d16da64233d2ff6b1de28784eb71f",
-    "kill_time": "2026-03-26T23:48:28Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90987367,
-      "character_name": "Mark Medina Ambraelle",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134292823/",
-    "total_value": 7227173519.53,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
