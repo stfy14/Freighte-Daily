@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134477098,
+    "killmail_hash": "dab543f22561886a397ce53799040471552e8558",
+    "kill_time": "2026-04-04T02:00:07Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002318,
+    "solar_system_name": "BNX-AS",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2120910556,
+      "character_name": "IronPatriot",
+      "corporation_id": 98169165,
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134477098/",
+    "total_value": 1674567344.87,
+    "final_attacker": {
+      "character_name": "Clovis Geass",
+      "corporation_name": "SCI Zenith",
+      "alliance_name": "Flying Dangerous",
+      "ship_type_name": "Paladin"
+    }
+  },
+  {
+    "killmail_id": 134473875,
+    "killmail_hash": "677f74f5ec6616d02c2eee7ddfed4deacf872964",
+    "kill_time": "2026-04-03T22:21:16Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000224,
+    "solar_system_name": "7-K5EL",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 92902603,
+      "character_name": "Walter Achasse",
+      "corporation_id": 98171228,
+      "corporation_name": "SergalJerk",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134473875/",
+    "total_value": 7593971186.27,
+    "final_attacker": {
+      "character_name": "Mara Nataari",
+      "corporation_name": "KarmaFleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 134465183,
     "killmail_hash": "e00fc4a0fc302ee51c910960d55526cc651919d6",
     "kill_time": "2026-04-03T16:26:35Z",
@@ -1453,58 +1505,6 @@
       "corporation_name": "State War Academy",
       "alliance_name": null,
       "ship_type_name": "Hurricane Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 134317733,
-    "killmail_hash": "db1df6f97d5760e930984a23b62333aa0a6f7bf8",
-    "kill_time": "2026-03-28T02:35:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 91274932,
-      "character_name": "SARAH C0NNER",
-      "corporation_id": 1500426012,
-      "corporation_name": "Event Horizon Plc.",
-      "alliance_id": 99013400,
-      "alliance_name": "OnlyAlts."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134317733/",
-    "total_value": 33354286504.74,
-    "final_attacker": {
-      "character_name": "Qfeuille",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Odysseus"
-    }
-  },
-  {
-    "killmail_id": 134317051,
-    "killmail_hash": "1357325c5aa14967e73bd83cf44e99a7e1f68f04",
-    "kill_time": "2026-03-28T02:01:56Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2118608670,
-      "character_name": "healday",
-      "corporation_id": 98825478,
-      "corporation_name": "The Night Fae Syndicate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134317051/",
-    "total_value": 5575277597.22,
-    "final_attacker": {
-      "character_name": "Maroon'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
