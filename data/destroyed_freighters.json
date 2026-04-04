@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134489950,
+    "killmail_hash": "23582628e841d3b89eeafd28542906dd914257c6",
+    "kill_time": "2026-04-04T15:27:34Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 480870832,
+      "character_name": "Aten Eretria",
+      "corporation_id": 98826717,
+      "corporation_name": "Warforged Militants",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134489950/",
+    "total_value": 6920599287.39,
+    "final_attacker": {
+      "character_name": "Carl O'Neill",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 134484916,
     "killmail_hash": "5934555461b968c244f3e0ce8fc20743b53b5d7c",
     "kill_time": "2026-04-04T10:59:58Z",
@@ -1427,84 +1453,6 @@
       "corporation_name": "jUST DO It..",
       "alliance_name": null,
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 134331874,
-    "killmail_hash": "dede3dfb5554df94e90bcf86669f626417d08cd0",
-    "kill_time": "2026-03-28T16:08:57Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115648216,
-      "character_name": "uCall-iHaul",
-      "corporation_id": 1000066,
-      "corporation_name": "Viziam",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134331874/",
-    "total_value": 3699134255.77,
-    "final_attacker": {
-      "character_name": "Assplosion Kboom",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134330651,
-    "killmail_hash": "3e08dd6311175322b65a65f1abef9f5c31ea2b05",
-    "kill_time": "2026-03-28T15:38:50Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123761156,
-      "character_name": "frani",
-      "corporation_id": 98758017,
-      "corporation_name": "Cryonic Origin",
-      "alliance_id": 99013786,
-      "alliance_name": "Cryonic Origin Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134330651/",
-    "total_value": 4035423933.96,
-    "final_attacker": {
-      "character_name": "Zah Lewt Inspector",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134328466,
-    "killmail_hash": "af35ea6f8f2d762d8f8b9b484ade9d69a68ca75b",
-    "kill_time": "2026-03-28T14:38:06Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30004333,
-    "solar_system_name": "BKG-Q2",
-    "region_name": "Branch",
-    "victim": {
-      "character_id": 94737379,
-      "character_name": "Primys Askold",
-      "corporation_id": 98403073,
-      "corporation_name": "S0viet Uni0n",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134328466/",
-    "total_value": 7450500594.25,
-    "final_attacker": {
-      "character_name": "Stevenson Price",
-      "corporation_name": "Kriegsmarinewerft",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
