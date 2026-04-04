@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134477483,
+    "killmail_hash": "ef941a480f91b68348391c9311921c8cc8598e01",
+    "kill_time": "2026-04-04T02:31:13Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91378854,
+      "character_name": "Kayou Aldeshaar",
+      "corporation_id": 98769211,
+      "corporation_name": "Yamato Tech Solutions",
+      "alliance_id": 99011223,
+      "alliance_name": "Sigma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134477483/",
+    "total_value": 7918897944.65,
+    "final_attacker": {
+      "character_name": "Navy'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134477098,
     "killmail_hash": "dab543f22561886a397ce53799040471552e8558",
     "kill_time": "2026-04-04T02:00:07Z",
@@ -23,6 +49,32 @@
       "corporation_name": "SCI Zenith",
       "alliance_name": "Flying Dangerous",
       "ship_type_name": "Paladin"
+    }
+  },
+  {
+    "killmail_id": 134476134,
+    "killmail_hash": "43fcbaec0127785d068e0043bf68f5f78efeabea",
+    "kill_time": "2026-04-04T00:51:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113936915,
+      "character_name": "Yoto Inkunen",
+      "corporation_id": 98555510,
+      "corporation_name": "Seventy-first cluster Corp.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134476134/",
+    "total_value": 4523327324.32,
+    "final_attacker": {
+      "character_name": "Violet'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -1427,84 +1479,6 @@
       "corporation_name": "Chaos arbiter",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 134319130,
-    "killmail_hash": "183d74da62800c43b23bd4f2de56c68f6dbf339a",
-    "kill_time": "2026-03-28T04:04:36Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30005089,
-    "solar_system_name": "TDP-T3",
-    "region_name": "Perrigen Falls",
-    "victim": {
-      "character_id": 1834143203,
-      "character_name": "Eredrius",
-      "corporation_id": 98228242,
-      "corporation_name": "WORLDSTAR HIPHOP",
-      "alliance_id": 99007887,
-      "alliance_name": "Brotherhood of Spacers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134319130/",
-    "total_value": 2789405677.7,
-    "final_attacker": {
-      "character_name": "Nolan Dovanna",
-      "corporation_name": "The Reason is Treason",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134318364,
-    "killmail_hash": "c8a3455e0ee313d06453428e0a81dc2530670a6e",
-    "kill_time": "2026-03-28T03:13:56Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2124235503,
-      "character_name": "Grassbythehome1701",
-      "corporation_id": 98829600,
-      "corporation_name": "TRAVA-U-DOMA",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134318364/",
-    "total_value": 1487349665.81,
-    "final_attacker": {
-      "character_name": "smater van",
-      "corporation_name": "Solo Man Fleet",
-      "alliance_name": "Renminbi Alliance",
-      "ship_type_name": "Babaroga"
-    }
-  },
-  {
-    "killmail_id": 134318066,
-    "killmail_hash": "185a6d7cdb54dd2769fecc9c2e6ea9665350e913",
-    "kill_time": "2026-03-28T02:53:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004716,
-    "solar_system_name": "4K-TRB",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 91745464,
-      "character_name": "jacksir Huren",
-      "corporation_id": 98760719,
-      "corporation_name": "The Bannermen",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134318066/",
-    "total_value": 4008484338.54,
-    "final_attacker": {
-      "character_name": "Olise10",
-      "corporation_name": "State War Academy",
-      "alliance_name": null,
-      "ship_type_name": "Hurricane Fleet Issue"
     }
   }
 ]
