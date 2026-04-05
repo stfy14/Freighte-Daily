@@ -572,6 +572,32 @@
     }
   },
   {
+    "killmail_id": 134464598,
+    "killmail_hash": "bc0a6743db4e1f7457f435a5141c6c4e285dc8a3",
+    "kill_time": "2026-04-03T15:59:41Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 96592002,
+      "character_name": "Fabulous Brian",
+      "corporation_id": 98457718,
+      "corporation_name": "Circular Light",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134464598/",
+    "total_value": 1651833288.11,
+    "final_attacker": {
+      "character_name": "Non Consensual Touches",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134464099,
     "killmail_hash": "9bff69bc79b997bc65b8ab0bbad6acef6143752b",
     "kill_time": "2026-04-03T15:41:34Z",
@@ -647,6 +673,32 @@
       "corporation_name": "Dominion Guild",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 134461287,
+    "killmail_hash": "85b49d04b63bd266bb598f162ce338a1f74f86bd",
+    "kill_time": "2026-04-03T13:56:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2117841315,
+      "character_name": "Comwek",
+      "corporation_id": 1000171,
+      "corporation_name": "Republic University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134461287/",
+    "total_value": 2024261368.28,
+    "final_attacker": {
+      "character_name": "Bless This Drop",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -1661,32 +1713,6 @@
       "corporation_name": "Axis of Evil Emporium Imperium",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134354848,
-    "killmail_hash": "a079460065da27d45436dfb9838d7ee30a9bed9d",
-    "kill_time": "2026-03-29T10:44:10Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 94638529,
-      "character_name": "Daniel Zeen",
-      "corporation_id": 98757855,
-      "corporation_name": "Coffin logstics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134354848/",
-    "total_value": 14974255696.06,
-    "final_attacker": {
-      "character_name": "Odyssey 2049",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
