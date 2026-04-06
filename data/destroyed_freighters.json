@@ -1948,57 +1948,5 @@
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Bhaalgorn"
     }
-  },
-  {
-    "killmail_id": 134379754,
-    "killmail_hash": "cee86dd0efc6a22695af4cf640ff32518e5aa506",
-    "kill_time": "2026-03-30T10:52:21Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96384820,
-      "character_name": "Memolus Berg",
-      "corporation_id": 98829114,
-      "corporation_name": "Memos Schwaebische Ingenieurskunst",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134379754/",
-    "total_value": 8032939307.06,
-    "final_attacker": {
-      "character_name": "zLegion M",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 134379574,
-    "killmail_hash": "b83ecc68904ed511fe00d33124132a30a1eee854",
-    "kill_time": "2026-03-30T10:33:24Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 92585279,
-      "character_name": "bambina Miner",
-      "corporation_id": 98808126,
-      "corporation_name": "The Empyrean Hold",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134379574/",
-    "total_value": 8917183796.41,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
   }
 ]
