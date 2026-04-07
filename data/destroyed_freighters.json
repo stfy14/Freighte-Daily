@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134564706,
+    "killmail_hash": "0fbf5ee7c195c2705c608662568707f76ea9bb30",
+    "kill_time": "2026-04-07T09:06:45Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002489,
+    "solar_system_name": "Atioth",
+    "region_name": "Geminate",
+    "victim": {
+      "character_id": 412604954,
+      "character_name": "Rykky",
+      "corporation_id": 98718076,
+      "corporation_name": "GSF Logistics and Posting Reserves",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134564706/",
+    "total_value": 38118466588.56,
+    "final_attacker": {
+      "character_name": "DOo An",
+      "corporation_name": "Ros Shovel Corporation",
+      "alliance_name": "Siberian Squads",
+      "ship_type_name": "Ferox"
+    }
+  },
+  {
     "killmail_id": 134559967,
     "killmail_hash": "753df0a0edabf58504ffd1189e3def03475276b7",
     "kill_time": "2026-04-07T03:10:01Z",
@@ -1814,32 +1840,6 @@
     "total_value": 10282386012.66,
     "final_attacker": {
       "character_name": "zLegion Q",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 134398023,
-    "killmail_hash": "3987a17431f7b139c526eeff4b52bc9b8b42e67b",
-    "kill_time": "2026-03-31T08:07:15Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95537848,
-      "character_name": "Azarzin Khoziz",
-      "corporation_id": 98812424,
-      "corporation_name": "WARCR1ME",
-      "alliance_id": 99008783,
-      "alliance_name": "Olde Guarde Historical Preservation Society"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134398023/",
-    "total_value": 7028546341.18,
-    "final_attacker": {
-      "character_name": "zLegion C",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
