@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 134577033,
+    "killmail_hash": "e7c07a073f75c462bd299d024c01b9ce92f4914c",
+    "kill_time": "2026-04-07T19:22:07Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002507,
+    "solar_system_name": "Abudban",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2123070087,
+      "character_name": "Cesar92-FR",
+      "corporation_id": 98770714,
+      "corporation_name": "MK-Techno",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134577033/",
+    "total_value": 1354143892.88,
+    "final_attacker": {
+      "character_name": "Oxinome",
+      "corporation_name": "Bangzhu Cartel",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Onyx"
+    }
+  },
+  {
+    "killmail_id": 134576359,
+    "killmail_hash": "0823160e3064a3385ab5f43d3346aae187802503",
+    "kill_time": "2026-04-07T18:53:36Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 125297222,
+      "character_name": "glen fidditch",
+      "corporation_id": 98752832,
+      "corporation_name": "Triple Space Baboons",
+      "alliance_id": 99012042,
+      "alliance_name": "Fanatic Legion."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134576359/",
+    "total_value": 7042294623.02,
+    "final_attacker": {
+      "character_name": "Loredana Cameron",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 134576230,
+    "killmail_hash": "7a6ff491548ce6322f56944c688e0769a54fa47f",
+    "kill_time": "2026-04-07T18:47:50Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002507,
+    "solar_system_name": "Abudban",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 91421377,
+      "character_name": "Ted Cisse",
+      "corporation_id": 98320138,
+      "corporation_name": "Lanisters",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134576230/",
+    "total_value": 1500798062.67,
+    "final_attacker": {
+      "character_name": "Oxinome",
+      "corporation_name": "Bangzhu Cartel",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Onyx"
+    }
+  },
+  {
     "killmail_id": 134570377,
     "killmail_hash": "30743f5400a26938d88dbc70c7529fe152059f63",
     "kill_time": "2026-04-07T14:12:31Z",
