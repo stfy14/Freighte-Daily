@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134559967,
+    "killmail_hash": "753df0a0edabf58504ffd1189e3def03475276b7",
+    "kill_time": "2026-04-07T03:10:01Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003726,
+    "solar_system_name": "Y-MPWL",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2123857568,
+      "character_name": "Toasterknight",
+      "corporation_id": 98821024,
+      "corporation_name": "Custodes Leonis Dentis",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134559967/",
+    "total_value": 1379955325.66,
+    "final_attacker": {
+      "character_name": "Sam Kosho",
+      "corporation_name": "Sodium Chloride Mining Institute",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134556079,
+    "killmail_hash": "d510976816ca6ca3ec603a30598c5edab52f1a5f",
+    "kill_time": "2026-04-07T00:01:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002982,
+    "solar_system_name": "Rahadalon",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 814224243,
+      "character_name": "RedDragon Eidolon",
+      "corporation_id": 98391959,
+      "corporation_name": "Graig Cyson",
+      "alliance_id": 99012942,
+      "alliance_name": "Kumo Yuki Nousagi Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134556079/",
+    "total_value": 1639174020.82,
+    "final_attacker": {
+      "character_name": "Uncle Dangler",
+      "corporation_name": "Aggressive Neutity",
+      "alliance_name": "Desolate.",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 134549130,
     "killmail_hash": "f502bbfeb6db73bfae28866e6867ec581ff49d2e",
     "kill_time": "2026-04-06T19:51:20Z",
@@ -1817,110 +1869,6 @@
       "corporation_name": "Meta Zero",
       "alliance_name": "Meta Reloaded",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 134394947,
-    "killmail_hash": "8c21de3cc28ee2730a8637edeab6bf01e2deda21",
-    "kill_time": "2026-03-31T03:08:48Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003061,
-    "solar_system_name": "Mormelot",
-    "region_name": "Everyshore",
-    "victim": {
-      "character_id": 2113280861,
-      "character_name": "Good Hunters",
-      "corporation_id": 98646873,
-      "corporation_name": "SOLAR TRADE WIND CORPORATION",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134394947/",
-    "total_value": 2597996768.04,
-    "final_attacker": {
-      "character_name": "phantomdragonx",
-      "corporation_name": "Eagle Wing Industries",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 134393548,
-    "killmail_hash": "c96553ec5eacb87fd1b1faaab8fe08a7133d2050",
-    "kill_time": "2026-03-31T01:27:09Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123771141,
-      "character_name": "Warlock Industries Event",
-      "corporation_id": 98797773,
-      "corporation_name": "Warlock Industries Corporation",
-      "alliance_id": 99014589,
-      "alliance_name": "Warlock Industries Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134393548/",
-    "total_value": 2357406923.61,
-    "final_attacker": {
-      "character_name": "Rlyx",
-      "corporation_name": "Squatch Squad",
-      "alliance_name": null,
-      "ship_type_name": "Golem"
-    }
-  },
-  {
-    "killmail_id": 134392082,
-    "killmail_hash": "37c610fed07ba0ee7c6ee12cc503e18380a4424d",
-    "kill_time": "2026-03-30T23:11:56Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 825559307,
-      "character_name": "Simorgh DaSilva",
-      "corporation_id": 98588489,
-      "corporation_name": "NO PAIN NO STAIN",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134392082/",
-    "total_value": 3221504357.39,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 134391309,
-    "killmail_hash": "64396a36ad966f055065bb5069d33a25afcadb75",
-    "kill_time": "2026-03-30T22:03:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 956094612,
-      "character_name": "Farrow",
-      "corporation_id": 98641023,
-      "corporation_name": "Gazini industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134391309/",
-    "total_value": 1854741402.39,
-    "final_attacker": {
-      "character_name": "SurpriseButtsecks",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
