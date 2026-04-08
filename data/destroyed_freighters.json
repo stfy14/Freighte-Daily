@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134591201,
+    "killmail_hash": "fe677c70e841e0c489ee283c518ac7345daf063d",
+    "kill_time": "2026-04-08T13:25:55Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2113483290,
+      "character_name": "Bia Kurvora",
+      "corporation_id": 98504806,
+      "corporation_name": "Relentless Mercenaries",
+      "alliance_id": 99011332,
+      "alliance_name": "Malthael Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134591201/",
+    "total_value": 3291259302.96,
+    "final_attacker": {
+      "character_name": "Harlon Smart",
+      "corporation_name": "Temple of Tuvan Orth",
+      "alliance_name": "Guardians of Tranquility",
+      "ship_type_name": "Abaddon"
+    }
+  },
+  {
+    "killmail_id": 134588987,
+    "killmail_hash": "56a968de050ae865a9ce0b697ce91d37327bd6fd",
+    "kill_time": "2026-04-08T11:10:07Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 92942061,
+      "character_name": "Ria Dimaloun",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134588987/",
+    "total_value": 10747704104.38,
+    "final_attacker": {
+      "character_name": "Wrik Hoover",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 134582749,
     "killmail_hash": "c98b12d78682feb74ecc8a7edb3e6e518779620a",
     "kill_time": "2026-04-08T01:15:34Z",
@@ -1843,32 +1895,6 @@
       "corporation_name": "The Stone Garden",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134419714,
-    "killmail_hash": "6b9328a05b69e4183769a800df1d1cc1f2bde2ed",
-    "kill_time": "2026-04-01T10:54:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2117234440,
-      "character_name": "WASP-6b",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134419714/",
-    "total_value": 1459193984.03,
-    "final_attacker": {
-      "character_name": "masty",
-      "corporation_name": "Commonwealth Mercenaries",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Proteus"
     }
   }
 ]
