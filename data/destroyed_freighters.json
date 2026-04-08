@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134582749,
+    "killmail_hash": "c98b12d78682feb74ecc8a7edb3e6e518779620a",
+    "kill_time": "2026-04-08T01:15:34Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30004396,
+    "solar_system_name": "Y-1918",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 450669595,
+      "character_name": "Kalixa Hihro",
+      "corporation_id": 98790350,
+      "corporation_name": "Unprofitable Ventures Inc.",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134582749/",
+    "total_value": 7096099815.03,
+    "final_attacker": {
+      "character_name": "Kaedorin Vassaleth",
+      "corporation_name": "Dimensional Rift Marauders",
+      "alliance_name": "Rainbow Dash Alliance",
+      "ship_type_name": "Osprey Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 134581459,
+    "killmail_hash": "16a287bff365d315034c2637d34416f14664bac1",
+    "kill_time": "2026-04-07T23:34:07Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2116437693,
+      "character_name": "Jail Ostus",
+      "corporation_id": 98665044,
+      "corporation_name": "Xab Ibi Corporationhhh",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134581459/",
+    "total_value": 13588879710.09,
+    "final_attacker": {
+      "character_name": "bindevent",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 134577033,
     "killmail_hash": "e7c07a073f75c462bd299d024c01b9ce92f4914c",
     "kill_time": "2026-04-07T19:22:07Z",
@@ -1869,32 +1921,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134410628,
-    "killmail_hash": "a2cff5eb1cec3187a52d3cc90336ae49c301f44d",
-    "kill_time": "2026-03-31T21:20:25Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 923178608,
-      "character_name": "pumpdonut",
-      "corporation_id": 98685084,
-      "corporation_name": "The W.O.L.F",
-      "alliance_id": 99006751,
-      "alliance_name": "What Could Possibly Go Wr0ng"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134410628/",
-    "total_value": 17005100439.21,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Panther"
     }
   }
 ]
