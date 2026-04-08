@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134593835,
+    "killmail_hash": "2789500cb4ed5518a913f40688e17ea9a0e84fb1",
+    "kill_time": "2026-04-08T15:44:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2119864510,
+      "character_name": "Aniki C",
+      "corporation_id": 98797587,
+      "corporation_name": "Aniki Heavy Industry",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134593835/",
+    "total_value": 1403664152.63,
+    "final_attacker": {
+      "character_name": "Sna Revenger",
+      "corporation_name": "Euphoria.",
+      "alliance_name": "Ranger Regiment",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 134593114,
+    "killmail_hash": "4a4a9cb345cae00e9aa6562a576d59e55d81139d",
+    "kill_time": "2026-04-08T15:01:07Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2115277310,
+      "character_name": "Isky gen",
+      "corporation_id": 98507576,
+      "corporation_name": "Phantom Mist Trade Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134593114/",
+    "total_value": 14656011513.47,
+    "final_attacker": {
+      "character_name": "Yukio Kuchki",
+      "corporation_name": "Long Pig Luncheon Meat",
+      "alliance_name": "Sending Thots And Players",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 134591201,
     "killmail_hash": "fe677c70e841e0c489ee283c518ac7345daf063d",
     "kill_time": "2026-04-08T13:25:55Z",
