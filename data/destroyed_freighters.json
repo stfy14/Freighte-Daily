@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134597137,
+    "killmail_hash": "622ed6b2d7c00c55dcede7d0ba85cdb3781d064c",
+    "kill_time": "2026-04-08T18:52:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003792,
+    "solar_system_name": "Ostingele",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2112235785,
+      "character_name": "Ronny Keinfrustuck",
+      "corporation_id": 98545105,
+      "corporation_name": "Free Industrialist Liberation Front",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134597137/",
+    "total_value": 2602900393.05,
+    "final_attacker": {
+      "character_name": "Drake Azh0g",
+      "corporation_name": "Chimp Hoons Export and Expo Service",
+      "alliance_name": "Scary Wormhole People",
+      "ship_type_name": "Caracal Navy Issue"
+    }
+  },
+  {
     "killmail_id": 134593835,
     "killmail_hash": "2789500cb4ed5518a913f40688e17ea9a0e84fb1",
     "kill_time": "2026-04-08T15:44:15Z",
@@ -1895,58 +1921,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134428806,
-    "killmail_hash": "f6c746b45c3902ddab5acbabba611fe9750f3e23",
-    "kill_time": "2026-04-01T20:38:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 96592437,
-      "character_name": "Adamas Cobon-Han",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134428806/",
-    "total_value": 31430130161.34,
-    "final_attacker": {
-      "character_name": "Odyssey 2049",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134428148,
-    "killmail_hash": "4c1ac301b202efb0c87e102069c1c1cb9e54eace",
-    "kill_time": "2026-04-01T19:58:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122808512,
-      "character_name": "Ordo Malleus Inquisitor",
-      "corporation_id": 98776878,
-      "corporation_name": "Orchid Combat Patrol and Security Services",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134428148/",
-    "total_value": 1450922557.24,
-    "final_attacker": {
-      "character_name": "RoflanPomojka",
-      "corporation_name": "The Stone Garden",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
