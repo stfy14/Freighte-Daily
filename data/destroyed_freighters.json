@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134612039,
+    "killmail_hash": "e957b1a5d8dd7f1286d135eeb44be2410e598bb1",
+    "kill_time": "2026-04-09T13:34:28Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116475717,
+      "character_name": "STIMPLYSTUFF Daniel",
+      "corporation_id": 98531454,
+      "corporation_name": "Asteroid Farm Unlimited",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134612039/",
+    "total_value": 7723538777.3,
+    "final_attacker": {
+      "character_name": "Dirtyjoe",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 134608424,
     "killmail_hash": "2140e60076a1d29f2a3bcb11ec777378e7533c10",
     "kill_time": "2026-04-09T08:23:14Z",
@@ -2025,58 +2051,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134439305,
-    "killmail_hash": "18636fa5176fdfa1a12e550f8a2a7c3913f3894d",
-    "kill_time": "2026-04-02T13:02:54Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2115821634,
-      "character_name": "Ursula Beerquaffer",
-      "corporation_id": 98707560,
-      "corporation_name": "Optimistic Wasteland Inc.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134439305/",
-    "total_value": 7056047984.71,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 134437930,
-    "killmail_hash": "5342e30abef0a8ecb36edb43aab38168c238ccf4",
-    "kill_time": "2026-04-02T11:00:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1153276184,
-      "character_name": "Wild Baragoz",
-      "corporation_id": 98780854,
-      "corporation_name": "xXRussian SpaceXx",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134437930/",
-    "total_value": 6440943319.8,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Vargur"
     }
   }
 ]
