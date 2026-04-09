@@ -26,6 +26,32 @@
     }
   },
   {
+    "killmail_id": 134603410,
+    "killmail_hash": "a680883798f4c0ee2a3ca1d9718206f2975fd2c5",
+    "kill_time": "2026-04-09T01:09:50Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002725,
+    "solar_system_name": "Goinard",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124253898,
+      "character_name": "Humilehan Viliana",
+      "corporation_id": 98830524,
+      "corporation_name": "JY Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134603410/",
+    "total_value": 3073453382.14,
+    "final_attacker": {
+      "character_name": "Medronho",
+      "corporation_name": "SCREECHING GRASS",
+      "alliance_name": "Bully Brigade",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 134597137,
     "killmail_hash": "622ed6b2d7c00c55dcede7d0ba85cdb3781d064c",
     "kill_time": "2026-04-08T18:52:38Z",
@@ -1921,32 +1947,6 @@
       "corporation_name": "Interstellar Scum",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 134434441,
-    "killmail_hash": "ad8e422150ce3c6cb121605aca4bb7dd3c27ccbe",
-    "kill_time": "2026-04-02T04:13:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113218321,
-      "character_name": "The Booty Warrier",
-      "corporation_id": 98758649,
-      "corporation_name": "Swiggity Swooty I'm coming for that B00TY",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134434441/",
-    "total_value": 7312434986.37,
-    "final_attacker": {
-      "character_name": "Smuggle Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
     }
   }
 ]
