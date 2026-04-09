@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 134608424,
+    "killmail_hash": "2140e60076a1d29f2a3bcb11ec777378e7533c10",
+    "kill_time": "2026-04-09T08:23:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1521005509,
+      "character_name": "Yeiber",
+      "corporation_id": 98830502,
+      "corporation_name": "LV426 Resource Authority",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134608424/",
+    "total_value": 2292042840.39,
+    "final_attacker": {
+      "character_name": "zLegion 27",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134606983,
+    "killmail_hash": "3a9c27a3b1e471d87bffcbe17357688c03e8f093",
+    "kill_time": "2026-04-09T05:58:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93134900,
+      "character_name": "El Rumblo",
+      "corporation_id": 1495741119,
+      "corporation_name": "Red Frog Freight",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134606983/",
+    "total_value": 1334790867.03,
+    "final_attacker": {
+      "character_name": "zLegion 09",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134605618,
+    "killmail_hash": "0904bf50c5850f22361894b05743ad94f7f1b7d0",
+    "kill_time": "2026-04-09T03:59:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1103315765,
+      "character_name": "solon102",
+      "corporation_id": 98411567,
+      "corporation_name": "W-Space Bank",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134605618/",
+    "total_value": 4405424161.61,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134605114,
+    "killmail_hash": "b09e25029408b8921f94949ddc2ab7286f0d8774",
+    "kill_time": "2026-04-09T03:28:44Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117611309,
+      "character_name": "Robinn",
+      "corporation_id": 98692494,
+      "corporation_name": "Robinn Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134605114/",
+    "total_value": 2330142633.63,
+    "final_attacker": {
+      "character_name": "zLegion 26",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 134604599,
     "killmail_hash": "28de30fc4b22743daf68227d80d7e3b078a9daa2",
     "kill_time": "2026-04-09T02:41:02Z",
@@ -49,6 +153,32 @@
       "corporation_name": "SCREECHING GRASS",
       "alliance_name": "Bully Brigade",
       "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 134602853,
+    "killmail_hash": "4d91e2678baf710df61803a4022c17bfec88c18c",
+    "kill_time": "2026-04-09T00:35:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122567081,
+      "character_name": "Samantha Shiyurida",
+      "corporation_id": 98589820,
+      "corporation_name": "Heavy Haulage Ltd",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134602853/",
+    "total_value": 1405298421.09,
+    "final_attacker": {
+      "character_name": "zLegion 27",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
     }
   },
   {
