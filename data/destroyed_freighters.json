@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 134653179,
+    "killmail_hash": "3d6fcaced41ba953abf7b1e6c6096d1d4d057455",
+    "kill_time": "2026-04-11T07:57:32Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2122510442,
+      "character_name": "wanglanlan",
+      "corporation_id": 98824507,
+      "corporation_name": "Fuxi Military Academy",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134653179/",
+    "total_value": 9506712717.94,
+    "final_attacker": {
+      "character_name": "Elena Stormbringer",
+      "corporation_name": "4S Corporation",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
+    "killmail_id": 134652004,
+    "killmail_hash": "7316716b5b74c0f6f0f3fd082fbc09bf6094c3de",
+    "kill_time": "2026-04-11T06:39:00Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121152180,
+      "character_name": "Pumon",
+      "corporation_id": 98802379,
+      "corporation_name": "Lala move Logistics Company",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134652004/",
+    "total_value": 7479861865.15,
+    "final_attacker": {
+      "character_name": "Ransack Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 134651574,
+    "killmail_hash": "f16b250427fc4e6a8ac3e5a0bfb566dcdcaefacc",
+    "kill_time": "2026-04-11T06:10:27Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2118644516,
+      "character_name": "xoukun",
+      "corporation_id": 98806403,
+      "corporation_name": "AOC Express",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134651574/",
+    "total_value": 7758476331.83,
+    "final_attacker": {
+      "character_name": "Flacorn",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Nemesis"
+    }
+  },
+  {
     "killmail_id": 134650755,
     "killmail_hash": "87098e0138da77e6a21767630c71832e50d8ad21",
     "kill_time": "2026-04-11T05:28:01Z",
@@ -2363,32 +2441,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 134481114,
-    "killmail_hash": "33f5fb486da899187be7e62205b8a00104666083",
-    "kill_time": "2026-04-04T06:23:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000871,
-    "solar_system_name": "WH-JCA",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 2112736971,
-      "character_name": "C4aoS Ikkala",
-      "corporation_id": 98446928,
-      "corporation_name": "Setcreasea Pallida Corporation",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134481114/",
-    "total_value": 1438376424.1,
-    "final_attacker": {
-      "character_name": "BadAzzBoss",
-      "corporation_name": "Bureau Inferno",
-      "alliance_name": "Sigma Grindset",
-      "ship_type_name": "Deimos"
     }
   }
 ]
