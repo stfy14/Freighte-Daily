@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 134648294,
+    "killmail_hash": "7f27a65a3eab715ef152fbc162f08d2a4dc41768",
+    "kill_time": "2026-04-11T02:49:10Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1233544028,
+      "character_name": "KimimaroX",
+      "corporation_id": 98822229,
+      "corporation_name": "Leviathan Minerals",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134648294/",
+    "total_value": 6039537385.39,
+    "final_attacker": {
+      "character_name": "Prime Admiral",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134645426,
+    "killmail_hash": "c3579fbd5364f2504b2139afa70157189e883293",
+    "kill_time": "2026-04-10T23:51:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 1174943787,
+      "character_name": "Minchow",
+      "corporation_id": 98648361,
+      "corporation_name": "Deadspace Excavations",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134645426/",
+    "total_value": 1617784271.02,
+    "final_attacker": {
+      "character_name": "Victor Jacobus",
+      "corporation_name": "The Tuskers",
+      "alliance_name": "The Tuskers Co.",
+      "ship_type_name": "Tempest"
+    }
+  },
+  {
+    "killmail_id": 134642592,
+    "killmail_hash": "f5c1b58da72cea00410d70c7725c5c19b72d5873",
+    "kill_time": "2026-04-10T21:06:06Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000185,
+    "solar_system_name": "Airaken",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95652720,
+      "character_name": "Eveta Scorvaa",
+      "corporation_id": 98705678,
+      "corporation_name": "Minmatar Fleet Logistics",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134642592/",
+    "total_value": 15555775286.98,
+    "final_attacker": {
+      "character_name": "fcyno9",
+      "corporation_name": "Totoro Time",
+      "alliance_name": "Insidious.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 134641822,
     "killmail_hash": "8c5c172f0c6e4e7bf22dcf747f6ee5afafe6336c",
     "kill_time": "2026-04-10T20:39:17Z",
@@ -2259,110 +2337,6 @@
       "corporation_name": "Bureau Inferno",
       "alliance_name": "Sigma Grindset",
       "ship_type_name": "Deimos"
-    }
-  },
-  {
-    "killmail_id": 134477483,
-    "killmail_hash": "ef941a480f91b68348391c9311921c8cc8598e01",
-    "kill_time": "2026-04-04T02:31:13Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91378854,
-      "character_name": "Kayou Aldeshaar",
-      "corporation_id": 98769211,
-      "corporation_name": "Yamato Tech Solutions",
-      "alliance_id": 99011223,
-      "alliance_name": "Sigma Grindset"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134477483/",
-    "total_value": 7918897944.65,
-    "final_attacker": {
-      "character_name": "Navy'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134477098,
-    "killmail_hash": "dab543f22561886a397ce53799040471552e8558",
-    "kill_time": "2026-04-04T02:00:07Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002318,
-    "solar_system_name": "BNX-AS",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 2120910556,
-      "character_name": "IronPatriot",
-      "corporation_id": 98169165,
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134477098/",
-    "total_value": 1674567344.87,
-    "final_attacker": {
-      "character_name": "Clovis Geass",
-      "corporation_name": "SCI Zenith",
-      "alliance_name": "Flying Dangerous",
-      "ship_type_name": "Paladin"
-    }
-  },
-  {
-    "killmail_id": 134476134,
-    "killmail_hash": "43fcbaec0127785d068e0043bf68f5f78efeabea",
-    "kill_time": "2026-04-04T00:51:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113936915,
-      "character_name": "Yoto Inkunen",
-      "corporation_id": 98555510,
-      "corporation_name": "Seventy-first cluster Corp.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134476134/",
-    "total_value": 4523327324.32,
-    "final_attacker": {
-      "character_name": "Violet'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134473875,
-    "killmail_hash": "677f74f5ec6616d02c2eee7ddfed4deacf872964",
-    "kill_time": "2026-04-03T22:21:16Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000224,
-    "solar_system_name": "7-K5EL",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 92902603,
-      "character_name": "Walter Achasse",
-      "corporation_id": 98171228,
-      "corporation_name": "SergalJerk",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134473875/",
-    "total_value": 7593971186.27,
-    "final_attacker": {
-      "character_name": "Mara Nataari",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Loki"
     }
   }
 ]
