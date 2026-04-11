@@ -2390,57 +2390,5 @@
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 134484916,
-    "killmail_hash": "5934555461b968c244f3e0ce8fc20743b53b5d7c",
-    "kill_time": "2026-04-04T10:59:58Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1459423844,
-      "character_name": "AlisaSeleznewa",
-      "corporation_id": 1000111,
-      "corporation_name": "Aliastra",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134484916/",
-    "total_value": 3229993502.65,
-    "final_attacker": {
-      "character_name": "Femida Pavlovna",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 134484022,
-    "killmail_hash": "72d5365ce93ef3f120492680431a55db442220fd",
-    "kill_time": "2026-04-04T09:49:59Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000156,
-    "solar_system_name": "Josameto",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 90045936,
-      "character_name": "MogulTheIII",
-      "corporation_id": 98090329,
-      "corporation_name": "Anthrax Systems",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134484022/",
-    "total_value": 2609020474.77,
-    "final_attacker": {
-      "character_name": "zLegion 04",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
   }
 ]
