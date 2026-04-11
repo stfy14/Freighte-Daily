@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 134660777,
+    "killmail_hash": "c52e3126b0c6defc579469ea1ccb7fddb486c3c3",
+    "kill_time": "2026-04-11T14:41:35Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001540,
+    "solar_system_name": "1I5-0V",
+    "region_name": "The Spire",
+    "victim": {
+      "character_id": 2114885467,
+      "character_name": "Eden Trade",
+      "corporation_id": 98588993,
+      "corporation_name": "New Eden Trade and Market",
+      "alliance_id": 99011416,
+      "alliance_name": "LinkNet"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134660777/",
+    "total_value": 2152682814.64,
+    "final_attacker": {
+      "character_name": "xSEARSYx",
+      "corporation_name": "Zero Fun Allowed",
+      "alliance_name": "xqtywiznalamywmodxfhhopawzpqyjdwrpeptuaenabjawdzku",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 134659800,
+    "killmail_hash": "7c2de95b838086be7f0a42cac4ef6d94abddfba8",
+    "kill_time": "2026-04-11T13:59:44Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2120851785,
+      "character_name": "Teundrorsin Fjon Darine",
+      "corporation_id": 98709916,
+      "corporation_name": "AWAKE LIONS",
+      "alliance_id": 99003995,
+      "alliance_name": "Invidia Gloriae Comes"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134659800/",
+    "total_value": 6552850310.25,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Rapier"
+    }
+  },
+  {
+    "killmail_id": 134659284,
+    "killmail_hash": "f06cb5f78670e14a7aca936541380a775f063b62",
+    "kill_time": "2026-04-11T13:38:48Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 96251074,
+      "character_name": "John Rasmussen",
+      "corporation_id": 98514900,
+      "corporation_name": "Shuttle Constructions",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134659284/",
+    "total_value": 8111393853.16,
+    "final_attacker": {
+      "character_name": "Super Chung",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
     "killmail_id": 134653179,
     "killmail_hash": "3d6fcaced41ba953abf7b1e6c6096d1d4d057455",
     "kill_time": "2026-04-11T07:57:32Z",
@@ -2363,32 +2441,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134489950,
-    "killmail_hash": "23582628e841d3b89eeafd28542906dd914257c6",
-    "kill_time": "2026-04-04T15:27:34Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 480870832,
-      "character_name": "Aten Eretria",
-      "corporation_id": 98826717,
-      "corporation_name": "Warforged Militants",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134489950/",
-    "total_value": 6920599287.39,
-    "final_attacker": {
-      "character_name": "Carl O'Neill",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
