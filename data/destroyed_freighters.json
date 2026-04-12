@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134687194,
+    "killmail_hash": "b0d0c637a0e4d0f26ddb14e00bf0a6a7fe3fb9c2",
+    "kill_time": "2026-04-12T08:24:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124200455,
+      "character_name": "HXD-2",
+      "corporation_id": 98829051,
+      "corporation_name": "YiBin Fleet",
+      "alliance_id": 99014768,
+      "alliance_name": "Storm Petrel Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134687194/",
+    "total_value": 4766602680.19,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134685244,
+    "killmail_hash": "7b1379673de39ee1f5420972106245a8adfe6266",
+    "kill_time": "2026-04-12T06:21:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123235611,
+      "character_name": "Grapefruit22",
+      "corporation_id": 98640415,
+      "corporation_name": "Pecunia Infinita",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134685244/",
+    "total_value": 4132787588.1,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134681819,
     "killmail_hash": "02c13efeed045579a813f222a328942e00e120ab",
     "kill_time": "2026-04-12T03:38:44Z",
@@ -2362,58 +2414,6 @@
       "character_name": "You Gunn LuvMiNuts",
       "corporation_name": "In Search of The Marauders Map",
       "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134509594,
-    "killmail_hash": "be7d416748082cace76ec6938bbe71134deb5ac2",
-    "kill_time": "2026-04-05T08:10:47Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 1229650617,
-      "character_name": "Jang Duvall",
-      "corporation_id": 98294509,
-      "corporation_name": "CLOUD TEMPLE",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134509594/",
-    "total_value": 9780205411.97,
-    "final_attacker": {
-      "character_name": "James Cropper",
-      "corporation_name": "Xynodyne",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 134507963,
-    "killmail_hash": "71cf9ed91f6e98c345670a4c0524171ad7e6cbb2",
-    "kill_time": "2026-04-05T06:20:30Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96173763,
-      "character_name": "Moe Hauler",
-      "corporation_id": 98734528,
-      "corporation_name": "The Phantom Anesthetist of Mattoon",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134507963/",
-    "total_value": 2840564602.42,
-    "final_attacker": {
-      "character_name": "google-was-my-idea",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
   }
