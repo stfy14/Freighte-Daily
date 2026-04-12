@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134693929,
+    "killmail_hash": "b24c96eb7c0d7fc660b2f440adbbac18f53664ef",
+    "kill_time": "2026-04-12T14:35:58Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 90835735,
+      "character_name": "Valena Swava",
+      "corporation_id": 98685084,
+      "corporation_name": "The W.O.L.F",
+      "alliance_id": 99006751,
+      "alliance_name": "What Could Possibly Go Wr0ng"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134693929/",
+    "total_value": 10731314618.08,
+    "final_attacker": {
+      "character_name": "ip100",
+      "corporation_name": "x13",
+      "alliance_name": "Train Wreck.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134692425,
+    "killmail_hash": "7b2182bbb6e5fcb00fed483e1738d39350271148",
+    "kill_time": "2026-04-12T13:27:00Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001000,
+    "solar_system_name": "K-IYNW",
+    "region_name": "Great Wildlands",
+    "victim": {
+      "character_id": 2121868748,
+      "character_name": "TheMightySaltdine",
+      "corporation_id": 98409330,
+      "corporation_name": "Ascendance",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134692425/",
+    "total_value": 1988538039.87,
+    "final_attacker": {
+      "character_name": "Major Vincent",
+      "corporation_name": "Freedom Path 101",
+      "alliance_name": "Muh Zkill...",
+      "ship_type_name": "Tholos"
+    }
+  },
+  {
     "killmail_id": 134687607,
     "killmail_hash": "85ba7bcd78cc16ea8328c6dbe7f462ddbc8ed389",
     "kill_time": "2026-04-12T08:51:44Z",
@@ -2467,84 +2519,6 @@
       "corporation_name": "Family Guy.",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 134515815,
-    "killmail_hash": "afa26860909f5c6c5c9d8d5d68de9cf4898b7c3b",
-    "kill_time": "2026-04-05T14:36:07Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002507,
-    "solar_system_name": "Abudban",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 1498060865,
-      "character_name": "Mazzeru Insomniak",
-      "corporation_id": 1000049,
-      "corporation_name": "Brutor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134515815/",
-    "total_value": 1366622329.83,
-    "final_attacker": {
-      "character_name": "Jamata Ki Yuso",
-      "corporation_name": "Cozy Mischief",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Tengu"
-    }
-  },
-  {
-    "killmail_id": 134515208,
-    "killmail_hash": "0618a7a1d838191bef8c0d16a5ec7fab1405fc1d",
-    "kill_time": "2026-04-05T14:09:50Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90900233,
-      "character_name": "Body Archer",
-      "corporation_id": 98138544,
-      "corporation_name": "Tea House",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134515208/",
-    "total_value": 2918760872.66,
-    "final_attacker": {
-      "character_name": "Dats'Alotta Damage",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134514170,
-    "killmail_hash": "68387666d7eb9dd68556333a6b0937260cfdecbd",
-    "kill_time": "2026-04-05T13:23:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 442635279,
-      "character_name": "Deamonicus",
-      "corporation_id": 98665644,
-      "corporation_name": "MASS-Logistics",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134514170/",
-    "total_value": 2110507190.92,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
     }
   }
 ]
