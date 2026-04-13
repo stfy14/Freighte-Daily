@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 134714683,
+    "killmail_hash": "7d16c3e275070add42c6e3dc4d261cd97c56fba7",
+    "kill_time": "2026-04-13T10:54:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002656,
+    "solar_system_name": "Auvergne",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113754774,
+      "character_name": "Mudaro Rogers",
+      "corporation_id": 98758017,
+      "corporation_name": "Cryonic Origin",
+      "alliance_id": 99013786,
+      "alliance_name": "Cryonic Origin Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134714683/",
+    "total_value": 1375778614.58,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Federation Customs",
+      "alliance_name": null,
+      "ship_type_name": "Roden Police Major"
+    }
+  },
+  {
+    "killmail_id": 134714556,
+    "killmail_hash": "44c8d66ecddf9bc601b7c7837e19ca8ed0d95e8b",
+    "kill_time": "2026-04-13T10:46:39Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96106156,
+      "character_name": "Jan Terona",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134714556/",
+    "total_value": 3805930104.61,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134713073,
+    "killmail_hash": "1fc74837c920b817088184d1222f3d286c7cfc74",
+    "kill_time": "2026-04-13T08:37:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1058271330,
+      "character_name": "Ollam Ri",
+      "corporation_id": 98104547,
+      "corporation_name": "Blackwatch Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134713073/",
+    "total_value": 9374482294.03,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134712842,
+    "killmail_hash": "1b2b2c7c823127d94d716ddc0f0578ff69658fad",
+    "kill_time": "2026-04-13T08:25:01Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115186004,
+      "character_name": "Bukyska Vikyska",
+      "corporation_id": 98701532,
+      "corporation_name": "Gathering of Creatures",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134712842/",
+    "total_value": 2835931294.67,
+    "final_attacker": {
+      "character_name": "13th Of Several",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 134711955,
     "killmail_hash": "c61f417c7c9758c7aacb821c4f53c0bf80293b0b",
     "kill_time": "2026-04-13T07:05:29Z",
@@ -23,6 +127,58 @@
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134711603,
+    "killmail_hash": "edf5c64852041c2fadd3ae689335768a682c65c8",
+    "kill_time": "2026-04-13T06:32:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115270885,
+      "character_name": "Skywolf Dacella",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134711603/",
+    "total_value": 1495997609.47,
+    "final_attacker": {
+      "character_name": "Kyip-Kyip-Kreeet Avar Chieftain",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134711366,
+    "killmail_hash": "1415f4a22641ccece5cb80a0bd6d542db347b8ac",
+    "kill_time": "2026-04-13T06:09:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95997783,
+      "character_name": "Mirabella OPPENHEIMER",
+      "corporation_id": 98693013,
+      "corporation_name": "Absolute Order XXV",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134711366/",
+    "total_value": 3049917255.4,
+    "final_attacker": {
+      "character_name": "IJN Noshiro",
+      "corporation_name": "Celestial Timekeepers",
+      "alliance_name": null,
+      "ship_type_name": "Gnosis"
     }
   },
   {
