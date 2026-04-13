@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134717430,
+    "killmail_hash": "642f1f1e4180184e5d4c2b7f499c0e00b273186a",
+    "kill_time": "2026-04-13T14:14:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122415352,
+      "character_name": "Ahtela Fumimasa",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134717430/",
+    "total_value": 1373809904.57,
+    "final_attacker": {
+      "character_name": "Tickle Bottom",
+      "corporation_name": "Your Killboard Our Playground",
+      "alliance_name": null,
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
     "killmail_id": 134714683,
     "killmail_hash": "7d16c3e275070add42c6e3dc4d261cd97c56fba7",
     "kill_time": "2026-04-13T10:54:23Z",
@@ -2389,32 +2415,6 @@
       "corporation_name": "KarmaFleet",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 134541763,
-    "killmail_hash": "378d102e02dc68251d7c74b5d409c5ab0b07f010",
-    "kill_time": "2026-04-06T14:45:19Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002507,
-    "solar_system_name": "Abudban",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2123618733,
-      "character_name": "Rens The Hauler",
-      "corporation_id": 98732983,
-      "corporation_name": "Dansk Handelsfoderationen",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134541763/",
-    "total_value": 3635127103.94,
-    "final_attacker": {
-      "character_name": "Cameron22",
-      "corporation_name": "Malakim Zealots",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
     }
   }
 ]
