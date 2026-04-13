@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134725659,
+    "killmail_hash": "2f4a1c76355432d3db09e7572272497e28fe299b",
+    "kill_time": "2026-04-13T20:42:46Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121448618,
+      "character_name": "Igorat O'Shaunnessey",
+      "corporation_id": 98775262,
+      "corporation_name": "The Peoples Republic of Interstellar Exploration",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134725659/",
+    "total_value": 1298153644.04,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134724969,
+    "killmail_hash": "c1627838b2e2380c252d545051191e519278372d",
+    "kill_time": "2026-04-13T20:10:14Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2115140945,
+      "character_name": "Dominicus Bouler",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134724969/",
+    "total_value": 8315129929.31,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Rapier"
+    }
+  },
+  {
     "killmail_id": 134717430,
     "killmail_hash": "642f1f1e4180184e5d4c2b7f499c0e00b273186a",
     "kill_time": "2026-04-13T14:14:51Z",
@@ -2388,32 +2440,6 @@
       "character_name": "Uncle Dangler",
       "corporation_name": "Aggressive Neutity",
       "alliance_name": "Desolate.",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 134549130,
-    "killmail_hash": "f502bbfeb6db73bfae28866e6867ec581ff49d2e",
-    "kill_time": "2026-04-06T19:51:20Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002440,
-    "solar_system_name": "BWF-ZZ",
-    "region_name": "Geminate",
-    "victim": {
-      "character_id": 2119903834,
-      "character_name": "10seconds",
-      "corporation_id": 98676128,
-      "corporation_name": "Fraternity Panda Investment",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134549130/",
-    "total_value": 8716811577.01,
-    "final_attacker": {
-      "character_name": "Mara Nataari",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Loki"
     }
   }
