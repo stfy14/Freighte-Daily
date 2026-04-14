@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134736016,
+    "killmail_hash": "4603801bea1df806f4e418cde52faa4d45d7046a",
+    "kill_time": "2026-04-14T11:49:08Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95112921,
+      "character_name": "Seth athema",
+      "corporation_id": 1063360566,
+      "corporation_name": "SUNDERING",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134736016/",
+    "total_value": 5473087751.96,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 134727299,
     "killmail_hash": "44bac608b71144d90dd73fcf14720f83b3f2283f",
     "kill_time": "2026-04-13T22:08:44Z",
@@ -2363,58 +2389,6 @@
       "corporation_name": "Goat to Go",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Abaddon"
-    }
-  },
-  {
-    "killmail_id": 134568172,
-    "killmail_hash": "f6f909a5354ca6a24b3416072dba17c07c94782e",
-    "kill_time": "2026-04-07T12:50:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001840,
-    "solar_system_name": "9RQ-L8",
-    "region_name": "Stain",
-    "victim": {
-      "character_id": 92470881,
-      "character_name": "MT Sha",
-      "corporation_id": 98537722,
-      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
-      "alliance_id": 99014835,
-      "alliance_name": "Skuffed Out."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134568172/",
-    "total_value": 1570652248.32,
-    "final_attacker": {
-      "character_name": "Voditel Karavanoff",
-      "corporation_name": "Ecliptic Control",
-      "alliance_name": "Ferrata Victrix",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134566176,
-    "killmail_hash": "041adff0df0121d2a1afc63b17d8aabac6cf37ab",
-    "kill_time": "2026-04-07T10:42:35Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123228226,
-      "character_name": "P-26 Freight04",
-      "corporation_id": 98749774,
-      "corporation_name": "The Bishops Logistics",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134566176/",
-    "total_value": 7551781404.12,
-    "final_attacker": {
-      "character_name": "Half Lyfe",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
     }
   }
 ]
