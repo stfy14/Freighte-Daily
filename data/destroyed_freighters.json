@@ -2572,57 +2572,5 @@
       "alliance_name": "Sending Thots And Players",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 134591201,
-    "killmail_hash": "fe677c70e841e0c489ee283c518ac7345daf063d",
-    "kill_time": "2026-04-08T13:25:55Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2113483290,
-      "character_name": "Bia Kurvora",
-      "corporation_id": 98504806,
-      "corporation_name": "Relentless Mercenaries",
-      "alliance_id": 99011332,
-      "alliance_name": "Malthael Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134591201/",
-    "total_value": 3291259302.96,
-    "final_attacker": {
-      "character_name": "Harlon Smart",
-      "corporation_name": "Temple of Tuvan Orth",
-      "alliance_name": "Guardians of Tranquility",
-      "ship_type_name": "Abaddon"
-    }
-  },
-  {
-    "killmail_id": 134588987,
-    "killmail_hash": "56a968de050ae865a9ce0b697ce91d37327bd6fd",
-    "kill_time": "2026-04-08T11:10:07Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92942061,
-      "character_name": "Ria Dimaloun",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134588987/",
-    "total_value": 10747704104.38,
-    "final_attacker": {
-      "character_name": "Wrik Hoover",
-      "corporation_name": "Hoover Inc.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
