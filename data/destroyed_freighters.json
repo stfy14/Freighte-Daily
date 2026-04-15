@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134762802,
+    "killmail_hash": "66b7d457e675371845ea240d87e0f257046f8464",
+    "kill_time": "2026-04-15T15:16:55Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122001726,
+      "character_name": "Fantine Sakuma",
+      "corporation_id": 98558375,
+      "corporation_name": "Project Omega Industries",
+      "alliance_id": 99000580,
+      "alliance_name": "Ignore This."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134762802/",
+    "total_value": 6768756454.13,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 134757428,
     "killmail_hash": "4ca371ab1c691f84a15d01f4c251e0ae49ea1d9f",
     "kill_time": "2026-04-15T09:09:55Z",
@@ -2519,58 +2545,6 @@
       "corporation_name": "Chimp Hoons Export and Expo Service",
       "alliance_name": "Scary Wormhole People",
       "ship_type_name": "Caracal Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 134593835,
-    "killmail_hash": "2789500cb4ed5518a913f40688e17ea9a0e84fb1",
-    "kill_time": "2026-04-08T15:44:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2119864510,
-      "character_name": "Aniki C",
-      "corporation_id": 98797587,
-      "corporation_name": "Aniki Heavy Industry",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134593835/",
-    "total_value": 1403664152.63,
-    "final_attacker": {
-      "character_name": "Sna Revenger",
-      "corporation_name": "Euphoria.",
-      "alliance_name": "Ranger Regiment",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 134593114,
-    "killmail_hash": "4a4a9cb345cae00e9aa6562a576d59e55d81139d",
-    "kill_time": "2026-04-08T15:01:07Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2115277310,
-      "character_name": "Isky gen",
-      "corporation_id": 98507576,
-      "corporation_name": "Phantom Mist Trade Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134593114/",
-    "total_value": 14656011513.47,
-    "final_attacker": {
-      "character_name": "Yukio Kuchki",
-      "corporation_name": "Long Pig Luncheon Meat",
-      "alliance_name": "Sending Thots And Players",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
