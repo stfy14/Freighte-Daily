@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134792010,
+    "killmail_hash": "d3f1872bb15ac417444dacd544e9f0feb72b3460",
+    "kill_time": "2026-04-16T19:55:02Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2116940610,
+      "character_name": "Josh Carruthers",
+      "corporation_id": 98650208,
+      "corporation_name": "J.Carruthers Intergalactic",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134792010/",
+    "total_value": 1579712669.48,
+    "final_attacker": {
+      "character_name": "Commander Stella Fairchild",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Aeon"
+    }
+  },
+  {
     "killmail_id": 134786246,
     "killmail_hash": "023e36df0517ed46890f123bfbd567ac188a9212",
     "kill_time": "2026-04-16T14:09:16Z",
@@ -2649,58 +2675,6 @@
       "corporation_name": "Shanks and Shivs",
       "alliance_name": null,
       "ship_type_name": "Sabre"
-    }
-  },
-  {
-    "killmail_id": 134619169,
-    "killmail_hash": "ea0d68b367cf46063b63f9a21c922ae73911d337",
-    "kill_time": "2026-04-09T20:08:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 1241401356,
-      "character_name": "Aka Yasha",
-      "corporation_id": 98802736,
-      "corporation_name": "Unpleasant Warriors",
-      "alliance_id": 99001969,
-      "alliance_name": "SONS of BANE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134619169/",
-    "total_value": 1403662882.23,
-    "final_attacker": {
-      "character_name": "Derpierre Estemaire",
-      "corporation_name": "Almost Dangerous",
-      "alliance_name": "Wolves Amongst Strangers",
-      "ship_type_name": "Raptor"
-    }
-  },
-  {
-    "killmail_id": 134617188,
-    "killmail_hash": "922c5261914ef4dc277f5be5700dfc618ed0042f",
-    "kill_time": "2026-04-09T18:33:53Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 904635704,
-      "character_name": "Secretzz",
-      "corporation_id": 98738319,
-      "corporation_name": "Trywialni",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134617188/",
-    "total_value": 1689346135.86,
-    "final_attacker": {
-      "character_name": "Whiskey Erso",
-      "corporation_name": "Malt House Society",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Prophecy Navy Issue"
     }
   }
 ]
