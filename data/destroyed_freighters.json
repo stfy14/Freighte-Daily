@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 134796879,
+    "killmail_hash": "5a92d0e11bdef043d6a3ed64ee0828c44ba49a49",
+    "kill_time": "2026-04-17T02:04:35Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001161,
+    "solar_system_name": "HED-GP",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 2123811428,
+      "character_name": "Sogi Utrigas",
+      "corporation_id": 98559450,
+      "corporation_name": "DanJev United",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134796879/",
+    "total_value": 7125123537.39,
+    "final_attacker": {
+      "character_name": "Aranochh",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134796318,
+    "killmail_hash": "6f80861437d147edee8fe1b354341704968a0f98",
+    "kill_time": "2026-04-17T01:15:54Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002147,
+    "solar_system_name": "W-FHWJ",
+    "region_name": "Immensea",
+    "victim": {
+      "character_id": 2121379294,
+      "character_name": "Wormrat",
+      "corporation_id": 98677174,
+      "corporation_name": "Omni Defense Intelligence Network",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134796318/",
+    "total_value": 1592400809.28,
+    "final_attacker": {
+      "character_name": "Val Auroris",
+      "corporation_name": "Aurora.",
+      "alliance_name": null,
+      "ship_type_name": "Garmur"
+    }
+  },
+  {
+    "killmail_id": 134793579,
+    "killmail_hash": "4022bf013b0437b4ccadc5194fb0a58f63dd7121",
+    "kill_time": "2026-04-16T21:25:39Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004298,
+    "solar_system_name": "Tisot",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 2123710478,
+      "character_name": "Primorec",
+      "corporation_id": 1000170,
+      "corporation_name": "Republic Military School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134793579/",
+    "total_value": 2248144800.82,
+    "final_attacker": {
+      "character_name": "BeBoPp",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134793348,
+    "killmail_hash": "204fd05beb42125bf834148fb610327cf0116f51",
+    "kill_time": "2026-04-16T21:11:27Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2122846740,
+      "character_name": "Esther Haddassah",
+      "corporation_id": 98573896,
+      "corporation_name": "ImperiaI Federation",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134793348/",
+    "total_value": 2890305237.11,
+    "final_attacker": {
+      "character_name": "Coco Divan",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Nemesis"
+    }
+  },
+  {
     "killmail_id": 134792010,
     "killmail_hash": "d3f1872bb15ac417444dacd544e9f0feb72b3460",
     "kill_time": "2026-04-16T19:55:02Z",
@@ -1768,6 +1872,32 @@
     }
   },
   {
+    "killmail_id": 134673334,
+    "killmail_hash": "03137f015dbd85d556428a87d27e59c6b5e727a4",
+    "kill_time": "2026-04-11T20:38:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124235514,
+      "character_name": "Celan Noire",
+      "corporation_id": 98829585,
+      "corporation_name": "4-4 Dreams - Express Transit Co.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134673334/",
+    "total_value": 5700725557.61,
+    "final_attacker": {
+      "character_name": "Willy Is Free",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134672983,
     "killmail_hash": "d30e669eebe4f98f947dfea98b5e546974edc9f2",
     "kill_time": "2026-04-11T20:30:33Z",
@@ -1791,6 +1921,32 @@
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134671279,
+    "killmail_hash": "f498cc7992743d5672cb84610b67a73d2561c837",
+    "kill_time": "2026-04-11T19:48:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 92085807,
+      "character_name": "Prince Sharp",
+      "corporation_id": 98707701,
+      "corporation_name": "Get Your Own Cookies",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134671279/",
+    "total_value": 1265461067.37,
+    "final_attacker": {
+      "character_name": "IhavethePower Of GodAndAnime",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -1843,6 +1999,32 @@
       "corporation_name": "SoT",
       "alliance_name": "DarkSide.",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134661306,
+    "killmail_hash": "b04966f84ce70b7962a707bd30899a78b86259a2",
+    "kill_time": "2026-04-11T15:07:05Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 650136748,
+      "character_name": "Jim Bond",
+      "corporation_id": 98830926,
+      "corporation_name": "The Flying Squirrels",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134661306/",
+    "total_value": 3489586836.09,
+    "final_attacker": {
+      "character_name": "You Gunn LuvMiNuts",
+      "corporation_name": "In Search of The Marauders Map",
+      "alliance_name": "Sorority",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2519,162 +2701,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134623805,
-    "killmail_hash": "d7459fb4ea10cc56559c9c73c64d391a4afddf5c",
-    "kill_time": "2026-04-10T01:14:07Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 90679644,
-      "character_name": "Tyber-zan Vex-ar",
-      "corporation_id": 98814817,
-      "corporation_name": "Clown Swords.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134623805/",
-    "total_value": 1611421953.56,
-    "final_attacker": {
-      "character_name": "Jamata Ki Yuso",
-      "corporation_name": "Cozy Mischief",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Tengu"
-    }
-  },
-  {
-    "killmail_id": 134622589,
-    "killmail_hash": "879b1db389c48bb542ef942807187eac842196a6",
-    "kill_time": "2026-04-09T23:39:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2112342144,
-      "character_name": "S-P-A-Z-Z",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134622589/",
-    "total_value": 7987474994.58,
-    "final_attacker": {
-      "character_name": "Singlemom24kids",
-      "corporation_name": "x13",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134621786,
-    "killmail_hash": "8ed1074a6d133fec97cd4e6785f02050eaf0b0ce",
-    "kill_time": "2026-04-09T22:36:36Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 733332734,
-      "character_name": "Sabrina Cerabiam",
-      "corporation_id": 1752030326,
-      "corporation_name": "Dromedaworks inc",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134621786/",
-    "total_value": 1609657170.65,
-    "final_attacker": {
-      "character_name": "1400mm HowitzerArtillery II",
-      "corporation_name": "Cozy Mischief",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Naglfar"
-    }
-  },
-  {
-    "killmail_id": 134621785,
-    "killmail_hash": "7d1367a4fe52f426984746117283bea6b44344b4",
-    "kill_time": "2026-04-09T22:36:34Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 90548486,
-      "character_name": "Sasha Dawn",
-      "corporation_id": 98637192,
-      "corporation_name": "Gold Wings Of Eternity",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134621785/",
-    "total_value": 8142764156.78,
-    "final_attacker": {
-      "character_name": "Bane Gristom",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134621246,
-    "killmail_hash": "b7082a92bf27c26c323715562a04c436721e8875",
-    "kill_time": "2026-04-09T22:00:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 96126325,
-      "character_name": "Zoey ARS-Zoey",
-      "corporation_id": 98829192,
-      "corporation_name": "BlackBeard Mining",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134621246/",
-    "total_value": 3555553216.74,
-    "final_attacker": {
-      "character_name": "ErMahGerd DahLewt",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134620309,
-    "killmail_hash": "cdb77ee02aa627594abbfa4436c5b6c4c3e4c10f",
-    "kill_time": "2026-04-09T21:00:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2116281773,
-      "character_name": "Aaron Smitt",
-      "corporation_id": 98791332,
-      "corporation_name": "Imperial Ghosts",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134620309/",
-    "total_value": 3400491843.91,
-    "final_attacker": {
-      "character_name": "Lee Shank",
-      "corporation_name": "Shanks and Shivs",
-      "alliance_name": null,
-      "ship_type_name": "Sabre"
     }
   }
 ]
