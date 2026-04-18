@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134825070,
+    "killmail_hash": "ab33ec656444809d178300f2707c4cc66e9f40bc",
+    "kill_time": "2026-04-18T03:00:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 934629065,
+      "character_name": "Pathros OreSlayer",
+      "corporation_id": 98169255,
+      "corporation_name": "Confederate States Navy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134825070/",
+    "total_value": 5980892077.44,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134823085,
+    "killmail_hash": "6bcca3939d0a482119c08f80c8a42a2d6046deb3",
+    "kill_time": "2026-04-18T01:00:55Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1836993176,
+      "character_name": "Cratius",
+      "corporation_id": 1426149563,
+      "corporation_name": "Ardent Brigade",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134823085/",
+    "total_value": 6603616579.64,
+    "final_attacker": {
+      "character_name": "zLegion N",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134803873,
     "killmail_hash": "00f2d5a6757866b3c5b25f25899ed28e4b6c05c1",
     "kill_time": "2026-04-17T10:59:10Z",
@@ -2388,110 +2440,6 @@
       "character_name": "Legit Capsuleer",
       "corporation_name": "Worthless Carebears",
       "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 134648294,
-    "killmail_hash": "7f27a65a3eab715ef152fbc162f08d2a4dc41768",
-    "kill_time": "2026-04-11T02:49:10Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1233544028,
-      "character_name": "KimimaroX",
-      "corporation_id": 98822229,
-      "corporation_name": "Leviathan Minerals",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134648294/",
-    "total_value": 6039537385.39,
-    "final_attacker": {
-      "character_name": "Prime Admiral",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134646636,
-    "killmail_hash": "cbc9f4f847a3cb65a5ae1e72ce833527cadd5d1c",
-    "kill_time": "2026-04-11T01:18:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 994518051,
-      "character_name": "Zefon",
-      "corporation_id": 98821823,
-      "corporation_name": "Nomads Gaming Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134646636/",
-    "total_value": 6992158521.81,
-    "final_attacker": {
-      "character_name": "Despised Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134645426,
-    "killmail_hash": "c3579fbd5364f2504b2139afa70157189e883293",
-    "kill_time": "2026-04-10T23:51:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 1174943787,
-      "character_name": "Minchow",
-      "corporation_id": 98648361,
-      "corporation_name": "Deadspace Excavations",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134645426/",
-    "total_value": 1617784271.02,
-    "final_attacker": {
-      "character_name": "Victor Jacobus",
-      "corporation_name": "The Tuskers",
-      "alliance_name": "The Tuskers Co.",
-      "ship_type_name": "Tempest"
-    }
-  },
-  {
-    "killmail_id": 134642592,
-    "killmail_hash": "f5c1b58da72cea00410d70c7725c5c19b72d5873",
-    "kill_time": "2026-04-10T21:06:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000185,
-    "solar_system_name": "Airaken",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95652720,
-      "character_name": "Eveta Scorvaa",
-      "corporation_id": 98705678,
-      "corporation_name": "Minmatar Fleet Logistics",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134642592/",
-    "total_value": 15555775286.98,
-    "final_attacker": {
-      "character_name": "fcyno9",
-      "corporation_name": "Totoro Time",
-      "alliance_name": "Insidious.",
       "ship_type_name": "Purifier"
     }
   }
