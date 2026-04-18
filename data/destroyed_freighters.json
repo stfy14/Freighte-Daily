@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134826658,
+    "killmail_hash": "7eb7a30e87882482edab355a9b5d0b5c7ae6f752",
+    "kill_time": "2026-04-18T04:41:36Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90704479,
+      "character_name": "wotan vallvater",
+      "corporation_id": 98594259,
+      "corporation_name": "Space Bromeos",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134826658/",
+    "total_value": 7829377706.48,
+    "final_attacker": {
+      "character_name": "zLegion E",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134826004,
+    "killmail_hash": "347ebbd30ffce3d9e9027be394e189697c47fb05",
+    "kill_time": "2026-04-18T03:53:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2114995198,
+      "character_name": "apple psychic",
+      "corporation_id": 98725089,
+      "corporation_name": "Arknights.",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134826004/",
+    "total_value": 1334034460.21,
+    "final_attacker": {
+      "character_name": "SkullCrusher2107 Smith",
+      "corporation_name": "Biomass Transit",
+      "alliance_name": "Seven Four Five",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 134825070,
     "killmail_hash": "ab33ec656444809d178300f2707c4cc66e9f40bc",
     "kill_time": "2026-04-18T03:00:23Z",
@@ -2415,32 +2467,6 @@
       "corporation_name": "Worthless Carebears",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 134650755,
-    "killmail_hash": "87098e0138da77e6a21767630c71832e50d8ad21",
-    "kill_time": "2026-04-11T05:28:01Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2115112177,
-      "character_name": "God Swing",
-      "corporation_id": 98286981,
-      "corporation_name": "Bluehogs",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134650755/",
-    "total_value": 7716753262.83,
-    "final_attacker": {
-      "character_name": "Legit Capsuleer",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
