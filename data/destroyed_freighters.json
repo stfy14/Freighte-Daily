@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 134828799,
+    "killmail_hash": "461301094674964f9c0fdb24c061e78013e74be2",
+    "kill_time": "2026-04-18T07:26:21Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122854717,
+      "character_name": "Wels Gripper",
+      "corporation_id": 98819796,
+      "corporation_name": "The Silver Wing",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134828799/",
+    "total_value": 6825007341.24,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134828411,
+    "killmail_hash": "3b4d0e429ce130fc04318114b9f05c6ed4d89c7a",
+    "kill_time": "2026-04-18T06:54:29Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95264452,
+      "character_name": "griha Darine",
+      "corporation_id": 98735273,
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134828411/",
+    "total_value": 6770754486.06,
+    "final_attacker": {
+      "character_name": "zLegion 06",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 134827832,
+    "killmail_hash": "fe31aaa11cced7c452242a8b0e5ec3a9373c0004",
+    "kill_time": "2026-04-18T06:06:18Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2120118823,
+      "character_name": "Zec10",
+      "corporation_id": 667531913,
+      "corporation_name": "GoonWaffe",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134827832/",
+    "total_value": 8194649286.71,
+    "final_attacker": {
+      "character_name": "Eadrom Vintarus",
+      "corporation_name": "Stimulus",
+      "alliance_name": "Rote Kapelle",
+      "ship_type_name": "Cerberus"
+    }
+  },
+  {
     "killmail_id": 134826658,
     "killmail_hash": "7eb7a30e87882482edab355a9b5d0b5c7ae6f752",
     "kill_time": "2026-04-18T04:41:36Z",
@@ -2389,84 +2467,6 @@
       "corporation_name": "Best Kept Dunked",
       "alliance_name": "A P E X",
       "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 134653179,
-    "killmail_hash": "3d6fcaced41ba953abf7b1e6c6096d1d4d057455",
-    "kill_time": "2026-04-11T07:57:32Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122510442,
-      "character_name": "wanglanlan",
-      "corporation_id": 98824507,
-      "corporation_name": "Fuxi Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134653179/",
-    "total_value": 9506712717.94,
-    "final_attacker": {
-      "character_name": "Elena Stormbringer",
-      "corporation_name": "4S Corporation",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Phoenix"
-    }
-  },
-  {
-    "killmail_id": 134652004,
-    "killmail_hash": "7316716b5b74c0f6f0f3fd082fbc09bf6094c3de",
-    "kill_time": "2026-04-11T06:39:00Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121152180,
-      "character_name": "Pumon",
-      "corporation_id": 98802379,
-      "corporation_name": "Lala move Logistics Company",
-      "alliance_id": 99005100,
-      "alliance_name": "All My Friends Are Ded"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134652004/",
-    "total_value": 7479861865.15,
-    "final_attacker": {
-      "character_name": "Ransack Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134651574,
-    "killmail_hash": "f16b250427fc4e6a8ac3e5a0bfb566dcdcaefacc",
-    "kill_time": "2026-04-11T06:10:27Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2118644516,
-      "character_name": "xoukun",
-      "corporation_id": 98806403,
-      "corporation_name": "AOC Express",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134651574/",
-    "total_value": 7758476331.83,
-    "final_attacker": {
-      "character_name": "Flacorn",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Nemesis"
     }
   }
 ]
