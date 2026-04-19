@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134868183,
+    "killmail_hash": "2de230f2f808bb214010ee7ff630cd55f69393d6",
+    "kill_time": "2026-04-19T17:28:37Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1174227667,
+      "character_name": "Mind trance",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134868183/",
+    "total_value": 17760902370.75,
+    "final_attacker": {
+      "character_name": "Qfeuille",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Odysseus"
+    }
+  },
+  {
     "killmail_id": 134863767,
     "killmail_hash": "1cb2bb4aeb3a5b0b04d56bc0040c168fe9340250",
     "kill_time": "2026-04-19T14:23:58Z",
@@ -2285,58 +2311,6 @@
       "corporation_name": "Peoples Capitalist Liberation Front",
       "alliance_name": null,
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 134699393,
-    "killmail_hash": "46338284bfdc8595a86083f91397c5a88989ca4c",
-    "kill_time": "2026-04-12T18:28:12Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95053855,
-      "character_name": "Padme Ami",
-      "corporation_id": 98769011,
-      "corporation_name": "POCATOMFLOT",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134699393/",
-    "total_value": 1832289674.14,
-    "final_attacker": {
-      "character_name": "Little Miss Naughty",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134698253,
-    "killmail_hash": "59ea505bbfcdaf0e05974b7bc30eec7f443220de",
-    "kill_time": "2026-04-12T17:47:12Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004230,
-    "solar_system_name": "Van",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 2124253898,
-      "character_name": "Humilehan Viliana",
-      "corporation_id": 98830524,
-      "corporation_name": "JY Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134698253/",
-    "total_value": 1381825907.89,
-    "final_attacker": {
-      "character_name": "Dii minores",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Vargur"
     }
   }
 ]
