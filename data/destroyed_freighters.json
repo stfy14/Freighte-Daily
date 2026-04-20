@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134888948,
+    "killmail_hash": "8686a5cddbaefb5bcb2767a720fe5fef2d89d854",
+    "kill_time": "2026-04-20T17:19:05Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002807,
+    "solar_system_name": "Nagamanen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90574243,
+      "character_name": "Malasta Asante",
+      "corporation_id": 98811330,
+      "corporation_name": "Stellar Nexus",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134888948/",
+    "total_value": 2446354847.48,
+    "final_attacker": {
+      "character_name": "Ndbele",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Archon"
+    }
+  },
+  {
     "killmail_id": 134883792,
     "killmail_hash": "63ed2c03b37a0568708911211353b9ccde98daad",
     "kill_time": "2026-04-20T12:25:50Z",
@@ -2077,58 +2103,6 @@
       "corporation_name": "Totoro Time",
       "alliance_name": "Insidious.",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 134725659,
-    "killmail_hash": "2f4a1c76355432d3db09e7572272497e28fe299b",
-    "kill_time": "2026-04-13T20:42:46Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2121448618,
-      "character_name": "Igorat O'Shaunnessey",
-      "corporation_id": 98775262,
-      "corporation_name": "The Peoples Republic of Interstellar Exploration",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134725659/",
-    "total_value": 1298153644.04,
-    "final_attacker": {
-      "character_name": "SinthEmortal",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134724969,
-    "killmail_hash": "c1627838b2e2380c252d545051191e519278372d",
-    "kill_time": "2026-04-13T20:10:14Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2115140945,
-      "character_name": "Dominicus Bouler",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134724969/",
-    "total_value": 8315129929.31,
-    "final_attacker": {
-      "character_name": "Hultaji Gogiko",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Rapier"
     }
   }
 ]
