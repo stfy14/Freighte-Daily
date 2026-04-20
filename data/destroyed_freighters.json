@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134883792,
+    "killmail_hash": "63ed2c03b37a0568708911211353b9ccde98daad",
+    "kill_time": "2026-04-20T12:25:50Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003584,
+    "solar_system_name": "Sarline",
+    "region_name": "Solitude",
+    "victim": {
+      "character_id": 91470355,
+      "character_name": "Sofia Itinen",
+      "corporation_id": 98512123,
+      "corporation_name": "API Testing Corp",
+      "alliance_id": 99013719,
+      "alliance_name": "Keys Network"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134883792/",
+    "total_value": 10726960610.85,
+    "final_attacker": {
+      "character_name": "Bogdana Dallocort",
+      "corporation_name": "Murder Kingdom",
+      "alliance_name": "Kingdom of the Worm",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
     "killmail_id": 134880721,
     "killmail_hash": "a4f8009ab8998d2902312e600e216d7736efe204",
     "kill_time": "2026-04-20T07:03:20Z",
@@ -2129,58 +2155,6 @@
       "corporation_name": "Your Killboard Our Playground",
       "alliance_name": null,
       "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 134714683,
-    "killmail_hash": "7d16c3e275070add42c6e3dc4d261cd97c56fba7",
-    "kill_time": "2026-04-13T10:54:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002656,
-    "solar_system_name": "Auvergne",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113754774,
-      "character_name": "Mudaro Rogers",
-      "corporation_id": 98758017,
-      "corporation_name": "Cryonic Origin",
-      "alliance_id": 99013786,
-      "alliance_name": "Cryonic Origin Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134714683/",
-    "total_value": 1375778614.58,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Federation Customs",
-      "alliance_name": null,
-      "ship_type_name": "Roden Police Major"
-    }
-  },
-  {
-    "killmail_id": 134714556,
-    "killmail_hash": "44c8d66ecddf9bc601b7c7837e19ca8ed0d95e8b",
-    "kill_time": "2026-04-13T10:46:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96106156,
-      "character_name": "Jan Terona",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134714556/",
-    "total_value": 3805930104.61,
-    "final_attacker": {
-      "character_name": "zLegion 12",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
     }
   }
 ]
