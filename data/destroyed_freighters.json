@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134880721,
+    "killmail_hash": "a4f8009ab8998d2902312e600e216d7736efe204",
+    "kill_time": "2026-04-20T07:03:20Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120879139,
+      "character_name": "Kumilito Hekki",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134880721/",
+    "total_value": 9845087383.68,
+    "final_attacker": {
+      "character_name": "Blue'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 134876052,
     "killmail_hash": "ff09d0f58d1072a8920ec03dac81ab6b156f5e30",
     "kill_time": "2026-04-20T00:06:15Z",
@@ -127,6 +153,32 @@
       "corporation_name": "Harmonist",
       "alliance_name": "Parallaxis Alliance",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134859262,
+    "killmail_hash": "b2362b052d8669ee602565de0bfa70a150705dde",
+    "kill_time": "2026-04-19T10:23:30Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000134,
+    "solar_system_name": "Hykkota",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115880919,
+      "character_name": "Fluorite Yu",
+      "corporation_id": 98593679,
+      "corporation_name": "Humpback Whale Logistic",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134859262/",
+    "total_value": 7095031458.62,
+    "final_attacker": {
+      "character_name": "zLegion F",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
     }
   },
   {
@@ -2127,136 +2179,6 @@
     "final_attacker": {
       "character_name": "zLegion 12",
       "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 134713073,
-    "killmail_hash": "1fc74837c920b817088184d1222f3d286c7cfc74",
-    "kill_time": "2026-04-13T08:37:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1058271330,
-      "character_name": "Ollam Ri",
-      "corporation_id": 98104547,
-      "corporation_name": "Blackwatch Syndicate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134713073/",
-    "total_value": 9374482294.03,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134712842,
-    "killmail_hash": "1b2b2c7c823127d94d716ddc0f0578ff69658fad",
-    "kill_time": "2026-04-13T08:25:01Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115186004,
-      "character_name": "Bukyska Vikyska",
-      "corporation_id": 98701532,
-      "corporation_name": "Gathering of Creatures",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134712842/",
-    "total_value": 2835931294.67,
-    "final_attacker": {
-      "character_name": "13th Of Several",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 134712460,
-    "killmail_hash": "31f03cd975e073c2b8b44f6855d5a0085e9e5026",
-    "kill_time": "2026-04-13T07:48:31Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1122199378,
-      "character_name": "AstroCrusad3r",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134712460/",
-    "total_value": 6617537551.92,
-    "final_attacker": {
-      "character_name": "Fuming Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134711955,
-    "killmail_hash": "c61f417c7c9758c7aacb821c4f53c0bf80293b0b",
-    "kill_time": "2026-04-13T07:05:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002800,
-    "solar_system_name": "Haatomo",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115101007,
-      "character_name": "Ranka Srbic",
-      "corporation_id": 98820741,
-      "corporation_name": "Nightforge Voidworks",
-      "alliance_id": 99014711,
-      "alliance_name": "Forge Eternal"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134711955/",
-    "total_value": 4094806411.4,
-    "final_attacker": {
-      "character_name": "JINTSUU",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 134711603,
-    "killmail_hash": "edf5c64852041c2fadd3ae689335768a682c65c8",
-    "kill_time": "2026-04-13T06:32:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115270885,
-      "character_name": "Skywolf Dacella",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134711603/",
-    "total_value": 1495997609.47,
-    "final_attacker": {
-      "character_name": "Kyip-Kyip-Kreeet Avar Chieftain",
-      "corporation_name": "Uedama Logistics",
       "alliance_name": null,
       "ship_type_name": "Coercer"
     }
