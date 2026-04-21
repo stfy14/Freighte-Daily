@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134910290,
+    "killmail_hash": "a96eba60edc60ac44348532b535e40e1e4e46a3e",
+    "kill_time": "2026-04-21T18:37:55Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 96388440,
+      "character_name": "Maia Enaka",
+      "corporation_id": 98617190,
+      "corporation_name": "Old Space Infinity Industries",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134910290/",
+    "total_value": 6652772523.26,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 134905724,
     "killmail_hash": "82e18c6de13cd6b9706db0409dc37e16f178c4f1",
     "kill_time": "2026-04-21T14:08:12Z",
@@ -1999,58 +2025,6 @@
       "corporation_name": "Midget Mafia Contract Crew",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134746843,
-    "killmail_hash": "185bcc847ef50603a9b88f8811037c78a55a4e40",
-    "kill_time": "2026-04-14T19:28:17Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000813,
-    "solar_system_name": "LVL-GZ",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 578723810,
-      "character_name": "Shagg4",
-      "corporation_id": 1297657426,
-      "corporation_name": "CBC Interstellar",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134746843/",
-    "total_value": 8188215988.08,
-    "final_attacker": {
-      "character_name": "Piton Next",
-      "corporation_name": "Nocte Vigilo",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134746086,
-    "killmail_hash": "0d939478017e69c9d6ad223794d29aff1cd8ab6a",
-    "kill_time": "2026-04-14T18:49:43Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114531566,
-      "character_name": "PointyArrows",
-      "corporation_id": 1495741119,
-      "corporation_name": "Red Frog Freight",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134746086/",
-    "total_value": 4256255441.9,
-    "final_attacker": {
-      "character_name": "Alexingeras",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
     }
   }
 ]
