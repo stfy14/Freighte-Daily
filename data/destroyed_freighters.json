@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 134898428,
+    "killmail_hash": "20be9877bb8e4302f7d390a2327b0be308b4b39c",
+    "kill_time": "2026-04-21T02:48:11Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005208,
+    "solar_system_name": "Ziasad",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 93594937,
+      "character_name": "Nor Crendraven",
+      "corporation_id": 98761471,
+      "corporation_name": "2 Days to Mine",
+      "alliance_id": 99013637,
+      "alliance_name": "The Worst Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134898428/",
+    "total_value": 5926615728.84,
+    "final_attacker": {
+      "character_name": "Macrinus Varus",
+      "corporation_name": "Bounding Bunny Brigade",
+      "alliance_name": "Khimi Harar",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 134898417,
+    "killmail_hash": "42ff905fd6e00227ea79902fc4ce0b780fff4c5b",
+    "kill_time": "2026-04-21T02:47:37Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 342824954,
+      "character_name": "scvs",
+      "corporation_id": 98584558,
+      "corporation_name": "Industrial Kreaps Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134898417/",
+    "total_value": 2430030759.28,
+    "final_attacker": {
+      "character_name": "SHNA",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 134895512,
+    "killmail_hash": "182cdacf9dd8845cf060de39862ad0ad0f637fe8",
+    "kill_time": "2026-04-20T22:52:46Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005231,
+    "solar_system_name": "Pashanai",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1968954474,
+      "character_name": "Kierin Firehelm",
+      "corporation_id": 98806804,
+      "corporation_name": "Scrapyard Artificer's",
+      "alliance_id": 99014431,
+      "alliance_name": "Just Lizard"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134895512/",
+    "total_value": 1467296362.66,
+    "final_attacker": {
+      "character_name": "MaXamer X",
+      "corporation_name": "NuKeDD",
+      "alliance_name": "NuKeDD.",
+      "ship_type_name": "Prophecy Navy Issue"
+    }
+  },
+  {
     "killmail_id": 134888948,
     "killmail_hash": "8686a5cddbaefb5bcb2767a720fe5fef2d89d854",
     "kill_time": "2026-04-20T17:19:05Z",
@@ -2051,58 +2129,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 134727299,
-    "killmail_hash": "44bac608b71144d90dd73fcf14720f83b3f2283f",
-    "kill_time": "2026-04-13T22:08:44Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 617673924,
-      "character_name": "Shar Quadri",
-      "corporation_id": 1000009,
-      "corporation_name": "Caldari Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134727299/",
-    "total_value": 12559477675.32,
-    "final_attacker": {
-      "character_name": "Don Gervasio",
-      "corporation_name": "Paulo Coelho Industries S.A.",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134726121,
-    "killmail_hash": "b83ec7838603d4815aaced459527fc7fc39b8dbd",
-    "kill_time": "2026-04-13T21:03:05Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000185,
-    "solar_system_name": "Airaken",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95385384,
-      "character_name": "Krolina Shiyurida",
-      "corporation_id": 98828389,
-      "corporation_name": "DKNX Assembly",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134726121/",
-    "total_value": 12475458497.3,
-    "final_attacker": {
-      "character_name": "Cheesed Off",
-      "corporation_name": "Totoro Time",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
