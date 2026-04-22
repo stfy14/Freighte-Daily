@@ -1974,57 +1974,5 @@
       "alliance_name": null,
       "ship_type_name": "Coercer"
     }
-  },
-  {
-    "killmail_id": 134754654,
-    "killmail_hash": "ac543dde53d5c12f4c8dbab9f4d079bb7c49e996",
-    "kill_time": "2026-04-15T05:09:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121483062,
-      "character_name": "Bunny Freedom",
-      "corporation_id": 98641532,
-      "corporation_name": "Ancient Mariners",
-      "alliance_id": 99013803,
-      "alliance_name": "Wicked Goats Enterprises"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134754654/",
-    "total_value": 1552856421.5,
-    "final_attacker": {
-      "character_name": "Drop Chance",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 134754099,
-    "killmail_hash": "d750ead23a837a6413e42fe285e6da9a92940c05",
-    "kill_time": "2026-04-15T04:19:12Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115252542,
-      "character_name": "Wmlevi1460",
-      "corporation_id": 98799124,
-      "corporation_name": "Muutaras Corporation Hub",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134754099/",
-    "total_value": 9914113862.81,
-    "final_attacker": {
-      "character_name": "Hoden von Eisen",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
   }
 ]
