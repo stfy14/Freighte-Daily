@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134928948,
+    "killmail_hash": "6d81301322a1e900e940ce535057b22c3ba734c7",
+    "kill_time": "2026-04-22T17:29:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000773,
+    "solar_system_name": "78-0R6",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2112652680,
+      "character_name": "Rev Anzomi",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134928948/",
+    "total_value": 1315570953.12,
+    "final_attacker": {
+      "character_name": "Se0Hor",
+      "corporation_name": "Republic Military School",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 134925102,
     "killmail_hash": "acaae6199b066a46642618c9e262ef0309efe25d",
     "kill_time": "2026-04-22T13:44:50Z",
@@ -1843,32 +1869,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 134768329,
-    "killmail_hash": "bf26f996d0e03adb0519841d98984ae6e09b4277",
-    "kill_time": "2026-04-15T19:27:50Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 90164342,
-      "character_name": "Darth Loraine",
-      "corporation_id": 98802477,
-      "corporation_name": "Scallywags Of New Eden",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134768329/",
-    "total_value": 6809090788.76,
-    "final_attacker": {
-      "character_name": "Commander Stella Fairchild",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Aeon"
     }
   }
 ]
