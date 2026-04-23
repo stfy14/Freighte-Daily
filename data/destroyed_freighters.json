@@ -1584,57 +1584,5 @@
       "alliance_name": null,
       "ship_type_name": "Nemesis"
     }
-  },
-  {
-    "killmail_id": 134779683,
-    "killmail_hash": "6e8cf5c6a5bcabe06651f3ba6962a9e4dcbdb48b",
-    "kill_time": "2026-04-16T04:25:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 178541455,
-      "character_name": "Arbuch",
-      "corporation_id": 98779914,
-      "corporation_name": "Lobo Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134779683/",
-    "total_value": 8303007030.02,
-    "final_attacker": {
-      "character_name": "Im-Just-An-Immortal",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134779121,
-    "killmail_hash": "088428ce27f5d5c9a01568b05befd7f0aac24252",
-    "kill_time": "2026-04-16T03:50:06Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 962203113,
-      "character_name": "Issle",
-      "corporation_id": 98823871,
-      "corporation_name": "Issledovatel Jenquaiorum",
-      "alliance_id": 1742306959,
-      "alliance_name": "ORPHANS OF EVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134779121/",
-    "total_value": 3991907582.91,
-    "final_attacker": {
-      "character_name": "Highsec tax",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
