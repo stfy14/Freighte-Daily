@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134947125,
+    "killmail_hash": "00895a5503bf814a51666c4dc8b02bac082eb080",
+    "kill_time": "2026-04-23T15:46:41Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2118369252,
+      "character_name": "Saussay Benuse",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134947125/",
+    "total_value": 20458366273.8,
+    "final_attacker": {
+      "character_name": "Cucumber ares",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
     "killmail_id": 134942819,
     "killmail_hash": "dc0e0788043773d26a7720d4e50b85b17bbbe3f5",
     "kill_time": "2026-04-23T10:57:14Z",
@@ -1635,32 +1661,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": "ur dunked",
       "ship_type_name": "Aeon"
-    }
-  },
-  {
-    "killmail_id": 134786246,
-    "killmail_hash": "023e36df0517ed46890f123bfbd567ac188a9212",
-    "kill_time": "2026-04-16T14:09:16Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002723,
-    "solar_system_name": "Otou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2116183402,
-      "character_name": "Theresa Thorn",
-      "corporation_id": 98629789,
-      "corporation_name": "Lysergian Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134786246/",
-    "total_value": 2170570511.62,
-    "final_attacker": {
-      "character_name": "Mrs Always Right",
-      "corporation_name": "x13",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Brutix Navy Issue"
     }
   }
 ]
