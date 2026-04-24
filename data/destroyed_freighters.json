@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134962756,
+    "killmail_hash": "e22d4fca089f8da96fad2b793df87aa924e07a20",
+    "kill_time": "2026-04-24T03:28:08Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2115142522,
+      "character_name": "Devin Sonnichsen",
+      "corporation_id": 98795142,
+      "corporation_name": "D n J Mining Co",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134962756/",
+    "total_value": 5276259604.02,
+    "final_attacker": {
+      "character_name": "Bath Salt Babe",
+      "corporation_name": "Slavers Union",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 134961787,
+    "killmail_hash": "77e1df10aec9e70e1a5e07a956ec1fe6d4e2288f",
+    "kill_time": "2026-04-24T02:22:09Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1792358258,
+      "character_name": "Rock Fellar",
+      "corporation_id": 98671021,
+      "corporation_name": "Sons of Bistot",
+      "alliance_id": 99009991,
+      "alliance_name": "Intaki-Business Logistics Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134961787/",
+    "total_value": 15401322744.95,
+    "final_attacker": {
+      "character_name": "Red'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 134949000,
     "killmail_hash": "e48234b3c08c4fabd40d6d9ef520f004bf1797f8",
     "kill_time": "2026-04-23T17:49:02Z",
@@ -1557,110 +1609,6 @@
       "corporation_name": "420 Enterprises.",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Cerberus"
-    }
-  },
-  {
-    "killmail_id": 134796879,
-    "killmail_hash": "5a92d0e11bdef043d6a3ed64ee0828c44ba49a49",
-    "kill_time": "2026-04-17T02:04:35Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001161,
-    "solar_system_name": "HED-GP",
-    "region_name": "Catch",
-    "victim": {
-      "character_id": 2123811428,
-      "character_name": "Sogi Utrigas",
-      "corporation_id": 98559450,
-      "corporation_name": "DanJev United",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134796879/",
-    "total_value": 7125123537.39,
-    "final_attacker": {
-      "character_name": "Aranochh",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134796318,
-    "killmail_hash": "6f80861437d147edee8fe1b354341704968a0f98",
-    "kill_time": "2026-04-17T01:15:54Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002147,
-    "solar_system_name": "W-FHWJ",
-    "region_name": "Immensea",
-    "victim": {
-      "character_id": 2121379294,
-      "character_name": "Wormrat",
-      "corporation_id": 98677174,
-      "corporation_name": "Omni Defense Intelligence Network",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134796318/",
-    "total_value": 1592400809.28,
-    "final_attacker": {
-      "character_name": "Val Auroris",
-      "corporation_name": "Aurora.",
-      "alliance_name": null,
-      "ship_type_name": "Garmur"
-    }
-  },
-  {
-    "killmail_id": 134793579,
-    "killmail_hash": "4022bf013b0437b4ccadc5194fb0a58f63dd7121",
-    "kill_time": "2026-04-16T21:25:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004298,
-    "solar_system_name": "Tisot",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 2123710478,
-      "character_name": "Primorec",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134793579/",
-    "total_value": 2248144800.82,
-    "final_attacker": {
-      "character_name": "BeBoPp",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134793348,
-    "killmail_hash": "204fd05beb42125bf834148fb610327cf0116f51",
-    "kill_time": "2026-04-16T21:11:27Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2122846740,
-      "character_name": "Esther Haddassah",
-      "corporation_id": 98573896,
-      "corporation_name": "ImperiaI Federation",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134793348/",
-    "total_value": 2890305237.11,
-    "final_attacker": {
-      "character_name": "Coco Divan",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Nemesis"
     }
   }
 ]
