@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134963149,
+    "killmail_hash": "367800151f760cf5696590d3e65a12a34ee8864b",
+    "kill_time": "2026-04-24T04:02:06Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1154575185,
+      "character_name": "Asharai",
+      "corporation_id": 98801755,
+      "corporation_name": "Saving New Eden",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134963149/",
+    "total_value": 8700429487.14,
+    "final_attacker": {
+      "character_name": "Burgundy'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 134962756,
     "killmail_hash": "e22d4fca089f8da96fad2b793df87aa924e07a20",
     "kill_time": "2026-04-24T03:28:08Z",
@@ -1557,58 +1583,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134800445,
-    "killmail_hash": "936c81893e3e90243ac0e43b0bf7d0cd1c328bd0",
-    "kill_time": "2026-04-17T05:47:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123123380,
-      "character_name": "Eerama Arva Akachi",
-      "corporation_id": 98800225,
-      "corporation_name": "Eerama Arva Akachi Corporation",
-      "alliance_id": 99014657,
-      "alliance_name": "Ranger Regiment"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134800445/",
-    "total_value": 3620492692.84,
-    "final_attacker": {
-      "character_name": "Tan'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134800232,
-    "killmail_hash": "76d6f923a2b84080b7b04477f622d3a5ebf8db39",
-    "kill_time": "2026-04-17T05:29:40Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004811,
-    "solar_system_name": "4-P4FE",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 236642994,
-      "character_name": "Negativ",
-      "corporation_id": 98651213,
-      "corporation_name": "PulaLeeroy Br",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134800232/",
-    "total_value": 1512856155.31,
-    "final_attacker": {
-      "character_name": "Rhachator",
-      "corporation_name": "420 Enterprises.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Cerberus"
     }
   }
 ]
