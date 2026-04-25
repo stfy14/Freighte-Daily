@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 134985207,
+    "killmail_hash": "5a6c73920b877de79c295a5be5becb4a7a681859",
+    "kill_time": "2026-04-25T02:19:30Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000224,
+    "solar_system_name": "7-K5EL",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2123205588,
+      "character_name": "Iskk Positive",
+      "corporation_id": 98792038,
+      "corporation_name": "The Bleak Lands Supply and Provisions",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134985207/",
+    "total_value": 16845678294.46,
+    "final_attacker": {
+      "character_name": "Nalani Firestone",
+      "corporation_name": "Suddenly a Covert Cyno",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
+    "killmail_id": 134980851,
+    "killmail_hash": "ee36cbf56628e44461ea83f3441282d45253b9f2",
+    "kill_time": "2026-04-24T21:19:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000866,
+    "solar_system_name": "PNDN-V",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 96131042,
+      "character_name": "Royce Madison",
+      "corporation_id": 98790350,
+      "corporation_name": "Unprofitable Ventures Inc.",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/134980851/",
+    "total_value": 1637962217.04,
+    "final_attacker": {
+      "character_name": "Dage The Evil",
+      "corporation_name": "Czarne Drapiezniki",
+      "alliance_name": null,
+      "ship_type_name": "Nemesis"
+    }
+  },
+  {
     "killmail_id": 134978672,
     "killmail_hash": "7ca2732a03e73deabf04e1bc49c651daadf24e40",
     "kill_time": "2026-04-24T19:49:18Z",
@@ -673,6 +725,32 @@
       "corporation_name": "Baba Yagas",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 134916243,
+    "killmail_hash": "3a55f2b4a0a74169d3d5e60e319d72489e717dcb",
+    "kill_time": "2026-04-22T00:20:12Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119729832,
+      "character_name": "Twos Day Ruby",
+      "corporation_id": 98708779,
+      "corporation_name": "Six M Group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134916243/",
+    "total_value": 1543369265.27,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
     }
   },
   {
@@ -1687,58 +1765,6 @@
       "corporation_name": "Biomass Transit",
       "alliance_name": "Seven Four Five",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 134825070,
-    "killmail_hash": "ab33ec656444809d178300f2707c4cc66e9f40bc",
-    "kill_time": "2026-04-18T03:00:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 934629065,
-      "character_name": "Pathros OreSlayer",
-      "corporation_id": 98169255,
-      "corporation_name": "Confederate States Navy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134825070/",
-    "total_value": 5980892077.44,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134823085,
-    "killmail_hash": "6bcca3939d0a482119c08f80c8a42a2d6046deb3",
-    "kill_time": "2026-04-18T01:00:55Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1836993176,
-      "character_name": "Cratius",
-      "corporation_id": 1426149563,
-      "corporation_name": "Ardent Brigade",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134823085/",
-    "total_value": 6603616579.64,
-    "final_attacker": {
-      "character_name": "zLegion N",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
