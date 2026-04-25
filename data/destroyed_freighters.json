@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 134988199,
+    "killmail_hash": "d5e87e8ff2ce72c5c82530d47435a0373b5a7fb6",
+    "kill_time": "2026-04-25T05:21:40Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000092,
+    "solar_system_name": "Aranir",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 95593102,
+      "character_name": "Succubia M",
+      "corporation_id": 98803292,
+      "corporation_name": "Dangerous technical cooperatives",
+      "alliance_id": 99003995,
+      "alliance_name": "Invidia Gloriae Comes"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134988199/",
+    "total_value": 9143752208.98,
+    "final_attacker": {
+      "character_name": "Ethien Green",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Thanatos"
+    }
+  },
+  {
     "killmail_id": 134985207,
     "killmail_hash": "5a6c73920b877de79c295a5be5becb4a7a681859",
     "kill_time": "2026-04-25T02:19:30Z",
@@ -1687,84 +1713,6 @@
       "corporation_name": "Stimulus",
       "alliance_name": "Rote Kapelle",
       "ship_type_name": "Cerberus"
-    }
-  },
-  {
-    "killmail_id": 134827063,
-    "killmail_hash": "8d75735fbf080d99f2d9b3390f233244ddb91bf9",
-    "kill_time": "2026-04-18T05:11:53Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122326213,
-      "character_name": "Weiwu36",
-      "corporation_id": 98772058,
-      "corporation_name": "WWWeiWWWu",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134827063/",
-    "total_value": 9283830570.36,
-    "final_attacker": {
-      "character_name": "Larson Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134826658,
-    "killmail_hash": "7eb7a30e87882482edab355a9b5d0b5c7ae6f752",
-    "kill_time": "2026-04-18T04:41:36Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90704479,
-      "character_name": "wotan vallvater",
-      "corporation_id": 98594259,
-      "corporation_name": "Space Bromeos",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134826658/",
-    "total_value": 7829377706.48,
-    "final_attacker": {
-      "character_name": "zLegion E",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134826004,
-    "killmail_hash": "347ebbd30ffce3d9e9027be394e189697c47fb05",
-    "kill_time": "2026-04-18T03:53:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2114995198,
-      "character_name": "apple psychic",
-      "corporation_id": 98725089,
-      "corporation_name": "Arknights.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134826004/",
-    "total_value": 1334034460.21,
-    "final_attacker": {
-      "character_name": "SkullCrusher2107 Smith",
-      "corporation_name": "Biomass Transit",
-      "alliance_name": "Seven Four Five",
-      "ship_type_name": "Purifier"
     }
   }
 ]
