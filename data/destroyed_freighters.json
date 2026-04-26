@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 135031629,
+    "killmail_hash": "60dff0c8b48d023487f290b289434642ebc48688",
+    "kill_time": "2026-04-26T08:58:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 97194056,
+      "character_name": "Olivia Butterblume",
+      "corporation_id": 98008663,
+      "corporation_name": "Angry Angels Constructions",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135031629/",
+    "total_value": 5003365014.85,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 135029906,
+    "killmail_hash": "3181ee063dcb7d705159b9cbd7cea3de7c690830",
+    "kill_time": "2026-04-26T07:04:52Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121741198,
+      "character_name": "Corynn Noud",
+      "corporation_id": 98753539,
+      "corporation_name": "Panala Family Foundation and Trust",
+      "alliance_id": 99008829,
+      "alliance_name": "The Network."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135029906/",
+    "total_value": 27898640360.42,
+    "final_attacker": {
+      "character_name": "zLegion S",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 135027425,
     "killmail_hash": "139d65c3edbd0b88c292099989e12b63046f8f33",
     "kill_time": "2026-04-26T04:13:13Z",
@@ -75,6 +127,32 @@
       "corporation_name": "Blank-Space",
       "alliance_name": null,
       "ship_type_name": "Nemesis"
+    }
+  },
+  {
+    "killmail_id": 135025797,
+    "killmail_hash": "6d631b0293cc1612639ad01334ed409364a11155",
+    "kill_time": "2026-04-26T02:48:47Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 705026343,
+      "character_name": "Mining Forman",
+      "corporation_id": 144965822,
+      "corporation_name": "Oberon Incorporated",
+      "alliance_id": 99009116,
+      "alliance_name": "Post Nord"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135025797/",
+    "total_value": 8366596927.79,
+    "final_attacker": {
+      "character_name": "zLegion U",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -676,6 +754,32 @@
     }
   },
   {
+    "killmail_id": 134967606,
+    "killmail_hash": "380c0b3570903450335f518b702f14c9e97854e0",
+    "kill_time": "2026-04-24T10:16:04Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94230145,
+      "character_name": "Zeta Alphaz",
+      "corporation_id": 248062481,
+      "corporation_name": "Spartan Industrial Manufacturing",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134967606/",
+    "total_value": 7010380636.68,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 134967350,
     "killmail_hash": "b50dec5fc7b7bdf5321b7d71286a2798dd115502",
     "kill_time": "2026-04-24T09:52:24Z",
@@ -702,6 +806,32 @@
     }
   },
   {
+    "killmail_id": 134967205,
+    "killmail_hash": "f05a9713636e086730b5d6f3356b3ed06ba50602",
+    "kill_time": "2026-04-24T09:42:36Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115252542,
+      "character_name": "Wmlevi1460",
+      "corporation_id": 98799124,
+      "corporation_name": "Muutaras Corporation Hub",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134967205/",
+    "total_value": 9917857397.61,
+    "final_attacker": {
+      "character_name": "zLegion O",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 134966941,
     "killmail_hash": "2af93b21ffcbb5d123b2f31943a815849efdc389",
     "kill_time": "2026-04-24T09:19:14Z",
@@ -722,6 +852,32 @@
     "total_value": 6714569492.62,
     "final_attacker": {
       "character_name": "zLegion F",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 134966314,
+    "killmail_hash": "6a61e9475e8dbda4176abeae4a215457853ef138",
+    "kill_time": "2026-04-24T08:20:03Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2119717499,
+      "character_name": "Iv-an",
+      "corporation_id": 98731772,
+      "corporation_name": "1percentcorp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134966314/",
+    "total_value": 7329796626.95,
+    "final_attacker": {
+      "character_name": "zLegion L",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
@@ -962,6 +1118,58 @@
     }
   },
   {
+    "killmail_id": 134941605,
+    "killmail_hash": "4d301069de21e42ddb9a0a729b7f0c0ef8a7b50e",
+    "kill_time": "2026-04-23T09:15:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116228639,
+      "character_name": "Dexter Paaltomo",
+      "corporation_id": 1000006,
+      "corporation_name": "Deep Core Mining Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/134941605/",
+    "total_value": 24138897209.78,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 134941265,
+    "killmail_hash": "4a77ec10ff32d1ade76b1f23a2d8b9da750a6c88",
+    "kill_time": "2026-04-23T08:57:13Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117554529,
+      "character_name": "Sumeth Blue",
+      "corporation_id": 98694519,
+      "corporation_name": "Blue Industry Corp",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134941265/",
+    "total_value": 10539186424.36,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 134940636,
     "killmail_hash": "691fc621e3e5be04ef0d24ab594e213fccdeb9f4",
     "kill_time": "2026-04-23T08:01:37Z",
@@ -985,6 +1193,32 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 134940477,
+    "killmail_hash": "608346ca54bf6f6878305bddf4723b41cbd75600",
+    "kill_time": "2026-04-23T07:46:50Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116162249,
+      "character_name": "Pierre Dahma",
+      "corporation_id": 98626311,
+      "corporation_name": "Galaxias Import - Export",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/134940477/",
+    "total_value": 10821619996.32,
+    "final_attacker": {
+      "character_name": "zLegion M",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
@@ -1635,32 +1869,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134855876,
-    "killmail_hash": "572937269dc6dcdc51e0805dac037865c7b434cc",
-    "kill_time": "2026-04-19T06:35:39Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123697504,
-      "character_name": "Athanasius Allen",
-      "corporation_id": 98813300,
-      "corporation_name": "Athanasius Allen Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134855876/",
-    "total_value": 3979105928.37,
-    "final_attacker": {
-      "character_name": "Maroon'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
