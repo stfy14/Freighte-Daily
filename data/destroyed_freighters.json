@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 135054026,
+    "killmail_hash": "bb21d543d55c5c1f1a6cfd15887ce57c8de9a1a3",
+    "kill_time": "2026-04-27T03:03:03Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 275895027,
+      "character_name": "magick one",
+      "corporation_id": 98767169,
+      "corporation_name": "Legion Ascending",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135054026/",
+    "total_value": 1550237935.01,
+    "final_attacker": {
+      "character_name": "Vesrys",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135053412,
+    "killmail_hash": "857b89556efbe376d4428fe44e8023b00ca88503",
+    "kill_time": "2026-04-27T02:13:24Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2114721414,
+      "character_name": "superbuffoon pigo",
+      "corporation_id": 98540583,
+      "corporation_name": "Special law enforcement department",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135053412/",
+    "total_value": 3323612139.05,
+    "final_attacker": {
+      "character_name": "Charles Nicoletti",
+      "corporation_name": "Signal Reflection",
+      "alliance_name": "Rote Kapelle",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135048850,
+    "killmail_hash": "f84f599846cd23ef02a41d556d49653245e30ef6",
+    "kill_time": "2026-04-26T20:54:03Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2113382420,
+      "character_name": "Phil Echino",
+      "corporation_id": 98315666,
+      "corporation_name": "The Night Watchmen",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135048850/",
+    "total_value": 1658347147.92,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 135048578,
     "killmail_hash": "32ddc953997923804ae1628ead90381cee0e51ef",
     "kill_time": "2026-04-26T20:45:18Z",
@@ -2025,32 +2103,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134876052,
-    "killmail_hash": "ff09d0f58d1072a8920ec03dac81ab6b156f5e30",
-    "kill_time": "2026-04-20T00:06:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002774,
-    "solar_system_name": "Huttaken",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112164128,
-      "character_name": "Amanda Zeringue",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134876052/",
-    "total_value": 1330307619.86,
-    "final_attacker": {
-      "character_name": "Mecha Dva",
-      "corporation_name": "x13",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Naga"
     }
   }
 ]
