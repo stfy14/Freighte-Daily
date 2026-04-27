@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135059091,
+    "killmail_hash": "55381097274b9dc65a8d15026315bef9eb4380a8",
+    "kill_time": "2026-04-27T10:58:01Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2113107449,
+      "character_name": "Gammel Aideron",
+      "corporation_id": 98531454,
+      "corporation_name": "Asteroid Farm Unlimited",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135059091/",
+    "total_value": 3537585471.13,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 135056898,
     "killmail_hash": "c756db19044e9008f3a384abf1e3df795871c476",
     "kill_time": "2026-04-27T07:39:27Z",
@@ -2155,32 +2181,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Archon"
-    }
-  },
-  {
-    "killmail_id": 134883792,
-    "killmail_hash": "63ed2c03b37a0568708911211353b9ccde98daad",
-    "kill_time": "2026-04-20T12:25:50Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003584,
-    "solar_system_name": "Sarline",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 91470355,
-      "character_name": "Sofia Itinen",
-      "corporation_id": 98512123,
-      "corporation_name": "API Testing Corp",
-      "alliance_id": 99013719,
-      "alliance_name": "Keys Network"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134883792/",
-    "total_value": 10726960610.85,
-    "final_attacker": {
-      "character_name": "Bogdana Dallocort",
-      "corporation_name": "Murder Kingdom",
-      "alliance_name": "Kingdom of the Worm",
-      "ship_type_name": "Hubris"
     }
   }
 ]
