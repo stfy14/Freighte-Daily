@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135056898,
+    "killmail_hash": "c756db19044e9008f3a384abf1e3df795871c476",
+    "kill_time": "2026-04-27T07:39:27Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 90182422,
+      "character_name": "KwAErus",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135056898/",
+    "total_value": 7230908770.37,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Questionable Tactics Average Skill",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 135055264,
     "killmail_hash": "4c6cd9928518629ad8887fc9cf1399d032e5ab80",
     "kill_time": "2026-04-27T04:49:47Z",
@@ -2155,32 +2181,6 @@
       "corporation_name": "Murder Kingdom",
       "alliance_name": "Kingdom of the Worm",
       "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 134880721,
-    "killmail_hash": "a4f8009ab8998d2902312e600e216d7736efe204",
-    "kill_time": "2026-04-20T07:03:20Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120879139,
-      "character_name": "Kumilito Hekki",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134880721/",
-    "total_value": 9845087383.68,
-    "final_attacker": {
-      "character_name": "Blue'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Talos"
     }
   }
 ]
