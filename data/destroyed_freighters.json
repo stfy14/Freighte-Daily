@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135078791,
+    "killmail_hash": "e9f2d645bc51395b20b197721d0e6f39c6e33e92",
+    "kill_time": "2026-04-28T08:26:25Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 92596227,
+      "character_name": "Jack Dallocorti",
+      "corporation_id": 98531045,
+      "corporation_name": "SLC Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135078791/",
+    "total_value": 10624414278.48,
+    "final_attacker": {
+      "character_name": "zLegion W",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 135076506,
     "killmail_hash": "3d284e0ef16bfcfd1a7c192468d2f749187cbd47",
     "kill_time": "2026-04-28T04:44:04Z",
@@ -179,6 +205,32 @@
       "corporation_name": "ChenDuWuyanzu",
       "alliance_name": "Terminally Inept Traders and Scanners",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 135060352,
+    "killmail_hash": "0ad7a973bdfd190334d6e0e79397c7a738877f5f",
+    "kill_time": "2026-04-27T12:23:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115176436,
+      "character_name": "Kong Ragnar Lodbrok",
+      "corporation_id": 98514900,
+      "corporation_name": "Shuttle Constructions",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135060352/",
+    "total_value": 8132323208.51,
+    "final_attacker": {
+      "character_name": "zLegion P",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
@@ -2181,32 +2233,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 134905724,
-    "killmail_hash": "82e18c6de13cd6b9706db0409dc37e16f178c4f1",
-    "kill_time": "2026-04-21T14:08:12Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 262306123,
-      "character_name": "MaVla",
-      "corporation_id": 98190062,
-      "corporation_name": "Peoples Liberation Army",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134905724/",
-    "total_value": 4603698316.18,
-    "final_attacker": {
-      "character_name": "Brutus Duran",
-      "corporation_name": "Cameltoe Collective",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
     }
   }
 ]
