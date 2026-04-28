@@ -52,6 +52,32 @@
     }
   },
   {
+    "killmail_id": 135074308,
+    "killmail_hash": "722a18698becdfaabef7b1c9450ff90fc064890f",
+    "kill_time": "2026-04-28T01:38:21Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113062008,
+      "character_name": "John Audeleses",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135074308/",
+    "total_value": 8096332859.16,
+    "final_attacker": {
+      "character_name": "Burgundy'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 135068846,
     "killmail_hash": "f11ef2d876efd750054285f4fbfc2d13f5474d31",
     "kill_time": "2026-04-27T19:40:35Z",
@@ -2181,32 +2207,6 @@
       "corporation_name": "Cameltoe Collective",
       "alliance_name": null,
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 134902828,
-    "killmail_hash": "277066535112f9a185e9abd4218f22defa9dd67a",
-    "kill_time": "2026-04-21T09:47:50Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122817663,
-      "character_name": "Tod1213141996q",
-      "corporation_id": 98399497,
-      "corporation_name": "Red Cold Chili Banderlogs Academy",
-      "alliance_id": 99012070,
-      "alliance_name": "PEPE SQUAD"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134902828/",
-    "total_value": 27876133038.04,
-    "final_attacker": {
-      "character_name": "zLegion H",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
