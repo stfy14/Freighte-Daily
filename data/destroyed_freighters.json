@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135145597,
+    "killmail_hash": "4a8b389c992009cfb654828163d7d4ec6585bd03",
+    "kill_time": "2026-04-30T18:16:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112184636,
+      "character_name": "3eMeJIbKa Fonulique",
+      "corporation_id": 98818088,
+      "corporation_name": "Deep Space Argonauts",
+      "alliance_id": 99014816,
+      "alliance_name": "Deep Space Argonauts Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135145597/",
+    "total_value": 6336181221.41,
+    "final_attacker": {
+      "character_name": "Don Inocencio",
+      "corporation_name": "Workers' Collectivization Bureau",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 135144431,
     "killmail_hash": "ed4292a7b4f21e9e65ce2cb3c9100f15dc63d400",
     "kill_time": "2026-04-30T17:19:33Z",
@@ -2415,32 +2441,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 134949000,
-    "killmail_hash": "e48234b3c08c4fabd40d6d9ef520f004bf1797f8",
-    "kill_time": "2026-04-23T17:49:02Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 96768764,
-      "character_name": "Grandma Stotch",
-      "corporation_id": 98431556,
-      "corporation_name": "Beefcake Holdings",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134949000/",
-    "total_value": 8104143768.76,
-    "final_attacker": {
-      "character_name": "Yukio Kuchki",
-      "corporation_name": "Long Pig Luncheon Meat",
-      "alliance_name": "Sending Thots And Players",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
