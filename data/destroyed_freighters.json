@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 135132742,
+    "killmail_hash": "d5826cf5597ae9dd23e17039c64fd5643b341e16",
+    "kill_time": "2026-04-30T03:33:23Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000242,
+    "solar_system_name": "8TPX-N",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2122193559,
+      "character_name": "selzter",
+      "corporation_id": 1914639582,
+      "corporation_name": "The Disney World Federation",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135132742/",
+    "total_value": 2421121445.34,
+    "final_attacker": {
+      "character_name": "Demon354",
+      "corporation_name": "guerrilla mafia",
+      "alliance_name": "Death Legion of Capybaras",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135132139,
+    "killmail_hash": "9819e06fe08ca34dd01fbf2174aaed2a79814276",
+    "kill_time": "2026-04-30T02:51:11Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116225015,
+      "character_name": "Yo-ie Has",
+      "corporation_id": 98631783,
+      "corporation_name": "DI Sgt. Regulars",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135132139/",
+    "total_value": 7095778559.96,
+    "final_attacker": {
+      "character_name": "Rikard Panala",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 135127776,
+    "killmail_hash": "c11207878a5f2593ca32b79d2a1f7becbfe63472",
+    "kill_time": "2026-04-29T21:32:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001346,
+    "solar_system_name": "B3QP-K",
+    "region_name": "Venal",
+    "victim": {
+      "character_id": 2123736992,
+      "character_name": "Tungd4l",
+      "corporation_id": 98824370,
+      "corporation_name": "Intergalactic Empire",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135127776/",
+    "total_value": 4826711031.77,
+    "final_attacker": {
+      "character_name": "helghast Creire-Geng",
+      "corporation_name": "Rekium",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 135127703,
+    "killmail_hash": "f44a4e3ff520559384c4ca9aa95e69f75a3d6d00",
+    "kill_time": "2026-04-29T21:27:22Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1233544028,
+      "character_name": "KimimaroX",
+      "corporation_id": 98822229,
+      "corporation_name": "Leviathan Minerals",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135127703/",
+    "total_value": 1864619417.52,
+    "final_attacker": {
+      "character_name": "Hidetoshi Okamura",
+      "corporation_name": "Tactical Raki",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 135117716,
     "killmail_hash": "d9c295204bb7ff9858c74fa55bcdd0d8085e6343",
     "kill_time": "2026-04-29T10:49:21Z",
@@ -2285,32 +2389,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134937257,
-    "killmail_hash": "73cc6b2c8d3ba562f9ccde0ccf898d580a089ee2",
-    "kill_time": "2026-04-23T02:34:27Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113032520,
-      "character_name": "Andromeda Uitra",
-      "corporation_id": 98810644,
-      "corporation_name": "Echo Protocol",
-      "alliance_id": 99005178,
-      "alliance_name": "Domain Research and Mining Inst."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134937257/",
-    "total_value": 7705216969.26,
-    "final_attacker": {
-      "character_name": "Toxic Yaken",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Talos"
     }
   }
 ]
