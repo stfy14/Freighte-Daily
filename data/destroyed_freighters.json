@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 135158073,
+    "killmail_hash": "1530101fe405e84bf0dea1d3b6366416bb3096f6",
+    "kill_time": "2026-05-01T07:38:49Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003721,
+    "solar_system_name": "DP-JD4",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 90937665,
+      "character_name": "Rydon Foma",
+      "corporation_id": 98623261,
+      "corporation_name": "Structure Holder",
+      "alliance_id": 99012279,
+      "alliance_name": "Sportmodel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135158073/",
+    "total_value": 1842004706.63,
+    "final_attacker": {
+      "character_name": "Noreiran Nardieu",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 135157773,
+    "killmail_hash": "1af8421c42008f1112fe9aedfc926bd5e2b833af",
+    "kill_time": "2026-05-01T07:12:48Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002805,
+    "solar_system_name": "Anttiri",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 555011909,
+      "character_name": "Michiru Kaiou",
+      "corporation_id": 98784843,
+      "corporation_name": "Strategic Logistics Auxiliary",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135157773/",
+    "total_value": 13427256091.89,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 135155584,
     "killmail_hash": "5093255ec5147e1e0fce7bab5df4100685d14a7d",
     "kill_time": "2026-05-01T03:53:10Z",
@@ -2233,188 +2285,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 134967350,
-    "killmail_hash": "b50dec5fc7b7bdf5321b7d71286a2798dd115502",
-    "kill_time": "2026-04-24T09:52:24Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2119209470,
-      "character_name": "SlabInYourFace",
-      "corporation_id": 98755123,
-      "corporation_name": "13 CALAVERAS",
-      "alliance_id": 99010877,
-      "alliance_name": "Out of the Blue."
-    },
-    "zkb_url": "https://zkillboard.com/kill/134967350/",
-    "total_value": 3372102753.18,
-    "final_attacker": {
-      "character_name": "Stara Isu",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 134967205,
-    "killmail_hash": "f05a9713636e086730b5d6f3356b3ed06ba50602",
-    "kill_time": "2026-04-24T09:42:36Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115252542,
-      "character_name": "Wmlevi1460",
-      "corporation_id": 98799124,
-      "corporation_name": "Muutaras Corporation Hub",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134967205/",
-    "total_value": 9917857397.61,
-    "final_attacker": {
-      "character_name": "zLegion O",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 134966941,
-    "killmail_hash": "2af93b21ffcbb5d123b2f31943a815849efdc389",
-    "kill_time": "2026-04-24T09:19:14Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1286729658,
-      "character_name": "Tanis Ko'rrin",
-      "corporation_id": 98717266,
-      "corporation_name": "Salt Miners Union",
-      "alliance_id": 99001969,
-      "alliance_name": "SONS of BANE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134966941/",
-    "total_value": 6714569492.62,
-    "final_attacker": {
-      "character_name": "zLegion F",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 134966314,
-    "killmail_hash": "6a61e9475e8dbda4176abeae4a215457853ef138",
-    "kill_time": "2026-04-24T08:20:03Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2119717499,
-      "character_name": "Iv-an",
-      "corporation_id": 98731772,
-      "corporation_name": "1percentcorp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134966314/",
-    "total_value": 7329796626.95,
-    "final_attacker": {
-      "character_name": "zLegion L",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 134965540,
-    "killmail_hash": "95acc18e466c56650825ae35ab48ae962297d6cb",
-    "kill_time": "2026-04-24T07:11:42Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 756341491,
-      "character_name": "Brainman",
-      "corporation_id": 584265668,
-      "corporation_name": "Moneytron",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/134965540/",
-    "total_value": 3886480512.6,
-    "final_attacker": {
-      "character_name": "Blue'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 134965295,
-    "killmail_hash": "60b07284b3090cc6213cbdf3d6feaa91f067c97d",
-    "kill_time": "2026-04-24T06:47:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2123902195,
-      "character_name": "Phostum Maximus",
-      "corporation_id": 98409330,
-      "corporation_name": "Ascendance",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134965295/",
-    "total_value": 2255732618.31,
-    "final_attacker": {
-      "character_name": "Amir GHAN",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Eris"
-    }
-  },
-  {
-    "killmail_id": 134963641,
-    "killmail_hash": "362c12746a48d450cb509960248f729f34fd6b13",
-    "kill_time": "2026-04-24T04:33:25Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2118804446,
-      "character_name": "Beaudie",
-      "corporation_id": 98705098,
-      "corporation_name": "Spoopy Services",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134963641/",
-    "total_value": 2772810079.78,
-    "final_attacker": {
-      "character_name": "Purple'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Talos"
     }
   }
 ]
