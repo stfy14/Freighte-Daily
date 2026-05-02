@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135182395,
+    "killmail_hash": "b41b323a3a67914523173677e9cb39133673d669",
+    "kill_time": "2026-05-02T06:04:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1151430367,
+      "character_name": "Naphariel",
+      "corporation_id": 98446995,
+      "corporation_name": "Cynosure",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135182395/",
+    "total_value": 1525243573.08,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 135178093,
     "killmail_hash": "33826a7f91758332e6d2b83ecdbd45b5e791b26f",
     "kill_time": "2026-05-02T00:53:36Z",
@@ -2363,32 +2389,6 @@
       "corporation_name": "Outback Steakhouse of Pancakes",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 134988199,
-    "killmail_hash": "d5e87e8ff2ce72c5c82530d47435a0373b5a7fb6",
-    "kill_time": "2026-04-25T05:21:40Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000092,
-    "solar_system_name": "Aranir",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 95593102,
-      "character_name": "Succubia M",
-      "corporation_id": 98803292,
-      "corporation_name": "Dangerous technical cooperatives",
-      "alliance_id": 99003995,
-      "alliance_name": "Invidia Gloriae Comes"
-    },
-    "zkb_url": "https://zkillboard.com/kill/134988199/",
-    "total_value": 9143752208.98,
-    "final_attacker": {
-      "character_name": "Ethien Green",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Thanatos"
     }
   }
 ]
