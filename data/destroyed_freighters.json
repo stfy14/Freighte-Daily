@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135212276,
+    "killmail_hash": "62667cfee1c04d0f3ab2319026df33c8dfb8cf8d",
+    "kill_time": "2026-05-03T08:15:53Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 726840103,
+      "character_name": "Inserection",
+      "corporation_id": 98764120,
+      "corporation_name": "Eviction-Scout Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135212276/",
+    "total_value": 1299987749.38,
+    "final_attacker": {
+      "character_name": "zLegion 04",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 135210789,
     "killmail_hash": "efc46e7cafb2879123216fdcc38c46bca58e7dfc",
     "kill_time": "2026-05-03T06:20:41Z",
@@ -2103,84 +2129,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 135031979,
-    "killmail_hash": "7bad2f9b7809d22a8d8a3e22d2c35f6d79980b17",
-    "kill_time": "2026-04-26T09:24:10Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 92393639,
-      "character_name": "Otipas",
-      "corporation_id": 1063360566,
-      "corporation_name": "SUNDERING",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135031979/",
-    "total_value": 9191329869.48,
-    "final_attacker": {
-      "character_name": "Hultaji Gogiko",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 135031629,
-    "killmail_hash": "60dff0c8b48d023487f290b289434642ebc48688",
-    "kill_time": "2026-04-26T08:58:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 97194056,
-      "character_name": "Olivia Butterblume",
-      "corporation_id": 98008663,
-      "corporation_name": "Angry Angels Constructions",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135031629/",
-    "total_value": 5003365014.85,
-    "final_attacker": {
-      "character_name": "Hultaji Gogiko",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 135029906,
-    "killmail_hash": "3181ee063dcb7d705159b9cbd7cea3de7c690830",
-    "kill_time": "2026-04-26T07:04:52Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121741198,
-      "character_name": "Corynn Noud",
-      "corporation_id": 98753539,
-      "corporation_name": "Panala Family Foundation and Trust",
-      "alliance_id": 99008829,
-      "alliance_name": "The Network."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135029906/",
-    "total_value": 27898640360.42,
-    "final_attacker": {
-      "character_name": "zLegion S",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
