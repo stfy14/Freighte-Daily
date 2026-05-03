@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 135204489,
+    "killmail_hash": "0ee55cf9bf449d0c4e0a037a1ab2ddbaa55f5358",
+    "kill_time": "2026-05-02T23:08:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001668,
+    "solar_system_name": "Yong",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 92965082,
+      "character_name": "Mad Maxa",
+      "corporation_id": 98338749,
+      "corporation_name": "Zm0rior Minor Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135204489/",
+    "total_value": 1875050048.54,
+    "final_attacker": {
+      "character_name": "Ayuren Aakiwa",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 135204262,
+    "killmail_hash": "95a44f414bba6656ba237d22d26886f9ef0a0f0b",
+    "kill_time": "2026-05-02T23:00:13Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120640615,
+      "character_name": "FeDeraL OmeGa",
+      "corporation_id": 98759209,
+      "corporation_name": "Comerciantes Federales INC.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135204262/",
+    "total_value": 1934288589.63,
+    "final_attacker": {
+      "character_name": "zLegion 16",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135203005,
+    "killmail_hash": "6f599c37f911e0b638ef5ec6747b2c586577821b",
+    "kill_time": "2026-05-02T22:05:46Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 31000467,
+    "solar_system_name": "J130222",
+    "region_name": "B-R00005",
+    "victim": {
+      "character_id": 96080302,
+      "character_name": "Penetracja Aucie",
+      "corporation_id": 98575483,
+      "corporation_name": "000 Russian Academy 000",
+      "alliance_id": 99010921,
+      "alliance_name": "000 Russian Concern 000"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135203005/",
+    "total_value": 1505119127.79,
+    "final_attacker": {
+      "character_name": "Uisa Okima Haginen",
+      "corporation_name": "Grupa Operacyjna ZLY CHUJI",
+      "alliance_name": "Unicorns from Hell",
+      "ship_type_name": "Nighthawk"
+    }
+  },
+  {
     "killmail_id": 135195569,
     "killmail_hash": "a5a24d435e4122e9e5f61941fb80830590d9db41",
     "kill_time": "2026-05-02T18:12:45Z",
@@ -2155,110 +2233,6 @@
       "corporation_name": "Blank-Space",
       "alliance_name": null,
       "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 135025797,
-    "killmail_hash": "6d631b0293cc1612639ad01334ed409364a11155",
-    "kill_time": "2026-04-26T02:48:47Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 705026343,
-      "character_name": "Mining Forman",
-      "corporation_id": 144965822,
-      "corporation_name": "Oberon Incorporated",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135025797/",
-    "total_value": 8366596927.79,
-    "final_attacker": {
-      "character_name": "zLegion U",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 135023433,
-    "killmail_hash": "e678b27fcda3f3f6721b54e77ede457b94da8296",
-    "kill_time": "2026-04-26T00:03:25Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95652720,
-      "character_name": "Eveta Scorvaa",
-      "corporation_id": 98705678,
-      "corporation_name": "Minmatar Fleet Logistics",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135023433/",
-    "total_value": 13269053654.84,
-    "final_attacker": {
-      "character_name": "TaipanSan",
-      "corporation_name": "You're dunked",
-      "alliance_name": "NullSechnaya Sholupen",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 135023347,
-    "killmail_hash": "720abb8c305bbbfe075986860ee4969c6d6831dc",
-    "kill_time": "2026-04-25T23:58:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 94175490,
-      "character_name": "Kitsune Isimazu",
-      "corporation_id": 635210548,
-      "corporation_name": "Fusion Enterprises Ltd",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135023347/",
-    "total_value": 1997313956.75,
-    "final_attacker": {
-      "character_name": "Shadow McLane",
-      "corporation_name": "Mineski Infinity",
-      "alliance_name": "SONS of BANE",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135020527,
-    "killmail_hash": "7176bdbaa329c161361cb8b45e16b201eda96714",
-    "kill_time": "2026-04-25T21:32:46Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2123224564,
-      "character_name": "Marmann K",
-      "corporation_id": 98825585,
-      "corporation_name": "The Moon Watch",
-      "alliance_id": 99005678,
-      "alliance_name": "Local Is Primary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135020527/",
-    "total_value": 4154752429.93,
-    "final_attacker": {
-      "character_name": "MicroSpartan",
-      "corporation_name": "Rattini Tribe",
-      "alliance_name": "Minmatar Fleet Alliance",
-      "ship_type_name": "Revelation"
     }
   }
 ]
