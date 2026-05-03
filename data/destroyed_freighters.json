@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135210789,
+    "killmail_hash": "efc46e7cafb2879123216fdcc38c46bca58e7dfc",
+    "kill_time": "2026-05-03T06:20:41Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114970191,
+      "character_name": "Scarlette Yelland",
+      "corporation_id": 98813997,
+      "corporation_name": "DAWN OF THE DARKPHOENIX",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135210789/",
+    "total_value": 3298814344.3,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 135204489,
     "killmail_hash": "0ee55cf9bf449d0c4e0a037a1ab2ddbaa55f5358",
     "kill_time": "2026-05-02T23:08:27Z",
@@ -2155,84 +2181,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 135027425,
-    "killmail_hash": "139d65c3edbd0b88c292099989e12b63046f8f33",
-    "kill_time": "2026-04-26T04:13:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116025789,
-      "character_name": "jiangyou erhao",
-      "corporation_id": 98715563,
-      "corporation_name": "Chaos Aribter Industry",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135027425/",
-    "total_value": 10044353392.86,
-    "final_attacker": {
-      "character_name": "Rist Rolland",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135027371,
-    "killmail_hash": "4609d5ef3b5c8d54d26ac0e79ddf29d001e9f229",
-    "kill_time": "2026-04-26T04:10:43Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2119301303,
-      "character_name": "megatoron01",
-      "corporation_id": 98450869,
-      "corporation_name": "GAMILAS Security and Logistic Service",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135027371/",
-    "total_value": 15600529816.55,
-    "final_attacker": {
-      "character_name": "duomingshuangxiongkuang",
-      "corporation_name": "The Skies Descend",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 135027305,
-    "killmail_hash": "b2839ec5bc3fb83cf3cef56a8f71f3035f1df4b2",
-    "kill_time": "2026-04-26T04:08:11Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2118462848,
-      "character_name": "MONKEY ISLAND KING",
-      "corporation_id": 98626494,
-      "corporation_name": "STARCHASER Inc",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135027305/",
-    "total_value": 9944460075.87,
-    "final_attacker": {
-      "character_name": "Richard Swasey",
-      "corporation_name": "Blank-Space",
-      "alliance_name": null,
-      "ship_type_name": "Nemesis"
     }
   }
 ]
