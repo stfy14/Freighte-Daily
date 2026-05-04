@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135245998,
+    "killmail_hash": "2cfa784e3c72735d61d7bd1b5f14ae1730b1e1a7",
+    "kill_time": "2026-05-04T16:06:11Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003465,
+    "solar_system_name": "Tabbetzur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 91342144,
+      "character_name": "Olgidara",
+      "corporation_id": 98078886,
+      "corporation_name": "DVZ62",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135245998/",
+    "total_value": 1505791426.87,
+    "final_attacker": {
+      "character_name": "VoidRain",
+      "corporation_name": "Tiamat Malediction",
+      "alliance_name": "Parallaxis Alliance",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 135241430,
     "killmail_hash": "717da09194cd29efc643681dd3a1ee749527c95b",
     "kill_time": "2026-05-04T12:08:20Z",
@@ -2284,32 +2310,6 @@
       "character_name": "Evgen11m",
       "corporation_name": "High-Grade GamePlay",
       "alliance_name": "R A I D E R S",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135063576,
-    "killmail_hash": "17538c9097a9bd4f354757425e012dba94412da6",
-    "kill_time": "2026-04-27T14:53:16Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112343658,
-      "character_name": "Ke Le",
-      "corporation_id": 98781139,
-      "corporation_name": "Kaegsw",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135063576/",
-    "total_value": 10699683797.14,
-    "final_attacker": {
-      "character_name": "Jumo Gatetoll Guy",
-      "corporation_name": "ChenDuWuyanzu",
-      "alliance_name": "Terminally Inept Traders and Scanners",
       "ship_type_name": "Catalyst"
     }
   }
