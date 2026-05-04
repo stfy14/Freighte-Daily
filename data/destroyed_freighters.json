@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135237275,
+    "killmail_hash": "674cbef76666f2266a518e711ac469bb329c6484",
+    "kill_time": "2026-05-04T06:41:24Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 261240080,
+      "character_name": "mavs",
+      "corporation_id": 1000006,
+      "corporation_name": "Deep Core Mining Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135237275/",
+    "total_value": 10225865026.14,
+    "final_attacker": {
+      "character_name": "Olive'Crayon",
+      "corporation_name": "Box of Colors",
+      "alliance_name": "The Conference",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 135234153,
     "killmail_hash": "a18499739c86dd7547c2265d4a35c2e6024b3816",
     "kill_time": "2026-05-04T02:20:53Z",
@@ -1999,84 +2025,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 135055264,
-    "killmail_hash": "4c6cd9928518629ad8887fc9cf1399d032e5ab80",
-    "kill_time": "2026-04-27T04:49:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2113467983,
-      "character_name": "The forcering",
-      "corporation_id": 98725089,
-      "corporation_name": "Arknights.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135055264/",
-    "total_value": 1304506839.82,
-    "final_attacker": {
-      "character_name": "Pak Rodahn",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Moros"
-    }
-  },
-  {
-    "killmail_id": 135055123,
-    "killmail_hash": "6d7070c974cf1596a640f716ff19b49422e394d6",
-    "kill_time": "2026-04-27T04:42:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 91731431,
-      "character_name": "Ty Iron",
-      "corporation_id": 98437301,
-      "corporation_name": "The Study of Wumbology",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135055123/",
-    "total_value": 66348661373.97,
-    "final_attacker": {
-      "character_name": "Dread Zeppe",
-      "corporation_name": "Spicy Crawdad and Associates",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 135054790,
-    "killmail_hash": "d6697de7a9f3b6c8028cd192200a658ee3cd1a12",
-    "kill_time": "2026-04-27T04:10:10Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 95385384,
-      "character_name": "Krolina Shiyurida",
-      "corporation_id": 98828389,
-      "corporation_name": "DKNX Assembly",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135054790/",
-    "total_value": 8660053518.24,
-    "final_attacker": {
-      "character_name": "Izanagiiii",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
