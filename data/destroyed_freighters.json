@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135272949,
+    "killmail_hash": "4d874bb5b6debca01ead468c6643732b812f268a",
+    "kill_time": "2026-05-05T20:36:43Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001402,
+    "solar_system_name": "Passari",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1075972960,
+      "character_name": "Lola numptkins",
+      "corporation_id": 98007453,
+      "corporation_name": "ENCOM International",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135272949/",
+    "total_value": 6671942561.13,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 135264931,
     "killmail_hash": "91c3039299f1a6ad059357150b50eba4cb4309c8",
     "kill_time": "2026-05-05T13:37:18Z",
@@ -153,6 +179,32 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135258733,
+    "killmail_hash": "94548fbe067e2431feee9d8865f92346e379c5ed",
+    "kill_time": "2026-05-05T05:08:33Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31001338,
+    "solar_system_name": "J100015",
+    "region_name": "C-R00015",
+    "victim": {
+      "character_id": 2118439197,
+      "character_name": "Viraki Tekitsu",
+      "corporation_id": 98603079,
+      "corporation_name": "RUDamag.",
+      "alliance_id": 99013576,
+      "alliance_name": "CBOPA KOTOB B KOCMOCE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135258733/",
+    "total_value": 1298982098.48,
+    "final_attacker": {
+      "character_name": "Kitty Ket",
+      "corporation_name": "Radioactive dependence",
+      "alliance_name": "CBOPA KOTOB B KOCMOCE",
+      "ship_type_name": "Drekavac"
     }
   },
   {
