@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135256890,
+    "killmail_hash": "3cc838ba1559367ab10eeda7d081050982c901e1",
+    "kill_time": "2026-05-05T02:43:31Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 90139600,
+      "character_name": "Emerithe Cantanine",
+      "corporation_id": 98767134,
+      "corporation_name": "ETBL Industries",
+      "alliance_id": 99014427,
+      "alliance_name": "Itty Bitty Asteroid Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135256890/",
+    "total_value": 7099975913.35,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 135248790,
     "killmail_hash": "e18812e87437075d20367b5b5a4b2cdf6a889a06",
     "kill_time": "2026-05-04T18:49:22Z",
@@ -2259,58 +2285,6 @@
       "corporation_name": "Commonwealth Mercenaries",
       "alliance_name": "BLACKFLAG.",
       "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 135075756,
-    "killmail_hash": "0330ffe844615d6a02684050b76ea5871b22f3e4",
-    "kill_time": "2026-04-28T03:25:29Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 93626211,
-      "character_name": "Davin Wardo",
-      "corporation_id": 98468380,
-      "corporation_name": "Section-Eight",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135075756/",
-    "total_value": 9030028377.56,
-    "final_attacker": {
-      "character_name": "KingSaphira",
-      "corporation_name": "The Dark Tribe",
-      "alliance_name": "Minmatar Fleet Alliance",
-      "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 135074308,
-    "killmail_hash": "722a18698becdfaabef7b1c9450ff90fc064890f",
-    "kill_time": "2026-04-28T01:38:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113062008,
-      "character_name": "John Audeleses",
-      "corporation_id": 1000107,
-      "corporation_name": "The Scope",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135074308/",
-    "total_value": 8096332859.16,
-    "final_attacker": {
-      "character_name": "Burgundy'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
