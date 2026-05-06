@@ -2390,57 +2390,5 @@
       "alliance_name": null,
       "ship_type_name": "Hound"
     }
-  },
-  {
-    "killmail_id": 135114225,
-    "killmail_hash": "0c3f18a85330c25515d2079a32d4674c230f7905",
-    "kill_time": "2026-04-29T05:58:02Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90076474,
-      "character_name": "24cm",
-      "corporation_id": 98005114,
-      "corporation_name": "BMW M5 club",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135114225/",
-    "total_value": 9006579532.76,
-    "final_attacker": {
-      "character_name": "Tan'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135113551,
-    "killmail_hash": "40b288b03a689f25263b3eb856b592216fd50aa7",
-    "kill_time": "2026-04-29T04:51:54Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 96188692,
-      "character_name": "Xa Charante",
-      "corporation_id": 98817566,
-      "corporation_name": "Cool Beans Inc.",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135113551/",
-    "total_value": 2600661075.97,
-    "final_attacker": {
-      "character_name": "Sap hazar",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Ikitursa"
-    }
   }
 ]
