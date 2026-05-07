@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135311416,
+    "killmail_hash": "9c3984929ed88a2c9369cc6fadd974736aa4bff6",
+    "kill_time": "2026-05-07T19:17:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124173381,
+      "character_name": "Goose026",
+      "corporation_id": 98832124,
+      "corporation_name": "EagleBorn",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135311416/",
+    "total_value": 1301640488.39,
+    "final_attacker": {
+      "character_name": "God's Army",
+      "corporation_name": "Blank-Space",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 135302500,
     "killmail_hash": "d60f47431c93a5e7dfa2ca2eaacdd7bcf36cd5c7",
     "kill_time": "2026-05-07T10:57:18Z",
@@ -2363,32 +2389,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 135145597,
-    "killmail_hash": "4a8b389c992009cfb654828163d7d4ec6585bd03",
-    "kill_time": "2026-04-30T18:16:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2112184636,
-      "character_name": "3eMeJIbKa Fonulique",
-      "corporation_id": 98818088,
-      "corporation_name": "Deep Space Argonauts",
-      "alliance_id": 99014816,
-      "alliance_name": "Deep Space Argonauts Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135145597/",
-    "total_value": 6336181221.41,
-    "final_attacker": {
-      "character_name": "Don Inocencio",
-      "corporation_name": "Workers' Collectivization Bureau",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
     }
   }
 ]
