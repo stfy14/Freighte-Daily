@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135321263,
+    "killmail_hash": "90691e0ef7494bbf37caf286dd4cd30994fcd3c2",
+    "kill_time": "2026-05-08T07:32:57Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113385565,
+      "character_name": "Condor TheAlcho",
+      "corporation_id": 98653226,
+      "corporation_name": "american mining",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135321263/",
+    "total_value": 1828076547.93,
+    "final_attacker": {
+      "character_name": "zLegion 23",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 135316270,
     "killmail_hash": "c7c3412c283213fcdbfc28392fb25ea34968bcbd",
     "kill_time": "2026-05-08T00:20:28Z",
@@ -2415,58 +2441,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135158073,
-    "killmail_hash": "1530101fe405e84bf0dea1d3b6366416bb3096f6",
-    "kill_time": "2026-05-01T07:38:49Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003721,
-    "solar_system_name": "DP-JD4",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 90937665,
-      "character_name": "Rydon Foma",
-      "corporation_id": 98623261,
-      "corporation_name": "Structure Holder",
-      "alliance_id": 99012279,
-      "alliance_name": "Sportmodel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135158073/",
-    "total_value": 1842004706.63,
-    "final_attacker": {
-      "character_name": "Noreiran Nardieu",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 135157773,
-    "killmail_hash": "1af8421c42008f1112fe9aedfc926bd5e2b833af",
-    "kill_time": "2026-05-01T07:12:48Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002805,
-    "solar_system_name": "Anttiri",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 555011909,
-      "character_name": "Michiru Kaiou",
-      "corporation_id": 98784843,
-      "corporation_name": "Strategic Logistics Auxiliary",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135157773/",
-    "total_value": 13427256091.89,
-    "final_attacker": {
-      "character_name": "zLegion 05",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
     }
   }
 ]
