@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 135325428,
+    "killmail_hash": "f5743958aba491847780607e44fb7dda95cd38f0",
+    "kill_time": "2026-05-08T12:52:19Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002050,
+    "solar_system_name": "Hagilur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117691692,
+      "character_name": "Urza Redmacros",
+      "corporation_id": 98693052,
+      "corporation_name": "Lokens INQUISITON",
+      "alliance_id": 99010412,
+      "alliance_name": "Nisuwa Cartel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135325428/",
+    "total_value": 1305887644.27,
+    "final_attacker": {
+      "character_name": "Zenomm",
+      "corporation_name": "Dangerous Strangers",
+      "alliance_name": "WarDogs League",
+      "ship_type_name": "Hurricane"
+    }
+  },
+  {
+    "killmail_id": 135323520,
+    "killmail_hash": "49db4e0622d1ee4a61cef80a4b3ad661c20db68c",
+    "kill_time": "2026-05-08T10:27:52Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113146542,
+      "character_name": "Mathilda Top",
+      "corporation_id": 98565090,
+      "corporation_name": "Behemoth 66",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135323520/",
+    "total_value": 2235931529.97,
+    "final_attacker": {
+      "character_name": "zLegion 06",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135323130,
+    "killmail_hash": "5ace7a78651d8b0f6d9520abe0cf9c541f3ddacb",
+    "kill_time": "2026-05-08T09:55:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123271433,
+      "character_name": "Tikko Saken",
+      "corporation_id": 98734467,
+      "corporation_name": "Perimeter Trading Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135323130/",
+    "total_value": 3012491742.29,
+    "final_attacker": {
+      "character_name": "zLegion",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 135321263,
     "killmail_hash": "90691e0ef7494bbf37caf286dd4cd30994fcd3c2",
     "kill_time": "2026-05-08T07:32:57Z",
