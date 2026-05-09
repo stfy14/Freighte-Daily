@@ -754,6 +754,32 @@
     }
   },
   {
+    "killmail_id": 135277884,
+    "killmail_hash": "7472523016ffa55b0e67456951a5580fbbdb6ad5",
+    "kill_time": "2026-05-06T03:44:31Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 442248914,
+      "character_name": "Turonis",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135277884/",
+    "total_value": 1449000484.87,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 135276377,
     "killmail_hash": "e38b087997fc8adfb86f524dc0d2a2f1fa88f0e9",
     "kill_time": "2026-05-06T01:21:33Z",
@@ -2181,162 +2207,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135178093,
-    "killmail_hash": "33826a7f91758332e6d2b83ecdbd45b5e791b26f",
-    "kill_time": "2026-05-02T00:53:36Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1376422176,
-      "character_name": "Atlia",
-      "corporation_id": 98831906,
-      "corporation_name": "Omega-Group",
-      "alliance_id": 99014964,
-      "alliance_name": "Omega-Republic"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135178093/",
-    "total_value": 1607819104.54,
-    "final_attacker": {
-      "character_name": "zLegion 24",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135177271,
-    "killmail_hash": "816464b6c84772e94ce57abb395137c6d5daddb7",
-    "kill_time": "2026-05-01T23:56:54Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003825,
-    "solar_system_name": "Eugales",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2119483210,
-      "character_name": "Ilmur Attor",
-      "corporation_id": 98820741,
-      "corporation_name": "Nightforge Voidworks",
-      "alliance_id": 99014711,
-      "alliance_name": "Forge Eternal"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135177271/",
-    "total_value": 2071362531.08,
-    "final_attacker": {
-      "character_name": "Davion Dragonfall",
-      "corporation_name": "Black Rabbits",
-      "alliance_name": "Black Rabbit.",
-      "ship_type_name": "Orthrus"
-    }
-  },
-  {
-    "killmail_id": 135177043,
-    "killmail_hash": "99b14d443600249bf29be523a3aacdcd9a2ce608",
-    "kill_time": "2026-05-01T23:46:00Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120350530,
-      "character_name": "Tedma Amelana",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135177043/",
-    "total_value": 1664608021.71,
-    "final_attacker": {
-      "character_name": "zLegion 25",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135176269,
-    "killmail_hash": "508a0b43cb5d2407b37f901528ce8d8cb5e16c7b",
-    "kill_time": "2026-05-01T22:53:30Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90600515,
-      "character_name": "Nathaniel Schereau",
-      "corporation_id": 98829471,
-      "corporation_name": "Brigada 49",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135176269/",
-    "total_value": 5286853079.18,
-    "final_attacker": {
-      "character_name": "zLegion 20",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135175850,
-    "killmail_hash": "ae84d0d8ec8ae0052b5c8eb75df49404e8a205d2",
-    "kill_time": "2026-05-01T22:34:31Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1948894927,
-      "character_name": "Mer Tarrant",
-      "corporation_id": 98136484,
-      "corporation_name": "No Signatures Found",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135175850/",
-    "total_value": 1241023031.09,
-    "final_attacker": {
-      "character_name": "zLegion 20",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135174962,
-    "killmail_hash": "bd7d8e878cb7d37f0b2e42cb9860d677d882c2b0",
-    "kill_time": "2026-05-01T22:08:02Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91782270,
-      "character_name": "Patboy Exposa",
-      "corporation_id": 98282527,
-      "corporation_name": "Galactic Hauling Solutions Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135174962/",
-    "total_value": 3262131693.23,
-    "final_attacker": {
-      "character_name": "zLegion 03",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
     }
   }
 ]
