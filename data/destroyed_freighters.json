@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135358938,
+    "killmail_hash": "9d7c2d2f73298429b40f0ecb37b0af19f10f45a1",
+    "kill_time": "2026-05-09T19:36:44Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004977,
+    "solar_system_name": "Yvangier",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 96857421,
+      "character_name": "Wesley Hoogvliet",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135358938/",
+    "total_value": 1767795990.88,
+    "final_attacker": {
+      "character_name": "Serpeys",
+      "corporation_name": "J-Scorpion",
+      "alliance_name": null,
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 135352173,
     "killmail_hash": "43a70e4316ae753a70f95c7c22b268afb727695d",
     "kill_time": "2026-05-09T14:43:46Z",
@@ -2207,32 +2233,6 @@
       "corporation_name": "Grupa Operacyjna ZLY CHUJI",
       "alliance_name": "Unicorns from Hell",
       "ship_type_name": "Nighthawk"
-    }
-  },
-  {
-    "killmail_id": 135195569,
-    "killmail_hash": "a5a24d435e4122e9e5f61941fb80830590d9db41",
-    "kill_time": "2026-05-02T18:12:45Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 92919276,
-      "character_name": "Gall Imperium",
-      "corporation_id": 1000107,
-      "corporation_name": "The Scope",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135195569/",
-    "total_value": 7775903583.07,
-    "final_attacker": {
-      "character_name": "Balder Sturlungar",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Proteus"
     }
   }
 ]
