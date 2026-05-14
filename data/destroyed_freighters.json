@@ -1740,31 +1740,5 @@
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
     }
-  },
-  {
-    "killmail_id": 135302500,
-    "killmail_hash": "d60f47431c93a5e7dfa2ca2eaacdd7bcf36cd5c7",
-    "kill_time": "2026-05-07T10:57:18Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000163,
-    "solar_system_name": "Akora",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118046176,
-      "character_name": "Bryene",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135302500/",
-    "total_value": 1485457500.16,
-    "final_attacker": {
-      "character_name": "aRs30",
-      "corporation_name": "Sequent Industry",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Hyperion"
-    }
   }
 ]
