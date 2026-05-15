@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135502905,
+    "killmail_hash": "9f507d76e0c7df11a444ecfdabc25d268813c1eb",
+    "kill_time": "2026-05-15T13:47:07Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2115503053,
+      "character_name": "drbui",
+      "corporation_id": 98833529,
+      "corporation_name": "The 3 Crowns",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135502905/",
+    "total_value": 1710510563.11,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 135499739,
     "killmail_hash": "93715e90a298b6a6baa89b01e3d9ce7d8fd834d6",
     "kill_time": "2026-05-15T09:32:24Z",
@@ -2025,32 +2051,6 @@
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 135325428,
-    "killmail_hash": "f5743958aba491847780607e44fb7dda95cd38f0",
-    "kill_time": "2026-05-08T12:52:19Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002050,
-    "solar_system_name": "Hagilur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2117691692,
-      "character_name": "Urza Redmacros",
-      "corporation_id": 98693052,
-      "corporation_name": "Lokens INQUISITON",
-      "alliance_id": 99010412,
-      "alliance_name": "Nisuwa Cartel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135325428/",
-    "total_value": 1305887644.27,
-    "final_attacker": {
-      "character_name": "Zenomm",
-      "corporation_name": "Dangerous Strangers",
-      "alliance_name": "WarDogs League",
-      "ship_type_name": "Hurricane"
     }
   }
 ]
