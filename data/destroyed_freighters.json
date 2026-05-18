@@ -2182,57 +2182,5 @@
       "alliance_name": null,
       "ship_type_name": "Ikitursa"
     }
-  },
-  {
-    "killmail_id": 135421256,
-    "killmail_hash": "8e8aebc860a493910faf377df9db02a645621e33",
-    "kill_time": "2026-05-11T16:42:08Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001400,
-    "solar_system_name": "Litiura",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 91682873,
-      "character_name": "Max Scafidi",
-      "corporation_id": 717884393,
-      "corporation_name": "Donum Mortis",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135421256/",
-    "total_value": 3705673401.1,
-    "final_attacker": {
-      "character_name": "Triple Deke",
-      "corporation_name": "The Priesthood",
-      "alliance_name": "WeR4",
-      "ship_type_name": "Golem"
-    }
-  },
-  {
-    "killmail_id": 135420540,
-    "killmail_hash": "0827332733ee326b18170dbf75a2c00eed1d2d91",
-    "kill_time": "2026-05-11T16:05:43Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004245,
-    "solar_system_name": "Udianoor",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 2113814907,
-      "character_name": "derpy mcderperson",
-      "corporation_id": 98831992,
-      "corporation_name": "The 3 Capsuleers",
-      "alliance_id": 99013539,
-      "alliance_name": "The Disciples of Space Piracy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135420540/",
-    "total_value": 8125549610.76,
-    "final_attacker": {
-      "character_name": "Dii minores",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Moros"
-    }
   }
 ]
