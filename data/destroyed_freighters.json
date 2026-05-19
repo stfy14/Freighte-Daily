@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135590926,
+    "killmail_hash": "3f87a8073acac810e988c4ef31c28b788eb87fd4",
+    "kill_time": "2026-05-18T22:34:20Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 354722546,
+      "character_name": "stuby1965",
+      "corporation_id": 98083089,
+      "corporation_name": "Redhogs",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135590926/",
+    "total_value": 7006041244.75,
+    "final_attacker": {
+      "character_name": "Dr Volt",
+      "corporation_name": "Puerto Sombra",
+      "alliance_name": "Death or Glory",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 135586416,
     "killmail_hash": "51918514202c982c75e48c9c1587ef6507f52257",
     "kill_time": "2026-05-18T19:15:31Z",
@@ -2051,32 +2077,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135428137,
-    "killmail_hash": "5cf2a63fd5653032055a9b5e9230fef567be916c",
-    "kill_time": "2026-05-11T22:25:39Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 91850845,
-      "character_name": "Salazar Hekard",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135428137/",
-    "total_value": 9964166326.95,
-    "final_attacker": {
-      "character_name": "Don Gregorio",
-      "corporation_name": "Highsec Expropriation Office",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
     }
   }
 ]
