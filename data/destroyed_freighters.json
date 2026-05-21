@@ -2338,57 +2338,5 @@
       "alliance_name": "Come in and freak out",
       "ship_type_name": "Widow"
     }
-  },
-  {
-    "killmail_id": 135482380,
-    "killmail_hash": "7c27a25ec45f1113e68aab2fe8324d7e45ce6d5c",
-    "kill_time": "2026-05-14T14:28:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123562638,
-      "character_name": "Sei Motsu",
-      "corporation_id": 98828071,
-      "corporation_name": "Lunnaris Industria",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135482380/",
-    "total_value": 8295623584.47,
-    "final_attacker": {
-      "character_name": "zLegion M",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135479652,
-    "killmail_hash": "ff654d414b053cd2ae24ab3bb261a1399559df32",
-    "kill_time": "2026-05-14T12:26:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114721017,
-      "character_name": "Britney yuge005",
-      "corporation_id": 98650465,
-      "corporation_name": "GODAIRGODAIR",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135479652/",
-    "total_value": 9458143116.75,
-    "final_attacker": {
-      "character_name": "zLegion O",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
   }
 ]
