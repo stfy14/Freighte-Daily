@@ -104,6 +104,32 @@
     }
   },
   {
+    "killmail_id": 135775787,
+    "killmail_hash": "cb7e515bca3bbe6d10bab8ac7c315cea10298213",
+    "kill_time": "2026-05-26T10:35:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112661176,
+      "character_name": "Spacewagon",
+      "corporation_id": 98663007,
+      "corporation_name": "Mountain Water Always Meet",
+      "alliance_id": 99008392,
+      "alliance_name": "Griffin And Kruger"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135775787/",
+    "total_value": 13081802436.41,
+    "final_attacker": {
+      "character_name": "zLegion R",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 135773272,
     "killmail_hash": "ef65b776707001b3c7019d6b1ee3f1ad4ff93802",
     "kill_time": "2026-05-26T06:17:38Z",
@@ -2831,188 +2857,6 @@
       "corporation_name": "We Break Things",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 135617145,
-    "killmail_hash": "f9aa41cecf0afde206e1b5bd1bcf8f23dfbe4994",
-    "kill_time": "2026-05-20T04:26:56Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000120,
-    "solar_system_name": "Mitsolen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 599064197,
-      "character_name": "Koschun",
-      "corporation_id": 1000046,
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135617145/",
-    "total_value": 1360723413.03,
-    "final_attacker": {
-      "character_name": "Sorryforthat whoops",
-      "corporation_name": "x13",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 135615729,
-    "killmail_hash": "39a7442861ed8aabbaa7aedbb7b5b0d4196b900b",
-    "kill_time": "2026-05-20T02:50:34Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 90639744,
-      "character_name": "41401",
-      "corporation_id": 98049623,
-      "corporation_name": "Formosa Research Center",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135615729/",
-    "total_value": 8278024368.6,
-    "final_attacker": {
-      "character_name": "P8REIT",
-      "corporation_name": "Aegis Victorium",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 135615495,
-    "killmail_hash": "b7124e58d9896f7dd768be744461edb5ee6c78a8",
-    "kill_time": "2026-05-20T02:35:13Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002796,
-    "solar_system_name": "Hysera",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123035053,
-      "character_name": "Roxanne Dupont",
-      "corporation_id": 98747520,
-      "corporation_name": "Targets Locked",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135615495/",
-    "total_value": 8809487237.08,
-    "final_attacker": {
-      "character_name": "Care Park",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Avatar"
-    }
-  },
-  {
-    "killmail_id": 135615475,
-    "killmail_hash": "7cbe08eceee65461591ef29c98390620b7df276c",
-    "kill_time": "2026-05-20T02:34:09Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 91176560,
-      "character_name": "Travis Messineo",
-      "corporation_id": 98243482,
-      "corporation_name": "Valkyrie Consortium",
-      "alliance_id": 99009129,
-      "alliance_name": "No Visual."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135615475/",
-    "total_value": 9874062137.78,
-    "final_attacker": {
-      "character_name": "Jonathan Apples",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 135614915,
-    "killmail_hash": "02814e9434db8898988aa687d4480d1a507a7d7b",
-    "kill_time": "2026-05-20T01:52:37Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2123485462,
-      "character_name": "vale pro 1",
-      "corporation_id": 98756765,
-      "corporation_name": "Star.Men",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135614915/",
-    "total_value": 1458737471.96,
-    "final_attacker": {
-      "character_name": "Spacemanspifff",
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_name": "Brave Collective",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135613565,
-    "killmail_hash": "4561ec71396e7e845ab6df2e1a2897c98d71ee8b",
-    "kill_time": "2026-05-20T00:10:14Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2115573309,
-      "character_name": "SGU CPL",
-      "corporation_id": 98507124,
-      "corporation_name": "S.F Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135613565/",
-    "total_value": 15168747639.23,
-    "final_attacker": {
-      "character_name": "Bentusi Keidan",
-      "corporation_name": "Winslow Syndicate",
-      "alliance_name": "Scary Wormhole People",
-      "ship_type_name": "Machariel"
-    }
-  },
-  {
-    "killmail_id": 135613344,
-    "killmail_hash": "b5f472d4b83b4326626f9220b2acf775e2f0b4ff",
-    "kill_time": "2026-05-19T23:48:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 92024374,
-      "character_name": "Moss Schildt",
-      "corporation_id": 98258093,
-      "corporation_name": "Strategic Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135613344/",
-    "total_value": 1456878837.16,
-    "final_attacker": {
-      "character_name": "Jack Munny",
-      "corporation_name": "Did he say Jump",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Vigilant"
     }
   }
 ]
