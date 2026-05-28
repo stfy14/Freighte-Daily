@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 135825431,
+    "killmail_hash": "9f0eee1379f8bccae3e8d7662b2603947f8708b0",
+    "kill_time": "2026-05-28T14:38:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96617222,
+      "character_name": "jianjud Aideron",
+      "corporation_id": 98725089,
+      "corporation_name": "Arknights.",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135825431/",
+    "total_value": 12222888074.93,
+    "final_attacker": {
+      "character_name": "HxK",
+      "corporation_name": "Aurora.",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135823182,
+    "killmail_hash": "00869c5d3395c2387ef4d7e596036a49e39c1071",
+    "kill_time": "2026-05-28T12:55:08Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003835,
+    "solar_system_name": "Maut",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 1211367648,
+      "character_name": "Miss Sharo",
+      "corporation_id": 98630901,
+      "corporation_name": "H7N9.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135823182/",
+    "total_value": 9090074191.92,
+    "final_attacker": {
+      "character_name": "Andrejs L",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
     "killmail_id": 135820715,
     "killmail_hash": "d1bb529e417676f583890c127106adc82e19f799",
     "kill_time": "2026-05-28T09:18:13Z",
