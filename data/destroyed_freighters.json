@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 135820715,
+    "killmail_hash": "d1bb529e417676f583890c127106adc82e19f799",
+    "kill_time": "2026-05-28T09:18:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002634,
+    "solar_system_name": "Balle",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112746458,
+      "character_name": "Bern Norgash",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135820715/",
+    "total_value": 2673823927.62,
+    "final_attacker": {
+      "character_name": "My Little Phoney",
+      "corporation_name": "We Break Things",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 135820097,
+    "killmail_hash": "a1419fad6e709db43fce72474447d4a7c1023afd",
+    "kill_time": "2026-05-28T08:14:48Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2120437981,
+      "character_name": "xEdge Commander",
+      "corporation_id": 98664079,
+      "corporation_name": "Cosmos Collective",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135820097/",
+    "total_value": 11684851398.22,
+    "final_attacker": {
+      "character_name": "zLegion J",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135818158,
+    "killmail_hash": "d0fc6a9d34ec32f768f685930b9defb3619994dd",
+    "kill_time": "2026-05-28T05:05:34Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000045,
+    "solar_system_name": "Jaymass",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 96359404,
+      "character_name": "jimwin fordem",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135818158/",
+    "total_value": 1480191227.59,
+    "final_attacker": {
+      "character_name": "Rofl-Chopper",
+      "corporation_name": "Seventeenth Battalion",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 135817484,
     "killmail_hash": "2ddeb2476aae6d0f825f50d13fdf77856820e815",
     "kill_time": "2026-05-28T04:05:00Z",
@@ -2857,58 +2935,6 @@
       "corporation_name": "Slavers Union",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 135640582,
-    "killmail_hash": "5cf432ea111944fb3085e62fa35275f8850ebb19",
-    "kill_time": "2026-05-21T08:29:00Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 267443236,
-      "character_name": "Krakatoajb",
-      "corporation_id": 98390683,
-      "corporation_name": "Hogyoku",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135640582/",
-    "total_value": 9293586032.17,
-    "final_attacker": {
-      "character_name": "Lord Road",
-      "corporation_name": "People's Democratic Republic of Gatecamping",
-      "alliance_name": "Muh Zkill...",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 135639442,
-    "killmail_hash": "531741e734a54f849aacd17a4898553308abb648",
-    "kill_time": "2026-05-21T06:32:39Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123549497,
-      "character_name": "Igorat Grinder",
-      "corporation_id": 98775860,
-      "corporation_name": "Marauders Logistic",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135639442/",
-    "total_value": 15419709439.82,
-    "final_attacker": {
-      "character_name": "Yukiko Kanezaki",
-      "corporation_name": "Blank-Space",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
