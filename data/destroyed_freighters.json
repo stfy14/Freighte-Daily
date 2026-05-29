@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135844262,
+    "killmail_hash": "567be9119a777df388b59e60519cf6d431eb7c44",
+    "kill_time": "2026-05-29T12:23:11Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1579228833,
+      "character_name": "Persephone's Kiss",
+      "corporation_id": 384667640,
+      "corporation_name": "Black Frog Logistics",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135844262/",
+    "total_value": 37032058554.72,
+    "final_attacker": {
+      "character_name": "zLegion U",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 135842163,
     "killmail_hash": "831ebf1d114cf1d4d0ca384c228a1b8311ca1029",
     "kill_time": "2026-05-29T09:08:02Z",
@@ -255,6 +281,32 @@
     "final_attacker": {
       "character_name": "HxK",
       "corporation_name": "Aurora.",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135823584,
+    "killmail_hash": "98de30a306ff5d52ca0bb99fdea2757c18b4b4b6",
+    "kill_time": "2026-05-28T13:20:54Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2117794426,
+      "character_name": "Absolute Vodka",
+      "corporation_id": 98823812,
+      "corporation_name": "Bananna Delivery Services",
+      "alliance_id": 99014221,
+      "alliance_name": "Weapons of Mass Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135823584/",
+    "total_value": 14816799032.41,
+    "final_attacker": {
+      "character_name": "zLegion W",
+      "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Purifier"
     }
@@ -647,6 +699,32 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 135793032,
+    "killmail_hash": "6a99d25e272d29e3116efe98286f599406783b53",
+    "kill_time": "2026-05-27T02:13:40Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1866019316,
+      "character_name": "mookie81",
+      "corporation_id": 98707822,
+      "corporation_name": "Intergalactic Brotherhood of Teamsters",
+      "alliance_id": 99000580,
+      "alliance_name": "Ignore This."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135793032/",
+    "total_value": 11768696760.69,
+    "final_attacker": {
+      "character_name": "zLegion S",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
     }
   },
   {
@@ -2987,58 +3065,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 135667630,
-    "killmail_hash": "763f3909f5002983797e95f8ede300271c942621",
-    "kill_time": "2026-05-22T15:56:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003486,
-    "solar_system_name": "Kheram",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 518007940,
-      "character_name": "MAXILOM",
-      "corporation_id": 1453783860,
-      "corporation_name": "Celestial Mayhem",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135667630/",
-    "total_value": 2196821593,
-    "final_attacker": {
-      "character_name": "Vorn",
-      "corporation_name": "I'm Super Bad At This",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 135666881,
-    "killmail_hash": "c36cf0c39198f1e4bc43e5cd9a3af7cb476b6d94",
-    "kill_time": "2026-05-22T15:24:42Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123924161,
-      "character_name": "Khaleesi of Dodixie",
-      "corporation_id": 98824507,
-      "corporation_name": "Fuxi Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135666881/",
-    "total_value": 9887518876.35,
-    "final_attacker": {
-      "character_name": "Merciless Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
     }
   }
 ]
