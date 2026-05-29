@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135842163,
+    "killmail_hash": "831ebf1d114cf1d4d0ca384c228a1b8311ca1029",
+    "kill_time": "2026-05-29T09:08:02Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2114554166,
+      "character_name": "Eraser TheKillers",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135842163/",
+    "total_value": 5665208275.24,
+    "final_attacker": {
+      "character_name": "Sap hazar",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Hyperion"
+    }
+  },
+  {
     "killmail_id": 135837442,
     "killmail_hash": "4ebf84e3e71b68c7f6787022b5da54ed219164ed",
     "kill_time": "2026-05-29T02:28:45Z",
@@ -3013,58 +3039,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135661918,
-    "killmail_hash": "354bbad578996b73377d7006823cb7909931cbb7",
-    "kill_time": "2026-05-22T09:34:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2124300763,
-      "character_name": "Niks1",
-      "corporation_id": 98765090,
-      "corporation_name": "Titan Legion",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135661918/",
-    "total_value": 1394993127.07,
-    "final_attacker": {
-      "character_name": "Spiritual symbol",
-      "corporation_name": "Euphoria.",
-      "alliance_name": "Ranger Regiment",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 135660389,
-    "killmail_hash": "6f04783cb66d0482330c486737e4ef7003e275c7",
-    "kill_time": "2026-05-22T07:07:06Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005204,
-    "solar_system_name": "Yulai",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2116518620,
-      "character_name": "Chet U-Betcha",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135660389/",
-    "total_value": 7864041553.86,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
