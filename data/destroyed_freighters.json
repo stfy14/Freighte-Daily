@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 135837442,
+    "killmail_hash": "4ebf84e3e71b68c7f6787022b5da54ed219164ed",
+    "kill_time": "2026-05-29T02:28:45Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000019,
+    "solar_system_name": "Podion",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 91577346,
+      "character_name": "Nykita C",
+      "corporation_id": 1388734985,
+      "corporation_name": "Multiplex Gaming",
+      "alliance_id": 131511956,
+      "alliance_name": "Tactical Narcotics Team"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135837442/",
+    "total_value": 7406445232.91,
+    "final_attacker": {
+      "character_name": "Worley's Daughter",
+      "corporation_name": "Stuka On-Line",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 135835089,
+    "killmail_hash": "e3edefbbbb35836752e52d3d64645e8f19d001c2",
+    "kill_time": "2026-05-28T23:05:43Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117876990,
+      "character_name": "JF Karen",
+      "corporation_id": 98372897,
+      "corporation_name": "No Country for Old Nerds",
+      "alliance_id": 99010079,
+      "alliance_name": "Brave United"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135835089/",
+    "total_value": 17970338987.36,
+    "final_attacker": {
+      "character_name": "Walter MOONPIRE",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "HOLD MY PROBS",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 135833635,
     "killmail_hash": "3ad4faa9e9126c27603d17ad0e8e665e68c423fe",
     "kill_time": "2026-05-28T21:11:57Z",
@@ -3013,58 +3065,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 135656733,
-    "killmail_hash": "268431a7d7db2eff5af56f7444ee26ee707ea594",
-    "kill_time": "2026-05-22T02:00:31Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 369420895,
-      "character_name": "Serilon",
-      "corporation_id": 98824126,
-      "corporation_name": "Assassin's Flag",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135656733/",
-    "total_value": 10708374042.01,
-    "final_attacker": {
-      "character_name": "Brown'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135653907,
-    "killmail_hash": "f84e4206ae382219ac88ef6d84ab07ff1f803c24",
-    "kill_time": "2026-05-21T22:02:57Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121911305,
-      "character_name": "Firefly zov",
-      "corporation_id": 98536418,
-      "corporation_name": "Academy of Russian Federation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135653907/",
-    "total_value": 1381617869.62,
-    "final_attacker": {
-      "character_name": "Miss Zyd",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Machariel"
     }
   }
 ]
