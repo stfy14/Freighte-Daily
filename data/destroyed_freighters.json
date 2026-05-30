@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 135882569,
+    "killmail_hash": "333d0656520d687c3b5e5052d69ed0ebb1444f50",
+    "kill_time": "2026-05-30T20:21:11Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003068,
+    "solar_system_name": "Kourmonen",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 2123543307,
+      "character_name": "Halittan Egdald",
+      "corporation_id": 98651050,
+      "corporation_name": "Absolute Order XVIII",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135882569/",
+    "total_value": 1638523298.97,
+    "final_attacker": {
+      "character_name": "Dead4ever",
+      "corporation_name": "Prime Directive.",
+      "alliance_name": "Slide On Contact",
+      "ship_type_name": "Hecate"
+    }
+  },
+  {
+    "killmail_id": 135880628,
+    "killmail_hash": "15f8c7e2cb100607cb6ebc0add2f8773e33aa924",
+    "kill_time": "2026-05-30T19:19:09Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2115821474,
+      "character_name": "NWABroseidon",
+      "corporation_id": 98809144,
+      "corporation_name": "No Friends Just Alts",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135880628/",
+    "total_value": 4460721179.82,
+    "final_attacker": {
+      "character_name": "Radagastar",
+      "corporation_name": "No Friends Just Alts",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Erebus"
+    }
+  },
+  {
+    "killmail_id": 135878700,
+    "killmail_hash": "4e481e5c49c94dd84bb36c603a6e2560e35320d6",
+    "kill_time": "2026-05-30T17:58:00Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 91413499,
+      "character_name": "Ubundu Hakaari",
+      "corporation_id": 98762295,
+      "corporation_name": "Cafe Lounge",
+      "alliance_id": 99013922,
+      "alliance_name": "Only Vibes"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135878700/",
+    "total_value": 7657039133.19,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 135876733,
     "killmail_hash": "7fc7473f3244b0a024817fc5f5c8225b58d243fd",
     "kill_time": "2026-05-30T16:34:04Z",
@@ -2623,84 +2701,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 135704949,
-    "killmail_hash": "eddac57ee65b804eed720f71a0bbf5fadaab8bff",
-    "kill_time": "2026-05-23T20:42:49Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 92157056,
-      "character_name": "Hoshi Kelevra",
-      "corporation_id": 98200153,
-      "corporation_name": "Thirtyplus",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135704949/",
-    "total_value": 9774877306.48,
-    "final_attacker": {
-      "character_name": "Safe Cyno Fleet",
-      "corporation_name": "Safe Cyno Infrastructure",
-      "alliance_name": null,
-      "ship_type_name": "Nemesis"
-    }
-  },
-  {
-    "killmail_id": 135702492,
-    "killmail_hash": "b16a7ebca65aefd4b3b96231f9fd1e37f8e22e1f",
-    "kill_time": "2026-05-23T19:10:21Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118893155,
-      "character_name": "Rassar Rek Silf",
-      "corporation_id": 98758662,
-      "corporation_name": "3 Kings Trade Federation",
-      "alliance_id": 99009991,
-      "alliance_name": "Intaki-Business Logistics Union"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135702492/",
-    "total_value": 2601973900.45,
-    "final_attacker": {
-      "character_name": "Kokayne Dawkins",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 135702239,
-    "killmail_hash": "27e534fa240c86ee963b62465c417c017aac1a93",
-    "kill_time": "2026-05-23T19:05:09Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114433106,
-      "character_name": "An'ferthe",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135702239/",
-    "total_value": 8031058864.43,
-    "final_attacker": {
-      "character_name": "Rabid Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
     }
   }
 ]
