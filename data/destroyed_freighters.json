@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135884107,
+    "killmail_hash": "900cf7ab2b31be46fe421e21c74a4c973cc7967f",
+    "kill_time": "2026-05-30T21:19:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 94857904,
+      "character_name": "Deltaris Shepard",
+      "corporation_id": 1000006,
+      "corporation_name": "Deep Core Mining Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135884107/",
+    "total_value": 1997798149.08,
+    "final_attacker": {
+      "character_name": "EF Alpha",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
     "killmail_id": 135882569,
     "killmail_hash": "333d0656520d687c3b5e5052d69ed0ebb1444f50",
     "kill_time": "2026-05-30T20:21:11Z",
@@ -2543,162 +2569,6 @@
     "final_attacker": {
       "character_name": "zLegion",
       "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 135713544,
-    "killmail_hash": "2fb80c3dae0720d2d85e1c739ee0e53d77a28d5b",
-    "kill_time": "2026-05-24T04:17:34Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95609307,
-      "character_name": "Dyza NeRabotaet",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135713544/",
-    "total_value": 4391439697.3,
-    "final_attacker": {
-      "character_name": "zLegion 07",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135709008,
-    "killmail_hash": "e87da5c3a19af6aecf7f42302066535e3a5447a9",
-    "kill_time": "2026-05-23T23:39:50Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95240654,
-      "character_name": "Reese Tivianne",
-      "corporation_id": 98665328,
-      "corporation_name": "Ancestral Eye",
-      "alliance_id": 99008783,
-      "alliance_name": "Olde Guarde Historical Preservation Society"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135709008/",
-    "total_value": 5887033073.87,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135708592,
-    "killmail_hash": "f24b3d1b2b35d30f0ff72fd67db97c965020c143",
-    "kill_time": "2026-05-23T23:20:42Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 888434536,
-      "character_name": "skidoo",
-      "corporation_id": 98193682,
-      "corporation_name": "Dedicated Individuals Conditioned to Kill",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135708592/",
-    "total_value": 7497300322.53,
-    "final_attacker": {
-      "character_name": "Mug Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135708279,
-    "killmail_hash": "46b80cd5cdb3f15a3bda43f6df7c962fd61a5ca2",
-    "kill_time": "2026-05-23T23:10:26Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003530,
-    "solar_system_name": "Raravath",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2121867419,
-      "character_name": "zhouz2",
-      "corporation_id": 98717452,
-      "corporation_name": "Planning Department of the War Literature club",
-      "alliance_id": 99014267,
-      "alliance_name": "LEMON-CAT"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135708279/",
-    "total_value": 1475086845.38,
-    "final_attacker": {
-      "character_name": "Hiems Aurelius",
-      "corporation_name": "God of Terrorr",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Harbinger Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 135707083,
-    "killmail_hash": "e735bdc7dbd34de2de58eba9e4d2495b21b67f64",
-    "kill_time": "2026-05-23T22:07:19Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001071,
-    "solar_system_name": "8-2JZA",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 2113396237,
-      "character_name": "Dekhan Enthalir",
-      "corporation_id": 98776045,
-      "corporation_name": "Tilean Silver Lion Company",
-      "alliance_id": 99014321,
-      "alliance_name": "Tilean Dominium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135707083/",
-    "total_value": 4174132061.73,
-    "final_attacker": {
-      "character_name": "DreamScythe",
-      "corporation_name": "No Vacancies",
-      "alliance_name": "No Vacancies.",
-      "ship_type_name": "Cerberus"
-    }
-  },
-  {
-    "killmail_id": 135705838,
-    "killmail_hash": "05fe91ed2c19534bb470861e6b21bcfdfeca9d6a",
-    "kill_time": "2026-05-23T21:15:25Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2118995728,
-      "character_name": "Ruutu Momaki",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135705838/",
-    "total_value": 8174734804.22,
-    "final_attacker": {
-      "character_name": "Hultaji Gogiko",
-      "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
     }
