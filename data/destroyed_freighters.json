@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 135896709,
+    "killmail_hash": "4507f343a314a5d9732a95b4ea512c579b4187f7",
+    "kill_time": "2026-05-31T10:00:28Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96827644,
+      "character_name": "UncleTom",
+      "corporation_id": 98605451,
+      "corporation_name": "Skilldefizit",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135896709/",
+    "total_value": 15439265206.67,
+    "final_attacker": {
+      "character_name": "Needale Mangeiri",
+      "corporation_name": "Why So Sage",
+      "alliance_name": "Dracarys.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 135896330,
+    "killmail_hash": "f19214a3f31e2d9b0f6334449e55769e5ecb5e06",
+    "kill_time": "2026-05-31T09:39:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 559195010,
+      "character_name": "Erin Frie",
+      "corporation_id": 98771388,
+      "corporation_name": "Tactical Grace.",
+      "alliance_id": 555959926,
+      "alliance_name": "Vanguard."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135896330/",
+    "total_value": 4413777838.78,
+    "final_attacker": {
+      "character_name": "zLegion 08",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135896269,
+    "killmail_hash": "6585cefd99bcaf71c940f38beccf51e08683207c",
+    "kill_time": "2026-05-31T09:35:19Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005274,
+    "solar_system_name": "Otakod",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2123455793,
+      "character_name": "Lolth Chand Lazair",
+      "corporation_id": 98832941,
+      "corporation_name": "Nightgate Solutions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135896269/",
+    "total_value": 3208075062.35,
+    "final_attacker": {
+      "character_name": "Dii minores",
+      "corporation_name": "AirGuard",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 135895717,
+    "killmail_hash": "3256e27333ef196d6a4bfadf0f9b280e474f2fdc",
+    "kill_time": "2026-05-31T08:57:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2115760357,
+      "character_name": "Nekon Huren",
+      "corporation_id": 98450647,
+      "corporation_name": "SpaceX Galactic",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135895717/",
+    "total_value": 12272776414.61,
+    "final_attacker": {
+      "character_name": "Hifumi Saijou",
+      "corporation_name": "Euphoria.",
+      "alliance_name": "Ranger Regiment",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 135892528,
+    "killmail_hash": "ef591475a040466bf2b56786a09e4b267bcecac7",
+    "kill_time": "2026-05-31T05:06:22Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 275895027,
+      "character_name": "magick one",
+      "corporation_id": 98767169,
+      "corporation_name": "Legion Ascending",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135892528/",
+    "total_value": 1514189718.23,
+    "final_attacker": {
+      "character_name": "Tacnap",
+      "corporation_name": "Kor-Azorian",
+      "alliance_name": "Pillars of Liberty",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 135884107,
     "killmail_hash": "900cf7ab2b31be46fe421e21c74a4c973cc7967f",
     "kill_time": "2026-05-30T21:19:42Z",
@@ -2441,136 +2571,6 @@
       "corporation_name": "Questionable Tactics Average Skill",
       "alliance_name": null,
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 135720564,
-    "killmail_hash": "27978e3092fb0a53787c44a84a0514431dbc4932",
-    "kill_time": "2026-05-24T09:50:59Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122592646,
-      "character_name": "Chronosia",
-      "corporation_id": 98368217,
-      "corporation_name": "G Buzz Inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135720564/",
-    "total_value": 2935581540.2,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135719387,
-    "killmail_hash": "83cc955091ce75d51f5c4d14d4ca2b1542594917",
-    "kill_time": "2026-05-24T08:43:02Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 691439588,
-      "character_name": "Anna Bolitho",
-      "corporation_id": 98437227,
-      "corporation_name": "Banished Braindead Zombies",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135719387/",
-    "total_value": 1405195217.2,
-    "final_attacker": {
-      "character_name": "Kaiser128",
-      "corporation_name": "Deaths Consortium",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 135716707,
-    "killmail_hash": "2f10ccc2c64da2ab9616521b96dc33d46bd48a2d",
-    "kill_time": "2026-05-24T07:26:59Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122417336,
-      "character_name": "Celica A",
-      "corporation_id": 98828955,
-      "corporation_name": "Sojourner Construction Management",
-      "alliance_id": 99014726,
-      "alliance_name": "Terminally Inept Traders and Scanners"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135716707/",
-    "total_value": 7153416360.44,
-    "final_attacker": {
-      "character_name": "Bloodthirsty Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135716493,
-    "killmail_hash": "05fa99e186ee686e063199d68471c2339a479f3f",
-    "kill_time": "2026-05-24T07:18:02Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91624833,
-      "character_name": "Kaiserin Arthas",
-      "corporation_id": 98091948,
-      "corporation_name": "Agence Touriste",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135716493/",
-    "total_value": 1712103233.57,
-    "final_attacker": {
-      "character_name": "zLegion 13",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135715124,
-    "killmail_hash": "01efe1489b6e01d5ca60c3fc0663be652395668c",
-    "kill_time": "2026-05-24T05:50:49Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1174926783,
-      "character_name": "LT Simon",
-      "corporation_id": 98280176,
-      "corporation_name": "Feuersturm am Rhein",
-      "alliance_id": 99014695,
-      "alliance_name": "Blackout Protocol"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135715124/",
-    "total_value": 3256465209.81,
-    "final_attacker": {
-      "character_name": "zLegion",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
