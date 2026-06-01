@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 135922877,
+    "killmail_hash": "6b5fa3375b2d155c301eb1947c2937e0faefd16a",
+    "kill_time": "2026-06-01T11:16:35Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115223751,
+      "character_name": "weiz IIIII SH",
+      "corporation_id": 98599181,
+      "corporation_name": "Attack On CALDARI",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135922877/",
+    "total_value": 31896766193.71,
+    "final_attacker": {
+      "character_name": "Destruction and Hate",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 135922301,
+    "killmail_hash": "ab9a7dba4bb2d3579c1fc2510ea5862c57038a9b",
+    "kill_time": "2026-06-01T10:13:39Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2124411132,
+      "character_name": "dnsthd1",
+      "corporation_id": 98834940,
+      "corporation_name": "Cosa Nostra industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135922301/",
+    "total_value": 1634547082.27,
+    "final_attacker": {
+      "character_name": "Cucumber ares",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
+    "killmail_id": 135921245,
+    "killmail_hash": "9e26f349fe74abb8fe4a4662717f3007a5cf45d3",
+    "kill_time": "2026-06-01T08:40:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124283861,
+      "character_name": "Franz Fermenti",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135921245/",
+    "total_value": 1808367297.3,
+    "final_attacker": {
+      "character_name": "zLegion 27",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135920261,
+    "killmail_hash": "f2c1370f6cc06aa16d9d47ecd9fe090693546716",
+    "kill_time": "2026-06-01T07:18:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1948223464,
+      "character_name": "BlackMambaa",
+      "corporation_id": 98758017,
+      "corporation_name": "Cryonic Origin",
+      "alliance_id": 99013786,
+      "alliance_name": "Cryonic Origin Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135920261/",
+    "total_value": 4329207561.44,
+    "final_attacker": {
+      "character_name": "zLegion 25",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135919681,
+    "killmail_hash": "f5385ef5d87d32ff66beb4c4eaf1b03d3b10f165",
+    "kill_time": "2026-06-01T06:37:33Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121133819,
+      "character_name": "guido780",
+      "corporation_id": 98790984,
+      "corporation_name": "The Drag Queen Mafia",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135919681/",
+    "total_value": 1415032822.12,
+    "final_attacker": {
+      "character_name": "zLegion 18",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135919153,
+    "killmail_hash": "ab0f234402eb433508ea6fdb198e64967534b962",
+    "kill_time": "2026-06-01T05:37:01Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30005038,
+    "solar_system_name": "Kor-Azor Prime",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 96254492,
+      "character_name": "Skeeter Mcgee",
+      "corporation_id": 98812126,
+      "corporation_name": "Fifth Kingdom of Night",
+      "alliance_id": 99012908,
+      "alliance_name": "Seker Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135919153/",
+    "total_value": 11337983359.61,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Amarr Civil Service",
+      "alliance_name": null,
+      "ship_type_name": "Amarr Surveillance General Major"
+    }
+  },
+  {
     "killmail_id": 135917930,
     "killmail_hash": "0c43c43dc426c2c2805bcc8402df2d2609bfb44c",
     "kill_time": "2026-06-01T03:44:33Z",
@@ -1895,266 +2051,6 @@
       "corporation_name": "Cozy Mischief",
       "alliance_name": "Sedition.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 135751568,
-    "killmail_hash": "294145fe853dc1929ac5ee51ccf7f542b7158ae8",
-    "kill_time": "2026-05-25T12:03:43Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2124270496,
-      "character_name": "MetDeVlamInDePijp",
-      "corporation_id": 98507124,
-      "corporation_name": "S.F Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135751568/",
-    "total_value": 18285298140.38,
-    "final_attacker": {
-      "character_name": "A-Girl Has-No-Name",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 135750473,
-    "killmail_hash": "36149dbaf5463f60f345a541e2ea6e1ec2c75957",
-    "kill_time": "2026-05-25T10:47:41Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115328519,
-      "character_name": "Torpedo Isres",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135750473/",
-    "total_value": 21297016538.86,
-    "final_attacker": {
-      "character_name": "MOONPIREs KGB Agent-14",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135749908,
-    "killmail_hash": "84f462492c400faa3e68846016065290359673a4",
-    "kill_time": "2026-05-25T10:21:10Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2119997000,
-      "character_name": "Giovanni Varirie",
-      "corporation_id": 98769044,
-      "corporation_name": "OnlyFreight.",
-      "alliance_id": 99013400,
-      "alliance_name": "OnlyAlts."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135749908/",
-    "total_value": 13922825593.91,
-    "final_attacker": {
-      "character_name": "Kaira Khagah",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135749012,
-    "killmail_hash": "9d9153482d749a8a74fff9ec4cc70beff5de1a87",
-    "kill_time": "2026-05-25T09:25:40Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003840,
-    "solar_system_name": "Anchauttes",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2121214782,
-      "character_name": "Horatio Kado",
-      "corporation_id": 98822871,
-      "corporation_name": "Ovat Holdings",
-      "alliance_id": 99014898,
-      "alliance_name": "Guristaz Logistics Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135749012/",
-    "total_value": 2633509728.32,
-    "final_attacker": {
-      "character_name": "amarantio",
-      "corporation_name": "exiles.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 135748799,
-    "killmail_hash": "46a27d4b2b321c2de822157db39ba4d0953adbca",
-    "kill_time": "2026-05-25T09:13:18Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94575314,
-      "character_name": "Dave Destroyed-U",
-      "corporation_id": 98359752,
-      "corporation_name": "British Empire Holdings LTD",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135748799/",
-    "total_value": 8040413557.57,
-    "final_attacker": {
-      "character_name": "Nixon MOONPIRE",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135748072,
-    "killmail_hash": "5a0b841290b76ad3836f102a5ad3999931f8fe9f",
-    "kill_time": "2026-05-25T08:27:13Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 92778616,
-      "character_name": "Vincent Mancini Corleone",
-      "corporation_id": 98334523,
-      "corporation_name": "PLA Logistics",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135748072/",
-    "total_value": 11232541800.4,
-    "final_attacker": {
-      "character_name": "Watchdog-6 MOONPIRE",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135747819,
-    "killmail_hash": "6e341a8047ff4b04fe0ea92b42f0e408caf1e58b",
-    "kill_time": "2026-05-25T08:05:16Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122386006,
-      "character_name": "AoCks",
-      "corporation_id": 98617920,
-      "corporation_name": "Advanced Weapon Supplement League",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135747819/",
-    "total_value": 14672506378.02,
-    "final_attacker": {
-      "character_name": "XANTARE",
-      "corporation_name": "Euphoria.",
-      "alliance_name": "Ranger Regiment",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 135747494,
-    "killmail_hash": "aca74deb1544b4decdc604760dbed607a9ae49f4",
-    "kill_time": "2026-05-25T07:47:02Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 93487925,
-      "character_name": "Beltghost VI",
-      "corporation_id": 98747302,
-      "corporation_name": "Goblin Goods Consortium",
-      "alliance_id": 99014614,
-      "alliance_name": "InnerZone"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135747494/",
-    "total_value": 13629200550.02,
-    "final_attacker": {
-      "character_name": "MOONPIREs KGB Agent-14",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135746539,
-    "killmail_hash": "5bb2a06ceb4c9b0520fbc2aeaeb29d76c033b7e1",
-    "kill_time": "2026-05-25T06:37:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123271433,
-      "character_name": "Tikko Saken",
-      "corporation_id": 98734467,
-      "corporation_name": "Perimeter Trading Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135746539/",
-    "total_value": 20673048671.81,
-    "final_attacker": {
-      "character_name": "Ransack Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 135746074,
-    "killmail_hash": "a497f49e86365f10a9f5b2ce28f0c4b436ee6c22",
-    "kill_time": "2026-05-25T05:59:48Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2124275386,
-      "character_name": "Ravshan101a",
-      "corporation_id": 98830484,
-      "corporation_name": "Fabri ferrarii magni",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135746074/",
-    "total_value": 7146332775.47,
-    "final_attacker": {
-      "character_name": "Abhored Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
     }
   }
 ]
