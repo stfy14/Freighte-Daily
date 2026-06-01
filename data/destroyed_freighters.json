@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135917930,
+    "killmail_hash": "0c43c43dc426c2c2805bcc8402df2d2609bfb44c",
+    "kill_time": "2026-06-01T03:44:33Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001984,
+    "solar_system_name": "EC-P8R",
+    "region_name": "Pure Blind",
+    "victim": {
+      "character_id": 2124140560,
+      "character_name": "Trill Timer",
+      "corporation_id": 98827934,
+      "corporation_name": "timer family holdings",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135917930/",
+    "total_value": 1633135962.28,
+    "final_attacker": {
+      "character_name": "Barknor",
+      "corporation_name": "MASS A DEATH",
+      "alliance_name": "Scumlords",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 135904041,
     "killmail_hash": "4816ffae92c9f9ceee24cfc42a0feefbf8d3cc30",
     "kill_time": "2026-05-31T15:56:00Z",
@@ -2129,240 +2155,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135745379,
-    "killmail_hash": "57dd303f6a32cad4166e6722c6cc6539ce6c1f61",
-    "kill_time": "2026-05-25T04:57:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003277,
-    "solar_system_name": "PF-346",
-    "region_name": "Syndicate",
-    "victim": {
-      "character_id": 2117613457,
-      "character_name": "Jolene McGuire",
-      "corporation_id": 1150722203,
-      "corporation_name": "The Minutemen",
-      "alliance_id": 99014577,
-      "alliance_name": "High Sec Mining Consortium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135745379/",
-    "total_value": 7312587381.05,
-    "final_attacker": {
-      "character_name": "Kasper Skov",
-      "corporation_name": "Constantine.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 135744716,
-    "killmail_hash": "5ece9d03b2b8ab44936e243333c37487938f5f61",
-    "kill_time": "2026-05-25T04:04:35Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2114092934,
-      "character_name": "Sunset Snow",
-      "corporation_id": 98560137,
-      "corporation_name": "SnS Group",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135744716/",
-    "total_value": 1408064566.07,
-    "final_attacker": {
-      "character_name": "MystinaCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Raven"
-    }
-  },
-  {
-    "killmail_id": 135743969,
-    "killmail_hash": "e28b87d51733c891a1d97c0e50895933a78c1b79",
-    "kill_time": "2026-05-25T03:21:21Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002542,
-    "solar_system_name": "Auga",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 261815027,
-      "character_name": "Jason Stone",
-      "corporation_id": 1941029723,
-      "corporation_name": "Rolling Stones Inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135743969/",
-    "total_value": 3235832483.33,
-    "final_attacker": {
-      "character_name": "Mula Soldats",
-      "corporation_name": "The Dark Tribe",
-      "alliance_name": "Minmatar Fleet Alliance",
-      "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 135743335,
-    "killmail_hash": "f6e92e8be70815bb54e4f6cd6f8e113896711d5f",
-    "kill_time": "2026-05-25T02:47:17Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2116569356,
-      "character_name": "Joksan Shiyurida",
-      "corporation_id": 98740385,
-      "corporation_name": "Langosta Comunista",
-      "alliance_id": 99013177,
-      "alliance_name": "Pillars of Liberty"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135743335/",
-    "total_value": 7459415442.75,
-    "final_attacker": {
-      "character_name": "Deceive Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135742803,
-    "killmail_hash": "bbf1f0d1676ab21504bbf9958ed2a2edb1aaac29",
-    "kill_time": "2026-05-25T02:10:55Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113821089,
-      "character_name": "dream warm Future",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135742803/",
-    "total_value": 15536999711.37,
-    "final_attacker": {
-      "character_name": "Mug Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135742286,
-    "killmail_hash": "803ac358f72e3d0e3d6a4961ead43fdd8dd9765d",
-    "kill_time": "2026-05-25T01:31:41Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1524241454,
-      "character_name": "Samatha Jane",
-      "corporation_id": 98472383,
-      "corporation_name": "SUICIDE--SQUAD",
-      "alliance_id": 99009902,
-      "alliance_name": "Flying Dangerous"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135742286/",
-    "total_value": 7652089373.85,
-    "final_attacker": {
-      "character_name": "Lift Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135741487,
-    "killmail_hash": "ae6fcd4d2f2b548a6f67e14a2127ae5b3926b694",
-    "kill_time": "2026-05-25T00:28:00Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113513743,
-      "character_name": "Caila Gogiko",
-      "corporation_id": 903623845,
-      "corporation_name": "Black Sea Industries",
-      "alliance_id": 99010265,
-      "alliance_name": "Blue Loot Not Included"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135741487/",
-    "total_value": 8504449763.12,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 135741307,
-    "killmail_hash": "353bfa70f5cc3f38ecc1acd8e111fbd6b902c370",
-    "kill_time": "2026-05-25T00:22:37Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123856223,
-      "character_name": "Acknar Sevraque",
-      "corporation_id": 98773416,
-      "corporation_name": "Primal Instinct Inc.",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135741307/",
-    "total_value": 7364000274.95,
-    "final_attacker": {
-      "character_name": "Heist Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 135739954,
-    "killmail_hash": "1a2f42bad62da02241b22729c79f7511491d9f88",
-    "kill_time": "2026-05-24T22:49:38Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000163,
-    "solar_system_name": "Akora",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 93050240,
-      "character_name": "Orion Izar",
-      "corporation_id": 98763808,
-      "corporation_name": "BNR Holding LLC",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135739954/",
-    "total_value": 10074847225.79,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
     }
   }
 ]
