@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 135938676,
+    "killmail_hash": "7ca22ffea0b193466a2edb1224472d5bcec9bf6b",
+    "kill_time": "2026-06-02T03:46:09Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000143,
+    "solar_system_name": "Niyabainen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 714419723,
+      "character_name": "Gideon Firestorm",
+      "corporation_id": 98258093,
+      "corporation_name": "Strategic Exploration and Development Corp",
+      "alliance_id": 99009268,
+      "alliance_name": "Silent Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135938676/",
+    "total_value": 1893888103.77,
+    "final_attacker": {
+      "character_name": "pigznzen",
+      "corporation_name": "The Priesthood",
+      "alliance_name": "WeR4",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 135935048,
+    "killmail_hash": "cf39bfeea7ee094948a851e2f5ae1a006ad048cc",
+    "kill_time": "2026-06-01T22:29:55Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2121920623,
+      "character_name": "Bob Gymlan",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135935048/",
+    "total_value": 7475636827.62,
+    "final_attacker": {
+      "character_name": "Axes Illum",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 135933859,
+    "killmail_hash": "6073381ba72e34d3f81ca3937e91b8e5ab2e35bb",
+    "kill_time": "2026-06-01T20:58:10Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001028,
+    "solar_system_name": "RMOC-W",
+    "region_name": "Curse",
+    "victim": {
+      "character_id": 96285229,
+      "character_name": "vipere scorpion",
+      "corporation_id": 98057377,
+      "corporation_name": "Core Industry.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135933859/",
+    "total_value": 1586618336.97,
+    "final_attacker": {
+      "character_name": "Brutus Duran",
+      "corporation_name": "Cameltoe Collective",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135933847,
+    "killmail_hash": "581bed48ec8788712388ec39ed6dcb1557b22bf1",
+    "kill_time": "2026-06-01T20:57:22Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30001028,
+    "solar_system_name": "RMOC-W",
+    "region_name": "Curse",
+    "victim": {
+      "character_id": 1218265882,
+      "character_name": "Mormaz",
+      "corporation_id": 98057377,
+      "corporation_name": "Core Industry.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135933847/",
+    "total_value": 1770976464.61,
+    "final_attacker": {
+      "character_name": "Tirax Vale",
+      "corporation_name": "Captain's Quarters",
+      "alliance_name": "Seventh Sanctum.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 135932954,
+    "killmail_hash": "d39e25830bc2b29b88f57e2db2be03e2134146bd",
+    "kill_time": "2026-06-01T20:15:06Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1295272529,
+      "character_name": "Nexatous",
+      "corporation_id": 98815112,
+      "corporation_name": "Sloth Industries 2.0",
+      "alliance_id": 99011239,
+      "alliance_name": "Ligma Grindset"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135932954/",
+    "total_value": 9908645406.64,
+    "final_attacker": {
+      "character_name": "Ferdinand MOONPIRE",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "HOLD MY PROBS",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 135930801,
     "killmail_hash": "78a01ea09702e9f3d3d3378ed85a5e3a1ef16461",
     "kill_time": "2026-06-01T18:39:15Z",
@@ -1944,110 +2074,6 @@
     "total_value": 8561607317.98,
     "final_attacker": {
       "character_name": "Provoked Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 135770707,
-    "killmail_hash": "6ddca7e3bea4185eed6929b45437ca159dfe5a0c",
-    "kill_time": "2026-05-26T02:44:09Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000195,
-    "solar_system_name": "Tasti",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122011898,
-      "character_name": "Proton Cat",
-      "corporation_id": 98334523,
-      "corporation_name": "PLA Logistics",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135770707/",
-    "total_value": 79193921957.66,
-    "final_attacker": {
-      "character_name": "DarkLander",
-      "corporation_name": "F.A.M.I.L.Y",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 135767323,
-    "killmail_hash": "d9a7218ddf3472412df05e072be6706ff9c8c7a3",
-    "kill_time": "2026-05-25T22:41:19Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95017066,
-      "character_name": "Accounts Broker",
-      "corporation_id": 98634900,
-      "corporation_name": "Hispanic Enterprises Holding",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135767323/",
-    "total_value": 8665528614.56,
-    "final_attacker": {
-      "character_name": "Relentless Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135766640,
-    "killmail_hash": "bf554ec72bd00350ea6166c6a0d6e7e0cc01e68b",
-    "kill_time": "2026-05-25T22:00:14Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30005008,
-    "solar_system_name": "Aeschee",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 92477265,
-      "character_name": "Laida Thiesant",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135766640/",
-    "total_value": 1612387639.62,
-    "final_attacker": {
-      "character_name": "Daniel OHaleno",
-      "corporation_name": "Blood Alcohol Content",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 135765355,
-    "killmail_hash": "a6dfdcf6731ebbe10e90f996c158023154245b28",
-    "kill_time": "2026-05-25T21:01:42Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 91782270,
-      "character_name": "Patboy Exposa",
-      "corporation_id": 98282527,
-      "corporation_name": "Galactic Hauling Solutions Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135765355/",
-    "total_value": 13207030598.73,
-    "final_attacker": {
-      "character_name": "Smuggle Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Hound"
