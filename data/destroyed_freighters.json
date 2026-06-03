@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 135972205,
+    "killmail_hash": "d0e1820c32b0f4b1ebeab0382d3c472aa9a61c17",
+    "kill_time": "2026-06-03T19:44:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31002270,
+    "solar_system_name": "J123432",
+    "region_name": "E-R00028",
+    "victim": {
+      "character_id": 2123029686,
+      "character_name": "Ryan Rayburn",
+      "corporation_id": 98316453,
+      "corporation_name": "Outfit 418",
+      "alliance_id": 99010265,
+      "alliance_name": "Blue Loot Not Included"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135972205/",
+    "total_value": 9814523623.14,
+    "final_attacker": {
+      "character_name": "Bunka en Daire",
+      "corporation_name": "V0LTA",
+      "alliance_name": "WE FORM V0LTA",
+      "ship_type_name": "Prophecy Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 135971376,
+    "killmail_hash": "13d237473e8c4e70c9b20b555da496dde019205a",
+    "kill_time": "2026-06-03T19:01:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2007966065,
+      "character_name": "dragonsani",
+      "corporation_id": 98587294,
+      "corporation_name": "Arkcadia Development Group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135971376/",
+    "total_value": 2609972827.1,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 135970362,
+    "killmail_hash": "4dda51afd076204b38f140f15c2dec2829afdffb",
+    "kill_time": "2026-06-03T18:07:17Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2116470540,
+      "character_name": "Dante Darklove",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135970362/",
+    "total_value": 1435747578.42,
+    "final_attacker": {
+      "character_name": "Culuee",
+      "corporation_name": "Eskimo Callboys",
+      "alliance_name": "Train Wreck.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 135970136,
+    "killmail_hash": "a1a84ea802faf08bbd0ba448dc48555e986b0f4c",
+    "kill_time": "2026-06-03T17:53:46Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000877,
+    "solar_system_name": "DBT-GB",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 1978535095,
+      "character_name": "Ibn Khatab",
+      "corporation_id": 263585335,
+      "corporation_name": "Black Omega Security",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135970136/",
+    "total_value": 1435955785.1,
+    "final_attacker": {
+      "character_name": "death hops",
+      "corporation_name": "Black Omega Security",
+      "alliance_name": "Test Alliance Please Ignore",
+      "ship_type_name": "Erebus"
+    }
+  },
+  {
     "killmail_id": 135962460,
     "killmail_hash": "a4a515c80e7976b4a9c35397c654a06187d2b0c1",
     "kill_time": "2026-06-03T08:47:09Z",
