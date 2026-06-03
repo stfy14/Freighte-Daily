@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 135959545,
+    "killmail_hash": "8d30032a92bdfd8a8d21038952ffdc5c7fab4694",
+    "kill_time": "2026-06-03T04:16:32Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002187,
+    "solar_system_name": "Amarr",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2121825944,
+      "character_name": "Avencourt Vynneve",
+      "corporation_id": 98824902,
+      "corporation_name": "QuackOps",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135959545/",
+    "total_value": 1748824336.03,
+    "final_attacker": {
+      "character_name": "The Suls",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 135953951,
     "killmail_hash": "07a66433627de36567b9f61b59c87c4650ff65f9",
     "kill_time": "2026-06-02T20:51:53Z",
@@ -2311,32 +2337,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135793032,
-    "killmail_hash": "6a99d25e272d29e3116efe98286f599406783b53",
-    "kill_time": "2026-05-27T02:13:40Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1866019316,
-      "character_name": "mookie81",
-      "corporation_id": 98707822,
-      "corporation_name": "Intergalactic Brotherhood of Teamsters",
-      "alliance_id": 99000580,
-      "alliance_name": "Ignore This."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135793032/",
-    "total_value": 11768696760.69,
-    "final_attacker": {
-      "character_name": "zLegion S",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
     }
   }
 ]
