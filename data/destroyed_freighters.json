@@ -2312,57 +2312,5 @@
       "alliance_name": "DarkSide.",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 135810969,
-    "killmail_hash": "93fe4a9e4e24c8997fa7c025548b689c2d25d61d",
-    "kill_time": "2026-05-27T20:44:29Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113034602,
-      "character_name": "Dublin Oskold",
-      "corporation_id": 98412140,
-      "corporation_name": "JAGD Federation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135810969/",
-    "total_value": 1398998833.72,
-    "final_attacker": {
-      "character_name": "Xarfei Badasaz",
-      "corporation_name": "Phantom Brigade Ger",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 135810356,
-    "killmail_hash": "fe35ea809302afdabe6e8c724e2c4a504e4eeed8",
-    "kill_time": "2026-05-27T20:19:24Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112426011,
-      "character_name": "Galaxy Royal Guard",
-      "corporation_id": 98807825,
-      "corporation_name": "Chi Gua Auxiliary",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135810356/",
-    "total_value": 8651072277.93,
-    "final_attacker": {
-      "character_name": "Shaokar Wilder",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Tornado"
-    }
   }
 ]
