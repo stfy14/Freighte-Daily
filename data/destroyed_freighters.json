@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 135980166,
+    "killmail_hash": "64e04e58de8dc5157d4213794eb4f1dd93634345",
+    "kill_time": "2026-06-04T04:44:48Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 31002138,
+    "solar_system_name": "J131549",
+    "region_name": "E-R00027",
+    "victim": {
+      "character_id": 2112452979,
+      "character_name": "Jacovin Excalidor",
+      "corporation_id": 98531454,
+      "corporation_name": "Asteroid Farm Unlimited",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135980166/",
+    "total_value": 1555312209.85,
+    "final_attacker": {
+      "character_name": "Qfeuille",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 135978545,
+    "killmail_hash": "67a026f5ee66b29f454b4c186af1a52418667a03",
+    "kill_time": "2026-06-04T02:41:34Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000241,
+    "solar_system_name": "YMJG-4",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2122193559,
+      "character_name": "selzter",
+      "corporation_id": 1914639582,
+      "corporation_name": "The Disney World Federation",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135978545/",
+    "total_value": 1789751635.35,
+    "final_attacker": {
+      "character_name": "Vesrys",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135977353,
+    "killmail_hash": "89e6810c9c6a9814a32651716b756ebba05dc5c2",
+    "kill_time": "2026-06-04T01:32:15Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003726,
+    "solar_system_name": "Y-MPWL",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2123028898,
+      "character_name": "Airatomon Yanumano",
+      "corporation_id": 98651052,
+      "corporation_name": "Absolute Order XX",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135977353/",
+    "total_value": 1628300768.34,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "True Power",
+      "alliance_name": null,
+      "ship_type_name": "Romi Thalamus"
+    }
+  },
+  {
+    "killmail_id": 135975955,
+    "killmail_hash": "cda085a5fe599c17fd8e68774f4be7d42a743896",
+    "kill_time": "2026-06-03T23:24:00Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000861,
+    "solar_system_name": "15W-GC",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 1978535095,
+      "character_name": "Ibn Khatab",
+      "corporation_id": 263585335,
+      "corporation_name": "Black Omega Security",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135975955/",
+    "total_value": 1435026065.09,
+    "final_attacker": {
+      "character_name": "Coke XX",
+      "corporation_name": "Black Omega Security",
+      "alliance_name": "Test Alliance Please Ignore",
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
     "killmail_id": 135972205,
     "killmail_hash": "d0e1820c32b0f4b1ebeab0382d3c472aa9a61c17",
     "kill_time": "2026-06-03T19:44:47Z",
@@ -2233,84 +2337,6 @@
       "corporation_name": "Seventeenth Battalion",
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 135817484,
-    "killmail_hash": "2ddeb2476aae6d0f825f50d13fdf77856820e815",
-    "kill_time": "2026-05-28T04:05:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2114958512,
-      "character_name": "Mark Dirk",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135817484/",
-    "total_value": 3048625208.2,
-    "final_attacker": {
-      "character_name": "Onyx'Crayon",
-      "corporation_name": "Box of Colors",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135816974,
-    "killmail_hash": "41a1828b7ab84ce686e2af1657879125432597e9",
-    "kill_time": "2026-05-28T03:30:12Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004167,
-    "solar_system_name": "GQLB-V",
-    "region_name": "Cobalt Edge",
-    "victim": {
-      "character_id": 2114415976,
-      "character_name": "Ivana Phuku",
-      "corporation_id": 98558686,
-      "corporation_name": "Edge Dancers",
-      "alliance_id": 99012532,
-      "alliance_name": "Angry Miners Alliance."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135816974/",
-    "total_value": 1558675144.52,
-    "final_attacker": {
-      "character_name": "Inspire Hope",
-      "corporation_name": "ITS ALWAYS SUNNY IN NEW EDEN",
-      "alliance_name": "Abyssal Brick Rollers",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 135814180,
-    "killmail_hash": "b1addc658216d42073f8b4c3af78bff1bfa64447",
-    "kill_time": "2026-05-28T00:34:59Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95224364,
-      "character_name": "Viktor Dunov",
-      "corporation_id": 98530151,
-      "corporation_name": "Meta Triage",
-      "alliance_id": 99011023,
-      "alliance_name": "Friends with Liabilities"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135814180/",
-    "total_value": 7588419318.97,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
