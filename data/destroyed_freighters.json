@@ -2338,57 +2338,5 @@
       "alliance_name": "HOLD MY PROBS",
       "ship_type_name": "Tornado"
     }
-  },
-  {
-    "killmail_id": 135828084,
-    "killmail_hash": "4d771dd0c7daaa3c85a0c990d438f8ea27284b1f",
-    "kill_time": "2026-05-28T17:08:07Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003935,
-    "solar_system_name": "Irmalin",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 403778153,
-      "character_name": "plo",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135828084/",
-    "total_value": 7741944630.67,
-    "final_attacker": {
-      "character_name": "GATS HALF",
-      "corporation_name": "Fat Dragon Pirate Co.",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 135827723,
-    "killmail_hash": "9e7ac678d5ae80a886c618eea5f551c8bc9c9f02",
-    "kill_time": "2026-05-28T16:44:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2121789161,
-      "character_name": "Violence PerryIII",
-      "corporation_id": 98817479,
-      "corporation_name": "NO PANIC GROUP",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135827723/",
-    "total_value": 5154437559.36,
-    "final_attacker": {
-      "character_name": "Zed's Motorcycle",
-      "corporation_name": "Rusty Hyenas",
-      "alliance_name": "Rusty Hyenas Clan",
-      "ship_type_name": "Purifier"
-    }
   }
 ]
