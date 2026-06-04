@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 135987186,
+    "killmail_hash": "c5f85d1636e71023739d233a81039fbda938e47a",
+    "kill_time": "2026-06-04T14:16:49Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2122743162,
+      "character_name": "Kagesulf Melkan",
+      "corporation_id": 98540583,
+      "corporation_name": "Special law enforcement department",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/135987186/",
+    "total_value": 3908051754.14,
+    "final_attacker": {
+      "character_name": "Olin Diana",
+      "corporation_name": "Forever Stardust Navy Combined Fleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 135983772,
+    "killmail_hash": "f77212f76ea5200dac6569f255b7e5eda6f3031c",
+    "kill_time": "2026-06-04T10:23:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117841315,
+      "character_name": "Comwek",
+      "corporation_id": 1000171,
+      "corporation_name": "Republic University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135983772/",
+    "total_value": 1648910797.94,
+    "final_attacker": {
+      "character_name": "zLegion 20",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 135983092,
+    "killmail_hash": "a8791f8d8752fac2966b9e780e2404c85da9207e",
+    "kill_time": "2026-06-04T09:26:53Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92801363,
+      "character_name": "Bella Otsolen",
+      "corporation_id": 98589820,
+      "corporation_name": "Heavy Haulage Ltd",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135983092/",
+    "total_value": 1441678501.27,
+    "final_attacker": {
+      "character_name": "zLegion 22",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 135982859,
     "killmail_hash": "5ff4dd422851115c790f9e9f4f2541385b28d2aa",
     "kill_time": "2026-06-04T09:09:54Z",
@@ -23,6 +101,58 @@
       "corporation_name": "Infinite Point",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 135982801,
+    "killmail_hash": "3393e6c3111a93fa9fb809e9c26d61e2e5c7a7ce",
+    "kill_time": "2026-06-04T09:07:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124035206,
+      "character_name": "Maldrakk",
+      "corporation_id": 98830385,
+      "corporation_name": "False Logistic Services",
+      "alliance_id": 99014221,
+      "alliance_name": "Weapons of Mass Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/135982801/",
+    "total_value": 1440315828.19,
+    "final_attacker": {
+      "character_name": "zLegion 01",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 135982012,
+    "killmail_hash": "a23d33a64a5b6c8b91e855b123d97761bfbe6644",
+    "kill_time": "2026-06-04T07:52:33Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116671273,
+      "character_name": "Slim Keikirae",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135982012/",
+    "total_value": 4266395320.17,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
     }
   },
   {
@@ -2259,84 +2389,6 @@
       "corporation_name": "Rusty Hyenas",
       "alliance_name": "Rusty Hyenas Clan",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135825431,
-    "killmail_hash": "9f0eee1379f8bccae3e8d7662b2603947f8708b0",
-    "kill_time": "2026-05-28T14:38:16Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 96617222,
-      "character_name": "jianjud Aideron",
-      "corporation_id": 98725089,
-      "corporation_name": "Arknights.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135825431/",
-    "total_value": 12222888074.93,
-    "final_attacker": {
-      "character_name": "HxK",
-      "corporation_name": "Aurora.",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135823584,
-    "killmail_hash": "98de30a306ff5d52ca0bb99fdea2757c18b4b4b6",
-    "kill_time": "2026-05-28T13:20:54Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117794426,
-      "character_name": "Absolute Vodka",
-      "corporation_id": 98823812,
-      "corporation_name": "Bananna Delivery Services",
-      "alliance_id": 99014221,
-      "alliance_name": "Weapons of Mass Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135823584/",
-    "total_value": 14816799032.41,
-    "final_attacker": {
-      "character_name": "zLegion W",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135823182,
-    "killmail_hash": "00869c5d3395c2387ef4d7e596036a49e39c1071",
-    "kill_time": "2026-05-28T12:55:08Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003835,
-    "solar_system_name": "Maut",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 1211367648,
-      "character_name": "Miss Sharo",
-      "corporation_id": 98630901,
-      "corporation_name": "H7N9.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135823182/",
-    "total_value": 9090074191.92,
-    "final_attacker": {
-      "character_name": "Andrejs L",
-      "corporation_name": "Constantine.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Hubris"
     }
   }
 ]
