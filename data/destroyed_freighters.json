@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 135998836,
+    "killmail_hash": "60de74cb589677d519ec49f9a46e08909cf41ad7",
+    "kill_time": "2026-06-05T01:31:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003834,
+    "solar_system_name": "Chardalane",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 297278182,
+      "character_name": "DaBigTruck",
+      "corporation_id": 98627607,
+      "corporation_name": "Zanzibar Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135998836/",
+    "total_value": 1486484868.05,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 135997666,
+    "killmail_hash": "3900621933e0bcf4dfd2f9097ea8d4c3f879af87",
+    "kill_time": "2026-06-04T23:57:19Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003077,
+    "solar_system_name": "Uusanen",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 757344146,
+      "character_name": "Tymara Jade",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/135997666/",
+    "total_value": 2955230287.97,
+    "final_attacker": {
+      "character_name": "Marq Virpio",
+      "corporation_name": "The Dark Vanguard",
+      "alliance_name": "Sigma Grindset",
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
     "killmail_id": 135995245,
     "killmail_hash": "492ded576d8931c5e480f8253f21559da6496fbf",
     "kill_time": "2026-06-04T21:06:34Z",
@@ -2207,84 +2259,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 135837442,
-    "killmail_hash": "4ebf84e3e71b68c7f6787022b5da54ed219164ed",
-    "kill_time": "2026-05-29T02:28:45Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000019,
-    "solar_system_name": "Podion",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 91577346,
-      "character_name": "Nykita C",
-      "corporation_id": 1388734985,
-      "corporation_name": "Multiplex Gaming",
-      "alliance_id": 131511956,
-      "alliance_name": "Tactical Narcotics Team"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135837442/",
-    "total_value": 7406445232.91,
-    "final_attacker": {
-      "character_name": "Worley's Daughter",
-      "corporation_name": "Stuka On-Line",
-      "alliance_name": "Domain Research and Mining Inst.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 135835089,
-    "killmail_hash": "e3edefbbbb35836752e52d3d64645e8f19d001c2",
-    "kill_time": "2026-05-28T23:05:43Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117876990,
-      "character_name": "JF Karen",
-      "corporation_id": 98372897,
-      "corporation_name": "No Country for Old Nerds",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135835089/",
-    "total_value": 17970338987.36,
-    "final_attacker": {
-      "character_name": "Walter MOONPIRE",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 135834778,
-    "killmail_hash": "31904a6aafcfc24bae4dfd3516a84789d21c5da2",
-    "kill_time": "2026-05-28T22:33:38Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123318698,
-      "character_name": "Chalksy",
-      "corporation_id": 98689962,
-      "corporation_name": "Black Market Seeding",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135834778/",
-    "total_value": 12912796170.05,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Hubris"
     }
   }
 ]
