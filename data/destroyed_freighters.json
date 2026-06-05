@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136007964,
+    "killmail_hash": "1516d2dac49183c607032349810ddf40a70a73ae",
+    "kill_time": "2026-06-05T13:43:47Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004878,
+    "solar_system_name": "46DP-O",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2122331000,
+      "character_name": "Vast P",
+      "corporation_id": 98190062,
+      "corporation_name": "Peoples Liberation Army",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136007964/",
+    "total_value": 10807303283.44,
+    "final_attacker": {
+      "character_name": "JAMES0SCOTT",
+      "corporation_name": "Phoenix City",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
     "killmail_id": 136004845,
     "killmail_hash": "605067dc6e72d35a06a0cc5f571d35fdf2d6d2da",
     "kill_time": "2026-06-05T09:50:57Z",
@@ -2389,32 +2415,6 @@
       "corporation_name": "Cracked Out",
       "alliance_name": "Honkai Star Rail.",
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 135844262,
-    "killmail_hash": "567be9119a777df388b59e60519cf6d431eb7c44",
-    "kill_time": "2026-05-29T12:23:11Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1579228833,
-      "character_name": "Persephone's Kiss",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135844262/",
-    "total_value": 37032058554.72,
-    "final_attacker": {
-      "character_name": "zLegion U",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
     }
   }
 ]
