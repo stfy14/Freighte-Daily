@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 136035702,
+    "killmail_hash": "8664412ccfbcda104a8a6c8bf720cc3b84a22a02",
+    "kill_time": "2026-06-06T13:53:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1697302272,
+      "character_name": "Imalittle cynoalt",
+      "corporation_id": 165642687,
+      "corporation_name": "Cynoalts R US",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136035702/",
+    "total_value": 2671076563.46,
+    "final_attacker": {
+      "character_name": "zLegion 06",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136034144,
+    "killmail_hash": "c5787f59899aa5b7c41077aacc79c4cfa868e332",
+    "kill_time": "2026-06-06T12:58:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94233538,
+      "character_name": "Broker en Chasteaux",
+      "corporation_id": 98764580,
+      "corporation_name": "Strong Medicine",
+      "alliance_id": 99014696,
+      "alliance_name": "Hullbreakers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136034144/",
+    "total_value": 1444438856.92,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136033546,
+    "killmail_hash": "72ea8c14f722a33a695d89431b9f1aa88c031f8e",
+    "kill_time": "2026-06-06T12:33:35Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95348154,
+      "character_name": "Weelah Utrigas",
+      "corporation_id": 98605031,
+      "corporation_name": "Phobos Enterprise",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136033546/",
+    "total_value": 1520066583.3,
+    "final_attacker": {
+      "character_name": "zLegion 19",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136032825,
+    "killmail_hash": "6642d32d9cf7f35630c5633e2bf90364a944aa2b",
+    "kill_time": "2026-06-06T11:54:06Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124351562,
+      "character_name": "Tomdps2",
+      "corporation_id": 98834209,
+      "corporation_name": "Dahanghai Deepspace Logistics and Security",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136032825/",
+    "total_value": 3466550166.17,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136031673,
+    "killmail_hash": "5173470c48a87e5d444bc5b4eddc0ce3d594086a",
+    "kill_time": "2026-06-06T10:20:28Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1148842163,
+      "character_name": "Alciabedes",
+      "corporation_id": 98819586,
+      "corporation_name": "Call Me Alciabedes",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136031673/",
+    "total_value": 1612113175.78,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 136031264,
     "killmail_hash": "85b8702ed179fe688104c826bc3bd20aeaa2741b",
     "kill_time": "2026-06-06T09:52:43Z",
@@ -20,6 +150,58 @@
     "total_value": 4140088606.88,
     "final_attacker": {
       "character_name": "zLegion 18",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136030798,
+    "killmail_hash": "f22175689aa3fa64e8c5ace45bc28bce7db67cff",
+    "kill_time": "2026-06-06T09:24:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112790562,
+      "character_name": "Kitt Los",
+      "corporation_id": 98797987,
+      "corporation_name": "Arctic Wolf Ship Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136030798/",
+    "total_value": 7592546447.87,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136030344,
+    "killmail_hash": "9285125cac0134b286d8068eee7bf1f327c82108",
+    "kill_time": "2026-06-06T08:54:13Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120503609,
+      "character_name": "Chewiest Baka",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136030344/",
+    "total_value": 2177416314.23,
+    "final_attacker": {
+      "character_name": "zLegion 10",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
@@ -49,6 +231,58 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136028850,
+    "killmail_hash": "1606b999921d33a0375b8ce20f70ba23f5c8d8ae",
+    "kill_time": "2026-06-06T07:23:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 195727673,
+      "character_name": "MrDintra",
+      "corporation_id": 1829811255,
+      "corporation_name": "H13Corp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136028850/",
+    "total_value": 1443829766.92,
+    "final_attacker": {
+      "character_name": "zLegion 08",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136028352,
+    "killmail_hash": "626160dcfa4550360c87d62f68cddb9266ea1f1d",
+    "kill_time": "2026-06-06T06:55:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112746458,
+      "character_name": "Bern Norgash",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136028352/",
+    "total_value": 2987006496.61,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
     }
   },
   {
