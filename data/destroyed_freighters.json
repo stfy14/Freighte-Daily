@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 136020980,
+    "killmail_hash": "91e679e951e7dc5a6baafeb78ad7cce80e93a5be",
+    "kill_time": "2026-06-05T23:40:17Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123386446,
+      "character_name": "Himna-vatn",
+      "corporation_id": 253759054,
+      "corporation_name": "Icelandic Beer Drinking Bastards",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136020980/",
+    "total_value": 4189414769.98,
+    "final_attacker": {
+      "character_name": "Vulcani",
+      "corporation_name": "Black Aces",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 136020176,
+    "killmail_hash": "1d9d27140fb491a954575f66399dcc90fd5ef6a9",
+    "kill_time": "2026-06-05T22:48:27Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123795515,
+      "character_name": "Vestorina",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136020176/",
+    "total_value": 3024781049.78,
+    "final_attacker": {
+      "character_name": "Don Gervasio",
+      "corporation_name": "Paulo Coelho Industries S.A.",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 136019564,
+    "killmail_hash": "ca4f7e7bbce274b7ed940538a9f2ee0ad43d7567",
+    "kill_time": "2026-06-05T22:15:19Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003830,
+    "solar_system_name": "Orvolle",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 94171404,
+      "character_name": "Sophie Diosis",
+      "corporation_id": 98588360,
+      "corporation_name": "Abyssal Cartel",
+      "alliance_id": 99011964,
+      "alliance_name": "Nullum Fortuna"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136019564/",
+    "total_value": 1538153994.37,
+    "final_attacker": {
+      "character_name": "Calyse",
+      "corporation_name": "Black Ribbit.",
+      "alliance_name": "Black Ribbit",
+      "ship_type_name": "Cyclone"
+    }
+  },
+  {
+    "killmail_id": 136018548,
+    "killmail_hash": "13beab4e0a88a858abb3a02a425714816ac3493b",
+    "kill_time": "2026-06-05T21:31:21Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 95128728,
+      "character_name": "ERIS LUCAN",
+      "corporation_id": 1000180,
+      "corporation_name": "State Protectorate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136018548/",
+    "total_value": 1650719359.29,
+    "final_attacker": {
+      "character_name": "Orin Oriki",
+      "corporation_name": "State War Academy",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136018445,
     "killmail_hash": "3f8da9a54e77c8da0c59ce1638e82549746e08d3",
     "kill_time": "2026-06-05T21:27:49Z",
@@ -2259,84 +2363,6 @@
       "corporation_name": "Box of Colors",
       "alliance_name": "The Conference",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 135861410,
-    "killmail_hash": "121cacf7c90e25a33efda902b7b7e3ca7f4a6a10",
-    "kill_time": "2026-05-30T03:34:46Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114313561,
-      "character_name": "James Gear",
-      "corporation_id": 98812263,
-      "corporation_name": "Beyond Destruction",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135861410/",
-    "total_value": 2152043182.83,
-    "final_attacker": {
-      "character_name": "zLegion 01",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 135860726,
-    "killmail_hash": "c378f62d5b0628edfd07f0ed0792b3fd4bb25b41",
-    "kill_time": "2026-05-30T02:57:09Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119586658,
-      "character_name": "Wetaded twyga",
-      "corporation_id": 1211383288,
-      "corporation_name": "Lucifer's Hammer",
-      "alliance_id": 99004295,
-      "alliance_name": "A Band Apart."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135860726/",
-    "total_value": 6818330303.41,
-    "final_attacker": {
-      "character_name": "zLegion 14",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135858175,
-    "killmail_hash": "0f936ccc06bc14e6b44c928f7f6002ab7bf4177a",
-    "kill_time": "2026-05-29T23:46:21Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30045324,
-    "solar_system_name": "Onnamon",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 737305751,
-      "character_name": "TritaniuS",
-      "corporation_id": 98091533,
-      "corporation_name": "The Imperium Corporation",
-      "alliance_id": 1220922756,
-      "alliance_name": "Red Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135858175/",
-    "total_value": 2563903226.11,
-    "final_attacker": {
-      "character_name": "Saxaman Nobunaga",
-      "corporation_name": "Black Rabbits",
-      "alliance_name": "Black Rabbit.",
-      "ship_type_name": "Exequror Navy Issue"
     }
   }
 ]
