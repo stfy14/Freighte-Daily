@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136042065,
+    "killmail_hash": "e8bcfa1bdadefac65c8e446f9a41bc2d5548fb8d",
+    "kill_time": "2026-06-06T18:02:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002972,
+    "solar_system_name": "Gheth",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 1289302262,
+      "character_name": "GHOST 89",
+      "corporation_id": 655320015,
+      "corporation_name": "XGENE",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136042065/",
+    "total_value": 8828984789.69,
+    "final_attacker": {
+      "character_name": "Don Gregorio",
+      "corporation_name": "Highsec Expropriation Office",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 136039014,
     "killmail_hash": "7f9927a11db7060590328c4ae8546438b3fcb68a",
     "kill_time": "2026-06-06T15:57:01Z",
@@ -2441,84 +2467,6 @@
       "corporation_name": "Endless-Fury",
       "alliance_name": "Ahbazon-Prime",
       "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 135882569,
-    "killmail_hash": "333d0656520d687c3b5e5052d69ed0ebb1444f50",
-    "kill_time": "2026-05-30T20:21:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003068,
-    "solar_system_name": "Kourmonen",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 2123543307,
-      "character_name": "Halittan Egdald",
-      "corporation_id": 98651050,
-      "corporation_name": "Absolute Order XVIII",
-      "alliance_id": 99009758,
-      "alliance_name": "Absolute Will"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135882569/",
-    "total_value": 1638523298.97,
-    "final_attacker": {
-      "character_name": "Dead4ever",
-      "corporation_name": "Prime Directive.",
-      "alliance_name": "Slide On Contact",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 135880628,
-    "killmail_hash": "15f8c7e2cb100607cb6ebc0add2f8773e33aa924",
-    "kill_time": "2026-05-30T19:19:09Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2115821474,
-      "character_name": "NWABroseidon",
-      "corporation_id": 98809144,
-      "corporation_name": "No Friends Just Alts",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135880628/",
-    "total_value": 4460721179.82,
-    "final_attacker": {
-      "character_name": "Radagastar",
-      "corporation_name": "No Friends Just Alts",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Erebus"
-    }
-  },
-  {
-    "killmail_id": 135878700,
-    "killmail_hash": "4e481e5c49c94dd84bb36c603a6e2560e35320d6",
-    "kill_time": "2026-05-30T17:58:00Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 91413499,
-      "character_name": "Ubundu Hakaari",
-      "corporation_id": 98762295,
-      "corporation_name": "Cafe Lounge",
-      "alliance_id": 99013922,
-      "alliance_name": "Only Vibes"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135878700/",
-    "total_value": 7657039133.19,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Bane"
     }
   }
 ]
