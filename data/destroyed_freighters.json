@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136069167,
+    "killmail_hash": "4a41d7ddcdeea09b0b8be16dde9f1224b42a2466",
+    "kill_time": "2026-06-07T17:00:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003896,
+    "solar_system_name": "Claini",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2124431924,
+      "character_name": "Remo95",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136069167/",
+    "total_value": 1444877899.82,
+    "final_attacker": {
+      "character_name": "keune",
+      "corporation_name": "I Have a Plan",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 136059186,
     "killmail_hash": "e3587598bff2014baddd45b516d7ecbf08505da9",
     "kill_time": "2026-06-07T08:56:23Z",
@@ -2545,32 +2571,6 @@
       "corporation_name": "MASS A DEATH",
       "alliance_name": "Scumlords",
       "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 135904041,
-    "killmail_hash": "4816ffae92c9f9ceee24cfc42a0feefbf8d3cc30",
-    "kill_time": "2026-05-31T15:56:00Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2114271701,
-      "character_name": "Tyrande Itovuo",
-      "corporation_id": 98645589,
-      "corporation_name": "Faceless.",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135904041/",
-    "total_value": 11626704399.87,
-    "final_attacker": {
-      "character_name": "Amir GHAN",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Eris"
     }
   }
 ]
