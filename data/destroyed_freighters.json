@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136054607,
+    "killmail_hash": "fb5c9b932ef86018cd322c6de81c019f0998c2b7",
+    "kill_time": "2026-06-07T04:35:29Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 31002411,
+    "solar_system_name": "J124504",
+    "region_name": "F-R00030",
+    "victim": {
+      "character_id": 95792318,
+      "character_name": "Scrappy Mannequin",
+      "corporation_id": 98611078,
+      "corporation_name": "Corp of Holding",
+      "alliance_id": 99013871,
+      "alliance_name": "Monochrome Knights"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136054607/",
+    "total_value": 4691669143.82,
+    "final_attacker": {
+      "character_name": "jommy Virpio",
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_name": "Hard Knocks Citizens",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 136054566,
+    "killmail_hash": "9b894b3b536761d346c95ad3e1e9f586fd581d3f",
+    "kill_time": "2026-06-07T04:32:37Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 90909126,
+      "character_name": "Garthrim Alighieri",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136054566/",
+    "total_value": 3916489411.41,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 136054265,
+    "killmail_hash": "d8b63582a01cd67135111dfc17e0e0b11684b755",
+    "kill_time": "2026-06-07T04:19:51Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004333,
+    "solar_system_name": "BKG-Q2",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 2122437960,
+      "character_name": "Salkkaa MakenCrab",
+      "corporation_id": 98731562,
+      "corporation_name": "Aegis Contractors",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136054265/",
+    "total_value": 7535975206.39,
+    "final_attacker": {
+      "character_name": "Spud Bathana",
+      "corporation_name": "The Fry Cooks",
+      "alliance_name": "Psyno Theory",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
     "killmail_id": 136042065,
     "killmail_hash": "e8bcfa1bdadefac65c8e446f9a41bc2d5548fb8d",
     "kill_time": "2026-06-06T18:02:34Z",
@@ -2441,32 +2519,6 @@
       "corporation_name": "Kor-Azorian",
       "alliance_name": "Pillars of Liberty",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135884107,
-    "killmail_hash": "900cf7ab2b31be46fe421e21c74a4c973cc7967f",
-    "kill_time": "2026-05-30T21:19:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 94857904,
-      "character_name": "Deltaris Shepard",
-      "corporation_id": 1000006,
-      "corporation_name": "Deep Core Mining Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135884107/",
-    "total_value": 1997798149.08,
-    "final_attacker": {
-      "character_name": "EF Alpha",
-      "corporation_name": "Endless-Fury",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Naga"
     }
   }
 ]
