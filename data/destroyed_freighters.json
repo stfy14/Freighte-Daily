@@ -2572,57 +2572,5 @@
       "alliance_name": null,
       "ship_type_name": "Kronos"
     }
-  },
-  {
-    "killmail_id": 135949530,
-    "killmail_hash": "39f80cb0815897138b43562ae1e97bc8e01f2f66",
-    "kill_time": "2026-06-02T17:39:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2120982672,
-      "character_name": "Alexandru AB",
-      "corporation_id": 144534752,
-      "corporation_name": "Mercurialis Inc.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135949530/",
-    "total_value": 4553354071.03,
-    "final_attacker": {
-      "character_name": "Andrzej Dupad",
-      "corporation_name": "Questionable Tactics Average Skill",
-      "alliance_name": null,
-      "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 135947723,
-    "killmail_hash": "2f33577e605cbdded9e9f0349c957c78e85013bf",
-    "kill_time": "2026-06-02T15:55:48Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30045333,
-    "solar_system_name": "Prism",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2122255092,
-      "character_name": "Zukotoshide",
-      "corporation_id": 98703317,
-      "corporation_name": "Redone Division Junior",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135947723/",
-    "total_value": 12605686172.97,
-    "final_attacker": {
-      "character_name": "Marcus Arilia",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Orthrus"
-    }
   }
 ]
