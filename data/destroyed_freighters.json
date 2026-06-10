@@ -2468,57 +2468,5 @@
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Sin"
     }
-  },
-  {
-    "killmail_id": 135970362,
-    "killmail_hash": "4dda51afd076204b38f140f15c2dec2829afdffb",
-    "kill_time": "2026-06-03T18:07:17Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2116470540,
-      "character_name": "Dante Darklove",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135970362/",
-    "total_value": 1435747578.42,
-    "final_attacker": {
-      "character_name": "Culuee",
-      "corporation_name": "Eskimo Callboys",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 135970136,
-    "killmail_hash": "a1a84ea802faf08bbd0ba448dc48555e986b0f4c",
-    "kill_time": "2026-06-03T17:53:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000877,
-    "solar_system_name": "DBT-GB",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 1978535095,
-      "character_name": "Ibn Khatab",
-      "corporation_id": 263585335,
-      "corporation_name": "Black Omega Security",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135970136/",
-    "total_value": 1435955785.1,
-    "final_attacker": {
-      "character_name": "death hops",
-      "corporation_name": "Black Omega Security",
-      "alliance_name": "Test Alliance Please Ignore",
-      "ship_type_name": "Erebus"
-    }
   }
 ]
