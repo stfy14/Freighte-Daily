@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136170449,
+    "killmail_hash": "d9f8cf42e79456b97b08aac712f2bd3a19566d01",
+    "kill_time": "2026-06-10T20:25:18Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1142657765,
+      "character_name": "Oskord",
+      "corporation_id": 98161503,
+      "corporation_name": "In nomine Terra",
+      "alliance_id": 99009805,
+      "alliance_name": "Dead Game Society."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136170449/",
+    "total_value": 7613241105.79,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Fortizar"
+    }
+  },
+  {
+    "killmail_id": 136170447,
+    "killmail_hash": "46ba0aab8f8b9152900d589ef3f78467fcd2beed",
+    "kill_time": "2026-06-10T20:25:13Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2118610930,
+      "character_name": "Erika Loari",
+      "corporation_id": 98161503,
+      "corporation_name": "In nomine Terra",
+      "alliance_id": 99009805,
+      "alliance_name": "Dead Game Society."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136170447/",
+    "total_value": 9191589510.34,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136162788,
     "killmail_hash": "85888053d5514f80e2bd877127243e449c64eb10",
     "kill_time": "2026-06-10T15:16:07Z",
@@ -2415,58 +2467,6 @@
       "corporation_name": "Black Omega Security",
       "alliance_name": "Test Alliance Please Ignore",
       "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 135972205,
-    "killmail_hash": "d0e1820c32b0f4b1ebeab0382d3c472aa9a61c17",
-    "kill_time": "2026-06-03T19:44:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 31002270,
-    "solar_system_name": "J123432",
-    "region_name": "E-R00028",
-    "victim": {
-      "character_id": 2123029686,
-      "character_name": "Ryan Rayburn",
-      "corporation_id": 98316453,
-      "corporation_name": "Outfit 418",
-      "alliance_id": 99010265,
-      "alliance_name": "Blue Loot Not Included"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135972205/",
-    "total_value": 9814523623.14,
-    "final_attacker": {
-      "character_name": "Bunka en Daire",
-      "corporation_name": "V0LTA",
-      "alliance_name": "WE FORM V0LTA",
-      "ship_type_name": "Prophecy Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 135971376,
-    "killmail_hash": "13d237473e8c4e70c9b20b555da496dde019205a",
-    "kill_time": "2026-06-03T19:01:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2007966065,
-      "character_name": "dragonsani",
-      "corporation_id": 98587294,
-      "corporation_name": "Arkcadia Development Group",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/135971376/",
-    "total_value": 2609972827.1,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
     }
   }
 ]
