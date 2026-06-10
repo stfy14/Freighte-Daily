@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136131106,
+    "killmail_hash": "6b4517c08d0893ba36783a806fac3a150396c0ce",
+    "kill_time": "2026-06-10T03:02:08Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94423032,
+      "character_name": "stephanie Breau",
+      "corporation_id": 98294905,
+      "corporation_name": "Avant Garde Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136131106/",
+    "total_value": 6534776380.52,
+    "final_attacker": {
+      "character_name": "Cucumber ares",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 136112169,
     "killmail_hash": "9108000caa5689927c753b308c7701c585f3ef37",
     "kill_time": "2026-06-09T14:57:17Z",
@@ -2415,32 +2441,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 135959545,
-    "killmail_hash": "8d30032a92bdfd8a8d21038952ffdc5c7fab4694",
-    "kill_time": "2026-06-03T04:16:32Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002187,
-    "solar_system_name": "Amarr",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2121825944,
-      "character_name": "Avencourt Vynneve",
-      "corporation_id": 98824902,
-      "corporation_name": "QuackOps",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135959545/",
-    "total_value": 1748824336.03,
-    "final_attacker": {
-      "character_name": "The Suls",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Leshak"
     }
   }
 ]
