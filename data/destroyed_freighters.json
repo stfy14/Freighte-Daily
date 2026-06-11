@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136185341,
+    "killmail_hash": "559105c9e2ea7e1fa86eb559a80b8967f854a0b4",
+    "kill_time": "2026-06-11T14:14:44Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003804,
+    "solar_system_name": "Pain",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2123818116,
+      "character_name": "Ashley Plaud",
+      "corporation_id": 98814961,
+      "corporation_name": "Ecliptic Raiders Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136185341/",
+    "total_value": 7782751597.88,
+    "final_attacker": {
+      "character_name": "Zhao-Jian-Guo",
+      "corporation_name": "Tu Zi Fei Corporation",
+      "alliance_name": "Dracarys.",
+      "ship_type_name": "Damnation"
+    }
+  },
+  {
     "killmail_id": 136182348,
     "killmail_hash": "97bbb48005fb3d5a98521aaf6fdf87fecadc4d2e",
     "kill_time": "2026-06-11T11:00:00Z",
@@ -2311,32 +2337,6 @@
       "corporation_name": "jUST DO It..",
       "alliance_name": null,
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 135987186,
-    "killmail_hash": "c5f85d1636e71023739d233a81039fbda938e47a",
-    "kill_time": "2026-06-04T14:16:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122743162,
-      "character_name": "Kagesulf Melkan",
-      "corporation_id": 98540583,
-      "corporation_name": "Special law enforcement department",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135987186/",
-    "total_value": 3908051754.14,
-    "final_attacker": {
-      "character_name": "Olin Diana",
-      "corporation_name": "Forever Stardust Navy Combined Fleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Purifier"
     }
   }
 ]
