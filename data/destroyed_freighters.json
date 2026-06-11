@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136175172,
+    "killmail_hash": "d0caf91adc1d0312b26f267764521149d94d8cff",
+    "kill_time": "2026-06-11T01:30:24Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2118722203,
+      "character_name": "Belencha",
+      "corporation_id": 98703317,
+      "corporation_name": "Redone Division Junior",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136175172/",
+    "total_value": 11774137356.88,
+    "final_attacker": {
+      "character_name": "Salt Machin3",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 136170449,
     "killmail_hash": "d9f8cf42e79456b97b08aac712f2bd3a19566d01",
     "kill_time": "2026-06-10T20:25:18Z",
@@ -2337,136 +2363,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "The Conference",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135980166,
-    "killmail_hash": "64e04e58de8dc5157d4213794eb4f1dd93634345",
-    "kill_time": "2026-06-04T04:44:48Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 31002138,
-    "solar_system_name": "J131549",
-    "region_name": "E-R00027",
-    "victim": {
-      "character_id": 2112452979,
-      "character_name": "Jacovin Excalidor",
-      "corporation_id": 98531454,
-      "corporation_name": "Asteroid Farm Unlimited",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135980166/",
-    "total_value": 1555312209.85,
-    "final_attacker": {
-      "character_name": "Qfeuille",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 135979939,
-    "killmail_hash": "1e163f2281b0dbdc3e5a888d7ab493105229b0e9",
-    "kill_time": "2026-06-04T04:32:19Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123005287,
-      "character_name": "Xaviar Repinuj",
-      "corporation_id": 98792038,
-      "corporation_name": "The Bleak Lands Supply and Provisions",
-      "alliance_id": 99005100,
-      "alliance_name": "All My Friends Are Ded"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135979939/",
-    "total_value": 7882429478.8,
-    "final_attacker": {
-      "character_name": "Ruthless Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "The Conference",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135978545,
-    "killmail_hash": "67a026f5ee66b29f454b4c186af1a52418667a03",
-    "kill_time": "2026-06-04T02:41:34Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000241,
-    "solar_system_name": "YMJG-4",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122193559,
-      "character_name": "selzter",
-      "corporation_id": 1914639582,
-      "corporation_name": "The Disney World Federation",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/135978545/",
-    "total_value": 1789751635.35,
-    "final_attacker": {
-      "character_name": "Vesrys",
-      "corporation_name": "Worthless Carebears",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 135977353,
-    "killmail_hash": "89e6810c9c6a9814a32651716b756ebba05dc5c2",
-    "kill_time": "2026-06-04T01:32:15Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003726,
-    "solar_system_name": "Y-MPWL",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2123028898,
-      "character_name": "Airatomon Yanumano",
-      "corporation_id": 98651052,
-      "corporation_name": "Absolute Order XX",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135977353/",
-    "total_value": 1628300768.34,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "True Power",
-      "alliance_name": null,
-      "ship_type_name": "Romi Thalamus"
-    }
-  },
-  {
-    "killmail_id": 135975955,
-    "killmail_hash": "cda085a5fe599c17fd8e68774f4be7d42a743896",
-    "kill_time": "2026-06-03T23:24:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000861,
-    "solar_system_name": "15W-GC",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 1978535095,
-      "character_name": "Ibn Khatab",
-      "corporation_id": 263585335,
-      "corporation_name": "Black Omega Security",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/135975955/",
-    "total_value": 1435026065.09,
-    "final_attacker": {
-      "character_name": "Coke XX",
-      "corporation_name": "Black Omega Security",
-      "alliance_name": "Test Alliance Please Ignore",
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
