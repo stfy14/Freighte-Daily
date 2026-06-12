@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136208825,
+    "killmail_hash": "b0924279bd061d5eb34e9859ffa9a19e117e817f",
+    "kill_time": "2026-06-12T13:49:26Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 890906820,
+      "character_name": "ReDdRaGoN013",
+      "corporation_id": 98249443,
+      "corporation_name": "The Icarus Expedition",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136208825/",
+    "total_value": 7375210259.1,
+    "final_attacker": {
+      "character_name": "Qfeuille",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Odysseus"
+    }
+  },
+  {
     "killmail_id": 136202994,
     "killmail_hash": "fc8676125619b768945a53e3358aa94da3ecf2d6",
     "kill_time": "2026-06-12T06:56:30Z",
@@ -2103,32 +2129,6 @@
       "corporation_name": "Artificial Intern",
       "alliance_name": "Weapons Of Mass Production.",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136007964,
-    "killmail_hash": "1516d2dac49183c607032349810ddf40a70a73ae",
-    "kill_time": "2026-06-05T13:43:47Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30004878,
-    "solar_system_name": "46DP-O",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2122331000,
-      "character_name": "Vast P",
-      "corporation_id": 98190062,
-      "corporation_name": "Peoples Liberation Army",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136007964/",
-    "total_value": 10807303283.44,
-    "final_attacker": {
-      "character_name": "JAMES0SCOTT",
-      "corporation_name": "Phoenix City",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Retribution"
     }
   }
 ]
