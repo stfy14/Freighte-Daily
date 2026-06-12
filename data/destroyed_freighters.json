@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136219812,
+    "killmail_hash": "47a7794290c0b19034fad1174aef7a0b592514d8",
+    "kill_time": "2026-06-12T21:47:53Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30005038,
+    "solar_system_name": "Kor-Azor Prime",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 2123908668,
+      "character_name": "BORG UNIT 84",
+      "corporation_id": 272675225,
+      "corporation_name": "Monkey Attack Squad",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136219812/",
+    "total_value": 1707855848.63,
+    "final_attacker": {
+      "character_name": "Panda SuLin",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 136208825,
     "killmail_hash": "b0924279bd061d5eb34e9859ffa9a19e117e817f",
     "kill_time": "2026-06-12T13:49:26Z",
@@ -2051,58 +2077,6 @@
       "corporation_name": "Black Ribbit.",
       "alliance_name": "Black Ribbit",
       "ship_type_name": "Cyclone"
-    }
-  },
-  {
-    "killmail_id": 136018548,
-    "killmail_hash": "13beab4e0a88a858abb3a02a425714816ac3493b",
-    "kill_time": "2026-06-05T21:31:21Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 95128728,
-      "character_name": "ERIS LUCAN",
-      "corporation_id": 1000180,
-      "corporation_name": "State Protectorate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136018548/",
-    "total_value": 1650719359.29,
-    "final_attacker": {
-      "character_name": "Orin Oriki",
-      "corporation_name": "State War Academy",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136018445,
-    "killmail_hash": "3f8da9a54e77c8da0c59ce1638e82549746e08d3",
-    "kill_time": "2026-06-05T21:27:49Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004592,
-    "solar_system_name": "H-NPXW",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 2123460454,
-      "character_name": "Nivas Aseri Ultra",
-      "corporation_id": 98799729,
-      "corporation_name": "Splash Inc.",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136018445/",
-    "total_value": 4041119059.21,
-    "final_attacker": {
-      "character_name": "Ovfr'Ion",
-      "corporation_name": "Nuclear Dragons",
-      "alliance_name": "Insidious.",
-      "ship_type_name": "Stabber"
     }
   }
 ]
