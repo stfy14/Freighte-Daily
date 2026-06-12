@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136202994,
+    "killmail_hash": "fc8676125619b768945a53e3358aa94da3ecf2d6",
+    "kill_time": "2026-06-12T06:56:30Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000241,
+    "solar_system_name": "YMJG-4",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2114457293,
+      "character_name": "Skord22",
+      "corporation_id": 98715093,
+      "corporation_name": "Thunder Shield",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136202994/",
+    "total_value": 1457039952.2,
+    "final_attacker": {
+      "character_name": "Literacy is Cloaked",
+      "corporation_name": "Sensible People",
+      "alliance_name": "Sigma Grindset",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136198858,
     "killmail_hash": "aa246b6404b73e8686aae66539e1a2b29bbdbd5d",
     "kill_time": "2026-06-12T01:28:09Z",
@@ -2103,162 +2129,6 @@
       "corporation_name": "Phoenix City",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Retribution"
-    }
-  },
-  {
-    "killmail_id": 136004845,
-    "killmail_hash": "605067dc6e72d35a06a0cc5f571d35fdf2d6d2da",
-    "kill_time": "2026-06-05T09:50:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116116382,
-      "character_name": "Markus VamHana",
-      "corporation_id": 98248444,
-      "corporation_name": "DV Region",
-      "alliance_id": 99012019,
-      "alliance_name": "Can i bring my Drake..."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136004845/",
-    "total_value": 4240029764.9,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136003578,
-    "killmail_hash": "3ae9436e757f34b12c060a764610598360e1b248",
-    "kill_time": "2026-06-05T08:05:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 239801683,
-      "character_name": "Romulus Callanthus",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136003578/",
-    "total_value": 1831601054.57,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136002988,
-    "killmail_hash": "35db94e6f2063438f05c25d5366074b828eb3dae",
-    "kill_time": "2026-06-05T07:15:15Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120126244,
-      "character_name": "Leonardis Gallenticus",
-      "corporation_id": 98827193,
-      "corporation_name": "House Norwynn",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136002988/",
-    "total_value": 7712196264.66,
-    "final_attacker": {
-      "character_name": "zLegion 09",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136002435,
-    "killmail_hash": "330a35d7c543a7d651d948b8f3f353dd385b375d",
-    "kill_time": "2026-06-05T06:28:46Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96173763,
-      "character_name": "Moe Hauler",
-      "corporation_id": 98734528,
-      "corporation_name": "The Phantom Anesthetist of Mattoon",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136002435/",
-    "total_value": 2785559816.53,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136002180,
-    "killmail_hash": "fe8ae3bade9aa91d1827b476e7c479ffad60b3c9",
-    "kill_time": "2026-06-05T06:02:50Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122792429,
-      "character_name": "Truth Powers",
-      "corporation_id": 98800997,
-      "corporation_name": "Vigil Indomitus",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136002180/",
-    "total_value": 22276043437.05,
-    "final_attacker": {
-      "character_name": "Xanatos Darklighter",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Ikitursa"
-    }
-  },
-  {
-    "killmail_id": 136001396,
-    "killmail_hash": "753da46beb95dce560b8a14593632d8df7f7ac47",
-    "kill_time": "2026-06-05T04:53:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122060631,
-      "character_name": "Clackerhead",
-      "corporation_id": 1013283538,
-      "corporation_name": "Quam Singulari Industry",
-      "alliance_id": 99010635,
-      "alliance_name": "Roid Suckers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136001396/",
-    "total_value": 6903455384.61,
-    "final_attacker": {
-      "character_name": "Sorry I'm Blind",
-      "corporation_name": "Slavers Union",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Tornado"
     }
   }
 ]
