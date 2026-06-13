@@ -1586,6 +1586,32 @@
     }
   },
   {
+    "killmail_id": 136069226,
+    "killmail_hash": "6514998c2d1ef7cac36929f445fc1e33a270b827",
+    "kill_time": "2026-06-07T17:03:35Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 91971454,
+      "character_name": "E - MULE",
+      "corporation_id": 98150131,
+      "corporation_name": "HackInto",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136069226/",
+    "total_value": 1790783289.82,
+    "final_attacker": {
+      "character_name": "Riley Badasaz",
+      "corporation_name": "We Love Cynos",
+      "alliance_name": "We Use Cynos",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136069167,
     "killmail_hash": "4a41d7ddcdeea09b0b8be16dde9f1224b42a2466",
     "kill_time": "2026-06-07T17:00:18Z",
@@ -1817,32 +1843,6 @@
       "corporation_name": "The Fry Cooks",
       "alliance_name": "Psyno Theory",
       "ship_type_name": "Marshal"
-    }
-  },
-  {
-    "killmail_id": 136042065,
-    "killmail_hash": "e8bcfa1bdadefac65c8e446f9a41bc2d5548fb8d",
-    "kill_time": "2026-06-06T18:02:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002972,
-    "solar_system_name": "Gheth",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 1289302262,
-      "character_name": "GHOST 89",
-      "corporation_id": 655320015,
-      "corporation_name": "XGENE",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136042065/",
-    "total_value": 8828984789.69,
-    "final_attacker": {
-      "character_name": "Don Gregorio",
-      "corporation_name": "Highsec Expropriation Office",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Talos"
     }
   }
 ]
