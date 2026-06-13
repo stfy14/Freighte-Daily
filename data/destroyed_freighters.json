@@ -1844,57 +1844,5 @@
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
     }
-  },
-  {
-    "killmail_id": 136039014,
-    "killmail_hash": "7f9927a11db7060590328c4ae8546438b3fcb68a",
-    "kill_time": "2026-06-06T15:57:01Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92401906,
-      "character_name": "JON WO0",
-      "corporation_id": 953808580,
-      "corporation_name": "Cloaked Goof",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136039014/",
-    "total_value": 2028265896.33,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 136036823,
-    "killmail_hash": "850e5bf280d85f16763f3bb95979243c7dc86f9e",
-    "kill_time": "2026-06-06T14:33:46Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2118042432,
-      "character_name": "Butch Er Chanlin",
-      "corporation_id": 98828273,
-      "corporation_name": "Hemiscorpiidae - Arizona Bark",
-      "alliance_id": 99014998,
-      "alliance_name": "The Clayde."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136036823/",
-    "total_value": 4612514499.21,
-    "final_attacker": {
-      "character_name": "zLegion 26",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
   }
 ]
