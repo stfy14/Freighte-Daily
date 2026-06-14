@@ -2052,57 +2052,5 @@
       "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 136069226,
-    "killmail_hash": "6514998c2d1ef7cac36929f445fc1e33a270b827",
-    "kill_time": "2026-06-07T17:03:35Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 91971454,
-      "character_name": "E - MULE",
-      "corporation_id": 98150131,
-      "corporation_name": "HackInto",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136069226/",
-    "total_value": 1790783289.82,
-    "final_attacker": {
-      "character_name": "Riley Badasaz",
-      "corporation_name": "We Love Cynos",
-      "alliance_name": "We Use Cynos",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136069167,
-    "killmail_hash": "4a41d7ddcdeea09b0b8be16dde9f1224b42a2466",
-    "kill_time": "2026-06-07T17:00:18Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003896,
-    "solar_system_name": "Claini",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2124431924,
-      "character_name": "Remo95",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136069167/",
-    "total_value": 1444877899.82,
-    "final_attacker": {
-      "character_name": "keune",
-      "corporation_name": "I Have a Plan",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Panther"
-    }
   }
 ]
