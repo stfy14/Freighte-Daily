@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136284108,
+    "killmail_hash": "dbfe4e76ae00eb5f627833bcdddf0f63c62eff8c",
+    "kill_time": "2026-06-14T20:44:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001403,
+    "solar_system_name": "Piak",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2112129773,
+      "character_name": "Xavior Lioning",
+      "corporation_id": 98794649,
+      "corporation_name": "Blue Guava LLC",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136284108/",
+    "total_value": 5893972867.83,
+    "final_attacker": {
+      "character_name": "WE DELIVER",
+      "corporation_name": "The Priesthood",
+      "alliance_name": "WeR4",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 136283911,
+    "killmail_hash": "bddcd41819c5db9122bcffcb738c4e97b9db3d03",
+    "kill_time": "2026-06-14T20:40:20Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002389,
+    "solar_system_name": "Atlar",
+    "region_name": "Molden Heath",
+    "victim": {
+      "character_id": 90475644,
+      "character_name": "Lady Risotto",
+      "corporation_id": 1427661573,
+      "corporation_name": "Planet - Express",
+      "alliance_id": 117383987,
+      "alliance_name": "Silent Infinity"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136283911/",
+    "total_value": 8997611550.21,
+    "final_attacker": {
+      "character_name": "Dwark",
+      "corporation_name": "Harmonist",
+      "alliance_name": "Parallaxis Alliance",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 136281159,
+    "killmail_hash": "1c5bf1922634dd849d3737e33d80ca2cf555da20",
+    "kill_time": "2026-06-14T19:10:23Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2117890583,
+      "character_name": "Azen Jalen Secheh",
+      "corporation_id": 98680683,
+      "corporation_name": "Wrecks to Riches Limted",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136281159/",
+    "total_value": 2610863327.72,
+    "final_attacker": {
+      "character_name": "Salt Miner 05",
+      "corporation_name": "Ronin Interstellar Industries",
+      "alliance_name": "Weapons Of Mass Production.",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 136272541,
     "killmail_hash": "85f55cd0da560fda0c07577607054182c9e97914",
     "kill_time": "2026-06-14T14:11:55Z",
@@ -2023,32 +2101,6 @@
     "final_attacker": {
       "character_name": "Sonic 37",
       "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136071807,
-    "killmail_hash": "1df2ced2b75244df31f7728e2e52893298051598",
-    "kill_time": "2026-06-07T19:10:41Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 91928216,
-      "character_name": "Medikspb Pr",
-      "corporation_id": 98830348,
-      "corporation_name": "Russian Black Bull",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136071807/",
-    "total_value": 7219819900.28,
-    "final_attacker": {
-      "character_name": "Warang",
-      "corporation_name": "Blank-Space",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
