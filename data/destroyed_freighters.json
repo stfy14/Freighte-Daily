@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136305141,
+    "killmail_hash": "32ff7def48fb153074e3dbd9b4d2892abe0815a7",
+    "kill_time": "2026-06-15T18:52:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115648704,
+      "character_name": "Logan Sabertooth",
+      "corporation_id": 98024753,
+      "corporation_name": "ISK-INVESTMENTS-CORP.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136305141/",
+    "total_value": 10275913914.3,
+    "final_attacker": {
+      "character_name": "Cannibal Khan",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 136304425,
+    "killmail_hash": "b3e8ea1bb89d23c03d3b5794959b78f02c2b318b",
+    "kill_time": "2026-06-15T18:19:13Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000773,
+    "solar_system_name": "78-0R6",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2124022590,
+      "character_name": "Slavches",
+      "corporation_id": 1187207583,
+      "corporation_name": "Shocky Industries Ltd.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136304425/",
+    "total_value": 2275826196.17,
+    "final_attacker": {
+      "character_name": "Lillian Hester",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 136299592,
     "killmail_hash": "0bc2db90ff5c9b688b05af50d9141d4745c57627",
     "kill_time": "2026-06-15T14:14:13Z",
@@ -1973,58 +2025,6 @@
       "corporation_name": "Proletarian Asset Recovery",
       "alliance_name": "Novus Ordo.",
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 136089471,
-    "killmail_hash": "e2c9b139e5d972e88721ea4c8f0a040da0be8a35",
-    "kill_time": "2026-06-08T15:30:43Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 153934016,
-      "character_name": "Volkinsky",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136089471/",
-    "total_value": 10933750240.04,
-    "final_attacker": {
-      "character_name": "Loredana Cameron",
-      "corporation_name": "Hoover Inc.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 136088609,
-    "killmail_hash": "a2374dbf2c995dad263035d1315cb2c85bd8bffb",
-    "kill_time": "2026-06-08T14:50:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2121669729,
-      "character_name": "Mechanicus Franz",
-      "corporation_id": 98092494,
-      "corporation_name": "Besra Overwatch",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136088609/",
-    "total_value": 1446349482.43,
-    "final_attacker": {
-      "character_name": "JINTSUU",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Harbinger"
     }
   }
 ]
