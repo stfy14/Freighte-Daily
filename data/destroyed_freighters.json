@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136329394,
+    "killmail_hash": "d93dcfecaa9fb6bd122f25f1de1f456188672c91",
+    "kill_time": "2026-06-16T18:31:32Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1852914408,
+      "character_name": "lorumerth sunstrider",
+      "corporation_id": 98644650,
+      "corporation_name": "Kybernauts",
+      "alliance_id": 99010431,
+      "alliance_name": "Kybernauts Clade"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136329394/",
+    "total_value": 3421420782.49,
+    "final_attacker": {
+      "character_name": "Caleeen",
+      "corporation_name": "Caleeris",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 136321194,
     "killmail_hash": "0926a66eefe91d3ecd9a9cf163dbad4ebb5855f5",
     "kill_time": "2026-06-16T11:48:41Z",
@@ -1999,84 +2025,6 @@
       "corporation_name": "Infinity Avenger",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 136112169,
-    "killmail_hash": "9108000caa5689927c753b308c7701c585f3ef37",
-    "kill_time": "2026-06-09T14:57:17Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114021459,
-      "character_name": "lilicc",
-      "corporation_id": 98830118,
-      "corporation_name": "Secret Garden Fleet",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136112169/",
-    "total_value": 2503192469.46,
-    "final_attacker": {
-      "character_name": "zLegion 21",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136110347,
-    "killmail_hash": "2dd54dbaa5651c9c9c425993b5fa2bc3ffe190c9",
-    "kill_time": "2026-06-09T14:03:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123921461,
-      "character_name": "Jutro 3",
-      "corporation_id": 98813194,
-      "corporation_name": "Australis Horizon",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136110347/",
-    "total_value": 1670857555.42,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136109393,
-    "killmail_hash": "0a33522320e133115c205fe521c28cfa745d95a8",
-    "kill_time": "2026-06-09T13:31:22Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91380799,
-      "character_name": "Vladimir Broker",
-      "corporation_id": 98207539,
-      "corporation_name": "Pichardo Advanced Avionics LIC",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136109393/",
-    "total_value": 2144091510.94,
-    "final_attacker": {
-      "character_name": "zLegion 03",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
