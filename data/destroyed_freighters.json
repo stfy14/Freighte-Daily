@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136355143,
+    "killmail_hash": "34b5c35475f46bfc28cb27a7162209dab3e203b9",
+    "kill_time": "2026-06-17T19:19:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002385,
+    "solar_system_name": "Teonusude",
+    "region_name": "Molden Heath",
+    "victim": {
+      "character_id": 2124377174,
+      "character_name": "Gull-Dukat",
+      "corporation_id": 98721157,
+      "corporation_name": "Zec Industries",
+      "alliance_id": 99013212,
+      "alliance_name": "Crimson Interstellar Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136355143/",
+    "total_value": 2530445552.33,
+    "final_attacker": {
+      "character_name": "mr heretic",
+      "corporation_name": "NED-Clan",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136354913,
+    "killmail_hash": "18e557e1f1a8b2f2e8fbfab37ecd511592ca600e",
+    "kill_time": "2026-06-17T19:08:04Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001661,
+    "solar_system_name": "Gyerzen",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 156115681,
+      "character_name": "Ssieth",
+      "corporation_id": 98718907,
+      "corporation_name": "BroFleet",
+      "alliance_id": 99014942,
+      "alliance_name": "Rubber Duck Republic"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136354913/",
+    "total_value": 7634612467.77,
+    "final_attacker": {
+      "character_name": "DarhtVaderrin",
+      "corporation_name": "Cargo Operations",
+      "alliance_name": "Come in and freak out",
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
     "killmail_id": 136353225,
     "killmail_hash": "4e6bff23ed1386720313d267040c24464e6dc620",
     "kill_time": "2026-06-17T17:45:59Z",
@@ -2129,58 +2181,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 136170449,
-    "killmail_hash": "d9f8cf42e79456b97b08aac712f2bd3a19566d01",
-    "kill_time": "2026-06-10T20:25:18Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1142657765,
-      "character_name": "Oskord",
-      "corporation_id": 98161503,
-      "corporation_name": "In nomine Terra",
-      "alliance_id": 99009805,
-      "alliance_name": "Dead Game Society."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136170449/",
-    "total_value": 7613241105.79,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Fortizar"
-    }
-  },
-  {
-    "killmail_id": 136170447,
-    "killmail_hash": "46ba0aab8f8b9152900d589ef3f78467fcd2beed",
-    "kill_time": "2026-06-10T20:25:13Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118610930,
-      "character_name": "Erika Loari",
-      "corporation_id": 98161503,
-      "corporation_name": "In nomine Terra",
-      "alliance_id": 99009805,
-      "alliance_name": "Dead Game Society."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136170447/",
-    "total_value": 9191589510.34,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
