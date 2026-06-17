@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136338915,
+    "killmail_hash": "ad4c8408a25c8a087c8004851b10d715570ed2bb",
+    "kill_time": "2026-06-17T03:01:30Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 588740895,
+      "character_name": "Squirreldog",
+      "corporation_id": 555073675,
+      "corporation_name": "The Green Cross",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136338915/",
+    "total_value": 8252408058.34,
+    "final_attacker": {
+      "character_name": "Dmitri Petroyovik",
+      "corporation_name": "Blank-Space",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 136335217,
+    "killmail_hash": "c1ac59b3817b7a8e0b4d80b94b0ffe687dd0939a",
+    "kill_time": "2026-06-16T22:36:00Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112693222,
+      "character_name": "Papus15 Arvel",
+      "corporation_id": 98614157,
+      "corporation_name": "AYA Industrial",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136335217/",
+    "total_value": 1696723313.59,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136334867,
+    "killmail_hash": "84008c611afba119f92b8f5184798d457ea410fd",
+    "kill_time": "2026-06-16T22:18:39Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117300523,
+      "character_name": "SuperNova Core",
+      "corporation_id": 98657354,
+      "corporation_name": "SuperNova Coop",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136334867/",
+    "total_value": 2024690898.52,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136329394,
     "killmail_hash": "d93dcfecaa9fb6bd122f25f1de1f456188672c91",
     "kill_time": "2026-06-16T18:31:32Z",
@@ -1999,32 +2077,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136131106,
-    "killmail_hash": "6b4517c08d0893ba36783a806fac3a150396c0ce",
-    "kill_time": "2026-06-10T03:02:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 94423032,
-      "character_name": "stephanie Breau",
-      "corporation_id": 98294905,
-      "corporation_name": "Avant Garde Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136131106/",
-    "total_value": 6534776380.52,
-    "final_attacker": {
-      "character_name": "Cucumber ares",
-      "corporation_name": "Infinity Avenger",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
