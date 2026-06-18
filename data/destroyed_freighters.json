@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136367150,
+    "killmail_hash": "c8a70fa0b804504f18178e4725803fd209ef5d4c",
+    "kill_time": "2026-06-18T10:05:03Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1397781766,
+      "character_name": "Evil Zusul",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136367150/",
+    "total_value": 3893303075.61,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 136366651,
+    "killmail_hash": "5e0607fa5d62d89a62683284c4a1a41fcd9d5c92",
+    "kill_time": "2026-06-18T09:33:42Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93120577,
+      "character_name": "Tuz 1",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136366651/",
+    "total_value": 7894794090.67,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136355143,
     "killmail_hash": "34b5c35475f46bfc28cb27a7162209dab3e203b9",
     "kill_time": "2026-06-17T19:19:34Z",
@@ -1999,162 +2051,6 @@
       "corporation_name": "Tu Zi Fei Corporation",
       "alliance_name": "Dracarys.",
       "ship_type_name": "Damnation"
-    }
-  },
-  {
-    "killmail_id": 136182348,
-    "killmail_hash": "97bbb48005fb3d5a98521aaf6fdf87fecadc4d2e",
-    "kill_time": "2026-06-11T11:00:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92074376,
-      "character_name": "Epifanya",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136182348/",
-    "total_value": 1401646414.97,
-    "final_attacker": {
-      "character_name": "Goudan guard",
-      "corporation_name": "Infinity Avenger",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Zirnitra"
-    }
-  },
-  {
-    "killmail_id": 136181018,
-    "killmail_hash": "01ff6192f7f13282a47d265cd33dacde22e1e999",
-    "kill_time": "2026-06-11T09:15:35Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122832800,
-      "character_name": "ARC Contracts",
-      "corporation_id": 98791781,
-      "corporation_name": "ARC Subsidized",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136181018/",
-    "total_value": 3395015391.99,
-    "final_attacker": {
-      "character_name": "zLegion 16",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136180737,
-    "killmail_hash": "f52a9732885711e6dac34d201a7d60c9fa061bb6",
-    "kill_time": "2026-06-11T08:55:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117985989,
-      "character_name": "Behavior",
-      "corporation_id": 1418791931,
-      "corporation_name": "Risky eXplosion",
-      "alliance_id": 917526329,
-      "alliance_name": "Death or Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136180737/",
-    "total_value": 1455723331.03,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136180699,
-    "killmail_hash": "60948cb25571f04cde47f0078c6e952f729ce8a8",
-    "kill_time": "2026-06-11T08:53:12Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95483259,
-      "character_name": "Tyler Trowbridge",
-      "corporation_id": 98832344,
-      "corporation_name": "Target - Locked",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136180699/",
-    "total_value": 2684851218.42,
-    "final_attacker": {
-      "character_name": "Miss Zyd",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 136180186,
-    "killmail_hash": "d5577ee3e9e63ed6cde763b354b8db54e754363b",
-    "kill_time": "2026-06-11T08:08:44Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92949459,
-      "character_name": "Lordron Ambramotte",
-      "corporation_id": 98813850,
-      "corporation_name": "Sol Ringen",
-      "alliance_id": 99014671,
-      "alliance_name": "NecroSphere."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136180186/",
-    "total_value": 1682598404.14,
-    "final_attacker": {
-      "character_name": "zLegion 24",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136179145,
-    "killmail_hash": "702dc93f07feb7a66e1a559060a5e55194a7bfdd",
-    "kill_time": "2026-06-11T06:40:00Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120447794,
-      "character_name": "Anakra D'Laboure",
-      "corporation_id": 98822344,
-      "corporation_name": "Newbro Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136179145/",
-    "total_value": 1944245574.34,
-    "final_attacker": {
-      "character_name": "zLegion 23",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
