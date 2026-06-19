@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136382341,
+    "killmail_hash": "a6b07b6bd3880bd628ea55fa1ea74426dc83f704",
+    "kill_time": "2026-06-18T22:51:35Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001721,
+    "solar_system_name": "Saminer",
+    "region_name": "Tash-Murkon",
+    "victim": {
+      "character_id": 2121742625,
+      "character_name": "James Alexander Anderson",
+      "corporation_id": 98749607,
+      "corporation_name": "Counter Spell",
+      "alliance_id": 99013440,
+      "alliance_name": "Eve Industrial Complex"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136382341/",
+    "total_value": 1464276863.37,
+    "final_attacker": {
+      "character_name": "Bovver Boy",
+      "corporation_name": "Republic Military School",
+      "alliance_name": null,
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 136371310,
     "killmail_hash": "6931b75fff54b6948223ad8b0b365d42ba508286",
     "kill_time": "2026-06-18T14:32:39Z",
@@ -2025,32 +2051,6 @@
       "corporation_name": "Sensible People",
       "alliance_name": "Sigma Grindset",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136198858,
-    "killmail_hash": "aa246b6404b73e8686aae66539e1a2b29bbdbd5d",
-    "kill_time": "2026-06-12T01:28:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2124395499,
-      "character_name": "Bescht Bubbl's",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136198858/",
-    "total_value": 1758599542.76,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Vargur"
     }
   }
 ]
