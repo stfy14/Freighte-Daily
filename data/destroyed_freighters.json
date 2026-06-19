@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136390923,
+    "killmail_hash": "48c7649345488693cca26f30b1402492b7520558",
+    "kill_time": "2026-06-19T09:19:54Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120632367,
+      "character_name": "Ronk3",
+      "corporation_id": 98789369,
+      "corporation_name": "shoulp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136390923/",
+    "total_value": 7607382728.51,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136389046,
+    "killmail_hash": "2ad057f9531b1790bb1e1319b4961d810957a7f3",
+    "kill_time": "2026-06-19T07:04:25Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 939865055,
+      "character_name": "Jian Mira",
+      "corporation_id": 98657075,
+      "corporation_name": "Edgar Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136389046/",
+    "total_value": 1480500799.7,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136382341,
     "killmail_hash": "a6b07b6bd3880bd628ea55fa1ea74426dc83f704",
     "kill_time": "2026-06-18T22:51:35Z",
@@ -2025,32 +2077,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Odysseus"
-    }
-  },
-  {
-    "killmail_id": 136202994,
-    "killmail_hash": "fc8676125619b768945a53e3358aa94da3ecf2d6",
-    "kill_time": "2026-06-12T06:56:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000241,
-    "solar_system_name": "YMJG-4",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2114457293,
-      "character_name": "Skord22",
-      "corporation_id": 98715093,
-      "corporation_name": "Thunder Shield",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136202994/",
-    "total_value": 1457039952.2,
-    "final_attacker": {
-      "character_name": "Literacy is Cloaked",
-      "corporation_name": "Sensible People",
-      "alliance_name": "Sigma Grindset",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
