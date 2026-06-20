@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136419360,
+    "killmail_hash": "51edd868c230035af224f740ce3a3655aa30c10c",
+    "kill_time": "2026-06-20T12:33:21Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 2123967825,
+      "character_name": "Styran Isagar",
+      "corporation_id": 98819621,
+      "corporation_name": "Emerald Nebula Industrial Consortium",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136419360/",
+    "total_value": 2713418109.89,
+    "final_attacker": {
+      "character_name": "zLegion 14",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136414826,
+    "killmail_hash": "b3f0fdc6afa4ad157517259864e05921aa793da5",
+    "kill_time": "2026-06-20T07:48:03Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 1136891725,
+      "character_name": "xn3rt",
+      "corporation_id": 98588492,
+      "corporation_name": "Space Knights Who Say NI",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136414826/",
+    "total_value": 1679116133.55,
+    "final_attacker": {
+      "character_name": "zLegion 13",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136413893,
     "killmail_hash": "180ee32f9644befe2f31b1058be39e02f0cdabd1",
     "kill_time": "2026-06-20T06:33:07Z",
@@ -72,6 +124,32 @@
     "total_value": 6261822832.65,
     "final_attacker": {
       "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136412543,
+    "killmail_hash": "8244e8df2a643236b9a60435ea1f9d7d64f883aa",
+    "kill_time": "2026-06-20T05:09:23Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 2116909936,
+      "character_name": "Felix Isimazu",
+      "corporation_id": 98710684,
+      "corporation_name": "Holding 33901",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136412543/",
+    "total_value": 3901264257.92,
+    "final_attacker": {
+      "character_name": "zLegion 24",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
