@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136423642,
+    "killmail_hash": "e36765f232d6152ec6e39878aa89abb27b4612fd",
+    "kill_time": "2026-06-20T15:15:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 1291636816,
+      "character_name": "scorpion69fin",
+      "corporation_id": 98056085,
+      "corporation_name": "OLVI industries",
+      "alliance_id": 396211967,
+      "alliance_name": "Arctic Light"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136423642/",
+    "total_value": 4512213289.99,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136422661,
+    "killmail_hash": "1e519f084d514e93ace08a41aabf5444c8c22a6c",
+    "kill_time": "2026-06-20T14:37:27Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 92154567,
+      "character_name": "Breau Sif",
+      "corporation_id": 98830766,
+      "corporation_name": "Forward Observations Group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136422661/",
+    "total_value": 1706687944.41,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136422651,
+    "killmail_hash": "4d9467f8fc3458167f223668ac2623a398ec138e",
+    "kill_time": "2026-06-20T14:37:24Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112756793,
+      "character_name": "Marlin281 Aakiwa",
+      "corporation_id": 98811680,
+      "corporation_name": "Geras Workshop",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136422651/",
+    "total_value": 7242894779.8,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
     "killmail_id": 136419360,
     "killmail_hash": "51edd868c230035af224f740ce3a3655aa30c10c",
     "kill_time": "2026-06-20T12:33:21Z",
