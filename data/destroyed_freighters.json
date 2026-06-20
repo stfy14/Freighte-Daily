@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136411019,
+    "killmail_hash": "0816e7c97e7ce5bbad8621a90521fb326c99cf1c",
+    "kill_time": "2026-06-20T03:43:53Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 985265753,
+      "character_name": "LINKIN HY",
+      "corporation_id": 98633272,
+      "corporation_name": "Trisolaris Military Academy",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136411019/",
+    "total_value": 20982816916.61,
+    "final_attacker": {
+      "character_name": "Yukiko Kanezaki",
+      "corporation_name": "Blank-Space",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136403168,
     "killmail_hash": "a4280928413361fa1c16cc04ed45bc71f06e7f34",
     "kill_time": "2026-06-19T20:32:06Z",
@@ -1999,188 +2025,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136223409,
-    "killmail_hash": "8d162354f43b022c41aae270d3ae5952f2fdd269",
-    "kill_time": "2026-06-13T00:58:26Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1775542466,
-      "character_name": "RequimusX",
-      "corporation_id": 98741047,
-      "corporation_name": "The Erzohians",
-      "alliance_id": 99012282,
-      "alliance_name": "Raravathian Mining and Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136223409/",
-    "total_value": 8736311870.12,
-    "final_attacker": {
-      "character_name": "Fighter-Control",
-      "corporation_name": "Uedama Fighter Control",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136223193,
-    "killmail_hash": "4e12409e19f4eaea9a39034d70eb91defc18cd0f",
-    "kill_time": "2026-06-13T00:43:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 90862710,
-      "character_name": "Victor Van Detta",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136223193/",
-    "total_value": 1457619710.7,
-    "final_attacker": {
-      "character_name": "Nasbashov Ibruin",
-      "corporation_name": "Jian Sheng",
-      "alliance_name": null,
-      "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 136222938,
-    "killmail_hash": "5661ad17dce2900b1d141f862f6bd4ebbfb358a9",
-    "kill_time": "2026-06-13T00:35:00Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122865879,
-      "character_name": "Ulkyora",
-      "corporation_id": 98823093,
-      "corporation_name": "Message In A Bottle",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136222938/",
-    "total_value": 1882923397.95,
-    "final_attacker": {
-      "character_name": "zLegion 13",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136222321,
-    "killmail_hash": "5e8bf92474b521cc0b5e6bba323f4caf13b3176f",
-    "kill_time": "2026-06-12T23:57:03Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116491822,
-      "character_name": "Trothgar Garrison",
-      "corporation_id": 98707766,
-      "corporation_name": "So I Started Farmin",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136222321/",
-    "total_value": 2207256207.08,
-    "final_attacker": {
-      "character_name": "Highsec tax",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136221927,
-    "killmail_hash": "9f0a40e1bbe4a5fdd599620bf5572e392d6dfe62",
-    "kill_time": "2026-06-12T23:35:09Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1106585739,
-      "character_name": "Re'Lith",
-      "corporation_id": 98766303,
-      "corporation_name": "Rookie Crewkie",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136221927/",
-    "total_value": 12225965646.65,
-    "final_attacker": {
-      "character_name": "zLegion 20",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136219881,
-    "killmail_hash": "b171e494ac02f4bb78daa2d26ee04e0b0c8c41a3",
-    "kill_time": "2026-06-12T21:50:49Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2112342144,
-      "character_name": "S-P-A-Z-Z",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136219881/",
-    "total_value": 7428878595.18,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 136219812,
-    "killmail_hash": "47a7794290c0b19034fad1174aef7a0b592514d8",
-    "kill_time": "2026-06-12T21:47:53Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30005038,
-    "solar_system_name": "Kor-Azor Prime",
-    "region_name": "Kor-Azor",
-    "victim": {
-      "character_id": 2123908668,
-      "character_name": "BORG UNIT 84",
-      "corporation_id": 272675225,
-      "corporation_name": "Monkey Attack Squad",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136219812/",
-    "total_value": 1707855848.63,
-    "final_attacker": {
-      "character_name": "Panda SuLin",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Proteus"
     }
   }
 ]
