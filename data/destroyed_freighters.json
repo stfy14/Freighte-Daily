@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136486597,
+    "killmail_hash": "0a409ce8abec0dd1330b88e7b96a37bfc3540d5a",
+    "kill_time": "2026-06-22T21:05:58Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112169092,
+      "character_name": "Dayve Listerr",
+      "corporation_id": 98704250,
+      "corporation_name": "FriendlyFire.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136486597/",
+    "total_value": 2780423608.78,
+    "final_attacker": {
+      "character_name": "Josef MOONPIRE",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "HOLD MY PROBS",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136483369,
     "killmail_hash": "67532e4be2aa40040c27a1295bf4667aacb2c405",
     "kill_time": "2026-06-22T19:15:29Z",
@@ -150,6 +176,32 @@
     "total_value": 2009364674.82,
     "final_attacker": {
       "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136474110,
+    "killmail_hash": "3619f973f2f421295162f29fe2cff6c92cfec0e2",
+    "kill_time": "2026-06-22T11:57:43Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 183820838,
+      "character_name": "Rogar Danar",
+      "corporation_id": 1000111,
+      "corporation_name": "Aliastra",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136474110/",
+    "total_value": 3086439721.47,
+    "final_attacker": {
+      "character_name": "zLegion 15",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
