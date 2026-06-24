@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136531173,
+    "killmail_hash": "382feb5a1594a0efad5b2e7a241542b226d0e69f",
+    "kill_time": "2026-06-24T19:21:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124221774,
+      "character_name": "Eladin de Voch",
+      "corporation_id": 98639548,
+      "corporation_name": "United Caldari Navy",
+      "alliance_id": 99011489,
+      "alliance_name": "United Caldari Space Command."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136531173/",
+    "total_value": 2435247630.83,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 136528162,
     "killmail_hash": "5eb7f03bfba745020421d2fab4379968e3523c55",
     "kill_time": "2026-06-24T17:03:58Z",
@@ -2389,58 +2415,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136355143,
-    "killmail_hash": "34b5c35475f46bfc28cb27a7162209dab3e203b9",
-    "kill_time": "2026-06-17T19:19:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002385,
-    "solar_system_name": "Teonusude",
-    "region_name": "Molden Heath",
-    "victim": {
-      "character_id": 2124377174,
-      "character_name": "Gull-Dukat",
-      "corporation_id": 98721157,
-      "corporation_name": "Zec Industries",
-      "alliance_id": 99013212,
-      "alliance_name": "Crimson Interstellar Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136355143/",
-    "total_value": 2530445552.33,
-    "final_attacker": {
-      "character_name": "mr heretic",
-      "corporation_name": "NED-Clan",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136354913,
-    "killmail_hash": "18e557e1f1a8b2f2e8fbfab37ecd511592ca600e",
-    "kill_time": "2026-06-17T19:08:04Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001661,
-    "solar_system_name": "Gyerzen",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 156115681,
-      "character_name": "Ssieth",
-      "corporation_id": 98718907,
-      "corporation_name": "BroFleet",
-      "alliance_id": 99014942,
-      "alliance_name": "Rubber Duck Republic"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136354913/",
-    "total_value": 7634612467.77,
-    "final_attacker": {
-      "character_name": "DarhtVaderrin",
-      "corporation_name": "Cargo Operations",
-      "alliance_name": "Come in and freak out",
-      "ship_type_name": "Phoenix"
     }
   }
 ]
