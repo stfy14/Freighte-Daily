@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136522877,
+    "killmail_hash": "363c916c3e8fb6cea33d3d63aa5f5deb8f308fb6",
+    "kill_time": "2026-06-24T12:25:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004956,
+    "solar_system_name": "HIX4-H",
+    "region_name": "Period Basis",
+    "victim": {
+      "character_id": 2114749206,
+      "character_name": "S65 AMG",
+      "corporation_id": 98832971,
+      "corporation_name": "Moonless Windy Night Murder Arson Fight",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136522877/",
+    "total_value": 8312074638.68,
+    "final_attacker": {
+      "character_name": "Enelie Erin Hannon",
+      "corporation_name": "Lost Legends",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Omen Navy Issue"
+    }
+  },
+  {
     "killmail_id": 136518778,
     "killmail_hash": "3fecdca59540a816cb6d9796ee648f81b4b2c12c",
     "kill_time": "2026-06-24T07:04:45Z",
@@ -2441,84 +2467,6 @@
       "corporation_name": "Harmonist",
       "alliance_name": "Parallaxis Alliance",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 136349576,
-    "killmail_hash": "dea9d4beace703ba2d1ace643b86a51b0a1ac847",
-    "kill_time": "2026-06-17T14:44:49Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 598276960,
-      "character_name": "Stary Tarakan",
-      "corporation_id": 98572759,
-      "corporation_name": "Ostrov v okeane",
-      "alliance_id": 99014419,
-      "alliance_name": "Seals on the rocks"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136349576/",
-    "total_value": 1832063235.71,
-    "final_attacker": {
-      "character_name": "zLegion 07",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136347279,
-    "killmail_hash": "2ac20c247dd4e68776db07c7c221de9dd27a1119",
-    "kill_time": "2026-06-17T13:08:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003834,
-    "solar_system_name": "Chardalane",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 2117613457,
-      "character_name": "Jolene McGuire",
-      "corporation_id": 1150722203,
-      "corporation_name": "The Minutemen",
-      "alliance_id": 99015045,
-      "alliance_name": "H O S T I L E"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136347279/",
-    "total_value": 7586389637.7,
-    "final_attacker": {
-      "character_name": "Kasper Skov",
-      "corporation_name": "Constantine.",
-      "alliance_name": "Ninja Unicorns with Huge Horns",
-      "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 136347216,
-    "killmail_hash": "1a27461092c8e6623b54376038fea5281105521a",
-    "kill_time": "2026-06-17T13:05:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000119,
-    "solar_system_name": "Itamo",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115785077,
-      "character_name": "Aminos Keikiras",
-      "corporation_id": 1000180,
-      "corporation_name": "State Protectorate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136347216/",
-    "total_value": 1901206979.58,
-    "final_attacker": {
-      "character_name": "smater van",
-      "corporation_name": "Solo Man Fleet",
-      "alliance_name": "Renminbi Alliance",
-      "ship_type_name": "Babaroga"
     }
   }
 ]
