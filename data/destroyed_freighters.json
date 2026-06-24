@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136518778,
+    "killmail_hash": "3fecdca59540a816cb6d9796ee648f81b4b2c12c",
+    "kill_time": "2026-06-24T07:04:45Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123042196,
+      "character_name": "Guna Deka",
+      "corporation_id": 98828230,
+      "corporation_name": "Gen. Guna Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136518778/",
+    "total_value": 1708154233.91,
+    "final_attacker": {
+      "character_name": "Joey zergling",
+      "corporation_name": "When to Run Where to Hide",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Tempest"
+    }
+  },
+  {
+    "killmail_id": 136518674,
+    "killmail_hash": "45f45e5dcbde0efbdcb187ce3c73c068b6246cf1",
+    "kill_time": "2026-06-24T06:55:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95809277,
+      "character_name": "CombatVeteran08 Dallocort",
+      "corporation_id": 98000682,
+      "corporation_name": "Southern Cross Monopoly",
+      "alliance_id": 99009902,
+      "alliance_name": "Flying Dangerous"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136518674/",
+    "total_value": 4245536370.96,
+    "final_attacker": {
+      "character_name": "Wild Valenok",
+      "corporation_name": "Interstellar Scum",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 136518243,
+    "killmail_hash": "64a3c3322e8fef3fda4dd6891e2acaa1ba3c05e8",
+    "kill_time": "2026-06-24T06:12:46Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121287173,
+      "character_name": "Dzhida",
+      "corporation_id": 98828381,
+      "corporation_name": "Om Tare Tuttare Ture Soha",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136518243/",
+    "total_value": 9690440771.6,
+    "final_attacker": {
+      "character_name": "Swipe Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 136516661,
     "killmail_hash": "fb53963e7375e27b763018b6741b9fa61979f3d7",
     "kill_time": "2026-06-24T04:08:14Z",
@@ -2441,110 +2519,6 @@
       "corporation_name": "Solo Man Fleet",
       "alliance_name": "Renminbi Alliance",
       "ship_type_name": "Babaroga"
-    }
-  },
-  {
-    "killmail_id": 136343447,
-    "killmail_hash": "7d1482c862aa5e808d96eb56f5fc890348cccf80",
-    "kill_time": "2026-06-17T08:07:49Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123631219,
-      "character_name": "Hanich Mabebu",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136343447/",
-    "total_value": 3708189909.52,
-    "final_attacker": {
-      "character_name": "zLegion 13",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136343380,
-    "killmail_hash": "7589fcbd5a3b37aed5e84a9d7ee0027a6ac9874b",
-    "kill_time": "2026-06-17T08:02:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004019,
-    "solar_system_name": "3-FKCZ",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 2116907400,
-      "character_name": "Kyrie Lindswood",
-      "corporation_id": 98664584,
-      "corporation_name": "Interstellar Industrial Core",
-      "alliance_id": 99014221,
-      "alliance_name": "Weapons of Mass Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136343380/",
-    "total_value": 1464255153.85,
-    "final_attacker": {
-      "character_name": "Victoria Everett",
-      "corporation_name": "Learn from Comrade Lei Feng",
-      "alliance_name": null,
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 136343205,
-    "killmail_hash": "e591cada7e89ac29ae93c644ae81cb3391c95e85",
-    "kill_time": "2026-06-17T07:50:33Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116518620,
-      "character_name": "Chet U-Betcha",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136343205/",
-    "total_value": 2202210041.24,
-    "final_attacker": {
-      "character_name": "zLegion 11",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136342220,
-    "killmail_hash": "ce5c8a63f98a94c893ed0140c578dbbfbb3cff95",
-    "kill_time": "2026-06-17T07:14:50Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 118218899,
-      "character_name": "markable",
-      "corporation_id": 98529852,
-      "corporation_name": "The Ring World Of Cybrex",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136342220/",
-    "total_value": 4246066726.19,
-    "final_attacker": {
-      "character_name": "zLegion 25",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
