@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136528162,
+    "killmail_hash": "5eb7f03bfba745020421d2fab4379968e3523c55",
+    "kill_time": "2026-06-24T17:03:58Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 1073190550,
+      "character_name": "Trapper Doom",
+      "corporation_id": 98731763,
+      "corporation_name": "Amped.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136528162/",
+    "total_value": 7226415175.55,
+    "final_attacker": {
+      "character_name": "Andrew Yggdrasil",
+      "corporation_name": "Nightfall Tactics",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Taranis"
+    }
+  },
+  {
+    "killmail_id": 136526711,
+    "killmail_hash": "dd0bbe6d91337d0822e6544a17cace4213433e9d",
+    "kill_time": "2026-06-24T15:38:43Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 96472963,
+      "character_name": "Benardo Medici",
+      "corporation_id": 98816796,
+      "corporation_name": "Syndicate Protectorate",
+      "alliance_id": 99014283,
+      "alliance_name": "HERO Coalition."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136526711/",
+    "total_value": 2274704143.4,
+    "final_attacker": {
+      "character_name": "J Quiet",
+      "corporation_name": "Redamancy.",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 136522877,
     "killmail_hash": "363c916c3e8fb6cea33d3d63aa5f5deb8f308fb6",
     "kill_time": "2026-06-24T12:25:13Z",
@@ -2389,84 +2441,6 @@
       "corporation_name": "Cargo Operations",
       "alliance_name": "Come in and freak out",
       "ship_type_name": "Phoenix"
-    }
-  },
-  {
-    "killmail_id": 136353225,
-    "killmail_hash": "4e6bff23ed1386720313d267040c24464e6dc620",
-    "kill_time": "2026-06-17T17:45:59Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2114203661,
-      "character_name": "DEMA 118",
-      "corporation_id": 98642382,
-      "corporation_name": "HongLou",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136353225/",
-    "total_value": 15395773297.24,
-    "final_attacker": {
-      "character_name": "Baron Volk",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136353222,
-    "killmail_hash": "7f4e4b0e2d5dfb17b83e1497614b0d9dd8e21eb5",
-    "kill_time": "2026-06-17T17:45:56Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115016884,
-      "character_name": "DEMA 119",
-      "corporation_id": 98642382,
-      "corporation_name": "HongLou",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136353222/",
-    "total_value": 19330508144.25,
-    "final_attacker": {
-      "character_name": "Gertrude the Goat",
-      "corporation_name": "Van Diemen's Demise",
-      "alliance_name": "Northern Coalition.",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 136351414,
-    "killmail_hash": "c4d04af893f990e7e529b9b5d09e5943b774d0cf",
-    "kill_time": "2026-06-17T15:58:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002402,
-    "solar_system_name": "Istodard",
-    "region_name": "Molden Heath",
-    "victim": {
-      "character_id": 2117470874,
-      "character_name": "Purvas Kado",
-      "corporation_id": 98609999,
-      "corporation_name": "W.O.P.R.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136351414/",
-    "total_value": 1463162103.85,
-    "final_attacker": {
-      "character_name": "Dwark",
-      "corporation_name": "Harmonist",
-      "alliance_name": "Parallaxis Alliance",
-      "ship_type_name": "Leshak"
     }
   }
 ]
