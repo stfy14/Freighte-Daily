@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 136554994,
+    "killmail_hash": "5fb3bcfec363261395ff3d1d8f024cdce91a95da",
+    "kill_time": "2026-06-25T21:08:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31001458,
+    "solar_system_name": "J114026",
+    "region_name": "D-R00017",
+    "victim": {
+      "character_id": 2118895686,
+      "character_name": "Juliana Torrena",
+      "corporation_id": 98789418,
+      "corporation_name": "Mental Disruption",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136554994/",
+    "total_value": 1497709717.26,
+    "final_attacker": {
+      "character_name": "Gaianosis Blashuje",
+      "corporation_name": "Bean-shidh",
+      "alliance_name": "The Nameless Alliance",
+      "ship_type_name": "Occator"
+    }
+  },
+  {
+    "killmail_id": 136554762,
+    "killmail_hash": "0b262e1855202b77dbbf66dee4125cdbb73f9440",
+    "kill_time": "2026-06-25T20:54:15Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30004991,
+    "solar_system_name": "Vitrauze",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 785695430,
+      "character_name": "Tooko",
+      "corporation_id": 98753600,
+      "corporation_name": "S.O.E. EVE",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136554762/",
+    "total_value": 10137951221.26,
+    "final_attacker": {
+      "character_name": "Karla Horse",
+      "corporation_name": "Mea Culpa.",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 136554436,
+    "killmail_hash": "335d38e346926b48df8ebb327c6d902207a58e16",
+    "kill_time": "2026-06-25T20:41:17Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000047,
+    "solar_system_name": "Majamar",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 854209311,
+      "character_name": "SWAGLE NUTS",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136554436/",
+    "total_value": 1436841882.2,
+    "final_attacker": {
+      "character_name": "Ron the Loose",
+      "corporation_name": "Nano Rhinos",
+      "alliance_name": "PURPLE HELMETED WARRIORS",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
+    "killmail_id": 136552648,
+    "killmail_hash": "86b5aaa8a54d2f90fcaae8f9f9d53b6e688c3b55",
+    "kill_time": "2026-06-25T19:24:04Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000022,
+    "solar_system_name": "Jayneleb",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2115148194,
+      "character_name": "Sarah Kate Gaterau",
+      "corporation_id": 98805774,
+      "corporation_name": "Royalty.",
+      "alliance_id": 99008985,
+      "alliance_name": "Seker Matar"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136552648/",
+    "total_value": 4906224544.3,
+    "final_attacker": {
+      "character_name": "Pea S0up",
+      "corporation_name": "Stairway To Zkill",
+      "alliance_name": null,
+      "ship_type_name": "Hel"
+    }
+  },
+  {
     "killmail_id": 136548488,
     "killmail_hash": "56a99aaf887d52b1a5789a9fddb1a978d3062355",
     "kill_time": "2026-06-25T15:44:48Z",
