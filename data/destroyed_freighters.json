@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136543904,
+    "killmail_hash": "8634b1f2b3149342b2dfbace6fca8fe824bfe41b",
+    "kill_time": "2026-06-25T10:57:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1861513771,
+      "character_name": "NelsorMOTU",
+      "corporation_id": 98473379,
+      "corporation_name": "Cambridge Mountain Rescue",
+      "alliance_id": 99011119,
+      "alliance_name": "Absolute Glory"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136543904/",
+    "total_value": 1777734704.03,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136543571,
     "killmail_hash": "a1f5a842a6c94eb714dd44ab86c72134f3c89be1",
     "kill_time": "2026-06-25T10:27:29Z",
@@ -2571,32 +2597,6 @@
       "corporation_name": "Republic Military School",
       "alliance_name": null,
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 136371310,
-    "killmail_hash": "6931b75fff54b6948223ad8b0b365d42ba508286",
-    "kill_time": "2026-06-18T14:32:39Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 91782379,
-      "character_name": "Solaris Gem",
-      "corporation_id": 98832792,
-      "corporation_name": "Not Safe for Space",
-      "alliance_id": 99014321,
-      "alliance_name": "Tilean Dominium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136371310/",
-    "total_value": 56348242218.32,
-    "final_attacker": {
-      "character_name": "SinthEmortal",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
