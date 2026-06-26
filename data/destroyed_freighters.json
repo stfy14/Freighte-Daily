@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136579421,
+    "killmail_hash": "93cd1844e371ad95c2d706a752d993cf76051c10",
+    "kill_time": "2026-06-26T20:58:03Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 445454837,
+      "character_name": "Jess Kand",
+      "corporation_id": 98662844,
+      "corporation_name": "JessKa Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136579421/",
+    "total_value": 8142378245.87,
+    "final_attacker": {
+      "character_name": "Plunder Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 136571022,
     "killmail_hash": "8cafd4e03b0e5523e36ab337ed70dc27aaca5ab2",
     "kill_time": "2026-06-26T16:05:10Z",
@@ -2597,110 +2623,6 @@
       "corporation_name": "Blank-Space",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136403168,
-    "killmail_hash": "a4280928413361fa1c16cc04ed45bc71f06e7f34",
-    "kill_time": "2026-06-19T20:32:06Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95652720,
-      "character_name": "Eveta Scorvaa",
-      "corporation_id": 98705678,
-      "corporation_name": "Minmatar Fleet Logistics",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136403168/",
-    "total_value": 24286990193.77,
-    "final_attacker": {
-      "character_name": "Provoked Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136402755,
-    "killmail_hash": "33e4fe80842e08f218314dc9b8ba553c0d47acf3",
-    "kill_time": "2026-06-19T20:13:27Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003525,
-    "solar_system_name": "Bagodan",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2122985338,
-      "character_name": "MacarizeCrew",
-      "corporation_id": 98811586,
-      "corporation_name": "Collapse Theory",
-      "alliance_id": 99013502,
-      "alliance_name": "Itty Bitty Asteroid Committee"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136402755/",
-    "total_value": 13309830901.7,
-    "final_attacker": {
-      "character_name": "Ch4rli3",
-      "corporation_name": "R.E.M.N.A.N.T.S",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 136400412,
-    "killmail_hash": "c29c47a77bb5bdb3c8df6aac048e1ac2eb733467",
-    "kill_time": "2026-06-19T18:32:46Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002110,
-    "solar_system_name": "B9E-H6",
-    "region_name": "Immensea",
-    "victim": {
-      "character_id": 730346378,
-      "character_name": "Mortessa",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136400412/",
-    "total_value": 1682850223.54,
-    "final_attacker": {
-      "character_name": "Victor Jacobus",
-      "corporation_name": "The Tuskers",
-      "alliance_name": "The Tuskers Co.",
-      "ship_type_name": "Tholos"
-    }
-  },
-  {
-    "killmail_id": 136400266,
-    "killmail_hash": "a40bdc348842a99ccc600d344604c4287a2ebacd",
-    "kill_time": "2026-06-19T18:25:50Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002355,
-    "solar_system_name": "LXQ2-T",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 1249460214,
-      "character_name": "4of4",
-      "corporation_id": 98648545,
-      "corporation_name": "Poor Villa INC.",
-      "alliance_id": 99014523,
-      "alliance_name": "The Rejected."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136400266/",
-    "total_value": 7523881758.74,
-    "final_attacker": {
-      "character_name": "OnlyDogs",
-      "corporation_name": "Post Nut Clarity With The Boys",
-      "alliance_name": "PUT THE FRIES IN THE BAG",
-      "ship_type_name": "Legion"
     }
   }
 ]
