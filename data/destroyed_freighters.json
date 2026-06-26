@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136571022,
+    "killmail_hash": "8cafd4e03b0e5523e36ab337ed70dc27aaca5ab2",
+    "kill_time": "2026-06-26T16:05:10Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004298,
+    "solar_system_name": "Tisot",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 92715705,
+      "character_name": "Sara Keriggan",
+      "corporation_id": 98755962,
+      "corporation_name": "DRAKE LAIR",
+      "alliance_id": 99012786,
+      "alliance_name": "DRAKE LAIR."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136571022/",
+    "total_value": 1608394969.76,
+    "final_attacker": {
+      "character_name": "chimpout 05",
+      "corporation_name": "okay-buddy",
+      "alliance_name": null,
+      "ship_type_name": "Revelation"
+    }
+  },
+  {
     "killmail_id": 136564546,
     "killmail_hash": "5686c5ef1497a4aab36e7296415f59b54a8fa04a",
     "kill_time": "2026-06-26T09:18:36Z",
@@ -2675,32 +2701,6 @@
       "corporation_name": "Post Nut Clarity With The Boys",
       "alliance_name": "PUT THE FRIES IN THE BAG",
       "ship_type_name": "Legion"
-    }
-  },
-  {
-    "killmail_id": 136396082,
-    "killmail_hash": "c7ee13244aae647a63c5e456c75c951753d96f6a",
-    "kill_time": "2026-06-19T14:44:39Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001719,
-    "solar_system_name": "Sagain",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 2121742625,
-      "character_name": "James Alexander Anderson",
-      "corporation_id": 98749607,
-      "corporation_name": "Counter Spell",
-      "alliance_id": 99013440,
-      "alliance_name": "Eve Industrial Complex"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136396082/",
-    "total_value": 1468235733.37,
-    "final_attacker": {
-      "character_name": "IDontKnowWhatIAmDoing",
-      "corporation_name": "SlightlyCompetent.",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
