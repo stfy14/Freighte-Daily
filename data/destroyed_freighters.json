@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136593217,
+    "killmail_hash": "a0e4d4dd4ed414f57971e76275c3f373f479fdc4",
+    "kill_time": "2026-06-27T10:31:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 2123978015,
+      "character_name": "SigmaWei",
+      "corporation_id": 98823678,
+      "corporation_name": "Socialist Alliance of Astra",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136593217/",
+    "total_value": 1811275931.81,
+    "final_attacker": {
+      "character_name": "zLegion 08",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136592904,
+    "killmail_hash": "b9f890ca899f793b1cbdeee044262854bcf40058",
+    "kill_time": "2026-06-27T10:13:42Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 1194974946,
+      "character_name": "Rytha Main",
+      "corporation_id": 98029968,
+      "corporation_name": "Defensores Fidei",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136592904/",
+    "total_value": 1571621450.83,
+    "final_attacker": {
+      "character_name": "zLegion 09",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136592529,
     "killmail_hash": "8ad374c02620d27e98f9c35dc4a54a69ed9200df",
     "kill_time": "2026-06-27T09:49:03Z",
@@ -20,6 +72,58 @@
     "total_value": 2002603939.64,
     "final_attacker": {
       "character_name": "zLegion 09",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136590315,
+    "killmail_hash": "96a5040b47e3694d5662ed30449be50d79b84ca8",
+    "kill_time": "2026-06-27T07:15:14Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 92495176,
+      "character_name": "Kart00nz",
+      "corporation_id": 98207951,
+      "corporation_name": "Catalyst Ops",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136590315/",
+    "total_value": 4069759681.4,
+    "final_attacker": {
+      "character_name": "zLegion 02",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 136589265,
+    "killmail_hash": "2b25efd586b768936b99eb7066d018b60b8f8875",
+    "kill_time": "2026-06-27T05:58:45Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 90352561,
+      "character_name": "Katrine Kaalund",
+      "corporation_id": 366372021,
+      "corporation_name": "The Emperial Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136589265/",
+    "total_value": 1585220663.72,
+    "final_attacker": {
+      "character_name": "zLegion 26",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -49,6 +153,58 @@
       "corporation_name": "Xenomine Industries",
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 136588450,
+    "killmail_hash": "50de705c4cd922ef0ff5bcdfb2157f2691ec6b71",
+    "kill_time": "2026-06-27T04:58:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 92689651,
+      "character_name": "JohnSi",
+      "corporation_id": 98703197,
+      "corporation_name": "Desmans Academy Space Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136588450/",
+    "total_value": 1856903502.38,
+    "final_attacker": {
+      "character_name": "zLegion 09",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136587312,
+    "killmail_hash": "8e1625f4b8ced178055255bdd5041b6656f04a8a",
+    "kill_time": "2026-06-27T03:50:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 2122670294,
+      "character_name": "zyb3097",
+      "corporation_id": 98705642,
+      "corporation_name": "Chuangshi College",
+      "alliance_id": 99014087,
+      "alliance_name": "ChuangShi Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136587312/",
+    "total_value": 3943687103.71,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2675,32 +2831,6 @@
       "corporation_name": "Best Cool Stories",
       "alliance_name": null,
       "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 136419360,
-    "killmail_hash": "51edd868c230035af224f740ce3a3655aa30c10c",
-    "kill_time": "2026-06-20T12:33:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 2123967825,
-      "character_name": "Styran Isagar",
-      "corporation_id": 98819621,
-      "corporation_name": "Emerald Nebula Industrial Consortium",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136419360/",
-    "total_value": 2713418109.89,
-    "final_attacker": {
-      "character_name": "zLegion 14",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
