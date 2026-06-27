@@ -1,5 +1,213 @@
 [
   {
+    "killmail_id": 136585431,
+    "killmail_hash": "2c35e52d2204f7fd49dcadbfcf72dcbd5fb79a8e",
+    "kill_time": "2026-06-27T01:51:26Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 93653354,
+      "character_name": "Drake Raider Severasse",
+      "corporation_id": 98835483,
+      "corporation_name": "Ascended Essence Group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136585431/",
+    "total_value": 1685321674.94,
+    "final_attacker": {
+      "character_name": "Cucumber ares",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 136583024,
+    "killmail_hash": "6f7ebad1c659ddec77e31b469f23dee069132dea",
+    "kill_time": "2026-06-26T23:24:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000143,
+    "solar_system_name": "Niyabainen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122929734,
+      "character_name": "Labanatodos",
+      "corporation_id": 1828379156,
+      "corporation_name": "Dark Shadow Syndicate",
+      "alliance_id": 99007552,
+      "alliance_name": "Black Rise Matters"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136583024/",
+    "total_value": 1902466534.1,
+    "final_attacker": {
+      "character_name": "Josh Dian",
+      "corporation_name": "Battlestars",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Legion"
+    }
+  },
+  {
+    "killmail_id": 136582752,
+    "killmail_hash": "1bd710dba00c7088ab17ed6360b44b837cad130d",
+    "kill_time": "2026-06-26T23:08:35Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 414057752,
+      "character_name": "Captain Cherie",
+      "corporation_id": 98155573,
+      "corporation_name": "Blue Capricorn Mining Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136582752/",
+    "total_value": 3833586867.49,
+    "final_attacker": {
+      "character_name": "bindevent",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136581848,
+    "killmail_hash": "3f985fc53bc46e38eaea44452441bdb1408ed3f1",
+    "kill_time": "2026-06-26T22:25:10Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124314600,
+      "character_name": "Farmboy1",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136581848/",
+    "total_value": 5896511476.99,
+    "final_attacker": {
+      "character_name": "fast cutie",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136581337,
+    "killmail_hash": "5609c6f89f26b57fa7fad3269df58110c98fa162",
+    "kill_time": "2026-06-26T22:07:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93365465,
+      "character_name": "Aqumini strife",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136581337/",
+    "total_value": 5431598692.85,
+    "final_attacker": {
+      "character_name": "Zidabar Pava",
+      "corporation_name": "Aggression Protocol",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136580877,
+    "killmail_hash": "3158e07c1492d16daad486cd91a1a15e2256e819",
+    "kill_time": "2026-06-26T21:51:51Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112129773,
+      "character_name": "Xavior Lioning",
+      "corporation_id": 98794649,
+      "corporation_name": "Blue Guava LLC",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136580877/",
+    "total_value": 1450055578.38,
+    "final_attacker": {
+      "character_name": "Sardonis Tel'Arakus",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Ikitursa"
+    }
+  },
+  {
+    "killmail_id": 136580834,
+    "killmail_hash": "b673b2673be73a6a9e81b87741668ed0b39195d7",
+    "kill_time": "2026-06-26T21:48:51Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123949576,
+      "character_name": "Catnipped",
+      "corporation_id": 98826384,
+      "corporation_name": "Catgirl Research and Development",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136580834/",
+    "total_value": 2809624978.03,
+    "final_attacker": {
+      "character_name": "MOONPIREs KGB Agent-4",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "HOLD MY PROBS",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136580093,
+    "killmail_hash": "c44c16c4daa60a46be78b43421c9243e6a653775",
+    "kill_time": "2026-06-26T21:20:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119899225,
+      "character_name": "Green Lantern1985",
+      "corporation_id": 98702127,
+      "corporation_name": "HandelsGilde-De",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136580093/",
+    "total_value": 1662060097.81,
+    "final_attacker": {
+      "character_name": "Sidewalk Enforcer",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136579421,
     "killmail_hash": "93cd1844e371ad95c2d706a752d993cf76051c10",
     "kill_time": "2026-06-26T20:58:03Z",
@@ -2597,32 +2805,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136411019,
-    "killmail_hash": "0816e7c97e7ce5bbad8621a90521fb326c99cf1c",
-    "kill_time": "2026-06-20T03:43:53Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 985265753,
-      "character_name": "LINKIN HY",
-      "corporation_id": 98633272,
-      "corporation_name": "Trisolaris Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136411019/",
-    "total_value": 20982816916.61,
-    "final_attacker": {
-      "character_name": "Yukiko Kanezaki",
-      "corporation_name": "Blank-Space",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
