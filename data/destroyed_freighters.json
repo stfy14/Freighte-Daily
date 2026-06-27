@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136602748,
+    "killmail_hash": "054ae9c54403fb29c91f2feb5fa2c214fd417855",
+    "kill_time": "2026-06-27T17:36:36Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000439,
+    "solar_system_name": "OEG-K9",
+    "region_name": "Detorid",
+    "victim": {
+      "character_id": 2120999752,
+      "character_name": "Je Ren Isu",
+      "corporation_id": 177654637,
+      "corporation_name": "Polaris Rising",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136602748/",
+    "total_value": 3488650537.07,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "N/A",
+      "alliance_name": null,
+      "ship_type_name": "Angel Dreadnought"
+    }
+  },
+  {
     "killmail_id": 136601841,
     "killmail_hash": "5026a0b226d6b2a1acdb080f9cbf42c8c4b12934",
     "kill_time": "2026-06-27T17:00:15Z",
@@ -2805,32 +2831,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136432176,
-    "killmail_hash": "a62480d8dd1636736062b54d26299f7a9ae19253",
-    "kill_time": "2026-06-20T21:07:43Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 727093143,
-      "character_name": "Dread Slaanesh",
-      "corporation_id": 580933932,
-      "corporation_name": "New Eden Research Organisation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136432176/",
-    "total_value": 2992957599.73,
-    "final_attacker": {
-      "character_name": "Ava Inferno",
-      "corporation_name": "Infernal Corporation",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Oracle"
     }
   }
 ]
