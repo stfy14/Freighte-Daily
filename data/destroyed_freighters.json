@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136592529,
+    "killmail_hash": "8ad374c02620d27e98f9c35dc4a54a69ed9200df",
+    "kill_time": "2026-06-27T09:49:03Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 791077966,
+      "character_name": "heeeeeresjohnny",
+      "corporation_id": 98750990,
+      "corporation_name": "New Eden Exploration and Uprising Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136592529/",
+    "total_value": 2002603939.64,
+    "final_attacker": {
+      "character_name": "zLegion 09",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136588722,
+    "killmail_hash": "951837ad1d6f4f4d4efe21a09fb8aeeecf664109",
+    "kill_time": "2026-06-27T05:15:14Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2119856309,
+      "character_name": "Cpt AurokFreelancer",
+      "corporation_id": 98702127,
+      "corporation_name": "HandelsGilde-De",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136588722/",
+    "total_value": 3104719882.85,
+    "final_attacker": {
+      "character_name": "Sunv Snake",
+      "corporation_name": "Xenomine Industries",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136585431,
     "killmail_hash": "2c35e52d2204f7fd49dcadbfcf72dcbd5fb79a8e",
     "kill_time": "2026-06-27T01:51:26Z",
@@ -2646,162 +2698,6 @@
     "total_value": 2713418109.89,
     "final_attacker": {
       "character_name": "zLegion 14",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136417109,
-    "killmail_hash": "3a18ac5fc6fbf4456e276e98c431b2872e230f38",
-    "kill_time": "2026-06-20T10:16:21Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114949784,
-      "character_name": "Mikoyan JF",
-      "corporation_id": 98807825,
-      "corporation_name": "Chi Gua Auxiliary",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136417109/",
-    "total_value": 10304812079.7,
-    "final_attacker": {
-      "character_name": "Fuming Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136414826,
-    "killmail_hash": "b3f0fdc6afa4ad157517259864e05921aa793da5",
-    "kill_time": "2026-06-20T07:48:03Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 1136891725,
-      "character_name": "xn3rt",
-      "corporation_id": 98588492,
-      "corporation_name": "Space Knights Who Say NI",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136414826/",
-    "total_value": 1679116133.55,
-    "final_attacker": {
-      "character_name": "zLegion 13",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136413893,
-    "killmail_hash": "180ee32f9644befe2f31b1058be39e02f0cdabd1",
-    "kill_time": "2026-06-20T06:33:07Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002796,
-    "solar_system_name": "Hysera",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120015595,
-      "character_name": "Gallente RP Enjoyer",
-      "corporation_id": 98728397,
-      "corporation_name": "HIGH SEC MINING CORP",
-      "alliance_id": 99012722,
-      "alliance_name": "Main Stage Strip Miners Excavation and Exploration"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136413893/",
-    "total_value": 1550343050.42,
-    "final_attacker": {
-      "character_name": "Pawulonek",
-      "corporation_name": "Beach Boys",
-      "alliance_name": "The Minions.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 136413133,
-    "killmail_hash": "45f86dca05a6201a964e6e279b3908dbc7fc6746",
-    "kill_time": "2026-06-20T05:37:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1051457831,
-      "character_name": "Commander Godsmack",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136413133/",
-    "total_value": 1470192322.04,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 136413025,
-    "killmail_hash": "53c0a1d2ebd7fdd6969d7bbe14d5c683d0a1e8d3",
-    "kill_time": "2026-06-20T05:32:01Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 2113440669,
-      "character_name": "Arminus Solette",
-      "corporation_id": 98808849,
-      "corporation_name": "Gallente Industrial Affiliates Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136413025/",
-    "total_value": 6261822832.65,
-    "final_attacker": {
-      "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136412543,
-    "killmail_hash": "8244e8df2a643236b9a60435ea1f9d7d64f883aa",
-    "kill_time": "2026-06-20T05:09:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 2116909936,
-      "character_name": "Felix Isimazu",
-      "corporation_id": 98710684,
-      "corporation_name": "Holding 33901",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136412543/",
-    "total_value": 3901264257.92,
-    "final_attacker": {
-      "character_name": "zLegion 24",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
