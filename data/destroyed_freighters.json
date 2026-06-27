@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136601841,
+    "killmail_hash": "5026a0b226d6b2a1acdb080f9cbf42c8c4b12934",
+    "kill_time": "2026-06-27T17:00:15Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116532685,
+      "character_name": "WeX SM",
+      "corporation_id": 98040755,
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_id": 99005065,
+      "alliance_name": "Hard Knocks Citizens"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136601841/",
+    "total_value": 1862689119.48,
+    "final_attacker": {
+      "character_name": "NoTalent",
+      "corporation_name": "Corellian Heavy Industries",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 136601754,
+    "killmail_hash": "ccbb0dc93f8174a9eb49e6f7d92a372f2020bd20",
+    "kill_time": "2026-06-27T16:56:24Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000868,
+    "solar_system_name": "SH1-6P",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 2114812869,
+      "character_name": "grave die",
+      "corporation_id": 98804350,
+      "corporation_name": "AiHaoWorks",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136601754/",
+    "total_value": 8262715675.53,
+    "final_attacker": {
+      "character_name": "charly5",
+      "corporation_name": "PICHATRON",
+      "alliance_name": "Invidia Gloriae Comes",
+      "ship_type_name": "Sabre"
+    }
+  },
+  {
+    "killmail_id": 136598098,
+    "killmail_hash": "48ebcc2d3e456a8d697f8b969e529edb8461a79a",
+    "kill_time": "2026-06-27T14:32:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2117919522,
+      "character_name": "Egwene Magnes",
+      "corporation_id": 98071293,
+      "corporation_name": "Knights of the Dark Rose",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136598098/",
+    "total_value": 2658284794.19,
+    "final_attacker": {
+      "character_name": "Bra1nch1ld",
+      "corporation_name": "Somalian Pirates We",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 136593217,
     "killmail_hash": "a0e4d4dd4ed414f57971e76275c3f373f479fdc4",
     "kill_time": "2026-06-27T10:31:50Z",
@@ -2753,84 +2831,6 @@
       "corporation_name": "Infernal Corporation",
       "alliance_name": "Ahbazon-Prime",
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 136423642,
-    "killmail_hash": "e36765f232d6152ec6e39878aa89abb27b4612fd",
-    "kill_time": "2026-06-20T15:15:01Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 1291636816,
-      "character_name": "scorpion69fin",
-      "corporation_id": 98056085,
-      "corporation_name": "OLVI industries",
-      "alliance_id": 396211967,
-      "alliance_name": "Arctic Light"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136423642/",
-    "total_value": 4512213289.99,
-    "final_attacker": {
-      "character_name": "zLegion 15",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136422661,
-    "killmail_hash": "1e519f084d514e93ace08a41aabf5444c8c22a6c",
-    "kill_time": "2026-06-20T14:37:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 92154567,
-      "character_name": "Breau Sif",
-      "corporation_id": 98830766,
-      "corporation_name": "Forward Observations Group",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136422661/",
-    "total_value": 1706687944.41,
-    "final_attacker": {
-      "character_name": "zLegion 17",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136422651,
-    "killmail_hash": "4d9467f8fc3458167f223668ac2623a398ec138e",
-    "kill_time": "2026-06-20T14:37:24Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2112756793,
-      "character_name": "Marlin281 Aakiwa",
-      "corporation_id": 98811680,
-      "corporation_name": "Geras Workshop",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136422651/",
-    "total_value": 7242894779.8,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Hubris"
     }
   }
 ]
