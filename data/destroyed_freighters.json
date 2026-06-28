@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136636978,
+    "killmail_hash": "f1d0da80df475a78a80628a590bdecc3ce9523a0",
+    "kill_time": "2026-06-28T20:55:09Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95695637,
+      "character_name": "Disya Diren",
+      "corporation_id": 98559450,
+      "corporation_name": "DanJev United",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136636978/",
+    "total_value": 3853397487.94,
+    "final_attacker": {
+      "character_name": "The JustifiedX",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
+    "killmail_id": 136633348,
+    "killmail_hash": "9a1327dea72ae564af794336e02ab41dc79c0fa6",
+    "kill_time": "2026-06-28T18:44:07Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95662415,
+      "character_name": "Miss Ge",
+      "corporation_id": 98454420,
+      "corporation_name": "V0ID.",
+      "alliance_id": 99003940,
+      "alliance_name": "That Escalated Quickly."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136633348/",
+    "total_value": 13837636697.05,
+    "final_attacker": {
+      "character_name": "Fraud Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 136625013,
     "killmail_hash": "2692f1e012c50be8ca4090cd3298b56a1753234b",
     "kill_time": "2026-06-28T13:26:13Z",
@@ -2727,84 +2779,6 @@
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 136460124,
-    "killmail_hash": "a3d85f4031b299064088066b5cc43cd0d2c07fa0",
-    "kill_time": "2026-06-21T19:59:10Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2122514076,
-      "character_name": "Rin Nomaki",
-      "corporation_id": 98787031,
-      "corporation_name": "Catbus Logistics",
-      "alliance_id": 99013941,
-      "alliance_name": "James Webb Space Telescope"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136460124/",
-    "total_value": 7296330827.83,
-    "final_attacker": {
-      "character_name": "Alexingeras",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136456562,
-    "killmail_hash": "a36dd1b1d222c9fda144d1c7d4b357e133c9ad45",
-    "kill_time": "2026-06-21T17:53:43Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 128898477,
-      "character_name": "Vhyle",
-      "corporation_id": 98718907,
-      "corporation_name": "BroFleet",
-      "alliance_id": 99014942,
-      "alliance_name": "Rubber Duck Republic"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136456562/",
-    "total_value": 7481489882.08,
-    "final_attacker": {
-      "character_name": "Despised Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136456225,
-    "killmail_hash": "ff4d2782d07b9e122f645e27cad816c11156a637",
-    "kill_time": "2026-06-21T17:36:32Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002767,
-    "solar_system_name": "Kubinen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123692293,
-      "character_name": "Olwen Skold",
-      "corporation_id": 98411227,
-      "corporation_name": "Hideaway Hunters",
-      "alliance_id": 99010597,
-      "alliance_name": "The Hideaway."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136456225/",
-    "total_value": 1473692740.9,
-    "final_attacker": {
-      "character_name": "Alexingeras",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
