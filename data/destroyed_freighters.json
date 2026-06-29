@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136655750,
+    "killmail_hash": "e3986c4883f8b242e627b31c00e010e0679aa780",
+    "kill_time": "2026-06-29T15:57:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121586949,
+      "character_name": "Viridian Addict",
+      "corporation_id": 238942032,
+      "corporation_name": "Alfa Corporation",
+      "alliance_id": 99012042,
+      "alliance_name": "Fanatic Legion."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136655750/",
+    "total_value": 17935927341.14,
+    "final_attacker": {
+      "character_name": "Ch4rli3",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 136650220,
     "killmail_hash": "d3eccd4b9ffb19608d3299c6696ac577465a50b2",
     "kill_time": "2026-06-29T10:49:17Z",
@@ -3039,84 +3065,6 @@
       "corporation_name": "Bohemian Veterans",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136477586,
-    "killmail_hash": "c02f3103c797f7f2960e5e6289821221cb2d10c8",
-    "kill_time": "2026-06-22T14:10:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120404693,
-      "character_name": "Cat6661",
-      "corporation_id": 98801097,
-      "corporation_name": "Project Analytics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136477586/",
-    "total_value": 6255812947.12,
-    "final_attacker": {
-      "character_name": "gik Nolen",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136476670,
-    "killmail_hash": "7cda397fa09af7ded22e8294d1ef74365ef7193f",
-    "kill_time": "2026-06-22T13:38:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90562263,
-      "character_name": "Knut Gustavson",
-      "corporation_id": 98633731,
-      "corporation_name": "Trust in SpaceMetalRust",
-      "alliance_id": 1742306959,
-      "alliance_name": "ORPHANS OF EVE"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136476670/",
-    "total_value": 4443594363.62,
-    "final_attacker": {
-      "character_name": "big brain ideas",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136476124,
-    "killmail_hash": "c7ec1feeeeb5a1a266a664e90eed0ce540692442",
-    "kill_time": "2026-06-22T13:19:43Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93651574,
-      "character_name": "Gazbaz Grudgebearer",
-      "corporation_id": 98797553,
-      "corporation_name": "Umbrella Asset Management",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136476124/",
-    "total_value": 1470557416.42,
-    "final_attacker": {
-      "character_name": "MOONPIREs KGB Agent-14",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
-      "ship_type_name": "Coercer"
     }
   }
 ]
