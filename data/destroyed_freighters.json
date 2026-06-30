@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136684683,
+    "killmail_hash": "dd6485d5e107048ffcfa23ed38eba8d944b80d20",
+    "kill_time": "2026-06-30T21:23:40Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94012534,
+      "character_name": "Ramos Kadio",
+      "corporation_id": 98806096,
+      "corporation_name": "Militant Auxiliary Interstellar Logistics",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136684683/",
+    "total_value": 8321573485.15,
+    "final_attacker": {
+      "character_name": "Not a multiboxer",
+      "corporation_name": "Order of Necromancers",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 136681836,
+    "killmail_hash": "253ed92cddd7d74c9a10441e026d4416e42e5e0f",
+    "kill_time": "2026-06-30T19:11:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2119722010,
+      "character_name": "Otuniki Kado",
+      "corporation_id": 1184675423,
+      "corporation_name": "Amok.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136681836/",
+    "total_value": 1501372237.08,
+    "final_attacker": {
+      "character_name": "Kamehameha Keikira",
+      "corporation_name": "RomFleet",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Crusader"
+    }
+  },
+  {
+    "killmail_id": 136680056,
+    "killmail_hash": "4d3aa45f5ecbea1ef06775802ca8360aa7f0ba11",
+    "kill_time": "2026-06-30T18:23:44Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1460991438,
+      "character_name": "Kintroy",
+      "corporation_id": 98688169,
+      "corporation_name": "Vile Rat's Memory",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136680056/",
+    "total_value": 1586858684.29,
+    "final_attacker": {
+      "character_name": "Duncan Do Nuts",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "HOLD MY PROBS",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 136669809,
     "killmail_hash": "514292b240369767887ecffd5dd37e226780147a",
     "kill_time": "2026-06-30T07:33:15Z",
@@ -2961,84 +3039,6 @@
       "corporation_name": "Tuda Suda Technology",
       "alliance_name": "HOLD MY PROBS",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136510029,
-    "killmail_hash": "bbf5201cca605ea7e66d7235bf860a91fd89f2a0",
-    "kill_time": "2026-06-23T21:26:16Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 1292845213,
-      "character_name": "NathalieX",
-      "corporation_id": 98718762,
-      "corporation_name": "Hustle Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136510029/",
-    "total_value": 9496297214.43,
-    "final_attacker": {
-      "character_name": "Homer Simpson Amatin",
-      "corporation_name": "Blank-Space",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136507683,
-    "killmail_hash": "506061bb145ea58632a77329ca758f7021843234",
-    "kill_time": "2026-06-23T19:35:46Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94031326,
-      "character_name": "Laura Gentile",
-      "corporation_id": 98478981,
-      "corporation_name": "RSE Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136507683/",
-    "total_value": 7962917520.04,
-    "final_attacker": {
-      "character_name": "urns",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Marshal"
-    }
-  },
-  {
-    "killmail_id": 136505397,
-    "killmail_hash": "012afc85e8f14ead8d1c62e14ffdb1f88d9d86e6",
-    "kill_time": "2026-06-23T18:06:41Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2120618732,
-      "character_name": "runboi3",
-      "corporation_id": 355443127,
-      "corporation_name": "ANZAC ALLIANCE",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136505397/",
-    "total_value": 2025778299.58,
-    "final_attacker": {
-      "character_name": "xKOMODOx",
-      "corporation_name": "Militaris Industries",
-      "alliance_name": "Northern Coalition.",
-      "ship_type_name": "Crusader"
     }
   }
 ]
