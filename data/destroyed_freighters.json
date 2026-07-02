@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136717744,
+    "killmail_hash": "8d4c8e5c593a64289dcecb766eae75e87db95df4",
+    "kill_time": "2026-07-02T13:07:47Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003379,
+    "solar_system_name": "Aldilur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94012418,
+      "character_name": "Aleksandr650 Hilanen",
+      "corporation_id": 98570535,
+      "corporation_name": "NanoNerf Inc.",
+      "alliance_id": 99010457,
+      "alliance_name": "Parallaxis Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136717744/",
+    "total_value": 1653873282.59,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Republic Fleet",
+      "alliance_name": null,
+      "ship_type_name": "Republic Fleet High Commander"
+    }
+  },
+  {
     "killmail_id": 136715904,
     "killmail_hash": "0d4607acda75431dbb32367b78b67fc23b37d6b6",
     "kill_time": "2026-07-02T10:26:28Z",
@@ -2805,32 +2831,6 @@
       "corporation_name": "Free Wind Riders",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 136543904,
-    "killmail_hash": "8634b1f2b3149342b2dfbace6fca8fe824bfe41b",
-    "kill_time": "2026-06-25T10:57:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1861513771,
-      "character_name": "NelsorMOTU",
-      "corporation_id": 98473379,
-      "corporation_name": "Cambridge Mountain Rescue",
-      "alliance_id": 99011119,
-      "alliance_name": "Absolute Glory"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136543904/",
-    "total_value": 1777734704.03,
-    "final_attacker": {
-      "character_name": "zLegion 17",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
