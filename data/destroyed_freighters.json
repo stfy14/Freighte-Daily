@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 136715904,
+    "killmail_hash": "0d4607acda75431dbb32367b78b67fc23b37d6b6",
+    "kill_time": "2026-07-02T10:26:28Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95278469,
+      "character_name": "Xirove",
+      "corporation_id": 98376814,
+      "corporation_name": "Space Recycling Inc",
+      "alliance_id": 99012282,
+      "alliance_name": "Raravathian Mining and Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136715904/",
+    "total_value": 2309247766.56,
+    "final_attacker": {
+      "character_name": "JINTSUU",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 136713531,
+    "killmail_hash": "0123a911009b4e9aabef5a66da029445020da09b",
+    "kill_time": "2026-07-02T06:15:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122988847,
+      "character_name": "Lauzy Zirud",
+      "corporation_id": 98376814,
+      "corporation_name": "Space Recycling Inc",
+      "alliance_id": 99012282,
+      "alliance_name": "Raravathian Mining and Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136713531/",
+    "total_value": 2300690735.01,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136712685,
+    "killmail_hash": "66997904da8c79c9f887ff02175159820faae09c",
+    "kill_time": "2026-07-02T05:15:46Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122417336,
+      "character_name": "Celica A",
+      "corporation_id": 98828955,
+      "corporation_name": "Sojourner Construction Management",
+      "alliance_id": 99014726,
+      "alliance_name": "Terminally Inept Traders and Scanners"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136712685/",
+    "total_value": 7411286431.02,
+    "final_attacker": {
+      "character_name": "Bloodthirsty Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 136711827,
+    "killmail_hash": "bcc41537506b735540e59aa84a96b3666edffc10",
+    "kill_time": "2026-07-02T04:10:41Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30045337,
+    "solar_system_name": "Ikoskio",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 93150844,
+      "character_name": "The Diamond Dragon",
+      "corporation_id": 98651048,
+      "corporation_name": "Absolute Order XVI",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136711827/",
+    "total_value": 2682944245.18,
+    "final_attacker": {
+      "character_name": "overwatch 1x",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 136711819,
+    "killmail_hash": "c351ae4ed9eb4378474a9e37b8a35d55b5d2271a",
+    "kill_time": "2026-07-02T04:10:04Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30045337,
+    "solar_system_name": "Ikoskio",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2122486349,
+      "character_name": "EnescuL",
+      "corporation_id": 98651048,
+      "corporation_name": "Absolute Order XVI",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136711819/",
+    "total_value": 2682944245.18,
+    "final_attacker": {
+      "character_name": "skill issue detected",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 136711770,
     "killmail_hash": "95b58a365147f70e8175efdb190e925156196332",
     "kill_time": "2026-07-02T04:06:49Z",
@@ -2700,188 +2830,6 @@
       "character_name": "zLegion 17",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136543571,
-    "killmail_hash": "a1f5a842a6c94eb714dd44ab86c72134f3c89be1",
-    "kill_time": "2026-06-25T10:27:29Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113765363,
-      "character_name": "Burns 2PvP",
-      "corporation_id": 98789230,
-      "corporation_name": "Summit Enterprise",
-      "alliance_id": 99014993,
-      "alliance_name": "Foundational Fellowship"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136543571/",
-    "total_value": 2536345988.46,
-    "final_attacker": {
-      "character_name": "zLegion 17",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136542550,
-    "killmail_hash": "9463e6f8fa775f0e95f366e856a196737919bed3",
-    "kill_time": "2026-06-25T09:11:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113369924,
-      "character_name": "Kat Jane- Way",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136542550/",
-    "total_value": 1778289534.39,
-    "final_attacker": {
-      "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136542261,
-    "killmail_hash": "1945f9941e370b5aee06b225b528e15325bc95d5",
-    "kill_time": "2026-06-25T08:51:21Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001671,
-    "solar_system_name": "Tash-Murkon Prime",
-    "region_name": "Tash-Murkon",
-    "victim": {
-      "character_id": 2112501783,
-      "character_name": "Talion Starzise",
-      "corporation_id": 98828599,
-      "corporation_name": "Starzise Core Developments",
-      "alliance_id": 99014712,
-      "alliance_name": "Congregation of Magiks"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136542261/",
-    "total_value": 2160729927.77,
-    "final_attacker": {
-      "character_name": "Icarius",
-      "corporation_name": "The Wings of Maak",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 136541768,
-    "killmail_hash": "1ab12f678e929c2cc4a41f5eab0fd5398a79aa1b",
-    "kill_time": "2026-06-25T08:00:59Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003273,
-    "solar_system_name": "ATY-2U",
-    "region_name": "Syndicate",
-    "victim": {
-      "character_id": 2120126244,
-      "character_name": "Leonardis Gallenticus",
-      "corporation_id": 98827193,
-      "corporation_name": "House Norwynn",
-      "alliance_id": 99014720,
-      "alliance_name": "Mass Ascension"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136541768/",
-    "total_value": 45328951190.49,
-    "final_attacker": {
-      "character_name": "Midniki",
-      "corporation_name": "Sisuskalustamo",
-      "alliance_name": "Arctic Light",
-      "ship_type_name": "Thanatos"
-    }
-  },
-  {
-    "killmail_id": 136540490,
-    "killmail_hash": "08e60b6772e7b6fc8e43a48fb8848f2fe7c5523b",
-    "kill_time": "2026-06-25T05:34:20Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003988,
-    "solar_system_name": "UVHO-F",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 2123897275,
-      "character_name": "Cpt Treeds",
-      "corporation_id": 98672769,
-      "corporation_name": "Revival.",
-      "alliance_id": 99012982,
-      "alliance_name": "OnlyFleets."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136540490/",
-    "total_value": 1564510781.93,
-    "final_attacker": {
-      "character_name": "Kanye North",
-      "corporation_name": "Stimulus",
-      "alliance_name": "Rote Kapelle",
-      "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 136540349,
-    "killmail_hash": "fbc616e5f177944643e856cec1dc79133d1fb98e",
-    "kill_time": "2026-06-25T05:25:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120727818,
-      "character_name": "Rin Nakahara",
-      "corporation_id": 98737970,
-      "corporation_name": "Frontiere de l'infini",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136540349/",
-    "total_value": 2966849766.65,
-    "final_attacker": {
-      "character_name": "i-obtained-a-mythic-item",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136539861,
-    "killmail_hash": "3d7296087f7946956bc3c48ca1eb7150a2e41d44",
-    "kill_time": "2026-06-25T04:38:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123114785,
-      "character_name": "Recollect1",
-      "corporation_id": 98811127,
-      "corporation_name": "Moonlight Memories",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136539861/",
-    "total_value": 1678484997.56,
-    "final_attacker": {
-      "character_name": "Watchdog-5 MOONPIRE",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "HOLD MY PROBS",
       "ship_type_name": "Catalyst"
     }
   }
