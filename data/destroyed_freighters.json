@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 136735799,
+    "killmail_hash": "659b30b5c6ce13ef7d6893b5d32b4c3233350408",
+    "kill_time": "2026-07-03T04:56:28Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1946611318,
+      "character_name": "Mike Azariah",
+      "corporation_id": 1000107,
+      "corporation_name": "The Scope",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136735799/",
+    "total_value": 2283817725.71,
+    "final_attacker": {
+      "character_name": "Hypnosis31",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136735326,
+    "killmail_hash": "a1e381dc0d2849115bfde0f0cc636323633435fa",
+    "kill_time": "2026-07-03T04:37:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1193546331,
+      "character_name": "HowardThe Duck",
+      "corporation_id": 613763770,
+      "corporation_name": "Mile High Merchantile Exchage",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136735326/",
+    "total_value": 7596667514.69,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136734400,
+    "killmail_hash": "dbd7db024a27cc10159cfc95e95fbb1c12049f53",
+    "kill_time": "2026-07-03T04:03:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123334368,
+      "character_name": "Lucian Picard",
+      "corporation_id": 98795321,
+      "corporation_name": "Deep Space Hauling Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136734400/",
+    "total_value": 1904356004.73,
+    "final_attacker": {
+      "character_name": "Painter Alt 4",
+      "corporation_name": "Painter Advanced Logistics",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136733288,
+    "killmail_hash": "9644270daf6a63cfc44ebe48fcf22414b7a6b4af",
+    "kill_time": "2026-07-03T02:56:54Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123774447,
+      "character_name": "BaboobBonnie",
+      "corporation_id": 98813887,
+      "corporation_name": "Upwell Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136733288/",
+    "total_value": 1858865339.23,
+    "final_attacker": {
+      "character_name": "cutie choo choo",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 136732874,
     "killmail_hash": "fafce6ca69c15b4bcc4732066d4cec9a4f6445f2",
     "kill_time": "2026-07-03T02:37:17Z",
@@ -280,6 +384,32 @@
     "total_value": 2433376218.87,
     "final_attacker": {
       "character_name": "Painter Alt 17",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136728807,
+    "killmail_hash": "2783b5fe824e89c076622fef84ec79f2029f15d3",
+    "kill_time": "2026-07-02T22:52:28Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124017114,
+      "character_name": "Stark Freight 3",
+      "corporation_id": 98822151,
+      "corporation_name": "Stark Incorporated",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136728807/",
+    "total_value": 2431460221.43,
+    "final_attacker": {
+      "character_name": "003 DUNK",
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
@@ -3013,32 +3143,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136561256,
-    "killmail_hash": "2503f34acbb5e9e715a67d46fc1ee275a6e87749",
-    "kill_time": "2026-06-26T05:12:35Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004380,
-    "solar_system_name": "C-VGYO",
-    "region_name": "Branch",
-    "victim": {
-      "character_id": 2116657337,
-      "character_name": "LXR YC",
-      "corporation_id": 98805140,
-      "corporation_name": "Sunset Red Activity Club",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136561256/",
-    "total_value": 2574101285.03,
-    "final_attacker": {
-      "character_name": "Chompi SF",
-      "corporation_name": "Otter Stealth Ops - Administratum",
-      "alliance_name": "Rainbow Dash Alliance",
-      "ship_type_name": "Vargur"
     }
   }
 ]
