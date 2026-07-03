@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136750575,
+    "killmail_hash": "1bd9abe7082a2751ba27a336d0385a1fe9d49690",
+    "kill_time": "2026-07-03T20:18:35Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004586,
+    "solar_system_name": "EI-O0O",
+    "region_name": "Fountain",
+    "victim": {
+      "character_id": 488112797,
+      "character_name": "blade blackmoor",
+      "corporation_id": 98328437,
+      "corporation_name": "Applied Anarchy",
+      "alliance_id": 99015056,
+      "alliance_name": "Calculated Disorder"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136750575/",
+    "total_value": 1506149665.03,
+    "final_attacker": {
+      "character_name": "Kuisinen Oksaras",
+      "corporation_name": "Nine Lives Privateering Company",
+      "alliance_name": "Apex Mercantile",
+      "ship_type_name": "Rapier"
+    }
+  },
+  {
+    "killmail_id": 136749712,
+    "killmail_hash": "3251246d553d9648e70477f55e575fa543112fba",
+    "kill_time": "2026-07-03T19:53:46Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117047132,
+      "character_name": "Kartoffel Bin-Quisling",
+      "corporation_id": 98819158,
+      "corporation_name": "Anal Brigade",
+      "alliance_id": 99014321,
+      "alliance_name": "Tilean Dominium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136749712/",
+    "total_value": 5244227086.09,
+    "final_attacker": {
+      "character_name": "Rischulid Kallar",
+      "corporation_name": "Guerrilla Gardening",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 136748806,
+    "killmail_hash": "8c79f85c4439e2f0c45dcdfb7c1885d1c83b015d",
+    "kill_time": "2026-07-03T19:16:06Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2123961376,
+      "character_name": "simon rorqual",
+      "corporation_id": 98626494,
+      "corporation_name": "STARCHASER Inc",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/136748806/",
+    "total_value": 5976278780.3,
+    "final_attacker": {
+      "character_name": "Literacy is Cloaked",
+      "corporation_name": "Sensible People",
+      "alliance_name": "Sigma Grindset",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 136745215,
     "killmail_hash": "f41fdfae2c3ca5b9b33016c4db2ee40d9539fe43",
     "kill_time": "2026-07-03T16:01:25Z",
@@ -3221,58 +3299,6 @@
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136579421,
-    "killmail_hash": "93cd1844e371ad95c2d706a752d993cf76051c10",
-    "kill_time": "2026-06-26T20:58:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 445454837,
-      "character_name": "Jess Kand",
-      "corporation_id": 98662844,
-      "corporation_name": "JessKa Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136579421/",
-    "total_value": 8142378245.87,
-    "final_attacker": {
-      "character_name": "Plunder Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 136575355,
-    "killmail_hash": "bb71570586facb8b4d03d9310d845c1352fb0f5f",
-    "kill_time": "2026-06-26T17:51:32Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 814861216,
-      "character_name": "MrsFurbie",
-      "corporation_id": 98718930,
-      "corporation_name": "Demolition Industries",
-      "alliance_id": 99013400,
-      "alliance_name": "OnlyAlts."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136575355/",
-    "total_value": 10745247720.32,
-    "final_attacker": {
-      "character_name": "Rabid Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
     }
   }
 ]
