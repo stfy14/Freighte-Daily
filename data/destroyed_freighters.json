@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136762190,
+    "killmail_hash": "86ecfb55816a36da3f1b416d4ad7bab315f8d74c",
+    "kill_time": "2026-07-04T07:33:46Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30001439,
+    "solar_system_name": "Anin",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2114184122,
+      "character_name": "Jita Swann",
+      "corporation_id": 1399515596,
+      "corporation_name": "Beyond Recognition",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136762190/",
+    "total_value": 5486932988.15,
+    "final_attacker": {
+      "character_name": "Banner Pappotte",
+      "corporation_name": "10 Potatoes",
+      "alliance_name": "Project Potato",
+      "ship_type_name": "Legion"
+    }
+  },
+  {
     "killmail_id": 136759079,
     "killmail_hash": "cda76c7e9ae26a06aa8a0d4280fa29149d75c798",
     "kill_time": "2026-07-04T04:11:55Z",
@@ -3039,84 +3065,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136592904,
-    "killmail_hash": "b9f890ca899f793b1cbdeee044262854bcf40058",
-    "kill_time": "2026-06-27T10:13:42Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 1194974946,
-      "character_name": "Rytha Main",
-      "corporation_id": 98029968,
-      "corporation_name": "Defensores Fidei",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136592904/",
-    "total_value": 1571621450.83,
-    "final_attacker": {
-      "character_name": "zLegion 09",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136592529,
-    "killmail_hash": "8ad374c02620d27e98f9c35dc4a54a69ed9200df",
-    "kill_time": "2026-06-27T09:49:03Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 791077966,
-      "character_name": "heeeeeresjohnny",
-      "corporation_id": 98750990,
-      "corporation_name": "New Eden Exploration and Uprising Syndicate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136592529/",
-    "total_value": 2002603939.64,
-    "final_attacker": {
-      "character_name": "zLegion 09",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136590315,
-    "killmail_hash": "96a5040b47e3694d5662ed30449be50d79b84ca8",
-    "kill_time": "2026-06-27T07:15:14Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 92495176,
-      "character_name": "Kart00nz",
-      "corporation_id": 98207951,
-      "corporation_name": "Catalyst Ops",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136590315/",
-    "total_value": 4069759681.4,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
