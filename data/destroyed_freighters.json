@@ -3300,57 +3300,5 @@
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Purifier"
     }
-  },
-  {
-    "killmail_id": 136625013,
-    "killmail_hash": "2692f1e012c50be8ca4090cd3298b56a1753234b",
-    "kill_time": "2026-06-28T13:26:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003525,
-    "solar_system_name": "Bagodan",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 94242869,
-      "character_name": "ruru Q",
-      "corporation_id": 98713511,
-      "corporation_name": "nihonium 113th Fleet",
-      "alliance_id": 99012697,
-      "alliance_name": "High Elements Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136625013/",
-    "total_value": 5810829673.46,
-    "final_attacker": {
-      "character_name": "Lorenzo v0n Matterhorn",
-      "corporation_name": "I LOVE MINING ITS SO FUN",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136624651,
-    "killmail_hash": "d52c10494e2b68bca2ac8be04134cb575af7f723",
-    "kill_time": "2026-06-28T13:09:41Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2117303076,
-      "character_name": "flyhighchi",
-      "corporation_id": 98836768,
-      "corporation_name": "The Potato Strategic Reserve",
-      "alliance_id": 99014623,
-      "alliance_name": "Halescott Company Limited"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136624651/",
-    "total_value": 2132237077.32,
-    "final_attacker": {
-      "character_name": "Jon B Fletcher",
-      "corporation_name": "Violator The Clown",
-      "alliance_name": "Seker Matar",
-      "ship_type_name": "Oracle"
-    }
   }
 ]
