@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136806565,
+    "killmail_hash": "4b60e9da67da7e694eccbf5c1bd93ebc11b5b442",
+    "kill_time": "2026-07-05T20:50:08Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002996,
+    "solar_system_name": "Lower Debyl",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123075443,
+      "character_name": "Valdarine Xeris Ada",
+      "corporation_id": 98809880,
+      "corporation_name": "Tabou.",
+      "alliance_id": 1988009451,
+      "alliance_name": "Curatores Veritatis Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136806565/",
+    "total_value": 7572634476.67,
+    "final_attacker": {
+      "character_name": "MJ Espinoza",
+      "corporation_name": "OPA Free Navy",
+      "alliance_name": "Recklessly Tactical",
+      "ship_type_name": "Hecate"
+    }
+  },
+  {
+    "killmail_id": 136805909,
+    "killmail_hash": "2a16a4ae1473c63fa98e5655ee55b6628ba2c62a",
+    "kill_time": "2026-07-05T20:26:20Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001394,
+    "solar_system_name": "Korama",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2112545890,
+      "character_name": "Maddy Stevens",
+      "corporation_id": 98770788,
+      "corporation_name": "R.A.A.",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136805909/",
+    "total_value": 9631415428.47,
+    "final_attacker": {
+      "character_name": "Veldspar Vandal",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 136801842,
+    "killmail_hash": "077107d1ad3f73c5bc5f850a78e4ae2d3efb591c",
+    "kill_time": "2026-07-05T17:43:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2088980719,
+      "character_name": "Maynard16",
+      "corporation_id": 98512647,
+      "corporation_name": "POS Roles",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136801842/",
+    "total_value": 2443893848.13,
+    "final_attacker": {
+      "character_name": "vitez koja",
+      "corporation_name": "MAYHEM XIII",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Hecate"
+    }
+  },
+  {
     "killmail_id": 136799819,
     "killmail_hash": "60d0445b6e1a4c22e00c08fd0f2ae79a040fd428",
     "kill_time": "2026-07-05T16:05:51Z",
@@ -3166,136 +3244,6 @@
     "total_value": 11207900582.31,
     "final_attacker": {
       "character_name": "Devious Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136637073,
-    "killmail_hash": "339d65e540919c574c899362f32c4a2ad6ef17a0",
-    "kill_time": "2026-06-28T21:00:25Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113179603,
-      "character_name": "Mat Starstrider",
-      "corporation_id": 98561641,
-      "corporation_name": "ICON Libertas",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136637073/",
-    "total_value": 7333853384.68,
-    "final_attacker": {
-      "character_name": "Seething Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 136636978,
-    "killmail_hash": "f1d0da80df475a78a80628a590bdecc3ce9523a0",
-    "kill_time": "2026-06-28T20:55:09Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95695637,
-      "character_name": "Disya Diren",
-      "corporation_id": 98559450,
-      "corporation_name": "DanJev United",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136636978/",
-    "total_value": 3853397487.94,
-    "final_attacker": {
-      "character_name": "The JustifiedX",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 136634828,
-    "killmail_hash": "49de7d19f524618bc1160a0e417d56cbd90f3def",
-    "kill_time": "2026-06-28T19:30:11Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000111,
-    "solar_system_name": "Hothomouh",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2122527275,
-      "character_name": "Maral 'Taguhi' Ohanean",
-      "corporation_id": 98445423,
-      "corporation_name": "Brave Industries",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136634828/",
-    "total_value": 7414044102.6,
-    "final_attacker": {
-      "character_name": "Pea S0up",
-      "corporation_name": "Stairway To Zkill",
-      "alliance_name": null,
-      "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 136633348,
-    "killmail_hash": "9a1327dea72ae564af794336e02ab41dc79c0fa6",
-    "kill_time": "2026-06-28T18:44:07Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95662415,
-      "character_name": "Miss Ge",
-      "corporation_id": 98454420,
-      "corporation_name": "V0ID.",
-      "alliance_id": 99003940,
-      "alliance_name": "That Escalated Quickly."
-    },
-    "zkb_url": "https://zkillboard.com/kill/136633348/",
-    "total_value": 13837636697.05,
-    "final_attacker": {
-      "character_name": "Fraud Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136631125,
-    "killmail_hash": "9f5ed823b76914bd5bc1996c514e1661955e80b0",
-    "kill_time": "2026-06-28T17:36:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2124076671,
-      "character_name": "Important Client",
-      "corporation_id": 98633272,
-      "corporation_name": "Trisolaris Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136631125/",
-    "total_value": 8146764521.7,
-    "final_attacker": {
-      "character_name": "Outwit Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Hound"
