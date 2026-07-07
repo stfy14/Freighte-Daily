@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136841726,
+    "killmail_hash": "2a094542769d11d221ee5335392d37fed92182f6",
+    "kill_time": "2026-07-07T13:50:10Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124419489,
+      "character_name": "Madraa",
+      "corporation_id": 98780761,
+      "corporation_name": "Galactic Logistic",
+      "alliance_id": 99014321,
+      "alliance_name": "Tilean Dominium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136841726/",
+    "total_value": 1715962944.62,
+    "final_attacker": {
+      "character_name": "LuckyNumber",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
+    "killmail_id": 136841209,
+    "killmail_hash": "09769c6334747cfa3cf008758bb82688b9b2d203",
+    "kill_time": "2026-07-07T13:19:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002059,
+    "solar_system_name": "Auner",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123501317,
+      "character_name": "Metatron964203",
+      "corporation_id": 98818892,
+      "corporation_name": "Scorched Earth Protocol",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136841209/",
+    "total_value": 1554962775.77,
+    "final_attacker": {
+      "character_name": "Rotten Ralph",
+      "corporation_name": "Jerkasaurus Wrecks Inc.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 136839980,
+    "killmail_hash": "7768534704844c1b313507fb333208a75b2a5d5c",
+    "kill_time": "2026-07-07T11:59:44Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2124061576,
+      "character_name": "prosciuttino blu",
+      "corporation_id": 98829915,
+      "corporation_name": "Ruomo Imigration and Customs Enforcement",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136839980/",
+    "total_value": 1714877364.62,
+    "final_attacker": {
+      "character_name": "Syclone Tracy",
+      "corporation_name": "Tempered Aggression",
+      "alliance_name": "Seker Matar",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
     "killmail_id": 136836041,
     "killmail_hash": "632501b3eb2aed183e409261885f6c0957e395fc",
     "kill_time": "2026-07-07T06:10:13Z",
@@ -2805,32 +2883,6 @@
       "corporation_name": "Tuda Suda Technology",
       "alliance_name": "HOLD MY PROBS",
       "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 136672689,
-    "killmail_hash": "b307ea3ebdf4b585e78a18a6e316bb234a32b9d8",
-    "kill_time": "2026-06-30T11:55:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1488306165,
-      "character_name": "Eramir",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136672689/",
-    "total_value": 14624875227.63,
-    "final_attacker": {
-      "character_name": "zLegion R",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
