@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136836041,
+    "killmail_hash": "632501b3eb2aed183e409261885f6c0957e395fc",
+    "kill_time": "2026-07-07T06:10:13Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1848055201,
+      "character_name": "Kera Nokamora",
+      "corporation_id": 1903944266,
+      "corporation_name": "Can't Tie My Shoes",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136836041/",
+    "total_value": 1622985700.1,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136833579,
     "killmail_hash": "704f9702ad5d75d4226573d0a183a2242698288b",
     "kill_time": "2026-07-07T02:53:24Z",
@@ -2805,58 +2831,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 136669809,
-    "killmail_hash": "514292b240369767887ecffd5dd37e226780147a",
-    "kill_time": "2026-06-30T07:33:15Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117463297,
-      "character_name": "Lisa Yang",
-      "corporation_id": 98793638,
-      "corporation_name": "Nth Dimensional Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136669809/",
-    "total_value": 7507908762.24,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 136667781,
-    "killmail_hash": "8938f9e5bdd14e6e90ba2a445b9c2128787b3d0d",
-    "kill_time": "2026-06-30T04:08:30Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123762979,
-      "character_name": "Captain Hellstorm",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136667781/",
-    "total_value": 8599023993.21,
-    "final_attacker": {
-      "character_name": "Pillage Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
     }
   }
 ]
