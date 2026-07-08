@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136863286,
+    "killmail_hash": "27c7e995a044d842a83518423f0aef2cc348f8f8",
+    "kill_time": "2026-07-08T14:03:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 953229345,
+      "character_name": "MaDcRaZy",
+      "corporation_id": 1091548424,
+      "corporation_name": "Mad Creations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136863286/",
+    "total_value": 36259907872.15,
+    "final_attacker": {
+      "character_name": "Safety",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 136862199,
+    "killmail_hash": "142beb9879373fb8bb0494d81f26c9b4d6acc0db",
+    "kill_time": "2026-07-08T13:10:01Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123262285,
+      "character_name": "Kenji Lee",
+      "corporation_id": 98795321,
+      "corporation_name": "Deep Space Hauling Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136862199/",
+    "total_value": 1720479377.98,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136860285,
+    "killmail_hash": "883670d6ba8742979538bdc66acc553ee8377913",
+    "kill_time": "2026-07-08T10:30:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120978869,
+      "character_name": "galantian",
+      "corporation_id": 98651048,
+      "corporation_name": "Absolute Order XVI",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136860285/",
+    "total_value": 1809650087.95,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136860080,
     "killmail_hash": "8d7e455959a59789a3a27abedb753fef4c3199c8",
     "kill_time": "2026-07-08T10:11:44Z",
@@ -2831,58 +2909,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136694956,
-    "killmail_hash": "7d0820036750e613dfe2baf490e94cbc410581d7",
-    "kill_time": "2026-07-01T11:10:10Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2122462122,
-      "character_name": "Nanilela Sukarala",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136694956/",
-    "total_value": 2947402409.61,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 136694720,
-    "killmail_hash": "71c36cb539de4a5c99456c7bb84b085618104524",
-    "kill_time": "2026-07-01T10:33:22Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003067,
-    "solar_system_name": "Huola",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 2122521312,
-      "character_name": "Halur Nimitz",
-      "corporation_id": 98799919,
-      "corporation_name": "Khanid Naval Works",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136694720/",
-    "total_value": 2000621638.34,
-    "final_attacker": {
-      "character_name": "Xtra Squishy lol",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Phoenix"
     }
   }
 ]
