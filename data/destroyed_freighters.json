@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136885889,
+    "killmail_hash": "b0500375fef0a791a3f938b9a5cad49505a28546",
+    "kill_time": "2026-07-09T13:34:25Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92634868,
+      "character_name": "Anickman Ambramotte",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136885889/",
+    "total_value": 1937099133.42,
+    "final_attacker": {
+      "character_name": "zLegion 06",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 136884344,
+    "killmail_hash": "37ad4dca287dd8eebf4cbed91011cf69f38858f8",
+    "kill_time": "2026-07-09T12:25:49Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119588052,
+      "character_name": "Strong Larry",
+      "corporation_id": 98715226,
+      "corporation_name": "Pi People",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136884344/",
+    "total_value": 5148755752.49,
+    "final_attacker": {
+      "character_name": "Cute Scan",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136883671,
+    "killmail_hash": "75ab6725fe1240cd5082483acd8d1b879f5f02f5",
+    "kill_time": "2026-07-09T11:56:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 576507767,
+      "character_name": "TEPPOPNCT",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136883671/",
+    "total_value": 1995204132.57,
+    "final_attacker": {
+      "character_name": "Bag Inspector",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 136882864,
     "killmail_hash": "92324d2813e930986201b62cc33da77844e60a87",
     "kill_time": "2026-07-09T10:29:18Z",
@@ -3403,32 +3481,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 136717744,
-    "killmail_hash": "8d4c8e5c593a64289dcecb766eae75e87db95df4",
-    "kill_time": "2026-07-02T13:07:47Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003379,
-    "solar_system_name": "Aldilur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 94012418,
-      "character_name": "Aleksandr650 Hilanen",
-      "corporation_id": 98570535,
-      "corporation_name": "NanoNerf Inc.",
-      "alliance_id": 99010457,
-      "alliance_name": "Parallaxis Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136717744/",
-    "total_value": 1653873282.59,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Republic Fleet",
-      "alliance_name": null,
-      "ship_type_name": "Republic Fleet High Commander"
     }
   }
 ]
