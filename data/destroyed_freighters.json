@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136955803,
+    "killmail_hash": "e7de2494b200e8764f72f491056d4915e4372f3c",
+    "kill_time": "2026-07-12T10:36:40Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 179812873,
+      "character_name": "Estep",
+      "corporation_id": 98597090,
+      "corporation_name": "Beyond Knowledge Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136955803/",
+    "total_value": 6328844867.24,
+    "final_attacker": {
+      "character_name": "zLegion 18",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136954945,
     "killmail_hash": "157ae5b8373a69eb7685489688550fe3fb59099c",
     "kill_time": "2026-07-12T09:35:16Z",
@@ -98,6 +124,32 @@
     "total_value": 2351714815.02,
     "final_attacker": {
       "character_name": "zLegion 19",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 136953161,
+    "killmail_hash": "1f4f4e1dd5e4d8ec8ebd2c7e5e4ae64ec9c2e03c",
+    "kill_time": "2026-07-12T07:28:58Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96160201,
+      "character_name": "Albert Zander",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136953161/",
+    "total_value": 3650864702.8,
+    "final_attacker": {
+      "character_name": "zLegion 26",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -3091,32 +3143,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 136792446,
-    "killmail_hash": "3a829fa2705bd483b4cfcea8521d6cede9e6adfc",
-    "kill_time": "2026-07-05T10:17:39Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002187,
-    "solar_system_name": "Amarr",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 742309224,
-      "character_name": "Feeboo",
-      "corporation_id": 98250486,
-      "corporation_name": "Firesprites",
-      "alliance_id": 99008788,
-      "alliance_name": "The Skeleton Crew"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136792446/",
-    "total_value": 2626264490.42,
-    "final_attacker": {
-      "character_name": "Abazaga",
-      "corporation_name": "Reliables Inc",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Tempest Fleet Issue"
     }
   }
 ]
