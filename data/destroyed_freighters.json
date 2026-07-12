@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136965058,
+    "killmail_hash": "b7351d87e168917b7546e272877480916c9ec679",
+    "kill_time": "2026-07-12T17:47:05Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 92191279,
+      "character_name": "Clio MTV",
+      "corporation_id": 98726102,
+      "corporation_name": "L0st 1n sp4s",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136965058/",
+    "total_value": 5981589514.99,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 136965014,
+    "killmail_hash": "342d5389df2b8bbf172eda540d8ebe6044a85b10",
+    "kill_time": "2026-07-12T17:45:10Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002969,
+    "solar_system_name": "Eredan",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123852703,
+      "character_name": "BSLC - 025",
+      "corporation_id": 98811174,
+      "corporation_name": "Black Sky Logistics Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136965014/",
+    "total_value": 3472110392.9,
+    "final_attacker": {
+      "character_name": "Flash Boredom",
+      "corporation_name": "Awww Diddums..",
+      "alliance_name": "Cynosural Field Theory.",
+      "ship_type_name": "Capsule"
+    }
+  },
+  {
+    "killmail_id": 136964264,
+    "killmail_hash": "6d66a35ee0b4bedafb9c93f7fc69ae358c70b47c",
+    "kill_time": "2026-07-12T17:13:23Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002969,
+    "solar_system_name": "Eredan",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123852690,
+      "character_name": "BSLC - 021",
+      "corporation_id": 98811174,
+      "corporation_name": "Black Sky Logistics Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136964264/",
+    "total_value": 4834296352.84,
+    "final_attacker": {
+      "character_name": "Flash Boredom",
+      "corporation_name": "Awww Diddums..",
+      "alliance_name": "Cynosural Field Theory.",
+      "ship_type_name": "Capsule"
+    }
+  },
+  {
     "killmail_id": 136963734,
     "killmail_hash": "1ee14871d83f6a5f7d6a79dd178f8cb5f92b5eb9",
     "kill_time": "2026-07-12T16:55:31Z",
@@ -3091,110 +3169,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136806565,
-    "killmail_hash": "4b60e9da67da7e694eccbf5c1bd93ebc11b5b442",
-    "kill_time": "2026-07-05T20:50:08Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002996,
-    "solar_system_name": "Lower Debyl",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123075443,
-      "character_name": "Valdarine Xeris Ada",
-      "corporation_id": 98809880,
-      "corporation_name": "Tabou.",
-      "alliance_id": 1988009451,
-      "alliance_name": "Curatores Veritatis Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136806565/",
-    "total_value": 7572634476.67,
-    "final_attacker": {
-      "character_name": "MJ Espinoza",
-      "corporation_name": "OPA Free Navy",
-      "alliance_name": "Recklessly Tactical",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 136805909,
-    "killmail_hash": "2a16a4ae1473c63fa98e5655ee55b6628ba2c62a",
-    "kill_time": "2026-07-05T20:26:20Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001394,
-    "solar_system_name": "Korama",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2112545890,
-      "character_name": "Maddy Stevens",
-      "corporation_id": 98770788,
-      "corporation_name": "R.A.A.",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136805909/",
-    "total_value": 9631415428.47,
-    "final_attacker": {
-      "character_name": "Veldspar Vandal",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Honkai Star Rail.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 136802445,
-    "killmail_hash": "c59fdc4c96dffd3a7cdd4acc5bf858aa6e43bcfe",
-    "kill_time": "2026-07-05T18:17:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118923540,
-      "character_name": "Soki Otamo",
-      "corporation_id": 98651048,
-      "corporation_name": "Absolute Order XVI",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136802445/",
-    "total_value": 12267091335.67,
-    "final_attacker": {
-      "character_name": "Seething Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 136801842,
-    "killmail_hash": "077107d1ad3f73c5bc5f850a78e4ae2d3efb591c",
-    "kill_time": "2026-07-05T17:43:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2088980719,
-      "character_name": "Maynard16",
-      "corporation_id": 98512647,
-      "corporation_name": "POS Roles",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136801842/",
-    "total_value": 2443893848.13,
-    "final_attacker": {
-      "character_name": "vitez koja",
-      "corporation_name": "MAYHEM XIII",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Hecate"
     }
   }
 ]
