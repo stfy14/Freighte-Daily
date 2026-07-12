@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 136963734,
+    "killmail_hash": "1ee14871d83f6a5f7d6a79dd178f8cb5f92b5eb9",
+    "kill_time": "2026-07-12T16:55:31Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002969,
+    "solar_system_name": "Eredan",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123855065,
+      "character_name": "BSLC - 022",
+      "corporation_id": 98811174,
+      "corporation_name": "Black Sky Logistics Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136963734/",
+    "total_value": 5950475336.26,
+    "final_attacker": {
+      "character_name": "Onekairos Vas Itinen",
+      "corporation_name": "AMC.",
+      "alliance_name": "Great Wildlands Conservation Society",
+      "ship_type_name": "Ibis"
+    }
+  },
+  {
+    "killmail_id": 136962942,
+    "killmail_hash": "1f69179b710e3ff0f5da5749815f7e34783f8c2e",
+    "kill_time": "2026-07-12T16:24:48Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002969,
+    "solar_system_name": "Eredan",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2123852699,
+      "character_name": "BSLC - 023",
+      "corporation_id": 98811174,
+      "corporation_name": "Black Sky Logistics Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136962942/",
+    "total_value": 4204783984.35,
+    "final_attacker": {
+      "character_name": "Onekairos Vas Itinen",
+      "corporation_name": "AMC.",
+      "alliance_name": "Great Wildlands Conservation Society",
+      "ship_type_name": "Ibis"
+    }
+  },
+  {
+    "killmail_id": 136961414,
+    "killmail_hash": "3a53fca0b68c05035cc10f39d5c38b301cc2d384",
+    "kill_time": "2026-07-12T15:06:00Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002969,
+    "solar_system_name": "Eredan",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2114309892,
+      "character_name": "Michael E-Echo",
+      "corporation_id": 98800331,
+      "corporation_name": "Logistics.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136961414/",
+    "total_value": 1658006016.92,
+    "final_attacker": {
+      "character_name": "Flash Boredom",
+      "corporation_name": "Awww Diddums..",
+      "alliance_name": "Cynosural Field Theory.",
+      "ship_type_name": "Capsule"
+    }
+  },
+  {
     "killmail_id": 136955803,
     "killmail_hash": "e7de2494b200e8764f72f491056d4915e4372f3c",
     "kill_time": "2026-07-12T10:36:40Z",
@@ -3117,32 +3195,6 @@
       "corporation_name": "MAYHEM XIII",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 136799819,
-    "killmail_hash": "60d0445b6e1a4c22e00c08fd0f2ae79a040fd428",
-    "kill_time": "2026-07-05T16:05:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 93232801,
-      "character_name": "Ira Kane Balarah",
-      "corporation_id": 98177708,
-      "corporation_name": "Space Wolves ind.",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136799819/",
-    "total_value": 1714337020.44,
-    "final_attacker": {
-      "character_name": "henhain zzz Davaham",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Vargur"
     }
   }
 ]
