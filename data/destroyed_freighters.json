@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136950571,
+    "killmail_hash": "31f76c7864ff700aaafd9ccf8fcc6fbc2b012348",
+    "kill_time": "2026-07-12T04:23:06Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30005290,
+    "solar_system_name": "Heorah",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 96795239,
+      "character_name": "TheSerf",
+      "corporation_id": 98716738,
+      "corporation_name": "The Hamsa",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136950571/",
+    "total_value": 5159760399.81,
+    "final_attacker": {
+      "character_name": "Barnabus Stinson",
+      "corporation_name": "I LOVE MINING ITS SO FUN",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136948075,
     "killmail_hash": "4130f5dd3b65ca2798702afa85e58260447a179a",
     "kill_time": "2026-07-12T01:26:28Z",
@@ -3016,6 +3042,32 @@
     }
   },
   {
+    "killmail_id": 136789589,
+    "killmail_hash": "13560233e225edc373da4b67b4a52da194ccb1f1",
+    "kill_time": "2026-07-05T07:38:38Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30005290,
+    "solar_system_name": "Heorah",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2119669089,
+      "character_name": "LittleLiljtime",
+      "corporation_id": 98837836,
+      "corporation_name": "Bureau of Unified Harvesting",
+      "alliance_id": 99014402,
+      "alliance_name": "Plenitude Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136789589/",
+    "total_value": 7789094808.12,
+    "final_attacker": {
+      "character_name": "FleetJump Jump",
+      "corporation_name": "I LOVE MINING ITS SO FUN",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 136789438,
     "killmail_hash": "3b5d91db0096512847b723063a7517ffe5825123",
     "kill_time": "2026-07-05T07:34:27Z",
@@ -3065,162 +3117,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136787873,
-    "killmail_hash": "dfdbb625f470840ff72d946ed80e0f545ed3e799",
-    "kill_time": "2026-07-05T06:20:13Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 602384923,
-      "character_name": "Zeta Minion",
-      "corporation_id": 98424387,
-      "corporation_name": "Gnome Industries Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136787873/",
-    "total_value": 14150751888.6,
-    "final_attacker": {
-      "character_name": "Abhored Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 136787734,
-    "killmail_hash": "8cf7ff1c9635c6578f380a103b6101a3d7202896",
-    "kill_time": "2026-07-05T06:09:59Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003885,
-    "solar_system_name": "Arzanni",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2114941828,
-      "character_name": "I AM RETARTED",
-      "corporation_id": 98668151,
-      "corporation_name": "hgmujy5",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136787734/",
-    "total_value": 2083692619.3,
-    "final_attacker": {
-      "character_name": "Elvira Dark",
-      "corporation_name": "Gh0st of Eden",
-      "alliance_name": "Parallaxis Alliance",
-      "ship_type_name": "Hecate"
-    }
-  },
-  {
-    "killmail_id": 136787168,
-    "killmail_hash": "de6b692a1a338085c07258c32eb642debe7acd6f",
-    "kill_time": "2026-07-05T05:41:12Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123329127,
-      "character_name": "Aki Tomoya",
-      "corporation_id": 98802379,
-      "corporation_name": "Lala move Logistics Company",
-      "alliance_id": 99005100,
-      "alliance_name": "All My Friends Are Ded"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136787168/",
-    "total_value": 7243603789.44,
-    "final_attacker": {
-      "character_name": "Pilfer Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 136787031,
-    "killmail_hash": "5d5a478432c8f9d56780eec19539c4706320d1d5",
-    "kill_time": "2026-07-05T05:34:09Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123696431,
-      "character_name": "LOLMM",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136787031/",
-    "total_value": 1744806092.75,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136786220,
-    "killmail_hash": "e17ebf1821bf84a95b33e459c3069570778b8120",
-    "kill_time": "2026-07-05T04:43:01Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96525055,
-      "character_name": "Trade Chen",
-      "corporation_id": 98678836,
-      "corporation_name": "Headwind freight",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136786220/",
-    "total_value": 7471101665.3,
-    "final_attacker": {
-      "character_name": "Hateful Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 136785421,
-    "killmail_hash": "1ff830ffc4fc481879e23a813f7d8864ef7c08ad",
-    "kill_time": "2026-07-05T03:57:53Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1503118170,
-      "character_name": "Bear Sakuma",
-      "corporation_id": 98817074,
-      "corporation_name": "Safety Third",
-      "alliance_id": 99014986,
-      "alliance_name": "Kinetic Diplomacy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136785421/",
-    "total_value": 2286143866.77,
-    "final_attacker": {
-      "character_name": "Gauss Mathking",
-      "corporation_name": "Guerrilla Gardening",
-      "alliance_name": "Honkai Star Rail.",
-      "ship_type_name": "Purifier"
     }
   }
 ]
