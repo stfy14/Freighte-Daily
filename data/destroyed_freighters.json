@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 136977876,
+    "killmail_hash": "d106c0f46e151b588a39b0dfd57c68626b12d872",
+    "kill_time": "2026-07-13T05:49:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002969,
+    "solar_system_name": "Eredan",
+    "region_name": "Devoid",
+    "victim": {
+      "character_id": 2120551030,
+      "character_name": "Dean2",
+      "corporation_id": 98835273,
+      "corporation_name": "New Horizons Mining and Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136977876/",
+    "total_value": 1689031423.73,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "N/A",
+      "alliance_name": null,
+      "ship_type_name": "Angel Lookout Mekubal"
+    }
+  },
+  {
     "killmail_id": 136971428,
     "killmail_hash": "d5c893db30bf7c7a5e753dc9fba996df40b1b2f0",
     "kill_time": "2026-07-12T22:40:21Z",
@@ -2883,110 +2909,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136816075,
-    "killmail_hash": "fcf9e355dbc8793fdcb8445800369938380aef2b",
-    "kill_time": "2026-07-06T06:07:01Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94189152,
-      "character_name": "Pepper duBonnet",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136816075/",
-    "total_value": 1617204083.66,
-    "final_attacker": {
-      "character_name": "zLegion 23",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136815718,
-    "killmail_hash": "27e9156aca74ee4ab47a654b0278eef541c9ef4e",
-    "kill_time": "2026-07-06T05:35:08Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122154646,
-      "character_name": "Mettoniemi Uisen",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136815718/",
-    "total_value": 2596979039.06,
-    "final_attacker": {
-      "character_name": "zLegion 15",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136815073,
-    "killmail_hash": "e7da2bb6e6d2913c78f6f827ae7f53e2a8e7264b",
-    "kill_time": "2026-07-06T04:41:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124154501,
-      "character_name": "Harkari Parmala",
-      "corporation_id": 98777745,
-      "corporation_name": "Two Pills Pink Grape",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136815073/",
-    "total_value": 1554134039.06,
-    "final_attacker": {
-      "character_name": "zLegion 11",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136814757,
-    "killmail_hash": "1bce55e3eb9dc800713a167136a66611d28c2945",
-    "kill_time": "2026-07-06T04:08:41Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003731,
-    "solar_system_name": "XHQ-7V",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 804869918,
-      "character_name": "Catherine Brusher",
-      "corporation_id": 98821024,
-      "corporation_name": "Custodes Leonis Dentis",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136814757/",
-    "total_value": 1726098670.48,
-    "final_attacker": {
-      "character_name": "Boofalo Billy",
-      "corporation_name": "Meta Zero",
-      "alliance_name": "E-Reptile Disfunction",
-      "ship_type_name": "Purifier"
     }
   }
 ]
