@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 136999398,
+    "killmail_hash": "343df5985d3590543583ef1a341e3e1d49aeb75b",
+    "kill_time": "2026-07-14T05:07:07Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000164,
+    "solar_system_name": "Messoya",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124065892,
+      "character_name": "Dome Foam",
+      "corporation_id": 98647659,
+      "corporation_name": "Soltech Armada",
+      "alliance_id": 99011978,
+      "alliance_name": "Minmatar Fleet Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136999398/",
+    "total_value": 7107481721.45,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
+    "killmail_id": 136999192,
+    "killmail_hash": "7cfef674502c3ca2bf8b9b6f0904027ff8472532",
+    "kill_time": "2026-07-14T04:44:01Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124078161,
+      "character_name": "Nashokoda Momaki",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/136999192/",
+    "total_value": 16011131636.61,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
     "killmail_id": 136996657,
     "killmail_hash": "e7e28bb2a79e3aa20b3a9b0da6a5de07f41e4eb3",
     "kill_time": "2026-07-14T01:09:24Z",
@@ -49,6 +101,32 @@
       "corporation_name": "Community of raiders",
       "alliance_name": "Red Alliance",
       "ship_type_name": "Machariel"
+    }
+  },
+  {
+    "killmail_id": 136995177,
+    "killmail_hash": "e39655bd29fe4374b66d31084560eb396ff4f06c",
+    "kill_time": "2026-07-13T22:53:59Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000163,
+    "solar_system_name": "Akora",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91696806,
+      "character_name": "Furndoggy",
+      "corporation_id": 98599908,
+      "corporation_name": "Federal United Reconaissance Network",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/136995177/",
+    "total_value": 9594494154.1,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
     }
   },
   {
@@ -3192,32 +3270,6 @@
     "total_value": 3295250819.86,
     "final_attacker": {
       "character_name": "zLegion 16",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136836041,
-    "killmail_hash": "632501b3eb2aed183e409261885f6c0957e395fc",
-    "kill_time": "2026-07-07T06:10:13Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1848055201,
-      "character_name": "Kera Nokamora",
-      "corporation_id": 1903944266,
-      "corporation_name": "Can't Tie My Shoes",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136836041/",
-    "total_value": 1622985700.1,
-    "final_attacker": {
-      "character_name": "zLegion 10",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
