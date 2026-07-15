@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137025048,
+    "killmail_hash": "9fe5fe17d5b418ba5beb01df36e87cfecc8e082a",
+    "kill_time": "2026-07-15T14:47:41Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 794651388,
+      "character_name": "Seerene",
+      "corporation_id": 1000046,
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137025048/",
+    "total_value": 11675199531.34,
+    "final_attacker": {
+      "character_name": "calypso per",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 137021233,
     "killmail_hash": "96a986f23e9ddc69561542e0be79f8a7256a5286",
     "kill_time": "2026-07-15T10:24:57Z",
@@ -2883,58 +2909,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": "Ganklift Logistics",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136865137,
-    "killmail_hash": "4d10bccf13ba053b9548afec540d5a4c19e5d328",
-    "kill_time": "2026-07-08T15:54:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123171900,
-      "character_name": "Minelord Dallocort",
-      "corporation_id": 98804119,
-      "corporation_name": "Interstellar Research Observatory",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136865137/",
-    "total_value": 4642424989.67,
-    "final_attacker": {
-      "character_name": "Ian Painter",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136863286,
-    "killmail_hash": "27c7e995a044d842a83518423f0aef2cc348f8f8",
-    "kill_time": "2026-07-08T14:03:18Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 953229345,
-      "character_name": "MaDcRaZy",
-      "corporation_id": 1091548424,
-      "corporation_name": "Mad Creations",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136863286/",
-    "total_value": 36259907872.15,
-    "final_attacker": {
-      "character_name": "Safety",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Talos"
     }
   }
 ]
