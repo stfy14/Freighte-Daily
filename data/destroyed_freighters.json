@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137040984,
+    "killmail_hash": "3da5d8c47a2d3536fb40b588fafdbf53a61ea587",
+    "kill_time": "2026-07-16T10:01:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 96605700,
+      "character_name": "Derpin Ina",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137040984/",
+    "total_value": 1922516866.21,
+    "final_attacker": {
+      "character_name": "zLegion 04",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137040794,
+    "killmail_hash": "9226dfcca8230320223357e35d77b6501e87b5c0",
+    "kill_time": "2026-07-16T09:38:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002050,
+    "solar_system_name": "Hagilur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123061684,
+      "character_name": "Nikkeii",
+      "corporation_id": 98801913,
+      "corporation_name": "Mech Tech Inc.",
+      "alliance_id": 99009412,
+      "alliance_name": "Outer Planets Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137040794/",
+    "total_value": 1635486829.71,
+    "final_attacker": {
+      "character_name": "Jace Belleren",
+      "corporation_name": "Toaster Tub Club",
+      "alliance_name": null,
+      "ship_type_name": "Muninn"
+    }
+  },
+  {
+    "killmail_id": 137039973,
+    "killmail_hash": "d3049be0dcc6499154d1823adaec88fdfefa6e14",
+    "kill_time": "2026-07-16T08:28:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004116,
+    "solar_system_name": "Rayeret",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 90762978,
+      "character_name": "Tengala Maken",
+      "corporation_id": 98582333,
+      "corporation_name": "Last Stand Enterprises",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137039973/",
+    "total_value": 3864287261.04,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137036680,
     "killmail_hash": "e939fc5587c88e45f52542e0ea65b44ef7a178b0",
     "kill_time": "2026-07-16T02:58:18Z",
@@ -2646,32 +2724,6 @@
     "total_value": 1713112738.3,
     "final_attacker": {
       "character_name": "zLegion 21",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136881516,
-    "killmail_hash": "355cc6258f805e31268e94444148664a276137e9",
-    "kill_time": "2026-07-09T08:21:11Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1163128832,
-      "character_name": "ditrih rus",
-      "corporation_id": 98510588,
-      "corporation_name": "RSB-group",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136881516/",
-    "total_value": 2757751983.42,
-    "final_attacker": {
-      "character_name": "zLegion 13",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
