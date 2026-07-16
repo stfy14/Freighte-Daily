@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137052266,
+    "killmail_hash": "b43dcb0763a9afe764953cba8498f1617f0a2e70",
+    "kill_time": "2026-07-16T20:51:56Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 899817080,
+      "character_name": "Xxara",
+      "corporation_id": 346231748,
+      "corporation_name": "Sirius Cybernetics Inc",
+      "alliance_id": 99006225,
+      "alliance_name": "Rote Works"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137052266/",
+    "total_value": 13478405861.26,
+    "final_attacker": {
+      "character_name": "Bluemelon",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
     "killmail_id": 137041494,
     "killmail_hash": "affd11ebe7bb5203558defdb8c4139ccfd43f6f8",
     "kill_time": "2026-07-16T10:44:30Z",
@@ -2727,58 +2753,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136891755,
-    "killmail_hash": "8dd8b5f2269ed7d3eccf67ff31607644bb156ff2",
-    "kill_time": "2026-07-09T18:52:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124240135,
-      "character_name": "Red Osc",
-      "corporation_id": 98833540,
-      "corporation_name": "Peace and Love Forever",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136891755/",
-    "total_value": 1581031286.41,
-    "final_attacker": {
-      "character_name": "Sonic 37",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 136890998,
-    "killmail_hash": "db4998094d302c4ac497f934a0d25f9f57da2c07",
-    "kill_time": "2026-07-09T18:24:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113188108,
-      "character_name": "Let you boom",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136890998/",
-    "total_value": 1638452512.86,
-    "final_attacker": {
-      "character_name": "Wild Valenok",
-      "corporation_name": "Interstellar Scum",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Leshak"
     }
   }
 ]
