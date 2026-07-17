@@ -2520,57 +2520,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 136903368,
-    "killmail_hash": "7a29fde07c8b23b9c2c6d0238bf0fce445bdaa26",
-    "kill_time": "2026-07-10T08:30:27Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2118986714,
-      "character_name": "Gunnar Greene",
-      "corporation_id": 98672882,
-      "corporation_name": "Greene Logistics Service",
-      "alliance_id": 99013381,
-      "alliance_name": "Greene Group"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136903368/",
-    "total_value": 3496015246.78,
-    "final_attacker": {
-      "character_name": "zLegion 16",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136902823,
-    "killmail_hash": "974bbcaad41c332b78c0a277e0707796b0b8b3fe",
-    "kill_time": "2026-07-10T07:40:13Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003067,
-    "solar_system_name": "Huola",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 2113811929,
-      "character_name": "Matt Depran",
-      "corporation_id": 98300075,
-      "corporation_name": "Harden Enterprises",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136902823/",
-    "total_value": 1850688131.3,
-    "final_attacker": {
-      "character_name": "Xtra Squishy lol",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Phoenix"
-    }
   }
 ]
