@@ -2572,57 +2572,5 @@
       "alliance_name": "Sedition.",
       "ship_type_name": "Phoenix"
     }
-  },
-  {
-    "killmail_id": 136901867,
-    "killmail_hash": "cd37949ae16defc4ae9038a17a06a58c41ddda57",
-    "kill_time": "2026-07-10T06:08:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124197690,
-      "character_name": "Mean Zi",
-      "corporation_id": 98821024,
-      "corporation_name": "Custodes Leonis Dentis",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136901867/",
-    "total_value": 1589832733.68,
-    "final_attacker": {
-      "character_name": "zLegion 27",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136901506,
-    "killmail_hash": "d3a26a3794b36768db3884402006649b46123bbf",
-    "kill_time": "2026-07-10T05:30:55Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113486375,
-      "character_name": "gxl zzz",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136901506/",
-    "total_value": 1648765123.04,
-    "final_attacker": {
-      "character_name": "zLegion 12",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
