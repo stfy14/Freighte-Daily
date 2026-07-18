@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137089241,
+    "killmail_hash": "38cb180d9dbb60bded091f2c9bdd0735ceea63d0",
+    "kill_time": "2026-07-18T12:23:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003525,
+    "solar_system_name": "Bagodan",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2122759599,
+      "character_name": "AceK Hauls",
+      "corporation_id": 98788134,
+      "corporation_name": "Misguided Ghosts",
+      "alliance_id": 99010193,
+      "alliance_name": "Ivy League Alt Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137089241/",
+    "total_value": 7160785482.46,
+    "final_attacker": {
+      "character_name": "timmy tough-knuckles",
+      "corporation_name": "step on me",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137088294,
+    "killmail_hash": "5abdc00f345cc2b33141c073094efba0bc59fb3b",
+    "kill_time": "2026-07-18T10:49:17Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000074,
+    "solar_system_name": "Hasateem",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2119008764,
+      "character_name": "Elknud Khan",
+      "corporation_id": 98819572,
+      "corporation_name": "System Lords of the Ammatar Empire",
+      "alliance_id": 99014582,
+      "alliance_name": "Glacial Industrial Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137088294/",
+    "total_value": 2720220999.5,
+    "final_attacker": {
+      "character_name": "Alpha Arterius",
+      "corporation_name": "Reduced Connections",
+      "alliance_name": null,
+      "ship_type_name": "Legion"
+    }
+  },
+  {
+    "killmail_id": 137087163,
+    "killmail_hash": "18b5e917a2187c1e7cdce21190dfe120e3b7bd4c",
+    "kill_time": "2026-07-18T09:22:09Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118061041,
+      "character_name": "Queenie Adoulin",
+      "corporation_id": 98772487,
+      "corporation_name": "Hummel Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137087163/",
+    "total_value": 3869281440.92,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137086504,
     "killmail_hash": "9b35ef627f55120f7d081bdabf9041e9e30147f6",
     "kill_time": "2026-07-18T08:28:53Z",
@@ -2805,32 +2883,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136930708,
-    "killmail_hash": "1eb73a5e5608bed96a08d481a93c74cb6cb86657",
-    "kill_time": "2026-07-11T11:33:44Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121577432,
-      "character_name": "eod2g",
-      "corporation_id": 384667640,
-      "corporation_name": "Black Frog Logistics",
-      "alliance_id": 1496500070,
-      "alliance_name": "Red-Frog"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136930708/",
-    "total_value": 2349236654,
-    "final_attacker": {
-      "character_name": "fattox4189",
-      "corporation_name": "Victory or Whatever",
-      "alliance_name": "Nourv Gate Security Commission",
-      "ship_type_name": "Kronos"
     }
   }
 ]
