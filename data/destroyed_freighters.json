@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137129667,
+    "killmail_hash": "5ba971c4bf5906ac07c37c381d58ac9f7cb7efef",
+    "kill_time": "2026-07-19T20:30:10Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2120941835,
+      "character_name": "Thoure Athonille",
+      "corporation_id": 98403734,
+      "corporation_name": "Subsidy H.R.S.",
+      "alliance_id": 99009885,
+      "alliance_name": "Xagenic Freymvork"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137129667/",
+    "total_value": 1639375595.99,
+    "final_attacker": {
+      "character_name": "Jiraan",
+      "corporation_name": "Black Sanctum",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 137118927,
     "killmail_hash": "c4ebcda09093c5e48d82f380ae503934ed6e91e0",
     "kill_time": "2026-07-19T12:56:49Z",
@@ -2909,84 +2935,6 @@
       "corporation_name": "State War Academy",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136965058,
-    "killmail_hash": "b7351d87e168917b7546e272877480916c9ec679",
-    "kill_time": "2026-07-12T17:47:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 92191279,
-      "character_name": "Clio MTV",
-      "corporation_id": 98726102,
-      "corporation_name": "L0st 1n sp4s",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136965058/",
-    "total_value": 5981589514.99,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 136965014,
-    "killmail_hash": "342d5389df2b8bbf172eda540d8ebe6044a85b10",
-    "kill_time": "2026-07-12T17:45:10Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002969,
-    "solar_system_name": "Eredan",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123852703,
-      "character_name": "BSLC - 025",
-      "corporation_id": 98811174,
-      "corporation_name": "Black Sky Logistics Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136965014/",
-    "total_value": 3472110392.9,
-    "final_attacker": {
-      "character_name": "Flash Boredom",
-      "corporation_name": "Awww Diddums..",
-      "alliance_name": "Cynosural Field Theory.",
-      "ship_type_name": "Capsule"
-    }
-  },
-  {
-    "killmail_id": 136964264,
-    "killmail_hash": "6d66a35ee0b4bedafb9c93f7fc69ae358c70b47c",
-    "kill_time": "2026-07-12T17:13:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002969,
-    "solar_system_name": "Eredan",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2123852690,
-      "character_name": "BSLC - 021",
-      "corporation_id": 98811174,
-      "corporation_name": "Black Sky Logistics Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136964264/",
-    "total_value": 4834296352.84,
-    "final_attacker": {
-      "character_name": "Flash Boredom",
-      "corporation_name": "Awww Diddums..",
-      "alliance_name": "Cynosural Field Theory.",
-      "ship_type_name": "Capsule"
     }
   }
 ]
