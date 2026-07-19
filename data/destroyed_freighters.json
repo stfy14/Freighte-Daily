@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137118927,
+    "killmail_hash": "c4ebcda09093c5e48d82f380ae503934ed6e91e0",
+    "kill_time": "2026-07-19T12:56:49Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000786,
+    "solar_system_name": "L5-UWT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2122682160,
+      "character_name": "Peter Hertzel",
+      "corporation_id": 98057377,
+      "corporation_name": "Core Industry.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137118927/",
+    "total_value": 6937885988.03,
+    "final_attacker": {
+      "character_name": "Fiery Kylin",
+      "corporation_name": "Attack On CALDARI",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 137118841,
+    "killmail_hash": "e2d30c3ae0dd721005b8729b4a9f688213473fa2",
+    "kill_time": "2026-07-19T12:52:40Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002059,
+    "solar_system_name": "Auner",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123262285,
+      "character_name": "Kenji Lee",
+      "corporation_id": 98795321,
+      "corporation_name": "Deep Space Hauling Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137118841/",
+    "total_value": 1686572145.76,
+    "final_attacker": {
+      "character_name": "Jamata Ki Yuso",
+      "corporation_name": "Cozy Mischief",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137115352,
     "killmail_hash": "fae8c98f921e7ba644fe594210dddd0b16b45d03",
     "kill_time": "2026-07-19T09:49:58Z",
@@ -3013,32 +3065,6 @@
       "corporation_name": "Awww Diddums..",
       "alliance_name": "Cynosural Field Theory.",
       "ship_type_name": "Capsule"
-    }
-  },
-  {
-    "killmail_id": 136955803,
-    "killmail_hash": "e7de2494b200e8764f72f491056d4915e4372f3c",
-    "kill_time": "2026-07-12T10:36:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 179812873,
-      "character_name": "Estep",
-      "corporation_id": 98597090,
-      "corporation_name": "Beyond Knowledge Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136955803/",
-    "total_value": 6328844867.24,
-    "final_attacker": {
-      "character_name": "zLegion 18",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
