@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137112112,
+    "killmail_hash": "5c26fe44420050c9d0e369183a7fd7703d7d8461",
+    "kill_time": "2026-07-19T06:25:54Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 94890338,
+      "character_name": "AgentOrange Kirkpatrick",
+      "corporation_id": 98821825,
+      "corporation_name": "Agent Assets And Acquisitions",
+      "alliance_id": 99014388,
+      "alliance_name": "42nd Parallel Holding"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137112112/",
+    "total_value": 1571918861.25,
+    "final_attacker": {
+      "character_name": "Chaoshem MayDuke",
+      "corporation_name": "Candy From Stranger",
+      "alliance_name": "Howitzers and Champagne",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 137109171,
     "killmail_hash": "2e741646f3c7afbc1047fadb1b57027daaec279f",
     "kill_time": "2026-07-19T03:01:17Z",
@@ -3037,32 +3063,6 @@
     "final_attacker": {
       "character_name": "zLegion 26",
       "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 136950571,
-    "killmail_hash": "31f76c7864ff700aaafd9ccf8fcc6fbc2b012348",
-    "kill_time": "2026-07-12T04:23:06Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30005290,
-    "solar_system_name": "Heorah",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 96795239,
-      "character_name": "TheSerf",
-      "corporation_id": 98716738,
-      "corporation_name": "The Hamsa",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136950571/",
-    "total_value": 5159760399.81,
-    "final_attacker": {
-      "character_name": "Barnabus Stinson",
-      "corporation_name": "I LOVE MINING ITS SO FUN",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
