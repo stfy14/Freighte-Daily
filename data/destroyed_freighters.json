@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137145270,
+    "killmail_hash": "35db42311e67296cfc807c55ca86d852c4dd34c1",
+    "kill_time": "2026-07-20T16:45:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122514618,
+      "character_name": "Focus Damage",
+      "corporation_id": 98809961,
+      "corporation_name": "HOOLIGANS.TEAM",
+      "alliance_id": 99012604,
+      "alliance_name": "X - Z E S T"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137145270/",
+    "total_value": 21098317819.59,
+    "final_attacker": {
+      "character_name": "Painter Alt 16",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137142779,
+    "killmail_hash": "a049685611d2410039c161d79fc1903af7d49c63",
+    "kill_time": "2026-07-20T14:31:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113703274,
+      "character_name": "MiMi BOOM",
+      "corporation_id": 98808407,
+      "corporation_name": "Suicide Bombr",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137142779/",
+    "total_value": 2786863037.69,
+    "final_attacker": {
+      "character_name": "Elle XL",
+      "corporation_name": "State War Academy",
+      "alliance_name": null,
+      "ship_type_name": "Naglfar"
+    }
+  },
+  {
     "killmail_id": 137139801,
     "killmail_hash": "b6a71231e6af913b66f74a7322eef9e816a4c39b",
     "kill_time": "2026-07-20T10:53:11Z",
@@ -3039,58 +3091,6 @@
       "corporation_name": "The Sanguine Holdings",
       "alliance_name": "The Sanguine Covenant",
       "ship_type_name": "Cyclone"
-    }
-  },
-  {
-    "killmail_id": 136988451,
-    "killmail_hash": "cc7e3cd91d65d84d0193c4721f6c0e333b33f7fa",
-    "kill_time": "2026-07-13T18:08:55Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 938676751,
-      "character_name": "BladeWielder",
-      "corporation_id": 355443127,
-      "corporation_name": "ANZAC ALLIANCE",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/136988451/",
-    "total_value": 1740384218.04,
-    "final_attacker": {
-      "character_name": "Frosted barrage",
-      "corporation_name": "The Northerners",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Thrasher Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 136988355,
-    "killmail_hash": "307b76308cc098ef9a01050729d9d6bb47b90b5d",
-    "kill_time": "2026-07-13T18:05:28Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2122794057,
-      "character_name": "A-a-r-o-n",
-      "corporation_id": 98795471,
-      "corporation_name": "Blackout Consortium Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136988355/",
-    "total_value": 7387822795.61,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
     }
   }
 ]
