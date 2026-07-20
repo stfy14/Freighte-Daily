@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137135496,
+    "killmail_hash": "3163e793ee3b2fe620a42df18ad6dbf0ef34c468",
+    "kill_time": "2026-07-20T04:00:20Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 925406005,
+      "character_name": "RYLOK",
+      "corporation_id": 98829834,
+      "corporation_name": "Tachyon Syndicate",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137135496/",
+    "total_value": 3935468693.76,
+    "final_attacker": {
+      "character_name": "Static Fray",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137130335,
     "killmail_hash": "8272ec10e9ffec248b31a70d8e1e56781ce02b81",
     "kill_time": "2026-07-19T21:04:04Z",
@@ -2935,32 +2961,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 136977876,
-    "killmail_hash": "d106c0f46e151b588a39b0dfd57c68626b12d872",
-    "kill_time": "2026-07-13T05:49:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002969,
-    "solar_system_name": "Eredan",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2120551030,
-      "character_name": "Dean2",
-      "corporation_id": 98835273,
-      "corporation_name": "New Horizons Mining and Industry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/136977876/",
-    "total_value": 1689031423.73,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "N/A",
-      "alliance_name": null,
-      "ship_type_name": "Angel Lookout Mekubal"
     }
   }
 ]
