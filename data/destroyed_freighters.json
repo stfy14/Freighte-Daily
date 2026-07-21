@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137159633,
+    "killmail_hash": "b8eea222263c457778590e2cf10ab24a22ed181b",
+    "kill_time": "2026-07-21T09:47:08Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1858820616,
+      "character_name": "Tribun Maxximus",
+      "corporation_id": 98835568,
+      "corporation_name": "Rock and Stone and Weed",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137159633/",
+    "total_value": 1995976023.46,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137155040,
     "killmail_hash": "a94773be84e005854ecd6452ade701c61a946e2d",
     "kill_time": "2026-07-21T02:25:54Z",
@@ -2805,32 +2831,6 @@
       "corporation_name": "Blood Corsairs",
       "alliance_name": "The Sanguine Covenant",
       "ship_type_name": "Broadsword"
-    }
-  },
-  {
-    "killmail_id": 137002023,
-    "killmail_hash": "9955fae68265c55560da32cda38e3ec1d8561c15",
-    "kill_time": "2026-07-14T10:02:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 97207753,
-      "character_name": "Reison Sorrenne",
-      "corporation_id": 98813004,
-      "corporation_name": "Voyager Auxiliaries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137002023/",
-    "total_value": 1752818642.03,
-    "final_attacker": {
-      "character_name": "AXOLOTL-XC",
-      "corporation_name": "Void Kraken Corps",
-      "alliance_name": "Brotherhood of Spacers",
-      "ship_type_name": "Harbinger"
     }
   }
 ]
