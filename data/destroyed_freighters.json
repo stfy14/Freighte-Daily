@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137168334,
+    "killmail_hash": "adba0c4ea8ef775d0db213dd2edef5f154b67b34",
+    "kill_time": "2026-07-21T19:01:30Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003897,
+    "solar_system_name": "Gehi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2119269177,
+      "character_name": "Sneaky Sneakersun",
+      "corporation_id": 98773336,
+      "corporation_name": "Utlagarnir",
+      "alliance_id": 99014221,
+      "alliance_name": "Weapons of Mass Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137168334/",
+    "total_value": 10460770025.73,
+    "final_attacker": {
+      "character_name": "Thaxllssyllia",
+      "corporation_name": "I Have a Plan",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137161079,
     "killmail_hash": "aa48181f4fd85b7e8edfe0728e56c707ea57f05b",
     "kill_time": "2026-07-21T12:23:58Z",
@@ -2857,32 +2883,6 @@
       "corporation_name": "R.E.M.N.A.N.T.S",
       "alliance_name": null,
       "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 137011620,
-    "killmail_hash": "35bf01b3933855e4e47e33d46d4cf077bb9f2186",
-    "kill_time": "2026-07-14T20:10:17Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002969,
-    "solar_system_name": "Eredan",
-    "region_name": "Devoid",
-    "victim": {
-      "character_id": 2124446423,
-      "character_name": "Kuleleboners",
-      "corporation_id": 98837789,
-      "corporation_name": "Sisilia And Co. Trusted",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137011620/",
-    "total_value": 2745327613.32,
-    "final_attacker": {
-      "character_name": "Dax Morro",
-      "corporation_name": "Blood Corsairs",
-      "alliance_name": "The Sanguine Covenant",
-      "ship_type_name": "Broadsword"
     }
   }
 ]
