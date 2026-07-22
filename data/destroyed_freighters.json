@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137191316,
+    "killmail_hash": "ac53c34b95f38127f0c7fb6d489506901a8aabcc",
+    "kill_time": "2026-07-22T21:07:59Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002756,
+    "solar_system_name": "Ishomilken",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94552958,
+      "character_name": "Osa Hermosita",
+      "corporation_id": 98328437,
+      "corporation_name": "Applied Anarchy",
+      "alliance_id": 99015056,
+      "alliance_name": "Calculated Disorder"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137191316/",
+    "total_value": 8528288293.42,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 137189065,
+    "killmail_hash": "2856d765207b58adcf278c42782e7d1e4e3e4d0d",
+    "kill_time": "2026-07-22T19:15:30Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1925981172,
+      "character_name": "Icosai",
+      "corporation_id": 98798912,
+      "corporation_name": "Void Reaver Syndicate.",
+      "alliance_id": 99015164,
+      "alliance_name": "The Void Accord"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137189065/",
+    "total_value": 8094060648.97,
+    "final_attacker": {
+      "character_name": "Bane Gristom",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 137181909,
     "killmail_hash": "b60a6d9513829896a0f927154f5c43843c3cc353",
     "kill_time": "2026-07-22T12:22:53Z",
@@ -3065,58 +3117,6 @@
       "corporation_name": "The Sanguine Raiders",
       "alliance_name": "The Sanguine Covenant",
       "ship_type_name": "Machariel"
-    }
-  },
-  {
-    "killmail_id": 137030671,
-    "killmail_hash": "be2e74503c65c5ea91994c19c3a05b9417cd7d87",
-    "kill_time": "2026-07-15T20:18:09Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30045337,
-    "solar_system_name": "Ikoskio",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 91737602,
-      "character_name": "mi5ha",
-      "corporation_id": 98693058,
-      "corporation_name": "THC BioTech",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137030671/",
-    "total_value": 7583689972.48,
-    "final_attacker": {
-      "character_name": "Elijah Ghost",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Legion"
-    }
-  },
-  {
-    "killmail_id": 137027979,
-    "killmail_hash": "eaca3c81629c684f5be63dfe1883b2a0f32e7c7f",
-    "kill_time": "2026-07-15T18:00:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003612,
-    "solar_system_name": "EOY-BG",
-    "region_name": "Tenal",
-    "victim": {
-      "character_id": 2121274629,
-      "character_name": "Rogue Sinister",
-      "corporation_id": 98830385,
-      "corporation_name": "False Logistic Services",
-      "alliance_id": 99006125,
-      "alliance_name": "SLYCE Pirates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137027979/",
-    "total_value": 1614737979.03,
-    "final_attacker": {
-      "character_name": "Is Secundary",
-      "corporation_name": "Special Assault Unit",
-      "alliance_name": "SONS of BANE",
-      "ship_type_name": "Proteus"
     }
   }
 ]
