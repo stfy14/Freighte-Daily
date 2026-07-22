@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137181909,
+    "killmail_hash": "b60a6d9513829896a0f927154f5c43843c3cc353",
+    "kill_time": "2026-07-22T12:22:53Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002651,
+    "solar_system_name": "Fasse",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2119704150,
+      "character_name": "Kakala Asanari",
+      "corporation_id": 98836771,
+      "corporation_name": "Kakala Asanari Corporation",
+      "alliance_id": 99015079,
+      "alliance_name": "Black Quartz Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137181909/",
+    "total_value": 2471149898.14,
+    "final_attacker": {
+      "character_name": "Imperial Space Lord",
+      "corporation_name": "Imperial Space Wizards",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 137180642,
     "killmail_hash": "cc7bfb186a070ba13deb7c4485fbfc2e3ac3b111",
     "kill_time": "2026-07-22T10:12:07Z",
