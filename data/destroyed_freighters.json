@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 137175843,
+    "killmail_hash": "58c3a57a3c7f07a624569990d82fefbc473b4f9b",
+    "kill_time": "2026-07-22T03:02:07Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119490966,
+      "character_name": "Salty Meat stick",
+      "corporation_id": 98746960,
+      "corporation_name": "3 fish in a logo",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137175843/",
+    "total_value": 11446171723.19,
+    "final_attacker": {
+      "character_name": "Jayden Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137175555,
+    "killmail_hash": "46e9c36b4b1b3074110d52bc6f8ff30f7813cf9c",
+    "kill_time": "2026-07-22T02:42:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2123837558,
+      "character_name": "gongye2",
+      "corporation_id": 98540583,
+      "corporation_name": "Special law enforcement department",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137175555/",
+    "total_value": 1847758135.69,
+    "final_attacker": {
+      "character_name": "captain's ass",
+      "corporation_name": "sains otter",
+      "alliance_name": null,
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 137174920,
+    "killmail_hash": "c0d1b15350129fe398282abcc0182c054088378a",
+    "kill_time": "2026-07-22T01:54:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122825793,
+      "character_name": "Llabtaem Repinuj",
+      "corporation_id": 98792038,
+      "corporation_name": "The Bleak Lands Supply and Provisions",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137174920/",
+    "total_value": 9478477715.72,
+    "final_attacker": {
+      "character_name": "Meowtiger",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137173533,
+    "killmail_hash": "f030aa718ae3afc383e9c47d4103f0fdc5c10f9d",
+    "kill_time": "2026-07-22T00:08:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 461709802,
+      "character_name": "tarra quincy",
+      "corporation_id": 98837133,
+      "corporation_name": "Reckless Conduct",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137173533/",
+    "total_value": 4594754301.94,
+    "final_attacker": {
+      "character_name": "V4ld3Sp4R",
+      "corporation_name": "R.E.M.N.A.N.T.S",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137172468,
+    "killmail_hash": "1789ec2924365c4dbaba3db6561d034a25750048",
+    "kill_time": "2026-07-21T22:35:56Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001348,
+    "solar_system_name": "G9D-XW",
+    "region_name": "Venal",
+    "victim": {
+      "character_id": 2112538506,
+      "character_name": "Namar Otar",
+      "corporation_id": 98306027,
+      "corporation_name": "SpaceFire Holding",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137172468/",
+    "total_value": 1764164791.38,
+    "final_attacker": {
+      "character_name": "Joe Arareb",
+      "corporation_name": "Ghost Net Industrialists",
+      "alliance_name": "OnlyFleets.",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 137168334,
     "killmail_hash": "adba0c4ea8ef775d0db213dd2edef5f154b67b34",
     "kill_time": "2026-07-21T19:01:30Z",
@@ -2831,58 +2961,6 @@
       "corporation_name": "My Little Pony Industries Inc.",
       "alliance_name": "Brotherhood of Spacers",
       "ship_type_name": "Astarte"
-    }
-  },
-  {
-    "killmail_id": 137014369,
-    "killmail_hash": "4065dffa54143a3f5eaf4d6ef7f46626790c702c",
-    "kill_time": "2026-07-14T23:06:31Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 440817226,
-      "character_name": "Darth Spitzer",
-      "corporation_id": 98693939,
-      "corporation_name": "Bare Minimum Bandits",
-      "alliance_id": 99012781,
-      "alliance_name": "I Showed You My Probes... Please Respond..."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137014369/",
-    "total_value": 2351793834.48,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 137012971,
-    "killmail_hash": "1cbcb7baad1151237a7369936fb6e45154f18c8f",
-    "kill_time": "2026-07-14T21:30:43Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90544196,
-      "character_name": "Marf James",
-      "corporation_id": 98777334,
-      "corporation_name": "Bush Chook Brewery",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137012971/",
-    "total_value": 101279294072.51,
-    "final_attacker": {
-      "character_name": "V4ld3Sp4R",
-      "corporation_name": "R.E.M.N.A.N.T.S",
-      "alliance_name": null,
-      "ship_type_name": "Naga"
     }
   }
 ]
