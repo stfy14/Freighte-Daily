@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137209120,
+    "killmail_hash": "f80a2a95b68d06dda9844cf73f82166caf27df89",
+    "kill_time": "2026-07-23T19:53:33Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1361462118,
+      "character_name": "Oppenheimer Quest",
+      "corporation_id": 826119375,
+      "corporation_name": "The Nietzian Way",
+      "alliance_id": 99013187,
+      "alliance_name": "The Obsidian Front - Reborn"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137209120/",
+    "total_value": 8454301673.68,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Bane"
+    }
+  },
+  {
     "killmail_id": 137200341,
     "killmail_hash": "d2f3df5948c50bcecb6b16e4a359dac425de750f",
     "kill_time": "2026-07-23T10:57:46Z",
@@ -2753,32 +2779,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137052266,
-    "killmail_hash": "b43dcb0763a9afe764953cba8498f1617f0a2e70",
-    "kill_time": "2026-07-16T20:51:56Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001390,
-    "solar_system_name": "Pakkonen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 899817080,
-      "character_name": "Xxara",
-      "corporation_id": 346231748,
-      "corporation_name": "Sirius Cybernetics Inc",
-      "alliance_id": 99006225,
-      "alliance_name": "Rote Works"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137052266/",
-    "total_value": 13478405861.26,
-    "final_attacker": {
-      "character_name": "Bluemelon",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Marshal"
     }
   }
 ]
