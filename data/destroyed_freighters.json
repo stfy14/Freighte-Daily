@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137200341,
+    "killmail_hash": "d2f3df5948c50bcecb6b16e4a359dac425de750f",
+    "kill_time": "2026-07-23T10:57:46Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124536039,
+      "character_name": "Rumpe1stilzchen",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137200341/",
+    "total_value": 1911980458.51,
+    "final_attacker": {
+      "character_name": "zLegion 18",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137199820,
     "killmail_hash": "85ade079141d773f3b1f6c7377e1e4ede0768a91",
     "kill_time": "2026-07-23T09:56:57Z",
@@ -49,6 +75,32 @@
       "corporation_name": "Deaths Consortium",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137198587,
+    "killmail_hash": "0dca520976002642b6fe5e2c87f218469f364259",
+    "kill_time": "2026-07-23T07:52:44Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112022964,
+      "character_name": "Planettarka SF",
+      "corporation_id": 98326693,
+      "corporation_name": "SkyNET Freelancers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137198587/",
+    "total_value": 4535533310.91,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2727,32 +2779,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Marshal"
-    }
-  },
-  {
-    "killmail_id": 137041494,
-    "killmail_hash": "affd11ebe7bb5203558defdb8c4139ccfd43f6f8",
-    "kill_time": "2026-07-16T10:44:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004116,
-    "solar_system_name": "Rayeret",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 2123211837,
-      "character_name": "tonci-222",
-      "corporation_id": 98818492,
-      "corporation_name": "just a chill corp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137041494/",
-    "total_value": 2811637826.19,
-    "final_attacker": {
-      "character_name": "zLegion 12",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
