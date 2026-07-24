@@ -2962,57 +2962,5 @@
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 137068280,
-    "killmail_hash": "7d3b78d4fe75d2a6b4455f03381cf0d7c30f9298",
-    "kill_time": "2026-07-17T17:23:49Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002800,
-    "solar_system_name": "Haatomo",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120763121,
-      "character_name": "Flaxerka J",
-      "corporation_id": 98667901,
-      "corporation_name": "DELTA Freight Service",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137068280/",
-    "total_value": 18995042894.79,
-    "final_attacker": {
-      "character_name": "Johnathan Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137065374,
-    "killmail_hash": "20062d3fe05bada6214c784e30bbf91d3ca403a1",
-    "kill_time": "2026-07-17T14:38:42Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2123815620,
-      "character_name": "Joseph Hendrix",
-      "corporation_id": 98830515,
-      "corporation_name": "ARDCO Procurement",
-      "alliance_id": 99014402,
-      "alliance_name": "Plenitude Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137065374/",
-    "total_value": 1975796967.17,
-    "final_attacker": {
-      "character_name": "Ezekial Haven",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Apocalypse"
-    }
   }
 ]
