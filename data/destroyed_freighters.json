@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137269869,
+    "killmail_hash": "3aea7f4833f438880557a3da0bfe9851f1aedf8d",
+    "kill_time": "2026-07-26T06:37:20Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2121884225,
+      "character_name": "Akalin Nor",
+      "corporation_id": 98767943,
+      "corporation_name": "New Eden Geriatric Psychiatric Care Facility",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137269869/",
+    "total_value": 13619706848.61,
+    "final_attacker": {
+      "character_name": "Spiritual symbol",
+      "corporation_name": "Euphoria.",
+      "alliance_name": "Ranger Regiment",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137256746,
     "killmail_hash": "5e993fe669e8fb225a88ac4b02a8f2932f8b257b",
     "kill_time": "2026-07-25T19:28:58Z",
@@ -1921,58 +1947,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137112112,
-    "killmail_hash": "5c26fe44420050c9d0e369183a7fd7703d7d8461",
-    "kill_time": "2026-07-19T06:25:54Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 94890338,
-      "character_name": "AgentOrange Kirkpatrick",
-      "corporation_id": 98821825,
-      "corporation_name": "Agent Assets And Acquisitions",
-      "alliance_id": 99014388,
-      "alliance_name": "42nd Parallel Holding"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137112112/",
-    "total_value": 1571918861.25,
-    "final_attacker": {
-      "character_name": "Chaoshem MayDuke",
-      "corporation_name": "Candy From Stranger",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 137111795,
-    "killmail_hash": "52a6c0fa964996bb3d6c5d2209ca403ff78f1950",
-    "kill_time": "2026-07-19T06:02:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114867625,
-      "character_name": "Yeksar IE",
-      "corporation_id": 98782547,
-      "corporation_name": "Nightingale Cry Industrial Manufacturing",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137111795/",
-    "total_value": 3738467935.77,
-    "final_attacker": {
-      "character_name": "zLegion B",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
