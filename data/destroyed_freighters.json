@@ -2078,31 +2078,5 @@
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Purifier"
     }
-  },
-  {
-    "killmail_id": 137149007,
-    "killmail_hash": "cd54de4e5b65d92fc041aa68c0250a79a45b8737",
-    "kill_time": "2026-07-20T20:08:30Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91707986,
-      "character_name": "Forgotten N Forsaken",
-      "corporation_id": 98598460,
-      "corporation_name": "Chronic Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137149007/",
-    "total_value": 4689756318.75,
-    "final_attacker": {
-      "character_name": "Painter Alt 17",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
