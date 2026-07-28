@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137318856,
+    "killmail_hash": "6407dc82d7828a08e049e6c294b41e00699c974c",
+    "kill_time": "2026-07-28T10:41:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96398983,
+      "character_name": "Rebecca Madullier",
+      "corporation_id": 98818564,
+      "corporation_name": "NCdot Services",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137318856/",
+    "total_value": 1667802320.65,
+    "final_attacker": {
+      "character_name": "Blood Stains",
+      "corporation_name": "Syndicate Enterprise",
+      "alliance_name": "Sigma Grindset",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 137318421,
     "killmail_hash": "fa55c322e5a7362c191bea2fcf839af7c9952ab5",
     "kill_time": "2026-07-28T09:59:44Z",
@@ -1999,58 +2025,6 @@
       "corporation_name": "I Have a Plan",
       "alliance_name": "A P E X",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137161079,
-    "killmail_hash": "aa48181f4fd85b7e8edfe0728e56c707ea57f05b",
-    "kill_time": "2026-07-21T12:23:58Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002059,
-    "solar_system_name": "Auner",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123262285,
-      "character_name": "Kenji Lee",
-      "corporation_id": 98795321,
-      "corporation_name": "Deep Space Hauling Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137161079/",
-    "total_value": 1695301076.86,
-    "final_attacker": {
-      "character_name": "Estrogen Vampire",
-      "corporation_name": "Cozy Mischief",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137160412,
-    "killmail_hash": "f841870e71132f56f84757de479f36b03a9096fa",
-    "kill_time": "2026-07-21T11:12:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002059,
-    "solar_system_name": "Auner",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1067021417,
-      "character_name": "Ashvul",
-      "corporation_id": 1803387818,
-      "corporation_name": "XenoTech",
-      "alliance_id": 1559868580,
-      "alliance_name": "The Fonz Presidium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137160412/",
-    "total_value": 1644969106.43,
-    "final_attacker": {
-      "character_name": "Jamata Ki Yuso",
-      "corporation_name": "Cozy Mischief",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Widow"
     }
   }
 ]
