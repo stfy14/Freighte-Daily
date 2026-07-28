@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137329161,
+    "killmail_hash": "9b722f43fd3110e656bd9f79a9443bd56f504066",
+    "kill_time": "2026-07-28T20:45:52Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2112577346,
+      "character_name": "Feorian Anderson",
+      "corporation_id": 98403073,
+      "corporation_name": "S0viet Uni0n",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137329161/",
+    "total_value": 7531995961.23,
+    "final_attacker": {
+      "character_name": "Darth VaIdemar",
+      "corporation_name": "Siromanci",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 137328473,
+    "killmail_hash": "b6d963c43ba84ea04bdf094b6280d094a476544f",
+    "kill_time": "2026-07-28T20:12:57Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000663,
+    "solar_system_name": "DE-A7P",
+    "region_name": "Scalding Pass",
+    "victim": {
+      "character_id": 2124425913,
+      "character_name": "Paul Atreides X",
+      "corporation_id": 98648361,
+      "corporation_name": "Deadspace Excavations",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137328473/",
+    "total_value": 2190490395.25,
+    "final_attacker": {
+      "character_name": "Talon Karrdex",
+      "corporation_name": "Unleashed' Fury",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Drekavac"
+    }
+  },
+  {
+    "killmail_id": 137326333,
+    "killmail_hash": "39ddd3a26887596d2e0bae76b7736855e6e724a7",
+    "kill_time": "2026-07-28T18:38:09Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 1270901160,
+      "character_name": "BornePassive",
+      "corporation_id": 98732877,
+      "corporation_name": "Iron Whales",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137326333/",
+    "total_value": 7807034308.77,
+    "final_attacker": {
+      "character_name": "Antaire Riggers",
+      "corporation_name": "Shadow Legion X",
+      "alliance_name": "Seriously Suspicious",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 137318856,
     "killmail_hash": "6407dc82d7828a08e049e6c294b41e00699c974c",
     "kill_time": "2026-07-28T10:41:58Z",
@@ -1999,32 +2077,6 @@
       "corporation_name": "Ghost Net Industrialists",
       "alliance_name": "OnlyFleets.",
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 137168334,
-    "killmail_hash": "adba0c4ea8ef775d0db213dd2edef5f154b67b34",
-    "kill_time": "2026-07-21T19:01:30Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003897,
-    "solar_system_name": "Gehi",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2119269177,
-      "character_name": "Sneaky Sneakersun",
-      "corporation_id": 98773336,
-      "corporation_name": "Utlagarnir",
-      "alliance_id": 99014221,
-      "alliance_name": "Weapons of Mass Logistics"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137168334/",
-    "total_value": 10460770025.73,
-    "final_attacker": {
-      "character_name": "Thaxllssyllia",
-      "corporation_name": "I Have a Plan",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
