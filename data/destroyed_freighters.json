@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137349398,
+    "killmail_hash": "294386fd8330a50723d9b42d4dada1196676c203",
+    "kill_time": "2026-07-29T20:51:38Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002370,
+    "solar_system_name": "PX-IHN",
+    "region_name": "Etherium Reach",
+    "victim": {
+      "character_id": 2124506562,
+      "character_name": "Bullfrog Allez",
+      "corporation_id": 98798071,
+      "corporation_name": "ADFU Kum N Go Transport Group",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137349398/",
+    "total_value": 7964881454.37,
+    "final_attacker": {
+      "character_name": "Roue",
+      "corporation_name": "Stimulus",
+      "alliance_name": "Rote Kapelle",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 137349274,
+    "killmail_hash": "795fca1a6a808ae847f226aea6d070ea893e6252",
+    "kill_time": "2026-07-29T20:47:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115255267,
+      "character_name": "ZahaHadid",
+      "corporation_id": 98603606,
+      "corporation_name": "Climbing Business Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137349274/",
+    "total_value": 1775637310.46,
+    "final_attacker": {
+      "character_name": "Pubbie Edgelord Memelord",
+      "corporation_name": "Hogyoku",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137342501,
     "killmail_hash": "df98df9492de41d3e58b9c7346b5eafe46cca603",
     "kill_time": "2026-07-29T15:26:16Z",
@@ -1843,32 +1895,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 137189065,
-    "killmail_hash": "2856d765207b58adcf278c42782e7d1e4e3e4d0d",
-    "kill_time": "2026-07-22T19:15:30Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1925981172,
-      "character_name": "Icosai",
-      "corporation_id": 98798912,
-      "corporation_name": "Void Reaver Syndicate.",
-      "alliance_id": 99015164,
-      "alliance_name": "The Void Accord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137189065/",
-    "total_value": 8094060648.97,
-    "final_attacker": {
-      "character_name": "Bane Gristom",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
     }
   }
 ]
