@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137355774,
+    "killmail_hash": "8162c403bdb3ac6f7ae2a3bb1b1b49f1ebd5997f",
+    "kill_time": "2026-07-30T03:44:41Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121109020,
+      "character_name": "allliastra",
+      "corporation_id": 98830976,
+      "corporation_name": "vPsychobastards.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137355774/",
+    "total_value": 13505504161.49,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137354455,
     "killmail_hash": "1b70fc323035cadd1b73513927880bdacc25f442",
     "kill_time": "2026-07-30T02:07:59Z",
@@ -1947,58 +1973,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137197226,
-    "killmail_hash": "48b0953e66e8ad8554d577a475438c8706e6d6bb",
-    "kill_time": "2026-07-23T05:18:24Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95987311,
-      "character_name": "Han TheSoloGuy",
-      "corporation_id": 98816796,
-      "corporation_name": "Syndicate Protectorate",
-      "alliance_id": 99008788,
-      "alliance_name": "The Skeleton Crew"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137197226/",
-    "total_value": 1581341602.13,
-    "final_attacker": {
-      "character_name": "Abazaga",
-      "corporation_name": "Reliables Inc",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Tempest Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 137195869,
-    "killmail_hash": "87ae4cc42db82416ed643a935dd052553cc93de6",
-    "kill_time": "2026-07-23T03:21:06Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000169,
-    "solar_system_name": "Ihakana",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121464762,
-      "character_name": "Sydnierose",
-      "corporation_id": 98787030,
-      "corporation_name": "Rev3nants Wrath",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137195869/",
-    "total_value": 7584918837.96,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
