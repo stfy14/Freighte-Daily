@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137360943,
+    "killmail_hash": "7fe68e6597ebb4a2c558d3b0e66b636abe24356b",
+    "kill_time": "2026-07-30T12:27:49Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001380,
+    "solar_system_name": "Vellaine",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120028214,
+      "character_name": "Jericoa",
+      "corporation_id": 98824507,
+      "corporation_name": "Fuxi Military Academy",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137360943/",
+    "total_value": 5829594293.17,
+    "final_attacker": {
+      "character_name": "Brilonette Ifant Tissant",
+      "corporation_name": "FishDicks",
+      "alliance_name": "The High Chair",
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 137359370,
     "killmail_hash": "50c6522374259e121bf2a1f3d6264a34303e055b",
     "kill_time": "2026-07-30T09:32:55Z",
@@ -1895,32 +1921,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 137200341,
-    "killmail_hash": "d2f3df5948c50bcecb6b16e4a359dac425de750f",
-    "kill_time": "2026-07-23T10:57:46Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124536039,
-      "character_name": "Rumpe1stilzchen",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137200341/",
-    "total_value": 1911980458.51,
-    "final_attacker": {
-      "character_name": "zLegion 18",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
