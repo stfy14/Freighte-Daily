@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137388056,
+    "killmail_hash": "fae9909bc3684472897a14fb2ae5f14b62591b81",
+    "kill_time": "2026-07-31T19:54:12Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124536039,
+      "character_name": "Rumpe1stilzchen",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137388056/",
+    "total_value": 1719248258.66,
+    "final_attacker": {
+      "character_name": "Painter Alt 14",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137387158,
+    "killmail_hash": "65d89936223b88190b345237d78918a7bd023210",
+    "kill_time": "2026-07-31T19:17:11Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123766879,
+      "character_name": "0 I am",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137387158/",
+    "total_value": 6373312789.42,
+    "final_attacker": {
+      "character_name": "Painter Alt 18",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137386542,
+    "killmail_hash": "de44ee3dad7bf08766023b8eed81a4875934051c",
+    "kill_time": "2026-07-31T18:57:25Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002801,
+    "solar_system_name": "Suroken",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123696865,
+      "character_name": "BSLC - 010",
+      "corporation_id": 98811174,
+      "corporation_name": "Black Sky Logistics Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137386542/",
+    "total_value": 21054184468.32,
+    "final_attacker": {
+      "character_name": "Painter Alt 1",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137385863,
+    "killmail_hash": "b31bc6b024878f2f03392cb16db251db941a22b5",
+    "kill_time": "2026-07-31T18:29:05Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117885389,
+      "character_name": "tant520",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137385863/",
+    "total_value": 1528843227.26,
+    "final_attacker": {
+      "character_name": "Painter Alt 15",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137382804,
     "killmail_hash": "1e0dd11667e3c2b7390949d5a59e7e223456210a",
     "kill_time": "2026-07-31T15:27:10Z",
@@ -1739,32 +1843,6 @@
       "corporation_name": "Deaths Consortium",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Crusader"
-    }
-  },
-  {
-    "killmail_id": 137233294,
-    "killmail_hash": "8943d9b5c506f959c7305daad48481531f34d993",
-    "kill_time": "2026-07-24T21:10:04Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 652718435,
-      "character_name": "Volaron",
-      "corporation_id": 98025339,
-      "corporation_name": "Divine Power Industries",
-      "alliance_id": 99000163,
-      "alliance_name": "Northern Associates."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137233294/",
-    "total_value": 10642336620.54,
-    "final_attacker": {
-      "character_name": "Qfeuille",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
     }
   }
 ]
