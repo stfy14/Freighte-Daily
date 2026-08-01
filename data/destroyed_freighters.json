@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137400513,
+    "killmail_hash": "9ccc469d6fd2dedc15bd47bcd000be04bd789cc0",
+    "kill_time": "2026-08-01T08:58:12Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123112236,
+      "character_name": "Flynminn",
+      "corporation_id": 98803643,
+      "corporation_name": "XANAX Withdrawal Corp.",
+      "alliance_id": 99014167,
+      "alliance_name": "XANAX Withdrawal Corp. Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137400513/",
+    "total_value": 3258913074.08,
+    "final_attacker": {
+      "character_name": "zLegion 02",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137399863,
+    "killmail_hash": "c13b08cf58ee0eaf135a9199b7842b58c88105d8",
+    "kill_time": "2026-08-01T08:10:09Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124442532,
+      "character_name": "Hutistis Demise",
+      "corporation_id": 98831992,
+      "corporation_name": "The 3 Capsuleers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137399863/",
+    "total_value": 2427723020.05,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137398111,
+    "killmail_hash": "6d34a45170394ca1d6c6982bd0b80b52dcbfb39e",
+    "kill_time": "2026-08-01T06:15:15Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96861017,
+      "character_name": "Sakensun",
+      "corporation_id": 1000009,
+      "corporation_name": "Caldari Provisions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137398111/",
+    "total_value": 6765766645.98,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 137396278,
     "killmail_hash": "1c6311389f30307aaefaee0d2fbf66b6ea1d2806",
     "kill_time": "2026-08-01T03:58:09Z",
@@ -1765,58 +1843,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137244791,
-    "killmail_hash": "02d43bcc4c43c8096c2d46c6191b647549bacafa",
-    "kill_time": "2026-07-25T09:44:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 336629243,
-      "character_name": "amora gore",
-      "corporation_id": 98173989,
-      "corporation_name": "Fallen Angel Technologies Engineering",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137244791/",
-    "total_value": 17609453434.56,
-    "final_attacker": {
-      "character_name": "zLegion L",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 137243823,
-    "killmail_hash": "1218d64fc9a096ee765330055acb18907f454d39",
-    "kill_time": "2026-07-25T08:42:47Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30005035,
-    "solar_system_name": "Ami",
-    "region_name": "Kor-Azor",
-    "victim": {
-      "character_id": 2119258255,
-      "character_name": "fatemaple",
-      "corporation_id": 98645589,
-      "corporation_name": "Faceless.",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137243823/",
-    "total_value": 12307901170.42,
-    "final_attacker": {
-      "character_name": "MojoMojo",
-      "corporation_name": "You're dunked",
-      "alliance_name": "NullSechnaya Sholupen",
-      "ship_type_name": "Moros"
     }
   }
 ]
