@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137413095,
+    "killmail_hash": "6144234bf4ac45e5f23dca631297ff53b23d2e30",
+    "kill_time": "2026-08-01T19:51:56Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004808,
+    "solar_system_name": "3L3N-X",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 96096488,
+      "character_name": "Diakron",
+      "corporation_id": 98428777,
+      "corporation_name": "North Korean Nuclear Research",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137413095/",
+    "total_value": 1762452649.06,
+    "final_attacker": {
+      "character_name": "DerpitanDerp",
+      "corporation_name": "Space Autism LLC.",
+      "alliance_name": null,
+      "ship_type_name": "Raptor"
+    }
+  },
+  {
+    "killmail_id": 137411872,
+    "killmail_hash": "caa9e857c06a69985d08a896dd0b0855d0548777",
+    "kill_time": "2026-08-01T19:14:46Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121656274,
+      "character_name": "Elena-Drake",
+      "corporation_id": 98742144,
+      "corporation_name": "D I E . S T E I N B E I S S E R",
+      "alliance_id": 99012369,
+      "alliance_name": "OUT OF THE DEEP"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137411872/",
+    "total_value": 1848265952.3,
+    "final_attacker": {
+      "character_name": "Wild Valenok",
+      "corporation_name": "Interstellar Scum",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 137409027,
+    "killmail_hash": "780b24f26621216e416e82cc3f7b7568aeac36b7",
+    "kill_time": "2026-08-01T17:15:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2113360638,
+      "character_name": "Lisa Muvila",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137409027/",
+    "total_value": 1670280441.62,
+    "final_attacker": {
+      "character_name": "Wild Valenok",
+      "corporation_name": "Interstellar Scum",
+      "alliance_name": "LowSechnaya Sholupen",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 137404872,
     "killmail_hash": "ef09884b776a88c7afbf8bdb67f5b1925cb44a29",
     "kill_time": "2026-08-01T13:44:31Z",
@@ -1868,32 +1946,6 @@
       "character_name": "Spiritual symbol",
       "corporation_name": "Euphoria.",
       "alliance_name": "Ranger Regiment",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137256746,
-    "killmail_hash": "5e993fe669e8fb225a88ac4b02a8f2932f8b257b",
-    "kill_time": "2026-07-25T19:28:58Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 231854926,
-      "character_name": "Smuugi",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137256746/",
-    "total_value": 6926740562.36,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
   }
