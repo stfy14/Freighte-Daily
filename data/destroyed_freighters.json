@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137421764,
+    "killmail_hash": "02664ae08c4ef0bb8b127f629d290ce47d95a5f5",
+    "kill_time": "2026-08-02T03:41:40Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 850341675,
+      "character_name": "Roland Arcangel",
+      "corporation_id": 98062391,
+      "corporation_name": "C12 H22 O11",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137421764/",
+    "total_value": 3560049803.63,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137421356,
     "killmail_hash": "e243464799c1b07c6fd898c5ff90b85bbd22bc22",
     "kill_time": "2026-08-02T03:19:22Z",
@@ -2077,32 +2103,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 137269869,
-    "killmail_hash": "3aea7f4833f438880557a3da0bfe9851f1aedf8d",
-    "kill_time": "2026-07-26T06:37:20Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2121884225,
-      "character_name": "Akalin Nor",
-      "corporation_id": 98767943,
-      "corporation_name": "New Eden Geriatric Psychiatric Care Facility",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137269869/",
-    "total_value": 13619706848.61,
-    "final_attacker": {
-      "character_name": "Spiritual symbol",
-      "corporation_name": "Euphoria.",
-      "alliance_name": "Ranger Regiment",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
