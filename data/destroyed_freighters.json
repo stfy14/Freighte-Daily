@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 137421356,
+    "killmail_hash": "e243464799c1b07c6fd898c5ff90b85bbd22bc22",
+    "kill_time": "2026-08-02T03:19:22Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1599068582,
+      "character_name": "Jackson Morrow",
+      "corporation_id": 98795533,
+      "corporation_name": "Terrifying Eggplant",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137421356/",
+    "total_value": 1776265625.07,
+    "final_attacker": {
+      "character_name": "zLegion 01",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137420416,
+    "killmail_hash": "1ba21161475d9e20abef6f8b4bff1943a55c14aa",
+    "kill_time": "2026-08-02T02:20:38Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90206332,
+      "character_name": "Argiun",
+      "corporation_id": 98095697,
+      "corporation_name": "Omni Aquisition and Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137420416/",
+    "total_value": 1722060048.7,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137420037,
+    "killmail_hash": "5be33c7d1332a0925c6634dc7bed8ba433192926",
+    "kill_time": "2026-08-02T01:56:24Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113250098,
+      "character_name": "Genko Goda",
+      "corporation_id": 98529416,
+      "corporation_name": "Antimatter Delivery Systems",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137420037/",
+    "total_value": 3670362447.75,
+    "final_attacker": {
+      "character_name": "zLegion 25",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137419287,
+    "killmail_hash": "1a3ce671e1a450fce1d086b83b537bebbd3dd3a7",
+    "kill_time": "2026-08-02T00:53:14Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001402,
+    "solar_system_name": "Passari",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 662273535,
+      "character_name": "Shikira",
+      "corporation_id": 785468758,
+      "corporation_name": "Inter Stellar Concordium",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137419287/",
+    "total_value": 7027169621.2,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 137418846,
+    "killmail_hash": "e26e3736636549b635da332bd4d922492f81ea46",
+    "kill_time": "2026-08-02T00:11:28Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1975513718,
+      "character_name": "Valeyana",
+      "corporation_id": 98798071,
+      "corporation_name": "ADFU Kum N Go Transport Group",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137418846/",
+    "total_value": 13849932364.23,
+    "final_attacker": {
+      "character_name": "Rin sai",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137418344,
+    "killmail_hash": "2e0721f4a67a55d314b94b2992b8e414e0877aec",
+    "kill_time": "2026-08-01T23:37:28Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124518148,
+      "character_name": "The-World-Eaters",
+      "corporation_id": 98280017,
+      "corporation_name": "Into the Ether",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137418344/",
+    "total_value": 2923406838.39,
+    "final_attacker": {
+      "character_name": "Maximus Corpus",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 137413095,
     "killmail_hash": "6144234bf4ac45e5f23dca631297ff53b23d2e30",
     "kill_time": "2026-08-01T19:51:56Z",
