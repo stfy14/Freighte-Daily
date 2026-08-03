@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137459090,
+    "killmail_hash": "e484e2d96a0f4f31982b48e4d3a88dbc559cff64",
+    "kill_time": "2026-08-03T19:06:29Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000113,
+    "solar_system_name": "Astabih",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 1164091687,
+      "character_name": "Nova Lance",
+      "corporation_id": 98806690,
+      "corporation_name": "Cosmos Phoenix Reborn",
+      "alliance_id": 99011291,
+      "alliance_name": "Cosmos Origins"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137459090/",
+    "total_value": 11888274907.99,
+    "final_attacker": {
+      "character_name": "chimpout 09",
+      "corporation_name": "okay-buddy",
+      "alliance_name": null,
+      "ship_type_name": "Paladin"
+    }
+  },
+  {
+    "killmail_id": 137458817,
+    "killmail_hash": "c8b90d646993fdf14eb80fee9df147d524980fb3",
+    "kill_time": "2026-08-03T18:55:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 92849261,
+      "character_name": "Sohiod Freemoon",
+      "corporation_id": 98512494,
+      "corporation_name": "Federation Recon and Logistics Ltd.",
+      "alliance_id": 99009116,
+      "alliance_name": "Post Nord"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137458817/",
+    "total_value": 6707627713.48,
+    "final_attacker": {
+      "character_name": "Knaz Vladimir",
+      "corporation_name": "The Flying Dead.",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Hyperion"
+    }
+  },
+  {
     "killmail_id": 137450170,
     "killmail_hash": "81b2c4d91ea9df60e462f5b9eb0b578885dcea57",
     "kill_time": "2026-08-03T09:35:51Z",
