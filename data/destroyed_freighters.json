@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137445729,
+    "killmail_hash": "e6940de9f251553b87e7fd52948fdaaa94bf25c0",
+    "kill_time": "2026-08-03T02:46:21Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30045341,
+    "solar_system_name": "Hallanen",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2114856331,
+      "character_name": "H8 Yu",
+      "corporation_id": 98814522,
+      "corporation_name": "A Machine For Frogs",
+      "alliance_id": 99015154,
+      "alliance_name": "FrogField Armory Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137445729/",
+    "total_value": 11496259121.83,
+    "final_attacker": {
+      "character_name": "Purple People",
+      "corporation_name": "Boomer Humor",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 137445640,
+    "killmail_hash": "d85cb43d3d0a62f5cbf9a0380cf9f4a697319bd9",
+    "kill_time": "2026-08-03T02:41:13Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116786896,
+      "character_name": "Erosman30 Aurgnet",
+      "corporation_id": 98558506,
+      "corporation_name": "A Blessed Bean",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137445640/",
+    "total_value": 15478514543.21,
+    "final_attacker": {
+      "character_name": "Perseus Kallistratos",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137443185,
+    "killmail_hash": "90d9c977b71ab7309c5d7508e9d089ab6ff9d9f8",
+    "kill_time": "2026-08-02T23:29:04Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002539,
+    "solar_system_name": "Siseide",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2124225234,
+      "character_name": "Ricky294",
+      "corporation_id": 98813151,
+      "corporation_name": "Industry Manifest",
+      "alliance_id": 99014402,
+      "alliance_name": "Plenitude Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137443185/",
+    "total_value": 4110305961.43,
+    "final_attacker": {
+      "character_name": "Yak of Mors",
+      "corporation_name": "The Hackenings",
+      "alliance_name": null,
+      "ship_type_name": "Golem"
+    }
+  },
+  {
+    "killmail_id": 137442746,
+    "killmail_hash": "073c72f5618d30a0c83298356949fa7e9924b692",
+    "kill_time": "2026-08-02T22:53:37Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123035053,
+      "character_name": "Roxanne Dupont",
+      "corporation_id": 98747520,
+      "corporation_name": "Targets Locked",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137442746/",
+    "total_value": 7638842326.63,
+    "final_attacker": {
+      "character_name": "My Super Pilot",
+      "corporation_name": "Boomer Humor",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Revenant"
+    }
+  },
+  {
     "killmail_id": 137440095,
     "killmail_hash": "669ae0c4134ed721f9a89869e4c45b3d26c834b1",
     "kill_time": "2026-08-02T20:35:37Z",
@@ -2103,84 +2207,6 @@
       "corporation_name": "Blackwater USA Inc.",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 137293248,
-    "killmail_hash": "0dc444d21ab09ae18a30fd80b04768f596256249",
-    "kill_time": "2026-07-27T03:15:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000484,
-    "solar_system_name": "FMH-OV",
-    "region_name": "Detorid",
-    "victim": {
-      "character_id": 2118237046,
-      "character_name": "Atlote Maricadie",
-      "corporation_id": 98559450,
-      "corporation_name": "DanJev United",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137293248/",
-    "total_value": 26359889070.43,
-    "final_attacker": {
-      "character_name": "Marcus Atriedes",
-      "corporation_name": "Kurupt.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Caracal Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 137293217,
-    "killmail_hash": "be380e98a03e57cc3d1476904c3c250efedb5552",
-    "kill_time": "2026-07-27T03:12:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 811762486,
-      "character_name": "Chloe Wong",
-      "corporation_id": 98824903,
-      "corporation_name": "Wong's Tongs",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137293217/",
-    "total_value": 1664038302.12,
-    "final_attacker": {
-      "character_name": "Tzionn",
-      "corporation_name": "Blackwater USA Inc.",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Hubris"
-    }
-  },
-  {
-    "killmail_id": 137292536,
-    "killmail_hash": "5589b0d5e7342975729e3c04e7f0725f274db82d",
-    "kill_time": "2026-07-27T02:14:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30045337,
-    "solar_system_name": "Ikoskio",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 92812215,
-      "character_name": "Vako Dex",
-      "corporation_id": 98170520,
-      "corporation_name": "Argentum stella",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137292536/",
-    "total_value": 2664665537.7,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
