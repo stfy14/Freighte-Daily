@@ -2130,57 +2130,5 @@
       "alliance_name": "The Caldari Fourth District",
       "ship_type_name": "Purifier"
     }
-  },
-  {
-    "killmail_id": 137304118,
-    "killmail_hash": "3ef695fae78595f2d366374df1179d2b290101aa",
-    "kill_time": "2026-07-27T17:02:58Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000253,
-    "solar_system_name": "DAYP-G",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122250032,
-      "character_name": "Lisan AI Gaib",
-      "corporation_id": 98641682,
-      "corporation_name": "Into Oblivion.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137304118/",
-    "total_value": 1700421826.56,
-    "final_attacker": {
-      "character_name": "Akane Kiyokoo",
-      "corporation_name": "Xynodyne",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 137302244,
-    "killmail_hash": "f6315ba3da1490515e578c29d7cd98db66b26e51",
-    "kill_time": "2026-07-27T15:20:02Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 93335291,
-      "character_name": "Chase Shepord",
-      "corporation_id": 98177708,
-      "corporation_name": "Space Wolves ind.",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137302244/",
-    "total_value": 2102792645.42,
-    "final_attacker": {
-      "character_name": "Koba Kahn",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Eos"
-    }
   }
 ]
