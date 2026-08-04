@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137464797,
+    "killmail_hash": "b3ac1a0fa5fb65436e0d93a73fc29fe5453c4227",
+    "kill_time": "2026-08-04T01:05:01Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2124429583,
+      "character_name": "Auriel Shinrai",
+      "corporation_id": 98819796,
+      "corporation_name": "The Silver Wing",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137464797/",
+    "total_value": 4176103503.72,
+    "final_attacker": {
+      "character_name": "Rofl- Chopper",
+      "corporation_name": "Seventeenth Battalion",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 137463191,
+    "killmail_hash": "331b180c111ea29ea8910458ff39d2d7a27c867b",
+    "kill_time": "2026-08-03T22:45:32Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003928,
+    "solar_system_name": "Zephan",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 343619594,
+      "character_name": "Holbinatoria",
+      "corporation_id": 98788569,
+      "corporation_name": "Independent Chamber of Unstable Misfits",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137463191/",
+    "total_value": 15408633986.58,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137459090,
     "killmail_hash": "e484e2d96a0f4f31982b48e4d3a88dbc559cff64",
     "kill_time": "2026-08-03T19:06:29Z",
@@ -2077,110 +2129,6 @@
       "corporation_name": "Blackwater USA Inc.",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137314357,
-    "killmail_hash": "2f6ecb963bd852385c7745364463e988c4a6cde2",
-    "kill_time": "2026-07-28T03:14:04Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124464211,
-      "character_name": "King Tacoz",
-      "corporation_id": 98836811,
-      "corporation_name": "Quantum Atomic Mining Solutions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137314357/",
-    "total_value": 3251314326.11,
-    "final_attacker": {
-      "character_name": "skill issue detected",
-      "corporation_name": "Outback Steakhouse of Pancakes",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137313592,
-    "killmail_hash": "d55d5a1869bdb9a21ff6e5ab4afebc37a2205d06",
-    "kill_time": "2026-07-28T02:16:30Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2112422001,
-      "character_name": "Alexie McKyan",
-      "corporation_id": 98629101,
-      "corporation_name": "United Soviet Socialist Republic",
-      "alliance_id": 99012847,
-      "alliance_name": "GunFam"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137313592/",
-    "total_value": 9707127951.95,
-    "final_attacker": {
-      "character_name": "Hiero Socrates",
-      "corporation_name": "Did he say Jump",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137313304,
-    "killmail_hash": "2da996831cd14ea3d94e36694ff20d63e49c24a9",
-    "kill_time": "2026-07-28T01:56:53Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002645,
-    "solar_system_name": "Carrou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117463297,
-      "character_name": "Lisa Yang",
-      "corporation_id": 98793638,
-      "corporation_name": "Nth Dimensional Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137313304/",
-    "total_value": 7572484762.97,
-    "final_attacker": {
-      "character_name": "Mila Yakinov",
-      "corporation_name": "Lightning Squad",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137310124,
-    "killmail_hash": "e16b29d6b289d0f3167ad645694053504595d758",
-    "kill_time": "2026-07-27T21:55:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2115787884,
-      "character_name": "Hatos",
-      "corporation_id": 98715093,
-      "corporation_name": "Thunder Shield",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137310124/",
-    "total_value": 12708870146.55,
-    "final_attacker": {
-      "character_name": "TuBoRg LaDy",
-      "corporation_name": "Fourth District Sentinels",
-      "alliance_name": "The Caldari Fourth District",
-      "ship_type_name": "Purifier"
     }
   }
 ]
