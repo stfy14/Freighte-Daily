@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 137471173,
+    "killmail_hash": "22dd99926697703058a4466e3d2a56909391787e",
+    "kill_time": "2026-08-04T10:20:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003118,
+    "solar_system_name": "FN-GFQ",
+    "region_name": "Esoteria",
+    "victim": {
+      "character_id": 2119201086,
+      "character_name": "Markus Sonir",
+      "corporation_id": 98818475,
+      "corporation_name": "StainGen",
+      "alliance_id": 99014546,
+      "alliance_name": "Ferrata Production Exec"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137471173/",
+    "total_value": 1770150043.97,
+    "final_attacker": {
+      "character_name": "CR4B R4VE",
+      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
+      "alliance_name": "Skuffed Out.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137470934,
+    "killmail_hash": "d7f644ff950a51bccf4e3eb2fd088f8408db0517",
+    "kill_time": "2026-08-04T10:06:45Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122853872,
+      "character_name": "Penelope Jaynara",
+      "corporation_id": 98670024,
+      "corporation_name": "Drive In Cleaners United",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137470934/",
+    "total_value": 1845894048.9,
+    "final_attacker": {
+      "character_name": "JINTSUU",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137470070,
+    "killmail_hash": "f3f341d472cefd7e241cd6032e34fed284f26e23",
+    "kill_time": "2026-08-04T08:52:23Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124558225,
+      "character_name": "Kengo Reyko-Kitsune",
+      "corporation_id": 98839525,
+      "corporation_name": "Steel Hammer Manufacturing",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137470070/",
+    "total_value": 4274396497.11,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137469590,
+    "killmail_hash": "611b239ca3a3adbc456e0537f64bf07a2e196ac2",
+    "kill_time": "2026-08-04T08:12:13Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123599882,
+      "character_name": "MinerPanda",
+      "corporation_id": 98828926,
+      "corporation_name": "PandaBeers",
+      "alliance_id": 99013972,
+      "alliance_name": "Vikings."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137469590/",
+    "total_value": 5997848011.7,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137469179,
+    "killmail_hash": "bc66521fe60544118d4b68ac41f3dd157a6f3e12",
+    "kill_time": "2026-08-04T07:30:41Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90078828,
+      "character_name": "Cyrus Gunnarr",
+      "corporation_id": 98069093,
+      "corporation_name": "1st MC",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137469179/",
+    "total_value": 10599128640.46,
+    "final_attacker": {
+      "character_name": "vicemen",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Bane"
+    }
+  },
+  {
+    "killmail_id": 137468925,
+    "killmail_hash": "acfa729a50253ffb527316ca53a140648da5b30d",
+    "kill_time": "2026-08-04T07:10:18Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 392942401,
+      "character_name": "Roid Gobbler",
+      "corporation_id": 98761471,
+      "corporation_name": "2 Days to Mine",
+      "alliance_id": 99013637,
+      "alliance_name": "The Worst Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137468925/",
+    "total_value": 11958115546.25,
+    "final_attacker": {
+      "character_name": "zLegion 16",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137466596,
     "killmail_hash": "72a020ca1d7c0574e0705ee791d08373dc7f1fbc",
     "kill_time": "2026-08-04T03:25:19Z",
@@ -2025,110 +2181,6 @@
       "corporation_name": "Shadow Legion X",
       "alliance_name": "Seriously Suspicious",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137318856,
-    "killmail_hash": "6407dc82d7828a08e049e6c294b41e00699c974c",
-    "kill_time": "2026-07-28T10:41:58Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 96398983,
-      "character_name": "Rebecca Madullier",
-      "corporation_id": 98818564,
-      "corporation_name": "NCdot Services",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137318856/",
-    "total_value": 1667802320.65,
-    "final_attacker": {
-      "character_name": "Blood Stains",
-      "corporation_name": "Syndicate Enterprise",
-      "alliance_name": "Sigma Grindset",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 137318421,
-    "killmail_hash": "fa55c322e5a7362c191bea2fcf839af7c9952ab5",
-    "kill_time": "2026-07-28T09:59:44Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000253,
-    "solar_system_name": "DAYP-G",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122514618,
-      "character_name": "Focus Damage",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137318421/",
-    "total_value": 24405528988.09,
-    "final_attacker": {
-      "character_name": "darin ifrim",
-      "corporation_name": "Special law enforcement department",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 137317199,
-    "killmail_hash": "86a3a321d53cecf28df190213d4bf1b6ac15a750",
-    "kill_time": "2026-07-28T07:45:05Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 92119721,
-      "character_name": "Bad Ass Sidious",
-      "corporation_id": 98306027,
-      "corporation_name": "SpaceFire Holding",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137317199/",
-    "total_value": 6076696609.05,
-    "final_attacker": {
-      "character_name": "Deeluxer",
-      "corporation_name": "Monkey Attack Squad",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137316607,
-    "killmail_hash": "f8540a1e8f46fa5045f443f297ad3db8ab9b1c1f",
-    "kill_time": "2026-07-28T06:42:16Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117658718,
-      "character_name": "Syclobs",
-      "corporation_id": 98809939,
-      "corporation_name": "Valkyrie Heavy Shipyards",
-      "alliance_id": 154104258,
-      "alliance_name": "Apocalypse Now."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137316607/",
-    "total_value": 8473970419.88,
-    "final_attacker": {
-      "character_name": "Smuggle Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
     }
   }
 ]
