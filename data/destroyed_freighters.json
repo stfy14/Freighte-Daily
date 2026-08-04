@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137466596,
+    "killmail_hash": "72a020ca1d7c0574e0705ee791d08373dc7f1fbc",
+    "kill_time": "2026-08-04T03:25:19Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 292725865,
+      "character_name": "PK Boo",
+      "corporation_id": 98521258,
+      "corporation_name": "Golden Shaft Production",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137466596/",
+    "total_value": 8728507309.51,
+    "final_attacker": {
+      "character_name": "Jondalz3000",
+      "corporation_name": "The Terrifying League Of Dog Fort",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137464797,
     "killmail_hash": "b3ac1a0fa5fb65436e0d93a73fc29fe5453c4227",
     "kill_time": "2026-08-04T01:05:01Z",
@@ -2103,32 +2129,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 137315067,
-    "killmail_hash": "9daf6db410f39306cf98d84dcd98b24a70df87a0",
-    "kill_time": "2026-07-28T04:04:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002718,
-    "solar_system_name": "Rancer",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122180086,
-      "character_name": "Denenair Khashour",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137315067/",
-    "total_value": 1782053136.17,
-    "final_attacker": {
-      "character_name": "Double Double Kaladent",
-      "corporation_name": "Blackwater USA Inc.",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
