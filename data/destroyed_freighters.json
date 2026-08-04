@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137471902,
+    "killmail_hash": "2a6852edfe701b9da2ed53f701221e85ca6eaf48",
+    "kill_time": "2026-08-04T11:50:16Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 93280034,
+      "character_name": "Mikky Amelana",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137471902/",
+    "total_value": 1769575183.97,
+    "final_attacker": {
+      "character_name": "Theodore Mosby",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137471403,
+    "killmail_hash": "a77bff3da974d19af47bc0c41b8ec268eb378fab",
+    "kill_time": "2026-08-04T10:41:41Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121431749,
+      "character_name": "MAPDAVIS",
+      "corporation_id": 98747887,
+      "corporation_name": "MAPD Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137471403/",
+    "total_value": 16724666867.55,
+    "final_attacker": {
+      "character_name": "zLegion 23",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137471173,
     "killmail_hash": "22dd99926697703058a4466e3d2a56909391787e",
     "kill_time": "2026-08-04T10:20:19Z",
