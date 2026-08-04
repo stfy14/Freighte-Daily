@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137482141,
+    "killmail_hash": "3fa7863ee0bebf0cce677231c35d4bcbccaf0b0c",
+    "kill_time": "2026-08-04T20:32:08Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121802762,
+      "character_name": "Mangopop",
+      "corporation_id": 98755111,
+      "corporation_name": "Black Rise Industial Association",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137482141/",
+    "total_value": 2148797394.13,
+    "final_attacker": {
+      "character_name": "Painter Alt 3",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137477424,
     "killmail_hash": "057b0e6ccebce4c92c76d3b00fae9d9447972785",
     "kill_time": "2026-08-04T16:57:10Z",
@@ -2337,110 +2363,6 @@
       "corporation_name": "Balls Deep Inc.",
       "alliance_name": "OnlyFleets.",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 137329690,
-    "killmail_hash": "3437ac1bb06ea41a00c152e5ceaf62700af3ff5a",
-    "kill_time": "2026-07-28T21:18:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2121189791,
-      "character_name": "Kyoland Engineer",
-      "corporation_id": 98562360,
-      "corporation_name": "My Little Pony.",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137329690/",
-    "total_value": 1774743081.71,
-    "final_attacker": {
-      "character_name": "HxK",
-      "corporation_name": "Aurora.",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137329161,
-    "killmail_hash": "9b722f43fd3110e656bd9f79a9443bd56f504066",
-    "kill_time": "2026-07-28T20:45:52Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2112577346,
-      "character_name": "Feorian Anderson",
-      "corporation_id": 98403073,
-      "corporation_name": "S0viet Uni0n",
-      "alliance_id": 99013537,
-      "alliance_name": "Insidious."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137329161/",
-    "total_value": 7531995961.23,
-    "final_attacker": {
-      "character_name": "Darth VaIdemar",
-      "corporation_name": "Siromanci",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137328473,
-    "killmail_hash": "b6d963c43ba84ea04bdf094b6280d094a476544f",
-    "kill_time": "2026-07-28T20:12:57Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000663,
-    "solar_system_name": "DE-A7P",
-    "region_name": "Scalding Pass",
-    "victim": {
-      "character_id": 2124425913,
-      "character_name": "Paul Atreides X",
-      "corporation_id": 98648361,
-      "corporation_name": "Deadspace Excavations",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137328473/",
-    "total_value": 2190490395.25,
-    "final_attacker": {
-      "character_name": "Talon Karrdex",
-      "corporation_name": "Unleashed' Fury",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Drekavac"
-    }
-  },
-  {
-    "killmail_id": 137326333,
-    "killmail_hash": "39ddd3a26887596d2e0bae76b7736855e6e724a7",
-    "kill_time": "2026-07-28T18:38:09Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 1270901160,
-      "character_name": "BornePassive",
-      "corporation_id": 98732877,
-      "corporation_name": "Iron Whales",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137326333/",
-    "total_value": 7807034308.77,
-    "final_attacker": {
-      "character_name": "Antaire Riggers",
-      "corporation_name": "Shadow Legion X",
-      "alliance_name": "Seriously Suspicious",
-      "ship_type_name": "Purifier"
     }
   }
 ]
