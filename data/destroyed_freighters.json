@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137502298,
+    "killmail_hash": "5943b5e3ed879c595e7f496eb3e0c2cd495db694",
+    "kill_time": "2026-08-05T19:04:09Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002922,
+    "solar_system_name": "E-FIC0",
+    "region_name": "Deklein",
+    "victim": {
+      "character_id": 2121807289,
+      "character_name": "SAREF-LP",
+      "corporation_id": 98753204,
+      "corporation_name": "R-E-D MACHINE",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137502298/",
+    "total_value": 1765887173.87,
+    "final_attacker": {
+      "character_name": "Scy7hE",
+      "corporation_name": "Belt Raider Inc.",
+      "alliance_name": "Wrecking Machine.",
+      "ship_type_name": "Omen Navy Issue"
+    }
+  },
+  {
     "killmail_id": 137500385,
     "killmail_hash": "9f3f2ec6f34f494d5524acb5e14af9bc86e5cfb0",
     "kill_time": "2026-08-05T17:14:43Z",
@@ -2675,110 +2701,6 @@
       "corporation_name": "Exploration Enterprises",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137349750,
-    "killmail_hash": "b6c5da88f37b69221af668de1f2aafdb602713de",
-    "kill_time": "2026-07-29T21:04:52Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114669340,
-      "character_name": "BarbaraofNazerath",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137349750/",
-    "total_value": 3015563064.42,
-    "final_attacker": {
-      "character_name": "004 DUNK",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137349398,
-    "killmail_hash": "294386fd8330a50723d9b42d4dada1196676c203",
-    "kill_time": "2026-07-29T20:51:38Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002370,
-    "solar_system_name": "PX-IHN",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 2124506562,
-      "character_name": "Bullfrog Allez",
-      "corporation_id": 98798071,
-      "corporation_name": "ADFU Kum N Go Transport Group",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137349398/",
-    "total_value": 7964881454.37,
-    "final_attacker": {
-      "character_name": "Roue",
-      "corporation_name": "Stimulus",
-      "alliance_name": "Rote Kapelle",
-      "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 137349274,
-    "killmail_hash": "795fca1a6a808ae847f226aea6d070ea893e6252",
-    "kill_time": "2026-07-29T20:47:38Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115255267,
-      "character_name": "ZahaHadid",
-      "corporation_id": 98603606,
-      "corporation_name": "Climbing Business Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137349274/",
-    "total_value": 1775637310.46,
-    "final_attacker": {
-      "character_name": "Pubbie Edgelord Memelord",
-      "corporation_name": "Hogyoku",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137348717,
-    "killmail_hash": "b043979c9f767403f90ce10ee0955c9dc3f8f1e2",
-    "kill_time": "2026-07-29T20:26:55Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002800,
-    "solar_system_name": "Haatomo",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122664328,
-      "character_name": "Sakatha Amelana",
-      "corporation_id": 98589820,
-      "corporation_name": "Heavy Haulage Ltd",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137348717/",
-    "total_value": 3554959405.61,
-    "final_attacker": {
-      "character_name": "Inspector Implant",
-      "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
     }
   }
 ]
