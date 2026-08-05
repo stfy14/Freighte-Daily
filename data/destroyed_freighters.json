@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137488794,
+    "killmail_hash": "edb416835fc5395b2c667460cd265e2c2aa27752",
+    "kill_time": "2026-08-05T03:00:38Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114606936,
+      "character_name": "Nek Sotken",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137488794/",
+    "total_value": 7215075560.4,
+    "final_attacker": {
+      "character_name": "Dmitri Petroyovik",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 137487836,
+    "killmail_hash": "cdcd90c255e421f4cb334316d6831ae827fc0985",
+    "kill_time": "2026-08-05T02:13:07Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118592764,
+      "character_name": "Lady of Flames",
+      "corporation_id": 98819427,
+      "corporation_name": "Phoenix Frontier Consortium",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137487836/",
+    "total_value": 1914172236.66,
+    "final_attacker": {
+      "character_name": "Erotic Trade",
+      "corporation_name": "Xen Investments",
+      "alliance_name": null,
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
+    "killmail_id": 137485204,
+    "killmail_hash": "ca174dae9a3264bf1a3cd1dc8d176019ef3ca104",
+    "kill_time": "2026-08-04T23:06:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120551030,
+      "character_name": "Dean2",
+      "corporation_id": 98835273,
+      "corporation_name": "New Horizons Mining and Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137485204/",
+    "total_value": 2278685941.29,
+    "final_attacker": {
+      "character_name": "Jason Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137484418,
+    "killmail_hash": "18c018c338d22fa0f71b7dbada99a9176f0a723d",
+    "kill_time": "2026-08-04T22:13:17Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122341292,
+      "character_name": "Deconx",
+      "corporation_id": 98774888,
+      "corporation_name": "Symbioticx",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137484418/",
+    "total_value": 7780604014.56,
+    "final_attacker": {
+      "character_name": "Mila Yakinov",
+      "corporation_name": "Lightning Squad",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137482141,
     "killmail_hash": "3fa7863ee0bebf0cce677231c35d4bcbccaf0b0c",
     "kill_time": "2026-08-04T20:32:08Z",
@@ -2311,58 +2415,6 @@
       "corporation_name": "Lazerhawks",
       "alliance_name": "L A Z E R H A W K S",
       "ship_type_name": "Sabre"
-    }
-  },
-  {
-    "killmail_id": 137330875,
-    "killmail_hash": "497a32fdd40b77d658ca8f9f4076a66672e0dc0c",
-    "kill_time": "2026-07-28T22:44:36Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2112886964,
-      "character_name": "Karti Hulk",
-      "corporation_id": 1297486126,
-      "corporation_name": "Herrscher der Zeit",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137330875/",
-    "total_value": 10615744161.34,
-    "final_attacker": {
-      "character_name": "Flamie",
-      "corporation_name": "The Terrifying League Of Dog Fort",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 137330120,
-    "killmail_hash": "3335e0dbca3da9ead1390d367979e6b8d353d9c3",
-    "kill_time": "2026-07-28T21:45:36Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002131,
-    "solar_system_name": "94FR-S",
-    "region_name": "Immensea",
-    "victim": {
-      "character_id": 93653736,
-      "character_name": "Marve1",
-      "corporation_id": 1116537731,
-      "corporation_name": "Per astera ad astra",
-      "alliance_id": 99010877,
-      "alliance_name": "Out of the Blue."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137330120/",
-    "total_value": 1697461442.28,
-    "final_attacker": {
-      "character_name": "Devalo",
-      "corporation_name": "Balls Deep Inc.",
-      "alliance_name": "OnlyFleets.",
-      "ship_type_name": "Sin"
     }
   }
 ]
