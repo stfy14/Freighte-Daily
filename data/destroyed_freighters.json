@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137491973,
+    "killmail_hash": "d38f48edd2e43fb4bfed5e2d6955a4a843b60f69",
+    "kill_time": "2026-08-05T06:50:06Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003471,
+    "solar_system_name": "Konora",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123346786,
+      "character_name": "NT MiningBot 4",
+      "corporation_id": 98681117,
+      "corporation_name": "MOONFIRE SERVICE PROVIDER",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137491973/",
+    "total_value": 8134805602.42,
+    "final_attacker": {
+      "character_name": "Kognac",
+      "corporation_name": "Outback Steakhouse of Pancakes",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 137491521,
     "killmail_hash": "03e19ab4b2889ec913786da6bcaa82ad3a9e941f",
     "kill_time": "2026-08-05T06:15:52Z",
