@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137500385,
+    "killmail_hash": "9f3f2ec6f34f494d5524acb5e14af9bc86e5cfb0",
+    "kill_time": "2026-08-05T17:14:43Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95224212,
+      "character_name": "Zachariash Fell",
+      "corporation_id": 98725132,
+      "corporation_name": "Phoenix Connection",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137500385/",
+    "total_value": 1719388918.37,
+    "final_attacker": {
+      "character_name": "Styx Prana",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 137496126,
     "killmail_hash": "3b527804d38eaaea5aeb9d881ccd056fd729da57",
     "kill_time": "2026-08-05T13:14:46Z",
@@ -2753,32 +2779,6 @@
       "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137342501,
-    "killmail_hash": "df98df9492de41d3e58b9c7346b5eafe46cca603",
-    "kill_time": "2026-07-29T15:26:16Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002723,
-    "solar_system_name": "Otou",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124383612,
-      "character_name": "Cassian Valentine",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137342501/",
-    "total_value": 1914993588.42,
-    "final_attacker": {
-      "character_name": "WolfCanyon",
-      "corporation_name": "x13",
-      "alliance_name": "Train Wreck.",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
