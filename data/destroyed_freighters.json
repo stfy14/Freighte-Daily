@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137515053,
+    "killmail_hash": "69856ad729e4b1b4533b844a54ce5b0b8aab68ff",
+    "kill_time": "2026-08-06T10:51:26Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 92348855,
+      "character_name": "Jakye Cealion",
+      "corporation_id": 98815208,
+      "corporation_name": "Nisroc Logistics and Training",
+      "alliance_id": 99011606,
+      "alliance_name": "Strange Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137515053/",
+    "total_value": 2544942970.39,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 137514418,
     "killmail_hash": "5ea07cd0f18eb31c216aef6571fe3d8964bc5be4",
     "kill_time": "2026-08-06T09:56:44Z",
@@ -2675,32 +2701,6 @@
       "corporation_name": "Cracked Out",
       "alliance_name": "Honkai Star Rail.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137360943,
-    "killmail_hash": "7fe68e6597ebb4a2c558d3b0e66b636abe24356b",
-    "kill_time": "2026-07-30T12:27:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001380,
-    "solar_system_name": "Vellaine",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120028214,
-      "character_name": "Jericoa",
-      "corporation_id": 98824507,
-      "corporation_name": "Fuxi Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137360943/",
-    "total_value": 5829594293.17,
-    "final_attacker": {
-      "character_name": "Brilonette Ifant Tissant",
-      "corporation_name": "FishDicks",
-      "alliance_name": "The High Chair",
-      "ship_type_name": "Oracle"
     }
   }
 ]
