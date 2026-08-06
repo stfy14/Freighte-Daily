@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137511480,
+    "killmail_hash": "902df45c7324478476843b8458aafc3e24a4c845",
+    "kill_time": "2026-08-06T05:30:10Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002796,
+    "solar_system_name": "Hysera",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116840437,
+      "character_name": "Market Tax",
+      "corporation_id": 98652202,
+      "corporation_name": "Logical Stimulus",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137511480/",
+    "total_value": 11877080561.26,
+    "final_attacker": {
+      "character_name": "K Vicemen",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 137510873,
+    "killmail_hash": "67329faa8fcc182433fc9a17566903f43536c4be",
+    "kill_time": "2026-08-06T04:30:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117264967,
+      "character_name": "Machete XXL",
+      "corporation_id": 98820329,
+      "corporation_name": "Blue Falcon Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137510873/",
+    "total_value": 1981221265.08,
+    "final_attacker": {
+      "character_name": "MSN-06S Sinanju",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 137508117,
     "killmail_hash": "47487f1a49c73f2815d77d96100dfc600644d3bc",
     "kill_time": "2026-08-06T01:15:52Z",
@@ -2571,32 +2623,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 137355774,
-    "killmail_hash": "8162c403bdb3ac6f7ae2a3bb1b1b49f1ebd5997f",
-    "kill_time": "2026-07-30T03:44:41Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121109020,
-      "character_name": "allliastra",
-      "corporation_id": 98830976,
-      "corporation_name": "vPsychobastards.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137355774/",
-    "total_value": 13505504161.49,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
