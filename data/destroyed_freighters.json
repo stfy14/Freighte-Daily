@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137514418,
+    "killmail_hash": "5ea07cd0f18eb31c216aef6571fe3d8964bc5be4",
+    "kill_time": "2026-08-06T09:56:44Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96626560,
+      "character_name": "mimi chu",
+      "corporation_id": 98815878,
+      "corporation_name": "litietou",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137514418/",
+    "total_value": 9488096584.29,
+    "final_attacker": {
+      "character_name": "zLegion 07",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137513350,
+    "killmail_hash": "d0f05878cea627934398ac47c367bbe2a9d911b9",
+    "kill_time": "2026-08-06T08:37:05Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120964117,
+      "character_name": "Reigohotrn",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137513350/",
+    "total_value": 11429973876.71,
+    "final_attacker": {
+      "character_name": "zLegion 20",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137512592,
+    "killmail_hash": "b47cc51cc47ab5650c8694e480f51bb7efb86d6e",
+    "kill_time": "2026-08-06T07:28:16Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124023032,
+      "character_name": "Astrid Valtierra-AMARR",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137512592/",
+    "total_value": 2762682011.08,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137512319,
+    "killmail_hash": "c343c140eca2588b1c656413a6e996e53750ab47",
+    "kill_time": "2026-08-06T07:00:33Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002635,
+    "solar_system_name": "Decon",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124611022,
+      "character_name": "Stane Arnolles",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137512319/",
+    "total_value": 1656906851.71,
+    "final_attacker": {
+      "character_name": "suspicious brown stain",
+      "corporation_name": "Jerkasaurus Wrecks Inc.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
     "killmail_id": 137511480,
     "killmail_hash": "902df45c7324478476843b8458aafc3e24a4c845",
     "kill_time": "2026-08-06T05:30:10Z",
@@ -2596,32 +2700,6 @@
       "character_name": "Brilonette Ifant Tissant",
       "corporation_name": "FishDicks",
       "alliance_name": "The High Chair",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 137359370,
-    "killmail_hash": "50c6522374259e121bf2a1f3d6264a34303e055b",
-    "kill_time": "2026-07-30T09:32:55Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121513124,
-      "character_name": "Kel Kiona",
-      "corporation_id": 98754582,
-      "corporation_name": "Baba Yagas",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137359370/",
-    "total_value": 9282088286.59,
-    "final_attacker": {
-      "character_name": "zLegion P",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
       "ship_type_name": "Oracle"
     }
   }
