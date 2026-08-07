@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137536646,
+    "killmail_hash": "198d7ea05c26da26ca8ac084ccd0ef94ae02c93e",
+    "kill_time": "2026-08-07T12:35:31Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113601421,
+      "character_name": "Solace Reborn",
+      "corporation_id": 98000682,
+      "corporation_name": "Southern Cross Monopoly",
+      "alliance_id": 99009902,
+      "alliance_name": "Flying Dangerous"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137536646/",
+    "total_value": 10580095115.98,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137535425,
+    "killmail_hash": "2a80974cae239b7495d7830ff2375f23447807c7",
+    "kill_time": "2026-08-07T10:44:04Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124414892,
+      "character_name": "Our App Inc",
+      "corporation_id": 98840062,
+      "corporation_name": "Odin. Orbital. Holdings.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137535425/",
+    "total_value": 10957107500.94,
+    "final_attacker": {
+      "character_name": "zLegion 21",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137534549,
+    "killmail_hash": "b0740df87c18072e72bf9dd0eb08c26736c04cc3",
+    "kill_time": "2026-08-07T09:27:03Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112462733,
+      "character_name": "Alexis Greenspan",
+      "corporation_id": 98826573,
+      "corporation_name": "Cut-N-Run Industries Incorporated",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137534549/",
+    "total_value": 21713577662.15,
+    "final_attacker": {
+      "character_name": "zLegion 04",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137533489,
     "killmail_hash": "0343d9e40f34d91f0d00ff3547aea6c18bd199b8",
     "kill_time": "2026-08-07T07:49:04Z",
@@ -2701,84 +2779,6 @@
       "corporation_name": "Hel's Death Pact",
       "alliance_name": "The Sanguine Covenant",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 137379106,
-    "killmail_hash": "2335023e4a37dbb5bcaee7a07b407822049d6a94",
-    "kill_time": "2026-07-31T10:57:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1599068582,
-      "character_name": "Jackson Morrow",
-      "corporation_id": 98795533,
-      "corporation_name": "Terrifying Eggplant",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137379106/",
-    "total_value": 10481502141.51,
-    "final_attacker": {
-      "character_name": "zLegion P",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137378280,
-    "killmail_hash": "95e5de0885fcb5f4e6c1ac4ebb6cbc1a07c92112",
-    "kill_time": "2026-07-31T09:41:15Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115106589,
-      "character_name": "Braaca Bolmara",
-      "corporation_id": 98714952,
-      "corporation_name": "METROPOLIS INTELLIGENCE BUREAU",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137378280/",
-    "total_value": 1719271626.62,
-    "final_attacker": {
-      "character_name": "Erotic Trade",
-      "corporation_name": "Xen Investments",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137378014,
-    "killmail_hash": "dc517fe6f737d4d7d370fdbfe32d6657ac75f04a",
-    "kill_time": "2026-07-31T09:22:26Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120606165,
-      "character_name": "Ameritz",
-      "corporation_id": 98728504,
-      "corporation_name": "ANGECILEOS-CORP",
-      "alliance_id": 99014979,
-      "alliance_name": "DRACO MIST"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137378014/",
-    "total_value": 4438177707.46,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
