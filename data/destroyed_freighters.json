@@ -2702,31 +2702,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 137373886,
-    "killmail_hash": "18aeab35938b0fad08ad275bf998300cc865f1e0",
-    "kill_time": "2026-07-31T03:00:06Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003751,
-    "solar_system_name": "F-YH5B",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2112328056,
-      "character_name": "Luciano Galun",
-      "corporation_id": 98651050,
-      "corporation_name": "Absolute Order XVIII",
-      "alliance_id": 99009758,
-      "alliance_name": "Absolute Will"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137373886/",
-    "total_value": 4009782902.05,
-    "final_attacker": {
-      "character_name": "Wroomia",
-      "corporation_name": "bota tudo",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Widow"
-    }
   }
 ]
