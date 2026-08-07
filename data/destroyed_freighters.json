@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137533489,
+    "killmail_hash": "0343d9e40f34d91f0d00ff3547aea6c18bd199b8",
+    "kill_time": "2026-08-07T07:49:04Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120546353,
+      "character_name": "Darkened Angel VI",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137533489/",
+    "total_value": 1437002739.86,
+    "final_attacker": {
+      "character_name": "zLegion 07",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137533308,
+    "killmail_hash": "cb9ae59d3837660774583c26c369bf7eaa3d098c",
+    "kill_time": "2026-08-07T07:30:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123271433,
+      "character_name": "Tikko Saken",
+      "corporation_id": 98734467,
+      "corporation_name": "Perimeter Trading Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137533308/",
+    "total_value": 13613518682.19,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137533289,
+    "killmail_hash": "06108736c59d703bd3d7cd92d78d6dcf813a0f66",
+    "kill_time": "2026-08-07T07:29:20Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2118383990,
+      "character_name": "shirosika",
+      "corporation_id": 98569774,
+      "corporation_name": "Arkenstone Foundries Inc.",
+      "alliance_id": 99011268,
+      "alliance_name": "Reeloaded."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137533289/",
+    "total_value": 19706627388.44,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 137526332,
     "killmail_hash": "94dd78c080a508a8d6695f2dc254a2d6ba0edac7",
     "kill_time": "2026-08-06T22:02:25Z",
