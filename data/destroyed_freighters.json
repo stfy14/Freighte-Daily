@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 137545430,
+    "killmail_hash": "63a41e1339d82c5dc2a42e135fe1708df24aaec1",
+    "kill_time": "2026-08-07T19:35:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92574228,
+      "character_name": "SnipiD Otsito",
+      "corporation_id": 98777134,
+      "corporation_name": "Shadow Panthers",
+      "alliance_id": 99013478,
+      "alliance_name": "Panthers Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137545430/",
+    "total_value": 1661799215.14,
+    "final_attacker": {
+      "character_name": "Painter Alt 15",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137545037,
+    "killmail_hash": "86a98a73dd3f1d4b80f5a962db717f4117088d3f",
+    "kill_time": "2026-08-07T19:24:11Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94168318,
+      "character_name": "Tony Sparx",
+      "corporation_id": 98120737,
+      "corporation_name": "RadioActivia",
+      "alliance_id": 99003557,
+      "alliance_name": "LowSechnaya Sholupen"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137545037/",
+    "total_value": 10375095249.45,
+    "final_attacker": {
+      "character_name": "Cheat Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 137544787,
+    "killmail_hash": "8f2332879c8d19fd0fd0abb6b133f8e711163c57",
+    "kill_time": "2026-08-07T19:17:35Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124106353,
+      "character_name": "Edolars",
+      "corporation_id": 98823496,
+      "corporation_name": "Nova Genesis Aventure",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137544787/",
+    "total_value": 13922018684.08,
+    "final_attacker": {
+      "character_name": "Painter Alt 4",
+      "corporation_name": "Painter Advanced Logistics",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137544716,
+    "killmail_hash": "4bdf884d9a483abf97cf5681a0edb96c7146c243",
+    "kill_time": "2026-08-07T19:14:35Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2124096466,
+      "character_name": "Otsutsuki Shibai",
+      "corporation_id": 98120737,
+      "corporation_name": "RadioActivia",
+      "alliance_id": 99003557,
+      "alliance_name": "LowSechnaya Sholupen"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137544716/",
+    "total_value": 9373926746.81,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137544228,
+    "killmail_hash": "8f878235b233b1c6c815e8f31b0a67910d201727",
+    "kill_time": "2026-08-07T18:59:17Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122823518,
+      "character_name": "Alton Houssa",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137544228/",
+    "total_value": 3313593826.53,
+    "final_attacker": {
+      "character_name": "Painter Alt 11",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137541513,
     "killmail_hash": "bda67f79aeb9ecbe73e85a52359c10221cdc0230",
     "kill_time": "2026-08-07T16:43:11Z",
@@ -2726,110 +2856,6 @@
       "character_name": "13th Of Several",
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137388056,
-    "killmail_hash": "fae9909bc3684472897a14fb2ae5f14b62591b81",
-    "kill_time": "2026-07-31T19:54:12Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124536039,
-      "character_name": "Rumpe1stilzchen",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137388056/",
-    "total_value": 1719248258.66,
-    "final_attacker": {
-      "character_name": "Painter Alt 14",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137387158,
-    "killmail_hash": "65d89936223b88190b345237d78918a7bd023210",
-    "kill_time": "2026-07-31T19:17:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123766879,
-      "character_name": "0 I am",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137387158/",
-    "total_value": 6373312789.42,
-    "final_attacker": {
-      "character_name": "Painter Alt 18",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137386542,
-    "killmail_hash": "de44ee3dad7bf08766023b8eed81a4875934051c",
-    "kill_time": "2026-07-31T18:57:25Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002801,
-    "solar_system_name": "Suroken",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123696865,
-      "character_name": "BSLC - 010",
-      "corporation_id": 98811174,
-      "corporation_name": "Black Sky Logistics Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137386542/",
-    "total_value": 21054184468.32,
-    "final_attacker": {
-      "character_name": "Painter Alt 1",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137385863,
-    "killmail_hash": "b31bc6b024878f2f03392cb16db251db941a22b5",
-    "kill_time": "2026-07-31T18:29:05Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117885389,
-      "character_name": "tant520",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137385863/",
-    "total_value": 1528843227.26,
-    "final_attacker": {
-      "character_name": "Painter Alt 15",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
   }
