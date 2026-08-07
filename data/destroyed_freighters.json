@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137526332,
+    "killmail_hash": "94dd78c080a508a8d6695f2dc254a2d6ba0edac7",
+    "kill_time": "2026-08-06T22:02:25Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122070554,
+      "character_name": "Evpatiy",
+      "corporation_id": 98350512,
+      "corporation_name": "The Serious Business",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137526332/",
+    "total_value": 1663695337.45,
+    "final_attacker": {
+      "character_name": "Luukje",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Devoter"
+    }
+  },
+  {
+    "killmail_id": 137522865,
+    "killmail_hash": "d24d74478821120f49fe927e82555bed6556de07",
+    "kill_time": "2026-08-06T18:56:06Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2120143904,
+      "character_name": "Sheila Gack",
+      "corporation_id": 98831045,
+      "corporation_name": "Irradiated",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137522865/",
+    "total_value": 1658052152.59,
+    "final_attacker": {
+      "character_name": "LuckyNumber",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 137515053,
     "killmail_hash": "69856ad729e4b1b4533b844a54ce5b0b8aab68ff",
     "kill_time": "2026-08-06T10:51:26Z",
@@ -2675,32 +2727,6 @@
       "corporation_name": "bota tudo",
       "alliance_name": "Honorable Third Party",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 137370797,
-    "killmail_hash": "617780bf57a822ffcfbcf9adb514acb6153ad553",
-    "kill_time": "2026-07-30T22:46:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123201670,
-      "character_name": "GhostRK",
-      "corporation_id": 98748599,
-      "corporation_name": "Kenshin Industries.",
-      "alliance_id": 99012843,
-      "alliance_name": "Kenshin Shogunate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137370797/",
-    "total_value": 1971526535.06,
-    "final_attacker": {
-      "character_name": "Rin sai",
-      "corporation_name": "Cracked Out",
-      "alliance_name": "Honkai Star Rail.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
