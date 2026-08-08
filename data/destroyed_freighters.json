@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137555964,
+    "killmail_hash": "890d5c8022bd84da615228659d3478caff15f1fd",
+    "kill_time": "2026-08-08T04:00:39Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30005268,
+    "solar_system_name": "Gonditsa",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 94894713,
+      "character_name": "kv2 dng",
+      "corporation_id": 263585335,
+      "corporation_name": "Black Omega Security",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137555964/",
+    "total_value": 5940383379.94,
+    "final_attacker": {
+      "character_name": "Azemar",
+      "corporation_name": "Voidhounds",
+      "alliance_name": "Pretenders",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 137555087,
+    "killmail_hash": "e1f7526e7c3d0c325a9797bfd8ab91b6ce601370",
+    "kill_time": "2026-08-08T03:17:25Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000264,
+    "solar_system_name": "V-NL3K",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2116060502,
+      "character_name": "Gellar Shi",
+      "corporation_id": 98540583,
+      "corporation_name": "Special law enforcement department",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137555087/",
+    "total_value": 8963923759.07,
+    "final_attacker": {
+      "character_name": "zmezmer",
+      "corporation_name": "Wormhole Campus",
+      "alliance_name": "10 Minutes' Notice",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 137550877,
     "killmail_hash": "1829ee51715689b7ad8d00948746530456f7bbd6",
     "kill_time": "2026-08-07T23:24:51Z",
@@ -2935,58 +2987,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137396278,
-    "killmail_hash": "1c6311389f30307aaefaee0d2fbf66b6ea1d2806",
-    "kill_time": "2026-08-01T03:58:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94008822,
-      "character_name": "Velba de Jesus",
-      "corporation_id": 1701301028,
-      "corporation_name": "Odacear's Private Navy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137396278/",
-    "total_value": 1673349772.1,
-    "final_attacker": {
-      "character_name": "zLegion 17",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137395842,
-    "killmail_hash": "940ce624333d3ee12de01aff63876c568c358e61",
-    "kill_time": "2026-08-01T03:31:52Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1127665798,
-      "character_name": "Kad3n",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137395842/",
-    "total_value": 2359836727.41,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
