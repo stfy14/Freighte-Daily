@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137564897,
+    "killmail_hash": "e703aa0adfa51079d585e2376aedc7ea7d450896",
+    "kill_time": "2026-08-08T13:46:59Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121538035,
+      "character_name": "Ryan O'Hara",
+      "corporation_id": 98822844,
+      "corporation_name": "Joint Mining Task Farce",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137564897/",
+    "total_value": 1744979945.16,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137563473,
     "killmail_hash": "7a18631855f6233e4e04b56bfb6d5a8d369fbda5",
     "kill_time": "2026-08-08T12:49:48Z",
@@ -2987,32 +3013,6 @@
       "corporation_name": "Interstellar Scum",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 137404872,
-    "killmail_hash": "ef09884b776a88c7afbf8bdb67f5b1925cb44a29",
-    "kill_time": "2026-08-01T13:44:31Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2116470968,
-      "character_name": "Dunderclumpmen",
-      "corporation_id": 98637669,
-      "corporation_name": "F.13 - Union of Russians",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137404872/",
-    "total_value": 2808617050.79,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
