@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137557098,
+    "killmail_hash": "24f3a6aaf47fd434f5a35f65541b72870b33932c",
+    "kill_time": "2026-08-08T05:18:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 101710866,
+      "character_name": "CPTFloux",
+      "corporation_id": 1112549526,
+      "corporation_name": "M.I.B",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137557098/",
+    "total_value": 1657817241.79,
+    "final_attacker": {
+      "character_name": "Panda SuLin",
+      "corporation_name": "Battlestars",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 137555964,
     "killmail_hash": "890d5c8022bd84da615228659d3478caff15f1fd",
     "kill_time": "2026-08-08T04:00:39Z",
@@ -2932,58 +2958,6 @@
     "total_value": 3258913074.08,
     "final_attacker": {
       "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137399863,
-    "killmail_hash": "c13b08cf58ee0eaf135a9199b7842b58c88105d8",
-    "kill_time": "2026-08-01T08:10:09Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124442532,
-      "character_name": "Hutistis Demise",
-      "corporation_id": 98831992,
-      "corporation_name": "The 3 Capsuleers",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137399863/",
-    "total_value": 2427723020.05,
-    "final_attacker": {
-      "character_name": "zLegion 15",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137398111,
-    "killmail_hash": "6d34a45170394ca1d6c6982bd0b80b52dcbfb39e",
-    "kill_time": "2026-08-01T06:15:15Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96861017,
-      "character_name": "Sakensun",
-      "corporation_id": 1000009,
-      "corporation_name": "Caldari Provisions",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137398111/",
-    "total_value": 6765766645.98,
-    "final_attacker": {
-      "character_name": "zLegion 03",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
