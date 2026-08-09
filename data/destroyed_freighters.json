@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137598208,
+    "killmail_hash": "f6ab12a7bc8ce1c10e56fec8dabe4b39c9c8dea4",
+    "kill_time": "2026-08-09T15:20:07Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003151,
+    "solar_system_name": "R-ARKN",
+    "region_name": "Esoteria",
+    "victim": {
+      "character_id": 2123332510,
+      "character_name": "SleepyTV",
+      "corporation_id": 98633815,
+      "corporation_name": "Ether Element",
+      "alliance_id": 99003995,
+      "alliance_name": "Invidia Gloriae Comes"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137598208/",
+    "total_value": 6743917290.87,
+    "final_attacker": {
+      "character_name": "Tengl Erata",
+      "corporation_name": "Ecliptic Control",
+      "alliance_name": "Ferrata Victrix",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 137597813,
+    "killmail_hash": "e1918a36cd04dd7578b070347101fd62ef19da48",
+    "kill_time": "2026-08-09T15:04:49Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004323,
+    "solar_system_name": "AH-B84",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 2117670255,
+      "character_name": "Rat Izia",
+      "corporation_id": 98716579,
+      "corporation_name": "Marauders Shadow",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137597813/",
+    "total_value": 7068095772.79,
+    "final_attacker": {
+      "character_name": "Godsrage",
+      "corporation_name": "Kriegsmarinewerft",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 137591924,
     "killmail_hash": "6b9add593c862e170db503754de72d9fa2d20b11",
     "kill_time": "2026-08-09T10:29:02Z",
@@ -3195,32 +3247,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 137433818,
-    "killmail_hash": "375c2c6fbfe3c6f30636af71a26dd23dccf7463f",
-    "kill_time": "2026-08-02T16:04:45Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000242,
-    "solar_system_name": "8TPX-N",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116166356,
-      "character_name": "DOZATOR 666",
-      "corporation_id": 98306027,
-      "corporation_name": "SpaceFire Holding",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137433818/",
-    "total_value": 1773873115.08,
-    "final_attacker": {
-      "character_name": "El cascador258",
-      "corporation_name": "Teutate raiders",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
