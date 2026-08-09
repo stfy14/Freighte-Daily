@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137589699,
+    "killmail_hash": "336e4cc7581d17e920637ace867b80b5ef80d194",
+    "kill_time": "2026-08-09T08:45:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122478085,
+      "character_name": "AngelaBalzac",
+      "corporation_id": 98525262,
+      "corporation_name": "Liberal heavy cavalry",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137589699/",
+    "total_value": 4584489777.74,
+    "final_attacker": {
+      "character_name": "Rtard Zirud",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
+    "killmail_id": 137587980,
+    "killmail_hash": "27c2fe8d43a20958e53afaab73f479bd6cef6385",
+    "kill_time": "2026-08-09T06:50:50Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 90923059,
+      "character_name": "Andre Odunen",
+      "corporation_id": 1427226580,
+      "corporation_name": "SpacePioneers",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137587980/",
+    "total_value": 7242063473.73,
+    "final_attacker": {
+      "character_name": "Swipe Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 137587689,
+    "killmail_hash": "9fe7543ec274856e2ecf3794e6abdb76011dbe7d",
+    "kill_time": "2026-08-09T06:37:06Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114451018,
+      "character_name": "Lilith Lipenaun",
+      "corporation_id": 98646653,
+      "corporation_name": "Sisters of EVE the fourth Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137587689/",
+    "total_value": 3782065834.98,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137586123,
     "killmail_hash": "66b152f09d7f57a5049dccd3c0689f3c518f7468",
     "kill_time": "2026-08-09T05:06:16Z",
@@ -520,6 +598,32 @@
     }
   },
   {
+    "killmail_id": 137557768,
+    "killmail_hash": "3e8f80deab81ebba905c7744d2a7cae9aa5d6a0f",
+    "kill_time": "2026-08-08T06:09:56Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118702408,
+      "character_name": "CH-HeiDi",
+      "corporation_id": 98707431,
+      "corporation_name": "Serenity Moe University",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137557768/",
+    "total_value": 13042653281.4,
+    "final_attacker": {
+      "character_name": "Fool Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 137557098,
     "killmail_hash": "24f3a6aaf47fd434f5a35f65541b72870b33932c",
     "kill_time": "2026-08-08T05:18:04Z",
@@ -543,6 +647,58 @@
       "corporation_name": "Battlestars",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 137557051,
+    "killmail_hash": "eda80bbff89cc4f147cdd137bdff18d5dd68708f",
+    "kill_time": "2026-08-08T05:16:33Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2114349256,
+      "character_name": "ben xiong",
+      "corporation_id": 98838055,
+      "corporation_name": "Kazama corporate group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137557051/",
+    "total_value": 13370897888.08,
+    "final_attacker": {
+      "character_name": "Plunder Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 137556311,
+    "killmail_hash": "79fd67a6599b68241d82eb30fed2dac5bc9d4fce",
+    "kill_time": "2026-08-08T04:27:54Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123116256,
+      "character_name": "YouDI",
+      "corporation_id": 98802379,
+      "corporation_name": "Lala move Logistics Company",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137556311/",
+    "total_value": 7284760140.35,
+    "final_attacker": {
+      "character_name": "Vindictive Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
     }
   },
   {
@@ -751,6 +907,32 @@
       "corporation_name": "The Wings of Maak",
       "alliance_name": null,
       "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 137548145,
+    "killmail_hash": "3746dab779c48a71e6c387562e3e0a2b261bda8a",
+    "kill_time": "2026-08-07T21:06:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 894447336,
+      "character_name": "Phugoid",
+      "corporation_id": 98707674,
+      "corporation_name": "Absolute Order XL",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137548145/",
+    "total_value": 7964625510.85,
+    "final_attacker": {
+      "character_name": "Plunder Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
     }
   },
   {
@@ -3039,136 +3221,6 @@
       "corporation_name": "Xen Investments",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137425585,
-    "killmail_hash": "630580da1ded82330023b8e3ac8a9139baf9e6b0",
-    "kill_time": "2026-08-02T08:32:09Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90564925,
-      "character_name": "Le0 Hulk",
-      "corporation_id": 1000014,
-      "corporation_name": "Perkone",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137425585/",
-    "total_value": 5487262029.78,
-    "final_attacker": {
-      "character_name": "zLegion 05",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137425189,
-    "killmail_hash": "747223ccecb3ebd1a12d9a21370bde47cecf8562",
-    "kill_time": "2026-08-02T08:07:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114863352,
-      "character_name": "Coni Zob",
-      "corporation_id": 98758015,
-      "corporation_name": "Argent Vanguard",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137425189/",
-    "total_value": 2042766067.5,
-    "final_attacker": {
-      "character_name": "zLegion 26",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 137424891,
-    "killmail_hash": "80fc5688f10d84d3988b879dc2330ef9be1d495c",
-    "kill_time": "2026-08-02T07:49:01Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124404290,
-      "character_name": "Thivaaa",
-      "corporation_id": 98834856,
-      "corporation_name": "Nouvelle Strate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137424891/",
-    "total_value": 2185996484.87,
-    "final_attacker": {
-      "character_name": "Erotic Trade",
-      "corporation_name": "Xen Investments",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137424845,
-    "killmail_hash": "9d17f7456261289926aea0c64efa4695dd66dbf1",
-    "kill_time": "2026-08-02T07:47:29Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119611383,
-      "character_name": "JackyWONG31",
-      "corporation_id": 98656093,
-      "corporation_name": "The Man Who Changed China",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137424845/",
-    "total_value": 3333186073.49,
-    "final_attacker": {
-      "character_name": "zLegion 22",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137423906,
-    "killmail_hash": "c0fd29e4f7d692e7b0614f8254ddf529f472a399",
-    "kill_time": "2026-08-02T06:31:27Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122179611,
-      "character_name": "Kamnezhor",
-      "corporation_id": 98572759,
-      "corporation_name": "Ostrov v okeane",
-      "alliance_id": 99014419,
-      "alliance_name": "Seals on the rocks"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137423906/",
-    "total_value": 2539994982.44,
-    "final_attacker": {
-      "character_name": "zLegion 21",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
