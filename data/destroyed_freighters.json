@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137616521,
+    "killmail_hash": "9e7eb476d047d39a559513b3f6a161e461c137e6",
+    "kill_time": "2026-08-10T08:48:00Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001135,
+    "solar_system_name": "HG-YEQ",
+    "region_name": "Malpais",
+    "victim": {
+      "character_id": 2123048617,
+      "character_name": "Ceremony",
+      "corporation_id": 98769969,
+      "corporation_name": "Bozo Circus",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137616521/",
+    "total_value": 1871272983.72,
+    "final_attacker": {
+      "character_name": "dancingf",
+      "corporation_name": "Family Guy.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137616312,
+    "killmail_hash": "17f1547379c05a0a583bc2f1169eec7f857bc640",
+    "kill_time": "2026-08-10T08:25:24Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000242,
+    "solar_system_name": "8TPX-N",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2117900340,
+      "character_name": "zhulin2",
+      "corporation_id": 98825044,
+      "corporation_name": "Navigators' Union",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137616312/",
+    "total_value": 4438913048.17,
+    "final_attacker": {
+      "character_name": "GambbiT",
+      "corporation_name": "EVE-RO",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137609167,
     "killmail_hash": "8b00c8b6b08b36ff1f992dbad56e80f97c2379d0",
     "kill_time": "2026-08-09T22:49:29Z",
@@ -3143,58 +3195,6 @@
       "corporation_name": "The Flying Dead.",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 137450170,
-    "killmail_hash": "81b2c4d91ea9df60e462f5b9eb0b578885dcea57",
-    "kill_time": "2026-08-03T09:35:51Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123051891,
-      "character_name": "JacobBerg",
-      "corporation_id": 1000168,
-      "corporation_name": "Federal Navy Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137450170/",
-    "total_value": 5208771227.3,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137448094,
-    "killmail_hash": "4d77bb041838cd1ec4eab94ba45b7e834e915b89",
-    "kill_time": "2026-08-03T06:10:47Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002059,
-    "solar_system_name": "Auner",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123885840,
-      "character_name": "Latek",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137448094/",
-    "total_value": 1998877926.98,
-    "final_attacker": {
-      "character_name": "Xtra Squishy lol",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Phoenix"
     }
   }
 ]
