@@ -3196,57 +3196,5 @@
       "alliance_name": "Sedition.",
       "ship_type_name": "Phoenix"
     }
-  },
-  {
-    "killmail_id": 137445729,
-    "killmail_hash": "e6940de9f251553b87e7fd52948fdaaa94bf25c0",
-    "kill_time": "2026-08-03T02:46:21Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30045341,
-    "solar_system_name": "Hallanen",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2114856331,
-      "character_name": "H8 Yu",
-      "corporation_id": 98814522,
-      "corporation_name": "A Machine For Frogs",
-      "alliance_id": 99015154,
-      "alliance_name": "FrogField Armory Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137445729/",
-    "total_value": 11496259121.83,
-    "final_attacker": {
-      "character_name": "Purple People",
-      "corporation_name": "Boomer Humor",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 137445640,
-    "killmail_hash": "d85cb43d3d0a62f5cbf9a0380cf9f4a697319bd9",
-    "kill_time": "2026-08-03T02:41:13Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116786896,
-      "character_name": "Erosman30 Aurgnet",
-      "corporation_id": 98558506,
-      "corporation_name": "A Blessed Bean",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137445640/",
-    "total_value": 15478514543.21,
-    "final_attacker": {
-      "character_name": "Perseus Kallistratos",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
   }
 ]
