@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137617488,
+    "killmail_hash": "0f23a8144b5a7b1dc0eb5a6c4e341c76d4611b31",
+    "kill_time": "2026-08-10T10:13:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 928811566,
+      "character_name": "D Astorius",
+      "corporation_id": 98803802,
+      "corporation_name": "BLOBinA",
+      "alliance_id": 99012019,
+      "alliance_name": "Can i bring my Drake..."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137617488/",
+    "total_value": 4811943573.09,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137616871,
+    "killmail_hash": "57b510fa87d1454b7cb661f2be346746e75cccd1",
+    "kill_time": "2026-08-10T09:17:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002786,
+    "solar_system_name": "Ikao",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94716207,
+      "character_name": "Una Uitra",
+      "corporation_id": 1569992827,
+      "corporation_name": "OffBeat Creations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137616871/",
+    "total_value": 2161731753.21,
+    "final_attacker": {
+      "character_name": "zLegion 01",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 137616521,
     "killmail_hash": "9e7eb476d047d39a559513b3f6a161e461c137e6",
     "kill_time": "2026-08-10T08:48:00Z",
@@ -26,6 +78,32 @@
     }
   },
   {
+    "killmail_id": 137616413,
+    "killmail_hash": "f7025ccf1f5903cb13bbe744e38d1d23471cc748",
+    "kill_time": "2026-08-10T08:38:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122244157,
+      "character_name": "Arnfinn Snaebjornsson",
+      "corporation_id": 98836623,
+      "corporation_name": "Totally Legal Cargo",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137616413/",
+    "total_value": 1826007817.31,
+    "final_attacker": {
+      "character_name": "zLegion 08",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137616312,
     "killmail_hash": "17f1547379c05a0a583bc2f1169eec7f857bc640",
     "kill_time": "2026-08-10T08:25:24Z",
@@ -49,6 +127,58 @@
       "corporation_name": "EVE-RO",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137616098,
+    "killmail_hash": "d495c84d9f5935161c39cc3fd6eb62e5a59c3310",
+    "kill_time": "2026-08-10T08:09:05Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93125352,
+      "character_name": "ForEnd War",
+      "corporation_id": 1000170,
+      "corporation_name": "Republic Military School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137616098/",
+    "total_value": 2945737902.5,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137615571,
+    "killmail_hash": "b450f382b2777d9353f52202cf50c8ed68948a5d",
+    "kill_time": "2026-08-10T07:19:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116146019,
+      "character_name": "Cap Horst Hansen",
+      "corporation_id": 98667729,
+      "corporation_name": "erstknallendannfragen Corporation",
+      "alliance_id": 99010106,
+      "alliance_name": "Commonwealth Vanguard"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137615571/",
+    "total_value": 6404114004.02,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
