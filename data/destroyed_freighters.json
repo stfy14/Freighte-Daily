@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137625517,
+    "killmail_hash": "9e5fca0f29bf5713a91cb8dab444fa301786d1bc",
+    "kill_time": "2026-08-10T18:30:55Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30005118,
+    "solar_system_name": "PE-SAM",
+    "region_name": "Perrigen Falls",
+    "victim": {
+      "character_id": 95021174,
+      "character_name": "Nehros",
+      "corporation_id": 98470069,
+      "corporation_name": "Obsidian Engineering",
+      "alliance_id": 150097440,
+      "alliance_name": "Get Off My Lawn"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137625517/",
+    "total_value": 7619442802.1,
+    "final_attacker": {
+      "character_name": "Dchu Ex Machina",
+      "corporation_name": "Hooded Underworld Guys",
+      "alliance_name": "Brotherhood of Spacers",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
     "killmail_id": 137622837,
     "killmail_hash": "7726acd99012d1728d764ae0d2f54a52e315ef3c",
     "kill_time": "2026-08-10T15:55:36Z",
@@ -3377,58 +3403,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137459090,
-    "killmail_hash": "e484e2d96a0f4f31982b48e4d3a88dbc559cff64",
-    "kill_time": "2026-08-03T19:06:29Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000113,
-    "solar_system_name": "Astabih",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 1164091687,
-      "character_name": "Nova Lance",
-      "corporation_id": 98806690,
-      "corporation_name": "Cosmos Phoenix Reborn",
-      "alliance_id": 99011291,
-      "alliance_name": "Cosmos Origins"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137459090/",
-    "total_value": 11888274907.99,
-    "final_attacker": {
-      "character_name": "chimpout 09",
-      "corporation_name": "okay-buddy",
-      "alliance_name": null,
-      "ship_type_name": "Paladin"
-    }
-  },
-  {
-    "killmail_id": 137458817,
-    "killmail_hash": "c8b90d646993fdf14eb80fee9df147d524980fb3",
-    "kill_time": "2026-08-03T18:55:18Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92849261,
-      "character_name": "Sohiod Freemoon",
-      "corporation_id": 98512494,
-      "corporation_name": "Federation Recon and Logistics Ltd.",
-      "alliance_id": 99009116,
-      "alliance_name": "Post Nord"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137458817/",
-    "total_value": 6707627713.48,
-    "final_attacker": {
-      "character_name": "Knaz Vladimir",
-      "corporation_name": "The Flying Dead.",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Hyperion"
     }
   }
 ]
