@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137631456,
+    "killmail_hash": "ef5abb225292d1fdb4bfb93933cb5aa228a292dc",
+    "kill_time": "2026-08-10T23:40:44Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2123421176,
+      "character_name": "TheJookeer9722",
+      "corporation_id": 98612164,
+      "corporation_name": "CENTURIONES IMPERIALES",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137631456/",
+    "total_value": 7980809491.51,
+    "final_attacker": {
+      "character_name": "Spacemanspifff",
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_name": "Brave Collective",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 137628998,
+    "killmail_hash": "21ee8b420059d2fe0f9ea8ca2c29f7feb8d8e3af",
+    "kill_time": "2026-08-10T21:08:49Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004809,
+    "solar_system_name": "Y-ORBJ",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 96187694,
+      "character_name": "Remy Renalard",
+      "corporation_id": 98500968,
+      "corporation_name": "Cuervos Imperiales",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137628998/",
+    "total_value": 3479031807.99,
+    "final_attacker": {
+      "character_name": "Lavraen",
+      "corporation_name": "TEMPLAR.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Omen Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 137626867,
+    "killmail_hash": "ed9c8c78fae0ce81e6f07e2162963df27f9f5210",
+    "kill_time": "2026-08-10T19:27:33Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 405870928,
+      "character_name": "Amarrian PleasureSlave",
+      "corporation_id": 1139552598,
+      "corporation_name": "Black Velvet Band",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137626867/",
+    "total_value": 1877480564.77,
+    "final_attacker": {
+      "character_name": "003 DUNK",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137625517,
     "killmail_hash": "9e5fca0f29bf5713a91cb8dab444fa301786d1bc",
     "kill_time": "2026-08-10T18:30:55Z",
@@ -3350,58 +3428,6 @@
       "character_name": "Jondalz3000",
       "corporation_name": "The Terrifying League Of Dog Fort",
       "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137464797,
-    "killmail_hash": "b3ac1a0fa5fb65436e0d93a73fc29fe5453c4227",
-    "kill_time": "2026-08-04T01:05:01Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2124429583,
-      "character_name": "Auriel Shinrai",
-      "corporation_id": 98819796,
-      "corporation_name": "The Silver Wing",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137464797/",
-    "total_value": 4176103503.72,
-    "final_attacker": {
-      "character_name": "Rofl- Chopper",
-      "corporation_name": "Seventeenth Battalion",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 137463191,
-    "killmail_hash": "331b180c111ea29ea8910458ff39d2d7a27c867b",
-    "kill_time": "2026-08-03T22:45:32Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003928,
-    "solar_system_name": "Zephan",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 343619594,
-      "character_name": "Holbinatoria",
-      "corporation_id": 98788569,
-      "corporation_name": "Independent Chamber of Unstable Misfits",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137463191/",
-    "total_value": 15408633986.58,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
       "ship_type_name": "Redeemer"
     }
   }
