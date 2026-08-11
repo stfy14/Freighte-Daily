@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137636474,
+    "killmail_hash": "f22a9f12087959cceb7b043abd65c691e73957ee",
+    "kill_time": "2026-08-11T05:28:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002845,
+    "solar_system_name": "EPCD-D",
+    "region_name": "The Kalevala Expanse",
+    "victim": {
+      "character_id": 2122603479,
+      "character_name": "Ogyonin Ovela Tadaruwa",
+      "corporation_id": 98829628,
+      "corporation_name": "Camel's Toes",
+      "alliance_id": 99008788,
+      "alliance_name": "The Skeleton Crew"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137636474/",
+    "total_value": 1696927511.65,
+    "final_attacker": {
+      "character_name": "Aldent Arkanon",
+      "corporation_name": "Vulture Enterprises",
+      "alliance_name": "Brotherhood of Spacers",
+      "ship_type_name": "Khizriel"
+    }
+  },
+  {
     "killmail_id": 137631456,
     "killmail_hash": "ef5abb225292d1fdb4bfb93933cb5aa228a292dc",
     "kill_time": "2026-08-10T23:40:44Z",
@@ -3297,110 +3323,6 @@
     "final_attacker": {
       "character_name": "JINTSUU",
       "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137470070,
-    "killmail_hash": "f3f341d472cefd7e241cd6032e34fed284f26e23",
-    "kill_time": "2026-08-04T08:52:23Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124558225,
-      "character_name": "Kengo Reyko-Kitsune",
-      "corporation_id": 98839525,
-      "corporation_name": "Steel Hammer Manufacturing",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137470070/",
-    "total_value": 4274396497.11,
-    "final_attacker": {
-      "character_name": "zLegion 24",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137469590,
-    "killmail_hash": "611b239ca3a3adbc456e0537f64bf07a2e196ac2",
-    "kill_time": "2026-08-04T08:12:13Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123599882,
-      "character_name": "MinerPanda",
-      "corporation_id": 98828926,
-      "corporation_name": "PandaBeers",
-      "alliance_id": 99013972,
-      "alliance_name": "Vikings."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137469590/",
-    "total_value": 5997848011.7,
-    "final_attacker": {
-      "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137469179,
-    "killmail_hash": "bc66521fe60544118d4b68ac41f3dd157a6f3e12",
-    "kill_time": "2026-08-04T07:30:41Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002796,
-    "solar_system_name": "Hysera",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90078828,
-      "character_name": "Cyrus Gunnarr",
-      "corporation_id": 98069093,
-      "corporation_name": "1st MC",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137469179/",
-    "total_value": 10599128640.46,
-    "final_attacker": {
-      "character_name": "vicemen",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Bane"
-    }
-  },
-  {
-    "killmail_id": 137468925,
-    "killmail_hash": "acfa729a50253ffb527316ca53a140648da5b30d",
-    "kill_time": "2026-08-04T07:10:18Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 392942401,
-      "character_name": "Roid Gobbler",
-      "corporation_id": 98761471,
-      "corporation_name": "2 Days to Mine",
-      "alliance_id": 99013637,
-      "alliance_name": "The Worst Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137468925/",
-    "total_value": 11958115546.25,
-    "final_attacker": {
-      "character_name": "zLegion 16",
-      "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
