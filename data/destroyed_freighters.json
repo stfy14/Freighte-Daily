@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137646343,
+    "killmail_hash": "f9d77da737fa008bea2870ea255debe2c9dbe946",
+    "kill_time": "2026-08-11T17:10:41Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30045321,
+    "solar_system_name": "Uchomida",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2113280861,
+      "character_name": "Good Hunters",
+      "corporation_id": 98646873,
+      "corporation_name": "SOLAR TRADE WIND CORPORATION",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137646343/",
+    "total_value": 2119047437.81,
+    "final_attacker": {
+      "character_name": "chewy",
+      "corporation_name": "Circular Circle",
+      "alliance_name": "Black Rise Collective",
+      "ship_type_name": "Nergal"
+    }
+  },
+  {
     "killmail_id": 137644919,
     "killmail_hash": "b9f3b9f46e26b696297df01f32912d108601f8a2",
     "kill_time": "2026-08-11T16:05:33Z",
@@ -3273,32 +3299,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 137482141,
-    "killmail_hash": "3fa7863ee0bebf0cce677231c35d4bcbccaf0b0c",
-    "kill_time": "2026-08-04T20:32:08Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121802762,
-      "character_name": "Mangopop",
-      "corporation_id": 98755111,
-      "corporation_name": "Black Rise Industial Association",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137482141/",
-    "total_value": 2148797394.13,
-    "final_attacker": {
-      "character_name": "Painter Alt 3",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
