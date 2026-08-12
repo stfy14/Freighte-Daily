@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137663208,
+    "killmail_hash": "b8eb11299f10ca76b83e213af16574737877c578",
+    "kill_time": "2026-08-12T10:54:18Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122424039,
+      "character_name": "Nathalia Greene",
+      "corporation_id": 98672882,
+      "corporation_name": "Greene Logistics Service",
+      "alliance_id": 99013381,
+      "alliance_name": "Greene Group"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137663208/",
+    "total_value": 4544502746.3,
+    "final_attacker": {
+      "character_name": "zLegion 21",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137662647,
+    "killmail_hash": "9907954b59f08d92318a6614cb9a466eee1eb2cd",
+    "kill_time": "2026-08-12T10:06:32Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2114991051,
+      "character_name": "Ilya Ali",
+      "corporation_id": 98633589,
+      "corporation_name": "Ros Shovel Corporation",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137662647/",
+    "total_value": 1739296350.04,
+    "final_attacker": {
+      "character_name": "VpFalcon",
+      "corporation_name": "Baba Yagas",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137662014,
     "killmail_hash": "9bca89ffbcc789c20b839ef96fbd6ebbd4383cca",
     "kill_time": "2026-08-12T09:09:44Z",
@@ -3013,58 +3065,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 137496126,
-    "killmail_hash": "3b527804d38eaaea5aeb9d881ccd056fd729da57",
-    "kill_time": "2026-08-05T13:14:46Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2114430598,
-      "character_name": "Rednas Kela",
-      "corporation_id": 98696581,
-      "corporation_name": "Haidamaky",
-      "alliance_id": 99012021,
-      "alliance_name": "UA Fleets"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137496126/",
-    "total_value": 9923234594.93,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 137494498,
-    "killmail_hash": "9210bc43ff6a0e2d9b04a1e169150fd54be9d7be",
-    "kill_time": "2026-08-05T10:57:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002791,
-    "solar_system_name": "Sirppala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123960975,
-      "character_name": "Tek Hakuli",
-      "corporation_id": 98829170,
-      "corporation_name": "Drifters Guild",
-      "alliance_id": 99007257,
-      "alliance_name": "Hashashin Cartel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137494498/",
-    "total_value": 4422515206.1,
-    "final_attacker": {
-      "character_name": "dustbin KO",
-      "corporation_name": "BeiShaWo",
-      "alliance_name": null,
-      "ship_type_name": "Vargur"
     }
   }
 ]
