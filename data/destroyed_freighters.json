@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137684363,
+    "killmail_hash": "3b5c3cd4f03fb3fa0f46b8c992aa7db2abad25a0",
+    "kill_time": "2026-08-13T10:53:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2122381858,
+      "character_name": "Stelllaa",
+      "corporation_id": 635210548,
+      "corporation_name": "Fusion Enterprises Ltd",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137684363/",
+    "total_value": 1865139284.37,
+    "final_attacker": {
+      "character_name": "Vertical Smith",
+      "corporation_name": "Kuan.Dai.Shan",
+      "alliance_name": "Dracarys.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 137684162,
+    "killmail_hash": "dbb915b0fc0136bb6476b7f0f9a4a020cddd55cd",
+    "kill_time": "2026-08-13T10:32:25Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 309247195,
+      "character_name": "Naroekie",
+      "corporation_id": 1569992827,
+      "corporation_name": "OffBeat Creations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137684162/",
+    "total_value": 7726176897.27,
+    "final_attacker": {
+      "character_name": "Cid Kagen0u",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137683926,
+    "killmail_hash": "6e514a57cbdbb2c5e6b06f422693bcce63b7e301",
+    "kill_time": "2026-08-13T10:14:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 839035225,
+      "character_name": "Kvigalf",
+      "corporation_id": 98783389,
+      "corporation_name": "Fleet Academy Mining",
+      "alliance_id": 99013615,
+      "alliance_name": "MlNER NEEDs"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137683926/",
+    "total_value": 3308744675.9,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137682957,
     "killmail_hash": "501f6aee7933db071bfb5507ac494d46db9f8660",
     "kill_time": "2026-08-13T08:58:31Z",
@@ -20,6 +98,32 @@
     "total_value": 4205355054.6,
     "final_attacker": {
       "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137682684,
+    "killmail_hash": "71dfc070889dc0e24d9bb715477b002c52a40d6d",
+    "kill_time": "2026-08-13T08:41:10Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1537209003,
+      "character_name": "Noogtev",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137682684/",
+    "total_value": 4289737635.19,
+    "final_attacker": {
+      "character_name": "zLegion 02",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -3091,58 +3195,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 137515053,
-    "killmail_hash": "69856ad729e4b1b4533b844a54ce5b0b8aab68ff",
-    "kill_time": "2026-08-06T10:51:26Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92348855,
-      "character_name": "Jakye Cealion",
-      "corporation_id": 98815208,
-      "corporation_name": "Nisroc Logistics and Training",
-      "alliance_id": 99011606,
-      "alliance_name": "Strange Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137515053/",
-    "total_value": 2544942970.39,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 137514418,
-    "killmail_hash": "5ea07cd0f18eb31c216aef6571fe3d8964bc5be4",
-    "kill_time": "2026-08-06T09:56:44Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96626560,
-      "character_name": "mimi chu",
-      "corporation_id": 98815878,
-      "corporation_name": "litietou",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137514418/",
-    "total_value": 9488096584.29,
-    "final_attacker": {
-      "character_name": "zLegion 07",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
