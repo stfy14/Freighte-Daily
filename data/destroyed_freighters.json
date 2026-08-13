@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137682957,
+    "killmail_hash": "501f6aee7933db071bfb5507ac494d46db9f8660",
+    "kill_time": "2026-08-13T08:58:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1827674055,
+      "character_name": "solardave",
+      "corporation_id": 98829436,
+      "corporation_name": "Reckless Endangerment",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137682957/",
+    "total_value": 4205355054.6,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137681900,
+    "killmail_hash": "d0575520179b34c887343ff99d5cc17ab2b0a9a1",
+    "kill_time": "2026-08-13T07:32:10Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91634362,
+      "character_name": "Remmy Bump",
+      "corporation_id": 2026831070,
+      "corporation_name": "Revenge of the Liquidators",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137681900/",
+    "total_value": 1659620914.41,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137678307,
     "killmail_hash": "438c2c36ab0c69481bd6023b34931308a9bcb2e1",
     "kill_time": "2026-08-13T02:39:20Z",
@@ -3091,84 +3143,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137513350,
-    "killmail_hash": "d0f05878cea627934398ac47c367bbe2a9d911b9",
-    "kill_time": "2026-08-06T08:37:05Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120964117,
-      "character_name": "Reigohotrn",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137513350/",
-    "total_value": 11429973876.71,
-    "final_attacker": {
-      "character_name": "zLegion 20",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137512592,
-    "killmail_hash": "b47cc51cc47ab5650c8694e480f51bb7efb86d6e",
-    "kill_time": "2026-08-06T07:28:16Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124023032,
-      "character_name": "Astrid Valtierra-AMARR",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137512592/",
-    "total_value": 2762682011.08,
-    "final_attacker": {
-      "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137512319,
-    "killmail_hash": "c343c140eca2588b1c656413a6e996e53750ab47",
-    "kill_time": "2026-08-06T07:00:33Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002635,
-    "solar_system_name": "Decon",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124611022,
-      "character_name": "Stane Arnolles",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137512319/",
-    "total_value": 1656906851.71,
-    "final_attacker": {
-      "character_name": "suspicious brown stain",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Ragnarok"
     }
   }
 ]
