@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137677035,
+    "killmail_hash": "be21bcb494eecaaa0a5e12600c941590913f3c84",
+    "kill_time": "2026-08-13T01:11:42Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120952861,
+      "character_name": "Vladimir686",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137677035/",
+    "total_value": 3325997946.22,
+    "final_attacker": {
+      "character_name": "Painter Alt 5",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137676185,
+    "killmail_hash": "5ff2a513befc3225e3409b9a49e5170946aec232",
+    "kill_time": "2026-08-12T23:55:08Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123931382,
+      "character_name": "Jackson Jarhat",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137676185/",
+    "total_value": 1717539339.4,
+    "final_attacker": {
+      "character_name": "Chase Reinhold",
+      "corporation_name": "Did he say Jump",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137674758,
+    "killmail_hash": "5f84c52722dbc0c30cbb4b633f9201e1dcc2c0d6",
+    "kill_time": "2026-08-12T22:02:55Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2115723482,
+      "character_name": "Boreas Feng",
+      "corporation_id": 98540583,
+      "corporation_name": "Special law enforcement department",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137674758/",
+    "total_value": 2605404857.12,
+    "final_attacker": {
+      "character_name": "Melkie",
+      "corporation_name": "Boomer Humor",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 137674045,
+    "killmail_hash": "a8acd4cdd26968ebffb51518071e4673f7e4eb4d",
+    "kill_time": "2026-08-12T21:19:14Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95866362,
+      "character_name": "Daddy Deep",
+      "corporation_id": 98544653,
+      "corporation_name": "Type-9",
+      "alliance_id": 99005697,
+      "alliance_name": "Sixth Empire"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137674045/",
+    "total_value": 2949199955.44,
+    "final_attacker": {
+      "character_name": "002 DUNK",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137673324,
     "killmail_hash": "95838abdb04da58b7d0967562b55ac5dfbbb2410",
     "kill_time": "2026-08-12T20:42:36Z",
@@ -307,6 +411,32 @@
     "final_attacker": {
       "character_name": "Mjolnir Rage Torpedo",
       "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137656354,
+    "killmail_hash": "dd2dc95304371706c699f790a217617fc742cb6c",
+    "kill_time": "2026-08-12T01:06:17Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124608567,
+      "character_name": "C4rl Rogers",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137656354/",
+    "total_value": 2717835527.22,
+    "final_attacker": {
+      "character_name": "Jackson Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
@@ -3065,32 +3195,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 137508117,
-    "killmail_hash": "47487f1a49c73f2815d77d96100dfc600644d3bc",
-    "kill_time": "2026-08-06T01:15:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002023,
-    "solar_system_name": "RD-G2R",
-    "region_name": "Pure Blind",
-    "victim": {
-      "character_id": 1978535095,
-      "character_name": "Ibn Khatab",
-      "corporation_id": 263585335,
-      "corporation_name": "Black Omega Security",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137508117/",
-    "total_value": 1661654837.47,
-    "final_attacker": {
-      "character_name": "Oops I Jumped",
-      "corporation_name": "Black Omega Security",
-      "alliance_name": "Test Alliance Please Ignore",
-      "ship_type_name": "Leviathan"
     }
   }
 ]
