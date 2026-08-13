@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137678307,
+    "killmail_hash": "438c2c36ab0c69481bd6023b34931308a9bcb2e1",
+    "kill_time": "2026-08-13T02:39:20Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124363771,
+      "character_name": "37 dai",
+      "corporation_id": 98698656,
+      "corporation_name": "Notax Noone Nofire Nofight",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137678307/",
+    "total_value": 2639166752.89,
+    "final_attacker": {
+      "character_name": "Painter Alt 15",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137677035,
     "killmail_hash": "be21bcb494eecaaa0a5e12600c941590913f3c84",
     "kill_time": "2026-08-13T01:11:42Z",
@@ -3143,58 +3169,6 @@
       "corporation_name": "Jerkasaurus Wrecks Inc.",
       "alliance_name": "Sedition.",
       "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 137511480,
-    "killmail_hash": "902df45c7324478476843b8458aafc3e24a4c845",
-    "kill_time": "2026-08-06T05:30:10Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002796,
-    "solar_system_name": "Hysera",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116840437,
-      "character_name": "Market Tax",
-      "corporation_id": 98652202,
-      "corporation_name": "Logical Stimulus",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137511480/",
-    "total_value": 11877080561.26,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 137510873,
-    "killmail_hash": "67329faa8fcc182433fc9a17566903f43536c4be",
-    "kill_time": "2026-08-06T04:30:01Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2117264967,
-      "character_name": "Machete XXL",
-      "corporation_id": 98820329,
-      "corporation_name": "Blue Falcon Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137510873/",
-    "total_value": 1981221265.08,
-    "final_attacker": {
-      "character_name": "MSN-06S Sinanju",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
     }
   }
 ]
