@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137713996,
+    "killmail_hash": "9a13d107821271ed5f7408790913fe8b28354397",
+    "kill_time": "2026-08-14T07:57:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123188866,
+      "character_name": "BenLac",
+      "corporation_id": 98645977,
+      "corporation_name": "In Fidem",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137713996/",
+    "total_value": 12176928394.19,
+    "final_attacker": {
+      "character_name": "zLegion 27",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137713864,
+    "killmail_hash": "d88286b8018d2e53263fd65e2ef84892fe8efc95",
+    "kill_time": "2026-08-14T07:51:41Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122712635,
+      "character_name": "BenTag",
+      "corporation_id": 98645977,
+      "corporation_name": "In Fidem",
+      "alliance_id": 99010389,
+      "alliance_name": "Outsmarted"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137713864/",
+    "total_value": 12718096280.56,
+    "final_attacker": {
+      "character_name": "zLegion 07",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137713254,
+    "killmail_hash": "f016dedec9195946fad8b5a3150ae0fbe512fda0",
+    "kill_time": "2026-08-14T07:20:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112379051,
+      "character_name": "Eldar Naskingar",
+      "corporation_id": 98723206,
+      "corporation_name": "Neodragons",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137713254/",
+    "total_value": 5578228993.12,
+    "final_attacker": {
+      "character_name": "zLegion 16",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137703482,
     "killmail_hash": "32fbe1fb85426af365791706edef42f224ea44d9",
     "kill_time": "2026-08-14T01:32:24Z",
@@ -3117,84 +3195,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137533489,
-    "killmail_hash": "0343d9e40f34d91f0d00ff3547aea6c18bd199b8",
-    "kill_time": "2026-08-07T07:49:04Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120546353,
-      "character_name": "Darkened Angel VI",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137533489/",
-    "total_value": 1437002739.86,
-    "final_attacker": {
-      "character_name": "zLegion 07",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137533308,
-    "killmail_hash": "cb9ae59d3837660774583c26c369bf7eaa3d098c",
-    "kill_time": "2026-08-07T07:30:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123271433,
-      "character_name": "Tikko Saken",
-      "corporation_id": 98734467,
-      "corporation_name": "Perimeter Trading Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137533308/",
-    "total_value": 13613518682.19,
-    "final_attacker": {
-      "character_name": "zLegion A",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137533289,
-    "killmail_hash": "06108736c59d703bd3d7cd92d78d6dcf813a0f66",
-    "kill_time": "2026-08-07T07:29:20Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2118383990,
-      "character_name": "shirosika",
-      "corporation_id": 98569774,
-      "corporation_name": "Arkenstone Foundries Inc.",
-      "alliance_id": 99011268,
-      "alliance_name": "Reeloaded."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137533289/",
-    "total_value": 19706627388.44,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
     }
   }
 ]
