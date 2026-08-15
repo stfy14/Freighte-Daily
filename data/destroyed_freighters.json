@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137743005,
+    "killmail_hash": "683483af7d46ff28f81f8b25a912b9b3e1c2c136",
+    "kill_time": "2026-08-15T11:57:38Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2117788382,
+      "character_name": "Oksomon Iki",
+      "corporation_id": 98558686,
+      "corporation_name": "Edge Dancers",
+      "alliance_id": 99012532,
+      "alliance_name": "Angry Miners Alliance."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137743005/",
+    "total_value": 17416229146.31,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 137740804,
+    "killmail_hash": "7216c701bb479943d423bb323ee302b122967693",
+    "kill_time": "2026-08-15T08:56:26Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118208856,
+      "character_name": "Thiranoyama",
+      "corporation_id": 98657953,
+      "corporation_name": "Cosmos Industrial",
+      "alliance_id": 99011291,
+      "alliance_name": "Cosmos Origins"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137740804/",
+    "total_value": 7371246447.73,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137739183,
     "killmail_hash": "6d235a64772867c6f9f033b4fab69640c6ee7b4d",
     "kill_time": "2026-08-15T07:05:44Z",
@@ -2623,84 +2675,6 @@
       "corporation_name": "Beyond Redemption Corp",
       "alliance_name": "Beyond Redemption.",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137563473,
-    "killmail_hash": "7a18631855f6233e4e04b56bfb6d5a8d369fbda5",
-    "kill_time": "2026-08-08T12:49:48Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30003471,
-    "solar_system_name": "Konora",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2117025678,
-      "character_name": "MeckaJIuH",
-      "corporation_id": 98819522,
-      "corporation_name": "Space Weed Grove",
-      "alliance_id": 1220922756,
-      "alliance_name": "Red Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137563473/",
-    "total_value": 9122931934.29,
-    "final_attacker": {
-      "character_name": "Theodore Mosby",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137563134,
-    "killmail_hash": "ce2256670547d8b3c944c6529abbc2c890fa0ca3",
-    "kill_time": "2026-08-08T12:36:31Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 474676314,
-      "character_name": "Mentozawr",
-      "corporation_id": 98377651,
-      "corporation_name": "Russian Star Federation",
-      "alliance_id": 99013097,
-      "alliance_name": "Suetology"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137563134/",
-    "total_value": 3927933258.3,
-    "final_attacker": {
-      "character_name": "Little Miss Naughty",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 137560088,
-    "killmail_hash": "790746b27629651c75724b386b317b8db99e8af0",
-    "kill_time": "2026-08-08T09:11:48Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96782473,
-      "character_name": "Andrew Cartos",
-      "corporation_id": 98595960,
-      "corporation_name": "Ember Interstellar Inc.",
-      "alliance_id": 99010240,
-      "alliance_name": "The Curatores Veritatis Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137560088/",
-    "total_value": 5565128128.63,
-    "final_attacker": {
-      "character_name": "zLegion 18",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
