@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137739183,
+    "killmail_hash": "6d235a64772867c6f9f033b4fab69640c6ee7b4d",
+    "kill_time": "2026-08-15T07:05:44Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124634979,
+      "character_name": "Shadow Mining Trader",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137739183/",
+    "total_value": 2651027454.71,
+    "final_attacker": {
+      "character_name": "zLegion 02",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137737931,
+    "killmail_hash": "3c525f4f042d4e1b54b6a5e00ab3c23036e141e0",
+    "kill_time": "2026-08-15T05:28:15Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115639157,
+      "character_name": "Carlo Grace",
+      "corporation_id": 98603606,
+      "corporation_name": "Climbing Business Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137737931/",
+    "total_value": 1731470353.23,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137737127,
+    "killmail_hash": "00a1ec5b1563ae56b5b0aa0cbbd5039f8813d2dd",
+    "kill_time": "2026-08-15T04:34:45Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 149102881,
+      "character_name": "Protonz",
+      "corporation_id": 219220371,
+      "corporation_name": "X-Factor Industries",
+      "alliance_id": 99001052,
+      "alliance_name": "Synthetic Existence"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137737127/",
+    "total_value": 3517048545.9,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137734116,
     "killmail_hash": "8ad2742d4d2cc55e6ffc50df2d33e6c4cd1e1673",
     "kill_time": "2026-08-15T02:00:09Z",
@@ -2623,110 +2701,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137558097,
-    "killmail_hash": "ba72a82728a569d49946c73299a4491879034993",
-    "kill_time": "2026-08-08T06:33:13Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92574041,
-      "character_name": "EtaCarinae Koraka",
-      "corporation_id": 98822846,
-      "corporation_name": "Weballin",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137558097/",
-    "total_value": 3409877320.54,
-    "final_attacker": {
-      "character_name": "zLegion 26",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137557768,
-    "killmail_hash": "3e8f80deab81ebba905c7744d2a7cae9aa5d6a0f",
-    "kill_time": "2026-08-08T06:09:56Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118702408,
-      "character_name": "CH-HeiDi",
-      "corporation_id": 98707431,
-      "corporation_name": "Serenity Moe University",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137557768/",
-    "total_value": 13042653281.4,
-    "final_attacker": {
-      "character_name": "Fool Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137557098,
-    "killmail_hash": "24f3a6aaf47fd434f5a35f65541b72870b33932c",
-    "kill_time": "2026-08-08T05:18:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 101710866,
-      "character_name": "CPTFloux",
-      "corporation_id": 1112549526,
-      "corporation_name": "M.I.B",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137557098/",
-    "total_value": 1657817241.79,
-    "final_attacker": {
-      "character_name": "Panda SuLin",
-      "corporation_name": "Battlestars",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 137557051,
-    "killmail_hash": "eda80bbff89cc4f147cdd137bdff18d5dd68708f",
-    "kill_time": "2026-08-08T05:16:33Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114349256,
-      "character_name": "ben xiong",
-      "corporation_id": 98838055,
-      "corporation_name": "Kazama corporate group",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137557051/",
-    "total_value": 13370897888.08,
-    "final_attacker": {
-      "character_name": "Plunder Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
     }
   }
 ]
