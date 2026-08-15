@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137734116,
+    "killmail_hash": "8ad2742d4d2cc55e6ffc50df2d33e6c4cd1e1673",
+    "kill_time": "2026-08-15T02:00:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002764,
+    "solar_system_name": "Hatakani",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93329161,
+      "character_name": "Skeld Ataru",
+      "corporation_id": 98832357,
+      "corporation_name": "Lorn Industry and Research Solutions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137734116/",
+    "total_value": 40816398961.65,
+    "final_attacker": {
+      "character_name": "zLegion S",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 137732535,
     "killmail_hash": "a417f2e4beffd4aec975c3963e09b08912d0f07d",
     "kill_time": "2026-08-15T00:55:23Z",
@@ -23,6 +49,110 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137731726,
+    "killmail_hash": "1f6b093a066f9d81f905c7645450d72baae48bd4",
+    "kill_time": "2026-08-15T00:21:32Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93536378,
+      "character_name": "zachary roy peters",
+      "corporation_id": 98817424,
+      "corporation_name": "Lo-Hi",
+      "alliance_id": 99014524,
+      "alliance_name": "Silhouettes."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137731726/",
+    "total_value": 1949465239.44,
+    "final_attacker": {
+      "character_name": "zLegion 23",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137731183,
+    "killmail_hash": "66065affbaaffbee4d9367ddb2b0ae2460bb0243",
+    "kill_time": "2026-08-14T23:51:13Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 614087368,
+      "character_name": "Mirthel",
+      "corporation_id": 98802086,
+      "corporation_name": "Vigil Indomitus Shell",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137731183/",
+    "total_value": 12528025199.69,
+    "final_attacker": {
+      "character_name": "zLegion 14",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137730527,
+    "killmail_hash": "ad87c81f3c149d0324eadbe95fa83cfe9757d608",
+    "kill_time": "2026-08-14T23:07:31Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92399306,
+      "character_name": "Hunter Mew",
+      "corporation_id": 98263703,
+      "corporation_name": "Unemployed Supercapital Pilots Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137730527/",
+    "total_value": 1728188037.7,
+    "final_attacker": {
+      "character_name": "zLegion 06",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137730123,
+    "killmail_hash": "230e341f1d1d19591a8b417f6e1fc5fe263d700a",
+    "kill_time": "2026-08-14T22:42:29Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124538257,
+      "character_name": "VicoD3X",
+      "corporation_id": 98840560,
+      "corporation_name": "VDX Quantum Research",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137730123/",
+    "total_value": 2746672288.18,
+    "final_attacker": {
+      "character_name": "zLegion 26",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2597,84 +2727,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137556311,
-    "killmail_hash": "79fd67a6599b68241d82eb30fed2dac5bc9d4fce",
-    "kill_time": "2026-08-08T04:27:54Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123116256,
-      "character_name": "YouDI",
-      "corporation_id": 98802379,
-      "corporation_name": "Lala move Logistics Company",
-      "alliance_id": 99005100,
-      "alliance_name": "All My Friends Are Ded"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137556311/",
-    "total_value": 7284760140.35,
-    "final_attacker": {
-      "character_name": "Vindictive Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137555964,
-    "killmail_hash": "890d5c8022bd84da615228659d3478caff15f1fd",
-    "kill_time": "2026-08-08T04:00:39Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30005268,
-    "solar_system_name": "Gonditsa",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 94894713,
-      "character_name": "kv2 dng",
-      "corporation_id": 263585335,
-      "corporation_name": "Black Omega Security",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137555964/",
-    "total_value": 5940383379.94,
-    "final_attacker": {
-      "character_name": "Azemar",
-      "corporation_name": "Voidhounds",
-      "alliance_name": "Pretenders",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 137555087,
-    "killmail_hash": "e1f7526e7c3d0c325a9797bfd8ab91b6ce601370",
-    "kill_time": "2026-08-08T03:17:25Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000264,
-    "solar_system_name": "V-NL3K",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116060502,
-      "character_name": "Gellar Shi",
-      "corporation_id": 98540583,
-      "corporation_name": "Special law enforcement department",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137555087/",
-    "total_value": 8963923759.07,
-    "final_attacker": {
-      "character_name": "zmezmer",
-      "corporation_name": "Wormhole Campus",
-      "alliance_name": "10 Minutes' Notice",
-      "ship_type_name": "Brutix Navy Issue"
     }
   }
 ]
