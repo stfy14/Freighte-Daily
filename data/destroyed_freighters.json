@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137755065,
+    "killmail_hash": "64027cdabd5e22266b9b68f18e186bc1d2d812e5",
+    "kill_time": "2026-08-15T19:57:52Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96256416,
+      "character_name": "Zhy wong Einstein",
+      "corporation_id": 98841559,
+      "corporation_name": "Super Galactic Organization of Hauling",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137755065/",
+    "total_value": 3374069578.42,
+    "final_attacker": {
+      "character_name": "ROB3RTOYFD",
+      "corporation_name": "Victory or Whatever",
+      "alliance_name": "Nourv Gate Security Commission",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 137752315,
+    "killmail_hash": "b095d4dda423be83abe0eef05053d660e1c5c364",
+    "kill_time": "2026-08-15T18:01:57Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93265519,
+      "character_name": "Skaft Nolm",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137752315/",
+    "total_value": 2112232579.71,
+    "final_attacker": {
+      "character_name": "Evangeline Xiomara",
+      "corporation_name": "Xiomara Ascendancy",
+      "alliance_name": "X I O M A R A",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 137744210,
     "killmail_hash": "4fb6f37ca2a352e4014f69b8d7f7ac90fffa27cc",
     "kill_time": "2026-08-15T12:56:50Z",
@@ -2571,110 +2623,6 @@
       "corporation_name": "War Tactical Groups",
       "alliance_name": "DarkSide.",
       "ship_type_name": "Drekavac"
-    }
-  },
-  {
-    "killmail_id": 137573955,
-    "killmail_hash": "d0e037cd34526c68b6aba2153b0d1303bbd63ed0",
-    "kill_time": "2026-08-08T19:09:58Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113132905,
-      "character_name": "Jori Ashmane",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137573955/",
-    "total_value": 7287608084.64,
-    "final_attacker": {
-      "character_name": "Cunning Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137573481,
-    "killmail_hash": "882c13548af3be9947839e06700ab2691dce18de",
-    "kill_time": "2026-08-08T18:55:45Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004333,
-    "solar_system_name": "BKG-Q2",
-    "region_name": "Branch",
-    "victim": {
-      "character_id": 2114603261,
-      "character_name": "Lyoba Medved",
-      "corporation_id": 98673001,
-      "corporation_name": "Space Beer Industry",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137573481/",
-    "total_value": 1918133160.09,
-    "final_attacker": {
-      "character_name": "Gergwerk",
-      "corporation_name": "Kriegsmarinewerft",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137571658,
-    "killmail_hash": "ac86126eb6c6f119a6303f825059f3bcf708ab64",
-    "kill_time": "2026-08-08T18:07:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 91455017,
-      "character_name": "Morigan Orti",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137571658/",
-    "total_value": 1658225781.79,
-    "final_attacker": {
-      "character_name": "Little Miss Bossy",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 137571573,
-    "killmail_hash": "e1697c8ef308131f6f03cb716eaac5994155d590",
-    "kill_time": "2026-08-08T18:07:01Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 93404591,
-      "character_name": "Jackson Ishiyama",
-      "corporation_id": 98228780,
-      "corporation_name": "JPL Aeronautics and Defence",
-      "alliance_id": 99010389,
-      "alliance_name": "Outsmarted"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137571573/",
-    "total_value": 6915081491.26,
-    "final_attacker": {
-      "character_name": "Brutal Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
     }
   }
 ]
