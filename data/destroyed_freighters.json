@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137777135,
+    "killmail_hash": "b0addde6ec6d596a2a96ffce7aa94e60e608b36c",
+    "kill_time": "2026-08-16T15:55:43Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002780,
+    "solar_system_name": "Muvolailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90684342,
+      "character_name": "Karnage Slayerofman",
+      "corporation_id": 98820668,
+      "corporation_name": "Karnage Revalations Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137777135/",
+    "total_value": 8375489819.88,
+    "final_attacker": {
+      "character_name": "Wyrd Nekros",
+      "corporation_name": "Dark-Rising",
+      "alliance_name": "Wrecking Machine.",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
     "killmail_id": 137776968,
     "killmail_hash": "b85a6989a338146aae33981b8d579666b12f9c5e",
     "kill_time": "2026-08-16T15:49:24Z",
@@ -2493,84 +2519,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": "Ganklift Logistics",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137604833,
-    "killmail_hash": "2982e6fa77db1aee1f90cf19611dcbe784fd7acc",
-    "kill_time": "2026-08-09T19:57:34Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 907197015,
-      "character_name": "Dimitri Viktoras",
-      "corporation_id": 98061284,
-      "corporation_name": "Lesson Learned Inc",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137604833/",
-    "total_value": 1805082293.77,
-    "final_attacker": {
-      "character_name": "Anette Halbe-stunde",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": "Ganklift Logistics",
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 137603901,
-    "killmail_hash": "425555b7c92ab9f0ef6f0510b40c2d8c3f97fa76",
-    "kill_time": "2026-08-09T19:25:07Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119499592,
-      "character_name": "Asgard T",
-      "corporation_id": 1707347761,
-      "corporation_name": "Cutthroat Industries",
-      "alliance_id": 99003916,
-      "alliance_name": "Viral Society"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137603901/",
-    "total_value": 2457320124.75,
-    "final_attacker": {
-      "character_name": "Painter Alt 4",
-      "corporation_name": "Painter Advanced Logistics",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137603027,
-    "killmail_hash": "39d7fc482c2c135922a496e564dd74aa3705aa54",
-    "kill_time": "2026-08-09T18:52:02Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121102787,
-      "character_name": "Puksen Otsada",
-      "corporation_id": 98750909,
-      "corporation_name": "Voidbringer Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137603027/",
-    "total_value": 6987860315.74,
-    "final_attacker": {
-      "character_name": "Joel Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Talos"
     }
   }
 ]
