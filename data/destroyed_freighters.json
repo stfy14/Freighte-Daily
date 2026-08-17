@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137793246,
+    "killmail_hash": "fcc7d2ca841ddb7dbedcbd73cb39472c4fe24bb4",
+    "kill_time": "2026-08-17T08:23:24Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122823518,
+      "character_name": "Alton Houssa",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137793246/",
+    "total_value": 2765232166.94,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137790677,
     "killmail_hash": "c9ae5e3dbbaa2f60e2660144adf5150fe27eb1a0",
     "kill_time": "2026-08-17T04:26:15Z",
@@ -2415,136 +2441,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137616521,
-    "killmail_hash": "9e7eb476d047d39a559513b3f6a161e461c137e6",
-    "kill_time": "2026-08-10T08:48:00Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001135,
-    "solar_system_name": "HG-YEQ",
-    "region_name": "Malpais",
-    "victim": {
-      "character_id": 2123048617,
-      "character_name": "Ceremony",
-      "corporation_id": 98769969,
-      "corporation_name": "Bozo Circus",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137616521/",
-    "total_value": 1871272983.72,
-    "final_attacker": {
-      "character_name": "dancingf",
-      "corporation_name": "Family Guy.",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137616413,
-    "killmail_hash": "f7025ccf1f5903cb13bbe744e38d1d23471cc748",
-    "kill_time": "2026-08-10T08:38:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122244157,
-      "character_name": "Arnfinn Snaebjornsson",
-      "corporation_id": 98836623,
-      "corporation_name": "Totally Legal Cargo",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137616413/",
-    "total_value": 1826007817.31,
-    "final_attacker": {
-      "character_name": "zLegion 08",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137616312,
-    "killmail_hash": "17f1547379c05a0a583bc2f1169eec7f857bc640",
-    "kill_time": "2026-08-10T08:25:24Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30000242,
-    "solar_system_name": "8TPX-N",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2117900340,
-      "character_name": "zhulin2",
-      "corporation_id": 98825044,
-      "corporation_name": "Navigators' Union",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137616312/",
-    "total_value": 4438913048.17,
-    "final_attacker": {
-      "character_name": "GambbiT",
-      "corporation_name": "EVE-RO",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137616098,
-    "killmail_hash": "d495c84d9f5935161c39cc3fd6eb62e5a59c3310",
-    "kill_time": "2026-08-10T08:09:05Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93125352,
-      "character_name": "ForEnd War",
-      "corporation_id": 1000170,
-      "corporation_name": "Republic Military School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137616098/",
-    "total_value": 2945737902.5,
-    "final_attacker": {
-      "character_name": "zLegion 24",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137615571,
-    "killmail_hash": "b450f382b2777d9353f52202cf50c8ed68948a5d",
-    "kill_time": "2026-08-10T07:19:53Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116146019,
-      "character_name": "Cap Horst Hansen",
-      "corporation_id": 98667729,
-      "corporation_name": "erstknallendannfragen Corporation",
-      "alliance_id": 99010106,
-      "alliance_name": "Commonwealth Vanguard"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137615571/",
-    "total_value": 6404114004.02,
-    "final_attacker": {
-      "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
