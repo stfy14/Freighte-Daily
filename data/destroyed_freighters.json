@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137790677,
+    "killmail_hash": "c9ae5e3dbbaa2f60e2660144adf5150fe27eb1a0",
+    "kill_time": "2026-08-17T04:26:15Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121098571,
+      "character_name": "bomberb69",
+      "corporation_id": 98689962,
+      "corporation_name": "Black Market Seeding",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137790677/",
+    "total_value": 12425749782.51,
+    "final_attacker": {
+      "character_name": "Fraud Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 137790098,
+    "killmail_hash": "0d8218f8f4b8aa9ed759b76bfe9bdadfe4052105",
+    "kill_time": "2026-08-17T03:27:24Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003726,
+    "solar_system_name": "Y-MPWL",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2123913238,
+      "character_name": "Isoma Ozono",
+      "corporation_id": 98651050,
+      "corporation_name": "Absolute Order XVIII",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137790098/",
+    "total_value": 1782927471.28,
+    "final_attacker": {
+      "character_name": "Rofl- Chopper",
+      "corporation_name": "Seventeenth Battalion",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 137789098,
+    "killmail_hash": "daeea58c581b8aad06e372d46f75e631b0ea9176",
+    "kill_time": "2026-08-17T02:02:58Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 1093729377,
+      "character_name": "Girock",
+      "corporation_id": 1588647992,
+      "corporation_name": "Xoth Inc",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137789098/",
+    "total_value": 1721556918.82,
+    "final_attacker": {
+      "character_name": "Unr8ed",
+      "corporation_name": "Discharged Kinetics",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137785771,
     "killmail_hash": "689259e4a01ab433e2020676ab47c9ebb45c5c7d",
     "kill_time": "2026-08-16T22:03:49Z",
@@ -46,6 +124,32 @@
     "total_value": 8326797510.09,
     "final_attacker": {
       "character_name": "Heist Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 137777519,
+    "killmail_hash": "49e33e1c81c83de59bfd29b4e2d7d53c9df9b003",
+    "kill_time": "2026-08-16T16:15:05Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117019870,
+      "character_name": "Elily-FXW",
+      "corporation_id": 98670400,
+      "corporation_name": "We Love Cody",
+      "alliance_id": 99001952,
+      "alliance_name": "Polaris Mercenary Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137777519/",
+    "total_value": 10614149346.44,
+    "final_attacker": {
+      "character_name": "Ransack Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Hound"
@@ -101,6 +205,32 @@
       "corporation_name": "Tactically Challenged",
       "alliance_name": "The Initiative.",
       "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 137776189,
+    "killmail_hash": "ea9e16cc29d11cb52f7ca70846ea80e8acacfb2e",
+    "kill_time": "2026-08-16T15:17:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115288476,
+      "character_name": "Tibo Hawk",
+      "corporation_id": 98835989,
+      "corporation_name": "PINK-Production and Logistic Service",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137776189/",
+    "total_value": 12955551555.89,
+    "final_attacker": {
+      "character_name": "Pilfer Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
     }
   },
   {
