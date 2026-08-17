@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 137794759,
+    "killmail_hash": "1a2bdd0ce187ff793ae031368df8a11eadbcb0a1",
+    "kill_time": "2026-08-17T10:40:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120594469,
+      "character_name": "Hek Free Trader",
+      "corporation_id": 98824639,
+      "corporation_name": "Aiko Danuja Is the Best B",
+      "alliance_id": 99010629,
+      "alliance_name": "Safety. Net"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137794759/",
+    "total_value": 2156065488.12,
+    "final_attacker": {
+      "character_name": "zLegion 06",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137794534,
+    "killmail_hash": "c5c79134cffe3a047794c6e4990c188d6f41e658",
+    "kill_time": "2026-08-17T10:19:23Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94879440,
+      "character_name": "Tupac ice",
+      "corporation_id": 98753567,
+      "corporation_name": "Ascension Mining and Other Activities",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137794534/",
+    "total_value": 13651057131.3,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 137794186,
+    "killmail_hash": "9e934a756a69f706ef370db5572a119caf843941",
+    "kill_time": "2026-08-17T09:47:32Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93851578,
+      "character_name": "Vlad Isagylov",
+      "corporation_id": 98145698,
+      "corporation_name": "Terrelian Republic.",
+      "alliance_id": 99005034,
+      "alliance_name": "White Sky."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137794186/",
+    "total_value": 14708530541.44,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137793915,
+    "killmail_hash": "f265eed43530e1348063cacc05c4b0744d7b9801",
+    "kill_time": "2026-08-17T09:19:43Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 227568972,
+      "character_name": "Megan Carter",
+      "corporation_id": 98738941,
+      "corporation_name": "Orst Expeditionary Logistics Agency",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137793915/",
+    "total_value": 8918121512.7,
+    "final_attacker": {
+      "character_name": "Aran Ithrill",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 137793566,
+    "killmail_hash": "29f1ec0779b5b0d8e3d381bc4948469a5b2680ff",
+    "kill_time": "2026-08-17T08:50:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119367329,
+      "character_name": "Noah Riley",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137793566/",
+    "total_value": 2794529883.11,
+    "final_attacker": {
+      "character_name": "zLegion 21",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137793246,
     "killmail_hash": "fcc7d2ca841ddb7dbedcbd73cb39472c4fe24bb4",
     "kill_time": "2026-08-17T08:23:24Z",
@@ -2389,58 +2519,6 @@
       "corporation_name": "Kriegsmarinewerft",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137617488,
-    "killmail_hash": "0f23a8144b5a7b1dc0eb5a6c4e341c76d4611b31",
-    "kill_time": "2026-08-10T10:13:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 928811566,
-      "character_name": "D Astorius",
-      "corporation_id": 98803802,
-      "corporation_name": "BLOBinA",
-      "alliance_id": 99012019,
-      "alliance_name": "Can i bring my Drake..."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137617488/",
-    "total_value": 4811943573.09,
-    "final_attacker": {
-      "character_name": "zLegion 11",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137616871,
-    "killmail_hash": "57b510fa87d1454b7cb661f2be346746e75cccd1",
-    "kill_time": "2026-08-10T09:17:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002786,
-    "solar_system_name": "Ikao",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94716207,
-      "character_name": "Una Uitra",
-      "corporation_id": 1569992827,
-      "corporation_name": "OffBeat Creations",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137616871/",
-    "total_value": 2161731753.21,
-    "final_attacker": {
-      "character_name": "zLegion 01",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
