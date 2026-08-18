@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137807300,
+    "killmail_hash": "f7ae6190e5d26b268dade290a848f02831159e16",
+    "kill_time": "2026-08-17T23:36:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124558225,
+      "character_name": "Kengo Reyko-Kitsune",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137807300/",
+    "total_value": 4996049013.37,
+    "final_attacker": {
+      "character_name": "Little Miss Jealous",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 137805171,
+    "killmail_hash": "e4c25dcef970f7b47ddfbabf7a0f655a2d1affaa",
+    "kill_time": "2026-08-17T20:57:37Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 93383628,
+      "character_name": "Candice Riios",
+      "corporation_id": 98011082,
+      "corporation_name": "Shadow State",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137805171/",
+    "total_value": 1588768581.03,
+    "final_attacker": {
+      "character_name": "Amir GHAN",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Eris"
+    }
+  },
+  {
     "killmail_id": 137804597,
     "killmail_hash": "3e9387e6d5ec70d013a79ac9bb7d291fc7d4c34d",
     "kill_time": "2026-08-17T20:26:50Z",
@@ -2415,58 +2467,6 @@
       "corporation_name": "Vulture Enterprises",
       "alliance_name": "Brotherhood of Spacers",
       "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 137631456,
-    "killmail_hash": "ef5abb225292d1fdb4bfb93933cb5aa228a292dc",
-    "kill_time": "2026-08-10T23:40:44Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2123421176,
-      "character_name": "TheJookeer9722",
-      "corporation_id": 98612164,
-      "corporation_name": "CENTURIONES IMPERIALES",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137631456/",
-    "total_value": 7980809491.51,
-    "final_attacker": {
-      "character_name": "Spacemanspifff",
-      "corporation_name": "Brave Newbies Inc.",
-      "alliance_name": "Brave Collective",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137628998,
-    "killmail_hash": "21ee8b420059d2fe0f9ea8ca2c29f7feb8d8e3af",
-    "kill_time": "2026-08-10T21:08:49Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30004809,
-    "solar_system_name": "Y-ORBJ",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 96187694,
-      "character_name": "Remy Renalard",
-      "corporation_id": 98500968,
-      "corporation_name": "Cuervos Imperiales",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137628998/",
-    "total_value": 3479031807.99,
-    "final_attacker": {
-      "character_name": "Lavraen",
-      "corporation_name": "TEMPLAR.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Omen Navy Issue"
     }
   }
 ]
