@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 137825344,
+    "killmail_hash": "b811466332f2a1ea22d97d12bcbd24d258d9e5c6",
+    "kill_time": "2026-08-18T20:23:03Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2116834530,
+      "character_name": "Nather Montgomary",
+      "corporation_id": 98796259,
+      "corporation_name": "Lunar Space Traders",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137825344/",
+    "total_value": 7093720543.32,
+    "final_attacker": {
+      "character_name": "Stara Isu",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 137823012,
+    "killmail_hash": "a6af658f532728ca7b7f42ec13247301def8c4f0",
+    "kill_time": "2026-08-18T18:25:13Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000547,
+    "solar_system_name": "H-HHTH",
+    "region_name": "Wicked Creek",
+    "victim": {
+      "character_id": 2116348503,
+      "character_name": "L0100",
+      "corporation_id": 98634736,
+      "corporation_name": "Lengerious Enterprise Reposession Group",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137823012/",
+    "total_value": 16020252887.94,
+    "final_attacker": {
+      "character_name": "Lorismere Bloum",
+      "corporation_name": "Out of Focus",
+      "alliance_name": "Odin's Call",
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
+    "killmail_id": 137822987,
+    "killmail_hash": "2f54c56314fae1eee7ed8db443e973de6300f8ba",
+    "kill_time": "2026-08-18T18:23:45Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000546,
+    "solar_system_name": "MWA-5Q",
+    "region_name": "Wicked Creek",
+    "victim": {
+      "character_id": 2116124349,
+      "character_name": "L0004",
+      "corporation_id": 98634736,
+      "corporation_name": "Lengerious Enterprise Reposession Group",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137822987/",
+    "total_value": 1680643661.03,
+    "final_attacker": {
+      "character_name": "Lorismere Bloum",
+      "corporation_name": "Out of Focus",
+      "alliance_name": "Odin's Call",
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
+    "killmail_id": 137822949,
+    "killmail_hash": "e1b3772d1a2e47c443501e833c6a1f2a61247747",
+    "kill_time": "2026-08-18T18:21:23Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000546,
+    "solar_system_name": "MWA-5Q",
+    "region_name": "Wicked Creek",
+    "victim": {
+      "character_id": 2115827192,
+      "character_name": "L0003",
+      "corporation_id": 98634736,
+      "corporation_name": "Lengerious Enterprise Reposession Group",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137822949/",
+    "total_value": 1585256821.02,
+    "final_attacker": {
+      "character_name": "Lorismere Bloum",
+      "corporation_name": "Out of Focus",
+      "alliance_name": "Odin's Call",
+      "ship_type_name": "Retribution"
+    }
+  },
+  {
+    "killmail_id": 137822898,
+    "killmail_hash": "69d47162ba140325b021dd479e6a0615434c92ec",
+    "kill_time": "2026-08-18T18:18:32Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 90923059,
+      "character_name": "Andre Odunen",
+      "corporation_id": 1427226580,
+      "corporation_name": "SpacePioneers",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137822898/",
+    "total_value": 7193568852.98,
+    "final_attacker": {
+      "character_name": "Dankguy",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137822798,
+    "killmail_hash": "34075cee60197b2356afd84c5643d8755078ab8f",
+    "kill_time": "2026-08-18T18:12:54Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003022,
+    "solar_system_name": "Mya",
+    "region_name": "Everyshore",
+    "victim": {
+      "character_id": 2124057508,
+      "character_name": "Olin Ironblood",
+      "corporation_id": 98798950,
+      "corporation_name": "Rogue Wave University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137822798/",
+    "total_value": 2457025688.72,
+    "final_attacker": {
+      "character_name": "Bojeck hoursman",
+      "corporation_name": "Don't touch my wreck",
+      "alliance_name": "TOXIC PLAYERS.",
+      "ship_type_name": "Nidhoggur"
+    }
+  },
+  {
     "killmail_id": 137818190,
     "killmail_hash": "b5b6e7d2e2775dbb3ce797ee0c0fdc8905d0e45c",
     "kill_time": "2026-08-18T13:47:46Z",
@@ -2597,32 +2753,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137646343,
-    "killmail_hash": "f9d77da737fa008bea2870ea255debe2c9dbe946",
-    "kill_time": "2026-08-11T17:10:41Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30045321,
-    "solar_system_name": "Uchomida",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2113280861,
-      "character_name": "Good Hunters",
-      "corporation_id": 98646873,
-      "corporation_name": "SOLAR TRADE WIND CORPORATION",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137646343/",
-    "total_value": 2119047437.81,
-    "final_attacker": {
-      "character_name": "chewy",
-      "corporation_name": "Circular Circle",
-      "alliance_name": "Black Rise Collective",
-      "ship_type_name": "Nergal"
     }
   }
 ]
