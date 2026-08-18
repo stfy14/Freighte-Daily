@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137810122,
+    "killmail_hash": "6f3243d7f0fe8a43d71550e315eee46b018e924d",
+    "kill_time": "2026-08-18T03:23:03Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002719,
+    "solar_system_name": "Miroitem",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2117607532,
+      "character_name": "Grand-Admiral-Thrawn",
+      "corporation_id": 98835273,
+      "corporation_name": "New Horizons Mining and Industry",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137810122/",
+    "total_value": 1692115080.96,
+    "final_attacker": {
+      "character_name": "Android Reaper",
+      "corporation_name": "Suddenly a Covert Cyno",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137809759,
+    "killmail_hash": "f25981754a2f128e521a632a9715b984760e4847",
+    "kill_time": "2026-08-18T02:56:43Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121080491,
+      "character_name": "Apocalyptoxx",
+      "corporation_id": 98814595,
+      "corporation_name": "Akaishi Knowledge Syndicate",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137809759/",
+    "total_value": 14231918853.03,
+    "final_attacker": {
+      "character_name": "zander killer",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 137808891,
+    "killmail_hash": "0aced703af3e6337fabf01fb3125752aeec20105",
+    "kill_time": "2026-08-18T01:48:00Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 201268381,
+      "character_name": "Kojo",
+      "corporation_id": 98738943,
+      "corporation_name": "Take The Bait.",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137808891/",
+    "total_value": 18228918540.31,
+    "final_attacker": {
+      "character_name": "Warhead Tamarkus",
+      "corporation_name": "The Terrifying League Of Dog Fort",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137807300,
     "killmail_hash": "f7ae6190e5d26b268dade290a848f02831159e16",
     "kill_time": "2026-08-17T23:36:48Z",
