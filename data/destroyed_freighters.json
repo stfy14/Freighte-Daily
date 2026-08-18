@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137818190,
+    "killmail_hash": "b5b6e7d2e2775dbb3ce797ee0c0fdc8905d0e45c",
+    "kill_time": "2026-08-18T13:47:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2123205477,
+      "character_name": "Ulises Sevilla",
+      "corporation_id": 98500968,
+      "corporation_name": "Cuervos Imperiales",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137818190/",
+    "total_value": 2111640418.92,
+    "final_attacker": {
+      "character_name": "Amir GHAN",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Eris"
+    }
+  },
+  {
     "killmail_id": 137816063,
     "killmail_hash": "b17145b911f921eabbae7dbbd3eb5fbdfa8f01ec",
     "kill_time": "2026-08-18T12:15:17Z",
@@ -2597,136 +2623,6 @@
       "corporation_name": "Circular Circle",
       "alliance_name": "Black Rise Collective",
       "ship_type_name": "Nergal"
-    }
-  },
-  {
-    "killmail_id": 137644919,
-    "killmail_hash": "b9f3b9f46e26b696297df01f32912d108601f8a2",
-    "kill_time": "2026-08-11T16:05:33Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122412068,
-      "character_name": "Dr Gravalis",
-      "corporation_id": 98779398,
-      "corporation_name": "Monophase Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137644919/",
-    "total_value": 3536575463.92,
-    "final_attacker": {
-      "character_name": "Tickle Bottom",
-      "corporation_name": "Your Killboard Our Playground",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 137643953,
-    "killmail_hash": "61ca346d9e64dc69b5f2a8bba51eecdaff62413d",
-    "kill_time": "2026-08-11T15:29:12Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114614906,
-      "character_name": "Commodore en Thielles",
-      "corporation_id": 98732277,
-      "corporation_name": "Evity Networks",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137643953/",
-    "total_value": 1703324502.4,
-    "final_attacker": {
-      "character_name": "Tickle Bottom",
-      "corporation_name": "Your Killboard Our Playground",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 137643033,
-    "killmail_hash": "d711e401d14b1e3d60e8e201151a64977847caf2",
-    "kill_time": "2026-08-11T14:30:12Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2116328455,
-      "character_name": "Ivan u100",
-      "corporation_id": 98633589,
-      "corporation_name": "Ros Shovel Corporation",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137643033/",
-    "total_value": 11860491451.95,
-    "final_attacker": {
-      "character_name": "Ultrabug",
-      "corporation_name": "Morne Attitude",
-      "alliance_name": "SUS Holding",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137642197,
-    "killmail_hash": "a9994098b0cadbece1b4892e5e930d2a02fbfdda",
-    "kill_time": "2026-08-11T14:03:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2113011659,
-      "character_name": "Anguai Uberwald",
-      "corporation_id": 98672533,
-      "corporation_name": "BrainBox",
-      "alliance_id": 99005393,
-      "alliance_name": "Blades of Grass"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137642197/",
-    "total_value": 22125974397.03,
-    "final_attacker": {
-      "character_name": "Zed's Motorcycle",
-      "corporation_name": "Rusty Hyenas",
-      "alliance_name": "Rusty Hyenas Clan",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 137640985,
-    "killmail_hash": "be79bb0052ab32ac977d235759de6a81c148979a",
-    "kill_time": "2026-08-11T13:00:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1495777134,
-      "character_name": "blu movie",
-      "corporation_id": 98793036,
-      "corporation_name": "Goats A'hoy - Miners Of The Deep",
-      "alliance_id": 99013803,
-      "alliance_name": "Wicked Goats Enterprises"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137640985/",
-    "total_value": 1651671184.5,
-    "final_attacker": {
-      "character_name": "zLegion 05",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
