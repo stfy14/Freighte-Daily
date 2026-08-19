@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137834800,
+    "killmail_hash": "25aca2f5b7e206e61ece58ea47edcc3442a9d41a",
+    "kill_time": "2026-08-19T08:14:24Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002764,
+    "solar_system_name": "Hatakani",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123323892,
+      "character_name": "Kiiro Miso",
+      "corporation_id": 98308160,
+      "corporation_name": "That's not my bag",
+      "alliance_id": 99011699,
+      "alliance_name": "We Forsakened Few"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137834800/",
+    "total_value": 2055351205.52,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Brutix"
+    }
+  },
+  {
+    "killmail_id": 137833560,
+    "killmail_hash": "518412ba619ae3d786e1e61732d158b224c706e0",
+    "kill_time": "2026-08-19T05:54:08Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1461906166,
+      "character_name": "Shiro She",
+      "corporation_id": 98512964,
+      "corporation_name": "Sorry We're In Your Space Eh",
+      "alliance_id": 99001105,
+      "alliance_name": "Seventh Sanctum."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137833560/",
+    "total_value": 8663234893.92,
+    "final_attacker": {
+      "character_name": "Broho Handelaar",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
+    "killmail_id": 137833557,
+    "killmail_hash": "520257a3847f064b3e31f3fd2c525043046938ef",
+    "kill_time": "2026-08-19T05:54:00Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91828300,
+      "character_name": "Seterinthia",
+      "corporation_id": 98512964,
+      "corporation_name": "Sorry We're In Your Space Eh",
+      "alliance_id": 99001105,
+      "alliance_name": "Seventh Sanctum."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137833557/",
+    "total_value": 8423803156.47,
+    "final_attacker": {
+      "character_name": "Vycktor Mordekessel",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137828673,
     "killmail_hash": "46ba1c1862cfa010566d0b70c9933029055f694b",
     "kill_time": "2026-08-18T23:04:46Z",
@@ -2620,84 +2698,6 @@
     "total_value": 4556438674.18,
     "final_attacker": {
       "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137661315,
-    "killmail_hash": "18bc53a5593b16c767dd73280589fa36c79943c3",
-    "kill_time": "2026-08-12T08:12:05Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 858533068,
-      "character_name": "HELOVEK",
-      "corporation_id": 98572759,
-      "corporation_name": "Ostrov v okeane",
-      "alliance_id": 99014419,
-      "alliance_name": "Seals on the rocks"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137661315/",
-    "total_value": 3149100160.19,
-    "final_attacker": {
-      "character_name": "zLegion 22",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137660426,
-    "killmail_hash": "7772639703b1d517d7e600102625aa6b21ed306f",
-    "kill_time": "2026-08-12T06:44:36Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94458839,
-      "character_name": "leo andrR",
-      "corporation_id": 98641719,
-      "corporation_name": "Lucius Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137660426/",
-    "total_value": 2183692532.72,
-    "final_attacker": {
-      "character_name": "zLegion 07",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137659636,
-    "killmail_hash": "ec39f254dfdfebceb6f9d46103708e1fe502a041",
-    "kill_time": "2026-08-12T05:25:55Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120265171,
-      "character_name": "Kikkoras Asama Huunuras",
-      "corporation_id": 98702397,
-      "corporation_name": "Red Crushers Inc",
-      "alliance_id": 99014579,
-      "alliance_name": "RedGangBangBang"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137659636/",
-    "total_value": 15567231693.99,
-    "final_attacker": {
-      "character_name": "zLegion 15",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
