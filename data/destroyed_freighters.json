@@ -2832,57 +2832,5 @@
       "alliance_name": null,
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 137682684,
-    "killmail_hash": "71dfc070889dc0e24d9bb715477b002c52a40d6d",
-    "kill_time": "2026-08-13T08:41:10Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1537209003,
-      "character_name": "Noogtev",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137682684/",
-    "total_value": 4289737635.19,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137681900,
-    "killmail_hash": "d0575520179b34c887343ff99d5cc17ab2b0a9a1",
-    "kill_time": "2026-08-13T07:32:10Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91634362,
-      "character_name": "Remmy Bump",
-      "corporation_id": 2026831070,
-      "corporation_name": "Revenge of the Liquidators",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137681900/",
-    "total_value": 1659620914.41,
-    "final_attacker": {
-      "character_name": "zLegion 24",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
