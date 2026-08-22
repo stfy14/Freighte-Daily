@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137900013,
+    "killmail_hash": "f5e4a1ff01b67b3c07fc4bc9216686267bfabc1c",
+    "kill_time": "2026-08-22T08:21:18Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003124,
+    "solar_system_name": "Z-Y9C3",
+    "region_name": "Esoteria",
+    "victim": {
+      "character_id": 92512899,
+      "character_name": "Gledi",
+      "corporation_id": 98731304,
+      "corporation_name": "General Arms Manufacturing",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137900013/",
+    "total_value": 14175392542.63,
+    "final_attacker": {
+      "character_name": "jiugong1",
+      "corporation_name": "Family Guy.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 137899867,
+    "killmail_hash": "e0502a5221d2ae35edc6db2e143c40219a90c9d5",
+    "kill_time": "2026-08-22T08:08:54Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000168,
+    "solar_system_name": "Friggi",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 95112921,
+      "character_name": "Seth athema",
+      "corporation_id": 667531913,
+      "corporation_name": "GoonWaffe",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137899867/",
+    "total_value": 21144951563.53,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Corporate Police Force",
+      "alliance_name": null,
+      "ship_type_name": "Caldari Police Vice Commissioner"
+    }
+  },
+  {
+    "killmail_id": 137898208,
+    "killmail_hash": "1ee821caa9412223a16ae4ffe3c2cf5512ba9f6f",
+    "kill_time": "2026-08-22T06:08:25Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123673006,
+      "character_name": "Cannon Black",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137898208/",
+    "total_value": 4410879853.42,
+    "final_attacker": {
+      "character_name": "zLegion 27",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137897700,
+    "killmail_hash": "6b5787a1321c5332ab75caab4bbac3f031a5fd8f",
+    "kill_time": "2026-08-22T05:21:40Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112786571,
+      "character_name": "Reznaw Evets",
+      "corporation_id": 98561745,
+      "corporation_name": "Space Cookie Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137897700/",
+    "total_value": 4907031149.31,
+    "final_attacker": {
+      "character_name": "men observe",
+      "corporation_name": "zhenjbhuaia",
+      "alliance_name": null,
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 137896400,
     "killmail_hash": "299a703175eed372d4fd87b402fe0203b88abf22",
     "kill_time": "2026-08-22T03:48:55Z",
@@ -3112,58 +3216,6 @@
     },
     "zkb_url": "https://zkillboard.com/kill/137740804/",
     "total_value": 7371246447.73,
-    "final_attacker": {
-      "character_name": "zLegion 05",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137739183,
-    "killmail_hash": "6d235a64772867c6f9f033b4fab69640c6ee7b4d",
-    "kill_time": "2026-08-15T07:05:44Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124634979,
-      "character_name": "Shadow Mining Trader",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137739183/",
-    "total_value": 2651027454.71,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137737931,
-    "killmail_hash": "3c525f4f042d4e1b54b6a5e00ab3c23036e141e0",
-    "kill_time": "2026-08-15T05:28:15Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115639157,
-      "character_name": "Carlo Grace",
-      "corporation_id": 98603606,
-      "corporation_name": "Climbing Business Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137737931/",
-    "total_value": 1731470353.23,
     "final_attacker": {
       "character_name": "zLegion 05",
       "corporation_name": "L.E.G.I.O.N",
