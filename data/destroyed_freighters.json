@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137927683,
+    "killmail_hash": "093cbc038e14545195210608362cd024ff53c064",
+    "kill_time": "2026-08-23T08:10:00Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003834,
+    "solar_system_name": "Chardalane",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 95388760,
+      "character_name": "Arkay",
+      "corporation_id": 98823389,
+      "corporation_name": "xSiberian Legion of PROBSx",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137927683/",
+    "total_value": 7105255950.41,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 137924604,
+    "killmail_hash": "35cfb354fe26580a82be2c7258e394a645294225",
+    "kill_time": "2026-08-23T04:49:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117861712,
+      "character_name": "Drakman9",
+      "corporation_id": 98637786,
+      "corporation_name": "The Superior NPC Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137924604/",
+    "total_value": 1770662579.42,
+    "final_attacker": {
+      "character_name": "Jayson Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 137924218,
     "killmail_hash": "e658799303b1d462b94a081751bf19816ac9f672",
     "kill_time": "2026-08-23T04:29:44Z",
@@ -3195,110 +3247,6 @@
       "corporation_name": "Dishonorable Duel Disturbance",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 137767571,
-    "killmail_hash": "8c05bb848d029c684e57433ea5a65492650bc447",
-    "kill_time": "2026-08-16T08:02:53Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 785800733,
-      "character_name": "domina lunge",
-      "corporation_id": 98760162,
-      "corporation_name": "The Show Must Go On",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137767571/",
-    "total_value": 2111202312.63,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137767247,
-    "killmail_hash": "8d8897bf4b501c0c5e6c67d268975d9c5ed622a3",
-    "kill_time": "2026-08-16T07:38:57Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1745171816,
-      "character_name": "Cyrell Lokrane",
-      "corporation_id": 98806390,
-      "corporation_name": "CTN Idustries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137767247/",
-    "total_value": 9879089855.39,
-    "final_attacker": {
-      "character_name": "zLegion 19",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137766489,
-    "killmail_hash": "953288ad6121156adaa9f0089112fd29607cabe1",
-    "kill_time": "2026-08-16T06:34:35Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003044,
-    "solar_system_name": "Elarel",
-    "region_name": "Everyshore",
-    "victim": {
-      "character_id": 2120676356,
-      "character_name": "paulano",
-      "corporation_id": 98669122,
-      "corporation_name": "Gruber und Partner GmbH",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137766489/",
-    "total_value": 37252880083.76,
-    "final_attacker": {
-      "character_name": "Peter Powers",
-      "corporation_name": "Terrorists of Dimensions",
-      "alliance_name": "HORSE-KILLERS",
-      "ship_type_name": "Nighthawk"
-    }
-  },
-  {
-    "killmail_id": 137765909,
-    "killmail_hash": "8db69b44c83437cc302e65a421f42de19c2642fb",
-    "kill_time": "2026-08-16T05:52:06Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003481,
-    "solar_system_name": "Unefsih",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 94180811,
-      "character_name": "Reign Syphon",
-      "corporation_id": 349567985,
-      "corporation_name": "The Legion of Spoon",
-      "alliance_id": 1988009451,
-      "alliance_name": "Curatores Veritatis Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137765909/",
-    "total_value": 23149671673.19,
-    "final_attacker": {
-      "character_name": "Slave Calrisian",
-      "corporation_name": "Coco Accounting and Laundry",
-      "alliance_name": "Domain Research and Mining Inst. Logistics",
-      "ship_type_name": "Loki"
     }
   }
 ]
