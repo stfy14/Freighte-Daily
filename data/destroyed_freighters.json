@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137929775,
+    "killmail_hash": "f9e730e79b8900498bfd0305dd5113f633ff4362",
+    "kill_time": "2026-08-23T10:29:09Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96866893,
+      "character_name": "freeIancer",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137929775/",
+    "total_value": 1740246234.84,
+    "final_attacker": {
+      "character_name": "zLegion 21",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 137928888,
+    "killmail_hash": "65dae78d364cc43c91ec3b44cff5a71f7d6024e9",
+    "kill_time": "2026-08-23T09:30:15Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124619105,
+      "character_name": "laurel mk5",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137928888/",
+    "total_value": 1664968557.39,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137928573,
+    "killmail_hash": "fb25b9b9fb20b44c8c87c2c089052b5f4d38432b",
+    "kill_time": "2026-08-23T09:12:07Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115252542,
+      "character_name": "Wmlevi1460",
+      "corporation_id": 98799124,
+      "corporation_name": "Muutaras Corporation Hub",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137928573/",
+    "total_value": 9285160523.23,
+    "final_attacker": {
+      "character_name": "zLegion 12",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137928179,
+    "killmail_hash": "6a704e435bcbbfd9d9c49d355ce11db1ed5a5585",
+    "kill_time": "2026-08-23T08:44:22Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122840848,
+      "character_name": "Rotker7",
+      "corporation_id": 98806817,
+      "corporation_name": "Fairy Express.inc",
+      "alliance_id": 99014175,
+      "alliance_name": "Fairy Express Commercial Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137928179/",
+    "total_value": 1705456723.07,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
     "killmail_id": 137927683,
     "killmail_hash": "093cbc038e14545195210608362cd024ff53c064",
     "kill_time": "2026-08-23T08:10:00Z",
@@ -23,6 +127,58 @@
       "corporation_name": "Constantine.",
       "alliance_name": "Ninja Unicorns with Huge Horns",
       "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 137927126,
+    "killmail_hash": "39da9fee5b716c5f0dd8656486dd05fc7c760a5f",
+    "kill_time": "2026-08-23T07:35:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1631250359,
+      "character_name": "Craterius",
+      "corporation_id": 1344917645,
+      "corporation_name": "Symple Onez",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137927126/",
+    "total_value": 2346382414.69,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
+    "killmail_id": 137926608,
+    "killmail_hash": "8e367869d8be74be3b3cdb4eb1e3d70bbb2cb615",
+    "kill_time": "2026-08-23T07:05:17Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112355747,
+      "character_name": "Skalas",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137926608/",
+    "total_value": 11521922067.3,
+    "final_attacker": {
+      "character_name": "Painter Alt 5",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -3195,58 +3351,6 @@
       "corporation_name": "Dishonorable Duel Disturbance",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 137770210,
-    "killmail_hash": "db26911fbf62e7be472b75787ef6c81a31e6bd0f",
-    "kill_time": "2026-08-16T10:53:29Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123182103,
-      "character_name": "Katalra",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137770210/",
-    "total_value": 19677589543.13,
-    "final_attacker": {
-      "character_name": "zLegion V",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 137768153,
-    "killmail_hash": "a5a866bdcc06e31d942672c675abfa41cf1900f4",
-    "kill_time": "2026-08-16T08:42:36Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 94540594,
-      "character_name": "Fast arrow Arji",
-      "corporation_id": 98370861,
-      "corporation_name": "KarmaFleet",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137768153/",
-    "total_value": 6561138732.18,
-    "final_attacker": {
-      "character_name": "Stara Isu",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Manticore"
     }
   }
 ]
