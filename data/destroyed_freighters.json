@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137959445,
+    "killmail_hash": "b94a085accb3a73d23d129a3d0a72a903af73280",
+    "kill_time": "2026-08-24T16:43:08Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003905,
+    "solar_system_name": "Chamemi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2112776288,
+      "character_name": "Eternal Starsea DH",
+      "corporation_id": 98334523,
+      "corporation_name": "PLA Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137959445/",
+    "total_value": 9277141651.16,
+    "final_attacker": {
+      "character_name": "xTOGAMEx",
+      "corporation_name": "Fat Dragon Pirate Co.",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 137957413,
     "killmail_hash": "5a7f04e307939a1477276a410e1bf78ae336dc5d",
     "kill_time": "2026-08-24T14:42:26Z",
@@ -3169,110 +3195,6 @@
       "corporation_name": "Dishonorable Duel Disturbance",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Eris"
-    }
-  },
-  {
-    "killmail_id": 137804597,
-    "killmail_hash": "3e9387e6d5ec70d013a79ac9bb7d291fc7d4c34d",
-    "kill_time": "2026-08-17T20:26:50Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2118112689,
-      "character_name": "ImRustY",
-      "corporation_id": 641435244,
-      "corporation_name": "The Hackenings",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137804597/",
-    "total_value": 7068835877.34,
-    "final_attacker": {
-      "character_name": "Qfeuille",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 137804109,
-    "killmail_hash": "79c3b68d1f13e01a5623a3bde1b01953e22784bf",
-    "kill_time": "2026-08-17T20:07:38Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 1721727132,
-      "character_name": "Arcano Dentist",
-      "corporation_id": 98648361,
-      "corporation_name": "Deadspace Excavations",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137804109/",
-    "total_value": 2363141338.26,
-    "final_attacker": {
-      "character_name": "Rian Gozmer Isimazu",
-      "corporation_name": "Rusty Dragons",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Coercer Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 137801553,
-    "killmail_hash": "af4c95f3fd248b1cd423bc30b3c94faec8b4e78e",
-    "kill_time": "2026-08-17T17:47:59Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004979,
-    "solar_system_name": "Heydieles",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 2113994034,
-      "character_name": "Tom Onyx",
-      "corporation_id": 98793036,
-      "corporation_name": "Goats A'hoy - Miners Of The Deep",
-      "alliance_id": 99013803,
-      "alliance_name": "Wicked Goats Enterprises"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137801553/",
-    "total_value": 1707578120.76,
-    "final_attacker": {
-      "character_name": "Dome Caldari",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Vigilant"
-    }
-  },
-  {
-    "killmail_id": 137801483,
-    "killmail_hash": "2ed457fa948d2874a4b07e8f1b50202c3bb7b161",
-    "kill_time": "2026-08-17T17:44:27Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004979,
-    "solar_system_name": "Heydieles",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 2112331261,
-      "character_name": "Shanks Maulerant",
-      "corporation_id": 98793036,
-      "corporation_name": "Goats A'hoy - Miners Of The Deep",
-      "alliance_id": 99013803,
-      "alliance_name": "Wicked Goats Enterprises"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137801483/",
-    "total_value": 1708932719.12,
-    "final_attacker": {
-      "character_name": "Starlei Lavrinenko",
-      "corporation_name": "Imperial Academy",
-      "alliance_name": null,
-      "ship_type_name": "Loki"
     }
   }
 ]
