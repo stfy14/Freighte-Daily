@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137957413,
+    "killmail_hash": "5a7f04e307939a1477276a410e1bf78ae336dc5d",
+    "kill_time": "2026-08-24T14:42:26Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1961234789,
+      "character_name": "Sei Ashina",
+      "corporation_id": 98682508,
+      "corporation_name": "EDENCOM Section 7",
+      "alliance_id": 99012018,
+      "alliance_name": "EDENCOM DEFENSIVE INITIATIVE"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137957413/",
+    "total_value": 1383362164.98,
+    "final_attacker": {
+      "character_name": "Ulianov",
+      "corporation_name": "Axis of Evil Emporium Imperium",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 137956235,
+    "killmail_hash": "6517bf5c87e368129eb2794b61db21577d587553",
+    "kill_time": "2026-08-24T13:40:35Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 90767047,
+      "character_name": "Richard S Stallman",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137956235/",
+    "total_value": 8144848926.02,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 137953893,
     "killmail_hash": "acf4e71630aaa17c98d5d4c0007d65dcf9a9a829",
     "kill_time": "2026-08-24T10:19:58Z",
