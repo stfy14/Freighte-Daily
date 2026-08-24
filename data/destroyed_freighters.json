@@ -3196,57 +3196,5 @@
       "alliance_name": "Domain Research and Mining Inst.",
       "ship_type_name": "Redeemer"
     }
-  },
-  {
-    "killmail_id": 137785771,
-    "killmail_hash": "689259e4a01ab433e2020676ab47c9ebb45c5c7d",
-    "kill_time": "2026-08-16T22:03:49Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001356,
-    "solar_system_name": "Dantumi",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2115637517,
-      "character_name": "Nakita Makahari",
-      "corporation_id": 98650605,
-      "corporation_name": "Amazon Prime Deliveries Corp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137785771/",
-    "total_value": 1684471316.91,
-    "final_attacker": {
-      "character_name": "Battletroll484",
-      "corporation_name": "Brotherhood of Wolves",
-      "alliance_name": "Coalition Of Pirates",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 137784433,
-    "killmail_hash": "3a60aa40e5b203654d77dff50bd70540dbaa6ce1",
-    "kill_time": "2026-08-16T21:11:33Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 444246585,
-      "character_name": "L'il Pwny",
-      "corporation_id": 98733885,
-      "corporation_name": "Ballah Inc.",
-      "alliance_id": 99012009,
-      "alliance_name": "Minmatar Fleet Associates"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137784433/",
-    "total_value": 8326797510.09,
-    "final_attacker": {
-      "character_name": "Heist Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
   }
 ]
