@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137952554,
+    "killmail_hash": "f139de5717adb2603e30ca9f27bd7c8bbd869136",
+    "kill_time": "2026-08-24T08:09:25Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117614513,
+      "character_name": "cwalsh412",
+      "corporation_id": 98824965,
+      "corporation_name": "Aurelion Frame",
+      "alliance_id": 99010240,
+      "alliance_name": "The Curatores Veritatis Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137952554/",
+    "total_value": 2843993374.09,
+    "final_attacker": {
+      "character_name": "google-was-my-idea",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137952354,
+    "killmail_hash": "9307e6ea20e52b35409984f9ca6fbb5e0fdc946a",
+    "kill_time": "2026-08-24T07:40:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2112378463,
+      "character_name": "Halina robi Hajs",
+      "corporation_id": 98543153,
+      "corporation_name": "Penguin Roach Motels",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137952354/",
+    "total_value": 4753553039.27,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 137951579,
+    "killmail_hash": "b1330821f079d5bd165118ec20a515be239b8195",
+    "kill_time": "2026-08-24T06:23:11Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 1284679513,
+      "character_name": "Atrician",
+      "corporation_id": 744976238,
+      "corporation_name": "Mine 'N' Refine",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137951579/",
+    "total_value": 1928787096,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 137948820,
     "killmail_hash": "80696354903776dd5ec9c0d8adbfce563568675d",
     "kill_time": "2026-08-24T01:46:47Z",
@@ -3091,58 +3169,6 @@
       "corporation_name": "Dishonorable Duel Disturbance",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 137793566,
-    "killmail_hash": "29f1ec0779b5b0d8e3d381bc4948469a5b2680ff",
-    "kill_time": "2026-08-17T08:50:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119367329,
-      "character_name": "Noah Riley",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137793566/",
-    "total_value": 2794529883.11,
-    "final_attacker": {
-      "character_name": "zLegion 21",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137793246,
-    "killmail_hash": "fcc7d2ca841ddb7dbedcbd73cb39472c4fe24bb4",
-    "kill_time": "2026-08-17T08:23:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122823518,
-      "character_name": "Alton Houssa",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137793246/",
-    "total_value": 2765232166.94,
-    "final_attacker": {
-      "character_name": "zLegion 03",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
