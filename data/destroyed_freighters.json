@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 137972438,
+    "killmail_hash": "1c5f2e741dbe661a3dc2d3e550d65ab884632fba",
+    "kill_time": "2026-08-25T08:08:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114562198,
+      "character_name": "lerryzhang",
+      "corporation_id": 98840850,
+      "corporation_name": "Silent Desk",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137972438/",
+    "total_value": 2237257503.15,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137971858,
+    "killmail_hash": "3505dc086e42e210e79ad7f44e124452b1aa74e5",
+    "kill_time": "2026-08-25T07:08:13Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 92744528,
+      "character_name": "max odious",
+      "corporation_id": 98011082,
+      "corporation_name": "Shadow State",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137971858/",
+    "total_value": 2372839293.35,
+    "final_attacker": {
+      "character_name": "Danin Dovina",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 137969096,
     "killmail_hash": "c59650a8e3a00f8daa42280755b5d7bdf5b08d66",
     "kill_time": "2026-08-25T02:56:37Z",
@@ -2986,110 +3038,6 @@
       "character_name": "zLegion 14",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137813656,
-    "killmail_hash": "5da2f5c9f949356319b9cf78a6f9734c18181b4f",
-    "kill_time": "2026-08-18T08:37:09Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112697211,
-      "character_name": "Multi Vlad",
-      "corporation_id": 98417959,
-      "corporation_name": "Sins Of Youth",
-      "alliance_id": 99007879,
-      "alliance_name": "TIME CRIT"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137813656/",
-    "total_value": 2269817279.48,
-    "final_attacker": {
-      "character_name": "Straight Up Dominated",
-      "corporation_name": "Cohenberg's Ethical Capital Production",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137813172,
-    "killmail_hash": "9b56c85c88eaec520c2b90a72bbff284aed34e8c",
-    "kill_time": "2026-08-18T07:57:14Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115903453,
-      "character_name": "Haramir 03",
-      "corporation_id": 98838676,
-      "corporation_name": "Chimera Trade Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137813172/",
-    "total_value": 6034242712.09,
-    "final_attacker": {
-      "character_name": "Ganimoth Gandar",
-      "corporation_name": "The Night Watchmen",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 137812923,
-    "killmail_hash": "70c5103ecef765c94cfc8538c8006b0376e3e3d9",
-    "kill_time": "2026-08-18T07:39:21Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 897439403,
-      "character_name": "fuflo",
-      "corporation_id": 98716721,
-      "corporation_name": "Atlantis Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137812923/",
-    "total_value": 6911111837.01,
-    "final_attacker": {
-      "character_name": "zLegion 16",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137812629,
-    "killmail_hash": "b141ccd71cc7703c4b33bb82f8a3de7b7edf2fd8",
-    "kill_time": "2026-08-18T07:16:31Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123851245,
-      "character_name": "Oshio Ymamoto",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137812629/",
-    "total_value": 1589881264.11,
-    "final_attacker": {
-      "character_name": "Raddr",
-      "corporation_name": "Shooting Blues Everyday",
-      "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Catalyst"
     }
   }
