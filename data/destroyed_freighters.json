@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137978058,
+    "killmail_hash": "ec1907a289891caa5f4625e2a282f0de25e4bddc",
+    "kill_time": "2026-08-25T14:29:01Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119735720,
+      "character_name": "Shaadan",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137978058/",
+    "total_value": 6700982389.97,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 137977265,
+    "killmail_hash": "fc756dcee1ad822cf9271b221563ec111589f149",
+    "kill_time": "2026-08-25T13:49:16Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003067,
+    "solar_system_name": "Huola",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 2112187890,
+      "character_name": "Balerion Pavarius",
+      "corporation_id": 98576679,
+      "corporation_name": "1337 PeeVeePee Inc",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137977265/",
+    "total_value": 8039113492.28,
+    "final_attacker": {
+      "character_name": "Pokrishkin35",
+      "corporation_name": "x Never Give Up x",
+      "alliance_name": "Interstellar Dynamics.",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 137976493,
+    "killmail_hash": "60a5590b24f7fa348b401527f33d9738ad43e7b8",
+    "kill_time": "2026-08-25T13:20:14Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94477260,
+      "character_name": "Steve Bravin",
+      "corporation_id": 98619056,
+      "corporation_name": "To Boldly Go",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137976493/",
+    "total_value": 6837969068.74,
+    "final_attacker": {
+      "character_name": "n1tsuj",
+      "corporation_name": "Pinky and the Brain.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 137974446,
     "killmail_hash": "68cb9cf52dcdcaf8000180bd4d1dc86fdd700f2c",
     "kill_time": "2026-08-25T11:24:42Z",
@@ -3013,32 +3091,6 @@
       "corporation_name": "Don't touch my wreck",
       "alliance_name": "TOXIC PLAYERS.",
       "ship_type_name": "Nidhoggur"
-    }
-  },
-  {
-    "killmail_id": 137818190,
-    "killmail_hash": "b5b6e7d2e2775dbb3ce797ee0c0fdc8905d0e45c",
-    "kill_time": "2026-08-18T13:47:46Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2123205477,
-      "character_name": "Ulises Sevilla",
-      "corporation_id": 98500968,
-      "corporation_name": "Cuervos Imperiales",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137818190/",
-    "total_value": 2111640418.92,
-    "final_attacker": {
-      "character_name": "Amir GHAN",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Eris"
     }
   }
 ]
