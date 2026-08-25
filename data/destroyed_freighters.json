@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 137965344,
+    "killmail_hash": "ddf678b28c988ede5b04504980f5c75e785efed3",
+    "kill_time": "2026-08-24T22:07:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000243,
+    "solar_system_name": "PM-DWE",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2113357996,
+      "character_name": "Irina Valhalla3",
+      "corporation_id": 98723262,
+      "corporation_name": "Logistik Trans Corp",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137965344/",
+    "total_value": 1697341340.6,
+    "final_attacker": {
+      "character_name": "Jonathan Apples",
+      "corporation_name": "Worthless Carebears",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 137959445,
     "killmail_hash": "b94a085accb3a73d23d129a3d0a72a903af73280",
     "kill_time": "2026-08-24T16:43:08Z",
@@ -3143,58 +3169,6 @@
       "corporation_name": "The Terrifying League Of Dog Fort",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137807300,
-    "killmail_hash": "f7ae6190e5d26b268dade290a848f02831159e16",
-    "kill_time": "2026-08-17T23:36:48Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000153,
-    "solar_system_name": "Poinen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2124558225,
-      "character_name": "Kengo Reyko-Kitsune",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137807300/",
-    "total_value": 4996049013.37,
-    "final_attacker": {
-      "character_name": "Little Miss Jealous",
-      "corporation_name": "Midget Mafia Contract Crew",
-      "alliance_name": "Novus Ordo.",
-      "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 137805171,
-    "killmail_hash": "e4c25dcef970f7b47ddfbabf7a0f655a2d1affaa",
-    "kill_time": "2026-08-17T20:57:37Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 93383628,
-      "character_name": "Candice Riios",
-      "corporation_id": 98011082,
-      "corporation_name": "Shadow State",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137805171/",
-    "total_value": 1588768581.03,
-    "final_attacker": {
-      "character_name": "Amir GHAN",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Eris"
     }
   }
 ]
