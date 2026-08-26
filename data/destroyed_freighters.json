@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 137993590,
+    "killmail_hash": "52029e87ff41d3ee0bc660abde082509388b3a42",
+    "kill_time": "2026-08-26T08:08:17Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118977567,
+      "character_name": "Skud Muvila",
+      "corporation_id": 98812395,
+      "corporation_name": "Skiff to the heavens",
+      "alliance_id": 99014419,
+      "alliance_name": "Seals on the rocks"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137993590/",
+    "total_value": 2843198238.01,
+    "final_attacker": {
+      "character_name": "zLegion 13",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137992539,
+    "killmail_hash": "3e1bb9a13ed9d75820f7abf98c9d7d297b87e88f",
+    "kill_time": "2026-08-26T06:20:41Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 856620235,
+      "character_name": "Oliver Snow",
+      "corporation_id": 395090051,
+      "corporation_name": "Perizene Technology Incorporated",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137992539/",
+    "total_value": 2593828449.09,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137992456,
+    "killmail_hash": "259c6f515bc447fdc3440e660f62a1daef854339",
+    "kill_time": "2026-08-26T06:11:28Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2123441313,
+      "character_name": "BezczelnyIV",
+      "corporation_id": 98454925,
+      "corporation_name": "Blackwater Task Forces",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/137992456/",
+    "total_value": 8275685302.29,
+    "final_attacker": {
+      "character_name": "Stara Isu",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 137989632,
     "killmail_hash": "10adaf8191b97cf78805b313ba83e7b918c0e284",
     "kill_time": "2026-08-26T02:21:31Z",
@@ -2961,84 +3039,6 @@
       "corporation_name": "Black Rabbits",
       "alliance_name": "Black Rabbit.",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 137834800,
-    "killmail_hash": "25aca2f5b7e206e61ece58ea47edcc3442a9d41a",
-    "kill_time": "2026-08-19T08:14:24Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002764,
-    "solar_system_name": "Hatakani",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123323892,
-      "character_name": "Kiiro Miso",
-      "corporation_id": 98308160,
-      "corporation_name": "That's not my bag",
-      "alliance_id": 99011699,
-      "alliance_name": "We Forsakened Few"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137834800/",
-    "total_value": 2055351205.52,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
-    }
-  },
-  {
-    "killmail_id": 137833560,
-    "killmail_hash": "518412ba619ae3d786e1e61732d158b224c706e0",
-    "kill_time": "2026-08-19T05:54:08Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1461906166,
-      "character_name": "Shiro She",
-      "corporation_id": 98512964,
-      "corporation_name": "Sorry We're In Your Space Eh",
-      "alliance_id": 99001105,
-      "alliance_name": "Seventh Sanctum."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137833560/",
-    "total_value": 8663234893.92,
-    "final_attacker": {
-      "character_name": "Broho Handelaar",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Marshal"
-    }
-  },
-  {
-    "killmail_id": 137833557,
-    "killmail_hash": "520257a3847f064b3e31f3fd2c525043046938ef",
-    "kill_time": "2026-08-19T05:54:00Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91828300,
-      "character_name": "Seterinthia",
-      "corporation_id": 98512964,
-      "corporation_name": "Sorry We're In Your Space Eh",
-      "alliance_id": 99001105,
-      "alliance_name": "Seventh Sanctum."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137833557/",
-    "total_value": 8423803156.47,
-    "final_attacker": {
-      "character_name": "Vycktor Mordekessel",
-      "corporation_name": "Blank-Space",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
