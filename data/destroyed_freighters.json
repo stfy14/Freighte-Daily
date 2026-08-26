@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 137987976,
+    "killmail_hash": "1063f98565ff95307a2f4133ec1353a40a0f69b1",
+    "kill_time": "2026-08-26T00:29:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90290183,
+      "character_name": "Assassin's Vengence",
+      "corporation_id": 98762098,
+      "corporation_name": "Aegis Victorium",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137987976/",
+    "total_value": 2827442101.53,
+    "final_attacker": {
+      "character_name": "Painter Alt 18",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 137987926,
+    "killmail_hash": "a663706cf1c09c5b725ed8d0d3567ae585de462e",
+    "kill_time": "2026-08-26T00:23:54Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 518493495,
+      "character_name": "Joshua Firebrandt",
+      "corporation_id": 285883631,
+      "corporation_name": "Dreadnoughtz Conclave",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137987926/",
+    "total_value": 15457929561.41,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 137986219,
+    "killmail_hash": "5decb1b4607ad9b94e4dc7e27478435e9dd39879",
+    "kill_time": "2026-08-25T21:58:26Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002638,
+    "solar_system_name": "Sharuveil",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124611022,
+      "character_name": "Stane Arnolles",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/137986219/",
+    "total_value": 1568679326.21,
+    "final_attacker": {
+      "character_name": "DONNY DARKETTE",
+      "corporation_name": "Kurupt.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 137984796,
+    "killmail_hash": "016964e87d6e0a59f562038a9ab3f084bbeaf320",
+    "kill_time": "2026-08-25T20:41:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 1577771807,
+      "character_name": "Temper0",
+      "corporation_id": 98715093,
+      "corporation_name": "Thunder Shield",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/137984796/",
+    "total_value": 1619950694.14,
+    "final_attacker": {
+      "character_name": "Odyssey 2049",
+      "corporation_name": "Whiskers of Doom.",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 137978058,
     "killmail_hash": "ec1907a289891caa5f4625e2a282f0de25e4bddc",
     "kill_time": "2026-08-25T14:29:01Z",
@@ -2883,58 +2987,6 @@
       "corporation_name": "Blank-Space",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137828673,
-    "killmail_hash": "46ba1c1862cfa010566d0b70c9933029055f694b",
-    "kill_time": "2026-08-18T23:04:46Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2122746665,
-      "character_name": "Intelli H",
-      "corporation_id": 1000077,
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137828673/",
-    "total_value": 2273109884.71,
-    "final_attacker": {
-      "character_name": "Egoiste Aele",
-      "corporation_name": "Dichtatorial Regime",
-      "alliance_name": "Ahbazon-Prime",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 137826629,
-    "killmail_hash": "c4abd827c9fc1296db7c2cc062ca5a15097571d1",
-    "kill_time": "2026-08-18T21:18:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2121125202,
-      "character_name": "Ma'am Albedo",
-      "corporation_id": 98659319,
-      "corporation_name": "Suspicious Intentions",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137826629/",
-    "total_value": 1717775471.03,
-    "final_attacker": {
-      "character_name": "Andrzej Dupad",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Manticore"
     }
   }
 ]
