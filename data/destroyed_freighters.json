@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138037848,
+    "killmail_hash": "695a3a4533a6699fc6f4e2553b0e0caed123b238",
+    "kill_time": "2026-08-28T10:26:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002643,
+    "solar_system_name": "Faurent",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2117965123,
+      "character_name": "JellyMoon1523",
+      "corporation_id": 98418839,
+      "corporation_name": "NACHO Battle Pixies",
+      "alliance_id": 99006941,
+      "alliance_name": "Siege Green."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138037848/",
+    "total_value": 18855330431.4,
+    "final_attacker": {
+      "character_name": "zLegion G",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 138036601,
+    "killmail_hash": "98ae52baf49554d2520b50449f71f9825fbd624e",
+    "kill_time": "2026-08-28T08:29:47Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120097818,
+      "character_name": "Ygg Har",
+      "corporation_id": 98731772,
+      "corporation_name": "1percentcorp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138036601/",
+    "total_value": 5945935510.1,
+    "final_attacker": {
+      "character_name": "zLegion 09",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138035953,
+    "killmail_hash": "ea9b64bd60e7681a2cfa7ae16696e87b73c0edae",
+    "kill_time": "2026-08-28T07:28:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115648704,
+      "character_name": "Logan Sabertooth",
+      "corporation_id": 98839026,
+      "corporation_name": "Hell's Horsemen of Death",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138035953/",
+    "total_value": 7301321191.13,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 138029471,
     "killmail_hash": "ecfce857390cf58e541178d7276b07c7db3761a6",
     "kill_time": "2026-08-27T21:25:02Z",
@@ -153,6 +231,32 @@
       "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138016550,
+    "killmail_hash": "f388a375ebd5687c7b4647f48a9cc2c53e03e37f",
+    "kill_time": "2026-08-27T09:12:16Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002643,
+    "solar_system_name": "Faurent",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2113283017,
+      "character_name": "Xiu Hinken",
+      "corporation_id": 98570844,
+      "corporation_name": "Genesis Skynet",
+      "alliance_id": 99014601,
+      "alliance_name": "Dangerous play"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138016550/",
+    "total_value": 11455038519.27,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -2779,84 +2883,6 @@
       "corporation_name": "Black Rabbits",
       "alliance_name": "Black Rabbit.",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 137871424,
-    "killmail_hash": "d49244d32191c1120f456aa7428f1a7ba4e5c343",
-    "kill_time": "2026-08-21T00:35:31Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122690894,
-      "character_name": "Zirnitraman",
-      "corporation_id": 98777141,
-      "corporation_name": "0Tolerance Inc",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137871424/",
-    "total_value": 7170690884.15,
-    "final_attacker": {
-      "character_name": "Pyne Khamsi",
-      "corporation_name": "Champagne Room",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 137870949,
-    "killmail_hash": "7147d623cb97ae46a653d810db4b4198dfcaec7c",
-    "kill_time": "2026-08-20T23:54:20Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002634,
-    "solar_system_name": "Balle",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117607532,
-      "character_name": "Grand-Admiral-Thrawn",
-      "corporation_id": 98835273,
-      "corporation_name": "New Horizons Mining and Industry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137870949/",
-    "total_value": 1421525721.46,
-    "final_attacker": {
-      "character_name": "MeisterDaDa",
-      "corporation_name": "Phantom Brigade Ger",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 137870176,
-    "killmail_hash": "a1c069a47d5b42f16671feee81f253b15523e2d9",
-    "kill_time": "2026-08-20T22:40:18Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1258274080,
-      "character_name": "MIKE TY50N",
-      "corporation_id": 424525976,
-      "corporation_name": "Criterion.",
-      "alliance_id": 99009927,
-      "alliance_name": "Deepwater Hooligans"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137870176/",
-    "total_value": 1650894389.38,
-    "final_attacker": {
-      "character_name": "MSN-06S Sinanju",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
     }
   }
 ]
