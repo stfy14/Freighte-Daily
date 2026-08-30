@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 138105946,
+    "killmail_hash": "73aa71145a3c6b27136a4538ec339fb2ce46f62f",
+    "kill_time": "2026-08-30T22:09:49Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002809,
+    "solar_system_name": "Sujarento",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120286582,
+      "character_name": "Fyre Dragon",
+      "corporation_id": 98720987,
+      "corporation_name": "420 Planetary Dragons",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138105946/",
+    "total_value": 5696464087.3,
+    "final_attacker": {
+      "character_name": "Yukiko Kanezaki",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138105092,
+    "killmail_hash": "9481181fe2fb4e1e00046c9e34d72e740a519dfc",
+    "kill_time": "2026-08-30T21:27:45Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30001400,
+    "solar_system_name": "Litiura",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93582939,
+      "character_name": "Ravel Puzzlewheel",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138105092/",
+    "total_value": 3798624714.65,
+    "final_attacker": {
+      "character_name": "Vesta Xiomara",
+      "corporation_name": "Xiomara Ascendancy",
+      "alliance_name": "X I O M A R A",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 138103389,
+    "killmail_hash": "0b8170bf6a135313cff6e75b94f94079a7177f76",
+    "kill_time": "2026-08-30T20:17:34Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91266603,
+      "character_name": "Sergey Kurganov1979",
+      "corporation_id": 98805534,
+      "corporation_name": "Darkstar Russian Collective",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138103389/",
+    "total_value": 36811835099.5,
+    "final_attacker": {
+      "character_name": "Wicked Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 138103042,
+    "killmail_hash": "9c82fd4128f2e0bb81f5c6839b8df2dd7642c16a",
+    "kill_time": "2026-08-30T20:05:28Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121450769,
+      "character_name": "Crassus Dives",
+      "corporation_id": 98187440,
+      "corporation_name": "Scandium Defense and Security Inc.",
+      "alliance_id": 99013831,
+      "alliance_name": "Sleeper Protocol"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138103042/",
+    "total_value": 2751408429.45,
+    "final_attacker": {
+      "character_name": "Jaiden Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138102113,
+    "killmail_hash": "2a53759420ffd03bdcdc1fb35c76b8b7dd50c7b5",
+    "kill_time": "2026-08-30T19:37:26Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91506834,
+      "character_name": "Wife Xadi",
+      "corporation_id": 98756095,
+      "corporation_name": "AstroNuts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138102113/",
+    "total_value": 5006522984.6,
+    "final_attacker": {
+      "character_name": "Jonas Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138100677,
+    "killmail_hash": "438d50a89f57d08d5c10810bba1bdb70a6c2b197",
+    "kill_time": "2026-08-30T18:52:16Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91787913,
+      "character_name": "Gumboo",
+      "corporation_id": 98126401,
+      "corporation_name": "Red Eye Ync.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138100677/",
+    "total_value": 7818046640.12,
+    "final_attacker": {
+      "character_name": "001 DUNK",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138100039,
     "killmail_hash": "63957619569c42d954e6d254c65708288094aff4",
     "kill_time": "2026-08-30T18:34:53Z",
@@ -99,6 +255,32 @@
     "final_attacker": {
       "character_name": "Dictateur Imperator",
       "corporation_name": "KarmaFleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138097808,
+    "killmail_hash": "7022e44e1d55e4693a3fc59477e3eefd5e76dc93",
+    "kill_time": "2026-08-30T17:09:52Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123344900,
+      "character_name": "Sakara Tsukaya",
+      "corporation_id": 98589820,
+      "corporation_name": "Heavy Haulage Ltd",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138097808/",
+    "total_value": 2726399847.35,
+    "final_attacker": {
+      "character_name": "001 DUNK",
+      "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
@@ -208,6 +390,32 @@
     }
   },
   {
+    "killmail_id": 138082789,
+    "killmail_hash": "bc86303b8c59fd254e8a8f275339e32260f91ecf",
+    "kill_time": "2026-08-30T03:23:47Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2116811401,
+      "character_name": "Winding point",
+      "corporation_id": 98334523,
+      "corporation_name": "PLA Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138082789/",
+    "total_value": 7806077827.91,
+    "final_attacker": {
+      "character_name": "zLegion X",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 138082130,
     "killmail_hash": "757674ea64af68344e512971e7257a4d4167e65e",
     "kill_time": "2026-08-30T02:38:24Z",
@@ -257,6 +465,32 @@
       "corporation_name": "Space Sich",
       "alliance_name": "UA. Space",
       "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 138078127,
+    "killmail_hash": "1e08e2ba8bb2f95d500e02e9a4aea213dacc49be",
+    "kill_time": "2026-08-29T22:14:18Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123843330,
+      "character_name": "Uesa Yanumano",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138078127/",
+    "total_value": 10165901583.63,
+    "final_attacker": {
+      "character_name": "zLegion Q",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
