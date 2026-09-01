@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138138289,
+    "killmail_hash": "0e736f44820a1d3ff8177fb10ceb4ff0b241659e",
+    "kill_time": "2026-09-01T12:36:13Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002187,
+    "solar_system_name": "Amarr",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 1819685886,
+      "character_name": "Alphablaster",
+      "corporation_id": 732773091,
+      "corporation_name": "Di-Tron Heavy Industries",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138138289/",
+    "total_value": 1641755612.12,
+    "final_attacker": {
+      "character_name": "Abazaga",
+      "corporation_name": "Reliables Inc",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Vindicator"
+    }
+  },
+  {
     "killmail_id": 138137906,
     "killmail_hash": "828adba5203e7eaa74df596afdfb32b9436a4863",
     "kill_time": "2026-09-01T12:13:13Z",
@@ -1297,6 +1323,32 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138062432,
+    "killmail_hash": "96164202adaccce76c08a5ebfcf41bf62c8a27c0",
+    "kill_time": "2026-08-29T10:38:47Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121526203,
+      "character_name": "Tictacti",
+      "corporation_id": 98334523,
+      "corporation_name": "PLA Logistics",
+      "alliance_id": 99008165,
+      "alliance_name": "Young Miners Christian Association"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138062432/",
+    "total_value": 57860954591.85,
+    "final_attacker": {
+      "character_name": "zLegion E",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -2675,58 +2727,6 @@
       "corporation_name": "Whiskers of Doom.",
       "alliance_name": null,
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 137978058,
-    "killmail_hash": "ec1907a289891caa5f4625e2a282f0de25e4bddc",
-    "kill_time": "2026-08-25T14:29:01Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2119735720,
-      "character_name": "Shaadan",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137978058/",
-    "total_value": 6700982389.97,
-    "final_attacker": {
-      "character_name": "B0ZziLLa",
-      "corporation_name": "One Risky Click",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 137977265,
-    "killmail_hash": "fc756dcee1ad822cf9271b221563ec111589f149",
-    "kill_time": "2026-08-25T13:49:16Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003067,
-    "solar_system_name": "Huola",
-    "region_name": "The Bleak Lands",
-    "victim": {
-      "character_id": 2112187890,
-      "character_name": "Balerion Pavarius",
-      "corporation_id": 98576679,
-      "corporation_name": "1337 PeeVeePee Inc",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137977265/",
-    "total_value": 8039113492.28,
-    "final_attacker": {
-      "character_name": "Pokrishkin35",
-      "corporation_name": "x Never Give Up x",
-      "alliance_name": "Interstellar Dynamics.",
-      "ship_type_name": "Manticore"
     }
   }
 ]
