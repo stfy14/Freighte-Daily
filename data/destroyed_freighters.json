@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138147311,
+    "killmail_hash": "ce3dbfccb7d7a803b09bed8d034e4bea1ed85983",
+    "kill_time": "2026-09-01T21:02:22Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 96707746,
+      "character_name": "Pollot Mattyu",
+      "corporation_id": 98778639,
+      "corporation_name": "Firma Kasallek",
+      "alliance_id": 99013723,
+      "alliance_name": "Dienstleistungen Kasallek"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138147311/",
+    "total_value": 7453575237.52,
+    "final_attacker": {
+      "character_name": "Olan Draselac",
+      "corporation_name": "The Vendetta Mercenaries",
+      "alliance_name": "Vendetta Mercenary Group",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 138145332,
+    "killmail_hash": "0c5f17236b59602a59d69bdba139d86ef3870a9e",
+    "kill_time": "2026-09-01T19:17:13Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2121526145,
+      "character_name": "Octavia71",
+      "corporation_id": 1167014990,
+      "corporation_name": "Zebra Corp",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138145332/",
+    "total_value": 8460766221.39,
+    "final_attacker": {
+      "character_name": "Coco Divan",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 138138289,
     "killmail_hash": "0e736f44820a1d3ff8177fb10ceb4ff0b241659e",
     "kill_time": "2026-09-01T12:36:13Z",
@@ -2649,84 +2701,6 @@
       "corporation_name": "Sebiestor Tribe",
       "alliance_name": null,
       "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 137986219,
-    "killmail_hash": "5decb1b4607ad9b94e4dc7e27478435e9dd39879",
-    "kill_time": "2026-08-25T21:58:26Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002638,
-    "solar_system_name": "Sharuveil",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124611022,
-      "character_name": "Stane Arnolles",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137986219/",
-    "total_value": 1568679326.21,
-    "final_attacker": {
-      "character_name": "DONNY DARKETTE",
-      "corporation_name": "Kurupt.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 137984951,
-    "killmail_hash": "893470d806d5959da6879ff093fbec1174378fc2",
-    "kill_time": "2026-08-25T20:50:32Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 580276239,
-      "character_name": "ETRUZIAL",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/137984951/",
-    "total_value": 1618322060.8,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Vindicator"
-    }
-  },
-  {
-    "killmail_id": 137984796,
-    "killmail_hash": "016964e87d6e0a59f562038a9ab3f084bbeaf320",
-    "kill_time": "2026-08-25T20:41:21Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 1577771807,
-      "character_name": "Temper0",
-      "corporation_id": 98715093,
-      "corporation_name": "Thunder Shield",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/137984796/",
-    "total_value": 1619950694.14,
-    "final_attacker": {
-      "character_name": "Odyssey 2049",
-      "corporation_name": "Whiskers of Doom.",
-      "alliance_name": null,
-      "ship_type_name": "Purifier"
     }
   }
 ]
