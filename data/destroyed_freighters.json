@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 138133061,
+    "killmail_hash": "127d32f28b85d06ab67eb2651937941364a73711",
+    "kill_time": "2026-09-01T03:36:39Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003729,
+    "solar_system_name": "KBP7-G",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2062177442,
+      "character_name": "capulis",
+      "corporation_id": 98839444,
+      "corporation_name": "Unscheduled Maintenance",
+      "alliance_id": 99014986,
+      "alliance_name": "Kinetic Diplomacy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138133061/",
+    "total_value": 1489624608.95,
+    "final_attacker": {
+      "character_name": "shikoneko",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
+    "killmail_id": 138132129,
+    "killmail_hash": "e935ea5cf8995523ef19e4c54a31001148ce6524",
+    "kill_time": "2026-09-01T02:17:07Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 31001940,
+    "solar_system_name": "J114353",
+    "region_name": "E-R00024",
+    "victim": {
+      "character_id": 91111721,
+      "character_name": "Lorylke Legrand",
+      "corporation_id": 98782897,
+      "corporation_name": "Diamond Dogs.",
+      "alliance_id": 99013516,
+      "alliance_name": "Mercenaires Sans Frontieres."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138132129/",
+    "total_value": 12235009856.76,
+    "final_attacker": {
+      "character_name": "YoungStroker The BodySnatcher",
+      "corporation_name": "Hard Knocks Inc.",
+      "alliance_name": "Hard Knocks Citizens",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138132053,
+    "killmail_hash": "c41b124ca19eef40e8ce07341ff3050450c3a8d4",
+    "kill_time": "2026-09-01T02:13:12Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000163,
+    "solar_system_name": "Akora",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122280936,
+      "character_name": "Menen Akiga",
+      "corporation_id": 98388312,
+      "corporation_name": "Pandemic Horde Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138132053/",
+    "total_value": 7114763958.02,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 138127592,
+    "killmail_hash": "8d2d659714c75feb06d70bfb335d42b4ffd9cb54",
+    "kill_time": "2026-08-31T20:42:08Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2114752554,
+      "character_name": "Sven Vilks",
+      "corporation_id": 98754049,
+      "corporation_name": "El manto de Caronte",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138127592/",
+    "total_value": 1607713568.59,
+    "final_attacker": {
+      "character_name": "Bammax",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 138115093,
     "killmail_hash": "217cd76ce60a7b82d16486abfcdfc6e167b57995",
     "kill_time": "2026-08-31T10:49:33Z",
@@ -2675,32 +2779,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 137969096,
-    "killmail_hash": "c59650a8e3a00f8daa42280755b5d7bdf5b08d66",
-    "kill_time": "2026-08-25T02:56:37Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30003447,
-    "solar_system_name": "Josekorn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1765247342,
-      "character_name": "ellesmere801",
-      "corporation_id": 98258093,
-      "corporation_name": "Strategic Exploration and Development Corp",
-      "alliance_id": 99009268,
-      "alliance_name": "Silent Company"
-    },
-    "zkb_url": "https://zkillboard.com/kill/137969096/",
-    "total_value": 2224648764.44,
-    "final_attacker": {
-      "character_name": "Persephone Xiomara",
-      "corporation_name": "Xiomara Ascendancy",
-      "alliance_name": "X I O M A R A",
-      "ship_type_name": "Coercer"
     }
   }
 ]
