@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138183034,
+    "killmail_hash": "63f75fc992b159d7cc70bd829894c15cd75e5cfb",
+    "kill_time": "2026-09-03T18:47:15Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2119131489,
+      "character_name": "Jeff Kali",
+      "corporation_id": 1184675423,
+      "corporation_name": "Amok.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138183034/",
+    "total_value": 1696985535.65,
+    "final_attacker": {
+      "character_name": "Hultaji Gogiko",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138180899,
+    "killmail_hash": "aed8cb015986028b2ef7abebdd6f8966799458e0",
+    "kill_time": "2026-09-03T16:45:04Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121842427,
+      "character_name": "Shezik Morales",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138180899/",
+    "total_value": 2069472264.63,
+    "final_attacker": {
+      "character_name": "Loredana Cameron",
+      "corporation_name": "Hoover Inc.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 138178861,
+    "killmail_hash": "8d33096f6371887b69edc9257bb0d6055bb585b4",
+    "kill_time": "2026-09-03T14:39:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000243,
+    "solar_system_name": "PM-DWE",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2115017120,
+      "character_name": "GTitan Yu",
+      "corporation_id": 98570132,
+      "corporation_name": "EF air force",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138178861/",
+    "total_value": 1704347946.85,
+    "final_attacker": {
+      "character_name": "Kalergos",
+      "corporation_name": "Xynodyne",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 138178197,
+    "killmail_hash": "6e6e25bd92e2f165b1c06d23e02ed7aaea6cf073",
+    "kill_time": "2026-09-03T14:01:16Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003584,
+    "solar_system_name": "Sarline",
+    "region_name": "Solitude",
+    "victim": {
+      "character_id": 2124320671,
+      "character_name": "Aurelion Kane",
+      "corporation_id": 98742620,
+      "corporation_name": "DarkMatterEnterprises",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138178197/",
+    "total_value": 22585581852.75,
+    "final_attacker": {
+      "character_name": "YouLikeIt MyKOPbITO",
+      "corporation_name": "YouLikeIt",
+      "alliance_name": null,
+      "ship_type_name": "Paladin"
+    }
+  },
+  {
+    "killmail_id": 138178192,
+    "killmail_hash": "7c2601aafac22504bc0fc56e7548856fea8a75ba",
+    "kill_time": "2026-09-03T14:00:22Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003064,
+    "solar_system_name": "Tuomuta",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 96645183,
+      "character_name": "ENder OfAn",
+      "corporation_id": 98540583,
+      "corporation_name": "Special law enforcement department",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138178192/",
+    "total_value": 7199821578.95,
+    "final_attacker": {
+      "character_name": "Dagan Harth",
+      "corporation_name": "Bleak Lands Magistratum",
+      "alliance_name": "Khimi Harar",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 138175718,
     "killmail_hash": "81711ae1d2197bb80519f1b13d4cff851e1303c3",
     "kill_time": "2026-09-03T10:55:11Z",
