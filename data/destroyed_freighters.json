@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138203541,
+    "killmail_hash": "9a3fdec901b9edc1342e01691a6f1d55d0b41de0",
+    "kill_time": "2026-09-04T17:37:00Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92378219,
+      "character_name": "Nitko Koraka",
+      "corporation_id": 98585344,
+      "corporation_name": "Flashover Freight",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138203541/",
+    "total_value": 6205360612.11,
+    "final_attacker": {
+      "character_name": "Painter Alt 16",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138199506,
+    "killmail_hash": "32dd65df23366a0cbfba7aeda14bb7f45c3faa79",
+    "kill_time": "2026-09-04T15:32:08Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002087,
+    "solar_system_name": "Isbrabata",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 94949552,
+      "character_name": "Elise Ekilsdotter",
+      "corporation_id": 384667640,
+      "corporation_name": "Black Frog Logistics",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138199506/",
+    "total_value": 9527875550.09,
+    "final_attacker": {
+      "character_name": "fate zzz",
+      "corporation_name": "Red Blood Dragon Ride",
+      "alliance_name": null,
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 138197876,
+    "killmail_hash": "e53b5654131794216e0622140afc3d6547babcfe",
+    "kill_time": "2026-09-04T14:02:45Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000581,
+    "solar_system_name": "5H-SM2",
+    "region_name": "Wicked Creek",
+    "victim": {
+      "character_id": 2124305985,
+      "character_name": "Turok Ghoulbane",
+      "corporation_id": 98559450,
+      "corporation_name": "DanJev United",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138197876/",
+    "total_value": 5147800222.4,
+    "final_attacker": {
+      "character_name": "Empire Knight",
+      "corporation_name": "Temple of Tuvan Orth",
+      "alliance_name": "Guardians of Tranquility",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
     "killmail_id": 138195501,
     "killmail_hash": "306529a169e805fae0acfd87e3f02bc725ad4cf6",
     "kill_time": "2026-09-04T11:38:43Z",
@@ -2623,58 +2701,6 @@
       "corporation_name": "Sebiestor Tribe",
       "alliance_name": null,
       "ship_type_name": "Maelstrom"
-    }
-  },
-  {
-    "killmail_id": 138044353,
-    "killmail_hash": "b62884445c55e1e1ebb66eb2178e6c3fddcb113e",
-    "kill_time": "2026-08-28T16:55:44Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000887,
-    "solar_system_name": "GIH-ZG",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 2123075508,
-      "character_name": "Old hare",
-      "corporation_id": 98760689,
-      "corporation_name": "CACX mission",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138044353/",
-    "total_value": 1608929281.92,
-    "final_attacker": {
-      "character_name": "Mike Right",
-      "corporation_name": "hirr",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138042462,
-    "killmail_hash": "58ff56ca715660c69da984cde8b99f7c43c7a36d",
-    "kill_time": "2026-08-28T15:24:35Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 624101176,
-      "character_name": "samuel123",
-      "corporation_id": 98022245,
-      "corporation_name": "German Project",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138042462/",
-    "total_value": 8366350371.88,
-    "final_attacker": {
-      "character_name": "Sara Blooper",
-      "corporation_name": "Blackwater USA Inc.",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
