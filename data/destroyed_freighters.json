@@ -1,5 +1,239 @@
 [
   {
+    "killmail_id": 138195501,
+    "killmail_hash": "306529a169e805fae0acfd87e3f02bc725ad4cf6",
+    "kill_time": "2026-09-04T11:38:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1240369034,
+      "character_name": "opensave",
+      "corporation_id": 98718366,
+      "corporation_name": "opensave Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138195501/",
+    "total_value": 2837276432.11,
+    "final_attacker": {
+      "character_name": "Gallente Citizen 2115879001",
+      "corporation_name": "Tribal Liberation Force",
+      "alliance_name": null,
+      "ship_type_name": "Tempest"
+    }
+  },
+  {
+    "killmail_id": 138195262,
+    "killmail_hash": "f0960a07aac9fa57a167fcdddc20bb01b1e115ec",
+    "kill_time": "2026-09-04T10:58:46Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119166209,
+      "character_name": "Niw3ox",
+      "corporation_id": 98786864,
+      "corporation_name": "WHITE SMOKE",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138195262/",
+    "total_value": 14651625305.06,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138194975,
+    "killmail_hash": "16eeadb8e6ab0f6c7cc50750e4ea8e646ceb944c",
+    "kill_time": "2026-09-04T10:41:07Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119274841,
+      "character_name": "Miner inconveni3nce",
+      "corporation_id": 795045209,
+      "corporation_name": "PILGRIMS",
+      "alliance_id": 99011802,
+      "alliance_name": "Warriors of the Blood God"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138194975/",
+    "total_value": 1705516836.7,
+    "final_attacker": {
+      "character_name": "D J",
+      "corporation_name": "Tactical Raki",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138194944,
+    "killmail_hash": "4b048a745fd306dfa1c04e1935bc0bfef332e024",
+    "kill_time": "2026-09-04T10:37:27Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118081255,
+      "character_name": "Steve H",
+      "corporation_id": 98828773,
+      "corporation_name": "All We Do Is Mine",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138194944/",
+    "total_value": 2871191339.13,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
+    "killmail_id": 138194453,
+    "killmail_hash": "43ae748bd16574f251cf71d5a1c6a99c35269e13",
+    "kill_time": "2026-09-04T10:00:17Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123786333,
+      "character_name": "uzumetrade",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138194453/",
+    "total_value": 24909259025.93,
+    "final_attacker": {
+      "character_name": "zLegion 26",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138193875,
+    "killmail_hash": "c31b4cc11524857431d1a3dffad23e487da94365",
+    "kill_time": "2026-09-04T09:15:52Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2116250185,
+      "character_name": "Annette Kova",
+      "corporation_id": 1000014,
+      "corporation_name": "Perkone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138193875/",
+    "total_value": 10527361946.71,
+    "final_attacker": {
+      "character_name": "Richard Swasey",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138193490,
+    "killmail_hash": "c5556e099c690dce0ad7134ca23cf08b437c0cbb",
+    "kill_time": "2026-09-04T08:39:24Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2115561282,
+      "character_name": "Lord Hardwick",
+      "corporation_id": 98609315,
+      "corporation_name": "The Warpigs",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138193490/",
+    "total_value": 8737095341.77,
+    "final_attacker": {
+      "character_name": "Yukiko Kanezaki",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138193318,
+    "killmail_hash": "0d91c55a3593a66f0550e0328a2591c298090616",
+    "kill_time": "2026-09-04T08:28:37Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1205945608,
+      "character_name": "Ja'thaal Deathbringer",
+      "corporation_id": 98353696,
+      "corporation_name": "Singular Simplicity",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138193318/",
+    "total_value": 3671534459.49,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138192999,
+    "killmail_hash": "4018ff96cba73d19bb7fb1988f872a4c4e3fd518",
+    "kill_time": "2026-09-04T08:03:33Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114411147,
+      "character_name": "Deadly'Ish Snake'Bite",
+      "corporation_id": 98576125,
+      "corporation_name": "Metaphorical Banhammer",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138192999/",
+    "total_value": 6069716115.31,
+    "final_attacker": {
+      "character_name": "zLegion 05",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138188794,
     "killmail_hash": "943fcaa69d113324c6e32264bb2f81dd0b0a1b7a",
     "kill_time": "2026-09-04T01:22:13Z",
@@ -2441,110 +2675,6 @@
       "corporation_name": "Blackwater USA Inc.",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138038671,
-    "killmail_hash": "8679f77716e3a6ce3908b4bc0d1c609b31cca7db",
-    "kill_time": "2026-08-28T12:02:04Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003491,
-    "solar_system_name": "Ashab",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 2117084589,
-      "character_name": "sewc",
-      "corporation_id": 98001428,
-      "corporation_name": "F.A.M.I.L.Y",
-      "alliance_id": 99004804,
-      "alliance_name": "DarkSide."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138038671/",
-    "total_value": 3643519166.72,
-    "final_attacker": {
-      "character_name": "Pipo Leclown",
-      "corporation_name": "letus gogogo",
-      "alliance_name": null,
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 138037848,
-    "killmail_hash": "695a3a4533a6699fc6f4e2553b0e0caed123b238",
-    "kill_time": "2026-08-28T10:26:02Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002643,
-    "solar_system_name": "Faurent",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2117965123,
-      "character_name": "JellyMoon1523",
-      "corporation_id": 98418839,
-      "corporation_name": "NACHO Battle Pixies",
-      "alliance_id": 99006941,
-      "alliance_name": "Siege Green."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138037848/",
-    "total_value": 18855330431.4,
-    "final_attacker": {
-      "character_name": "zLegion G",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 138036601,
-    "killmail_hash": "98ae52baf49554d2520b50449f71f9825fbd624e",
-    "kill_time": "2026-08-28T08:29:47Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120097818,
-      "character_name": "Ygg Har",
-      "corporation_id": 98731772,
-      "corporation_name": "1percentcorp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138036601/",
-    "total_value": 5945935510.1,
-    "final_attacker": {
-      "character_name": "zLegion 09",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138035953,
-    "killmail_hash": "ea9b64bd60e7681a2cfa7ae16696e87b73c0edae",
-    "kill_time": "2026-08-28T07:28:37Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115648704,
-      "character_name": "Logan Sabertooth",
-      "corporation_id": 98839026,
-      "corporation_name": "Hell's Horsemen of Death",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138035953/",
-    "total_value": 7301321191.13,
-    "final_attacker": {
-      "character_name": "zLegion 10",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
