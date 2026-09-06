@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138249872,
+    "killmail_hash": "459cded77a4374ea9443e0b0361939aa10d28e75",
+    "kill_time": "2026-09-06T11:15:15Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 117496274,
+      "character_name": "HAMMER BLOW",
+      "corporation_id": 795045209,
+      "corporation_name": "PILGRIMS",
+      "alliance_id": 99011802,
+      "alliance_name": "Warriors of the Blood God"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138249872/",
+    "total_value": 6995632429.02,
+    "final_attacker": {
+      "character_name": "Cucumber ares",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 138248237,
+    "killmail_hash": "f3836c39182bf1fdbcd10f0c67c791a7f05888d3",
+    "kill_time": "2026-09-06T09:11:10Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 1793611955,
+      "character_name": "Jibtxu",
+      "corporation_id": 230445889,
+      "corporation_name": "Mindstar Technology",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138248237/",
+    "total_value": 1619776008.05,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 138247155,
+    "killmail_hash": "a369385fac5197bf8956b8d76c1c9e3556ebc4fd",
+    "kill_time": "2026-09-06T07:53:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124276197,
+      "character_name": "Semilia v1",
+      "corporation_id": 98829341,
+      "corporation_name": "Silent Operations Group",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138247155/",
+    "total_value": 1893576660.75,
+    "final_attacker": {
+      "character_name": "Mauer",
+      "corporation_name": "Black Cinder",
+      "alliance_name": null,
+      "ship_type_name": "Legion"
+    }
+  },
+  {
+    "killmail_id": 138245810,
+    "killmail_hash": "e46d752bd76fc5afb4f66537d149b5042f706557",
+    "kill_time": "2026-09-06T05:56:33Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2113698646,
+      "character_name": "Pisum -H",
+      "corporation_id": 98839215,
+      "corporation_name": "TianGong Custodes",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138245810/",
+    "total_value": 7447011686.57,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
+    "killmail_id": 138245334,
+    "killmail_hash": "7621fb10a76bd0c37f9fdeb69ff46e62790b22d8",
+    "kill_time": "2026-09-06T05:27:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124674243,
+      "character_name": "killakid2990",
+      "corporation_id": 98406429,
+      "corporation_name": "The Phoenix Reborn",
+      "alliance_id": 99015127,
+      "alliance_name": "Consortium of Cybernetic Rejects"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138245334/",
+    "total_value": 1655656209.7,
+    "final_attacker": {
+      "character_name": "Painter Alt 17",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138243928,
     "killmail_hash": "28f0e23248aa2202107a5ead710611242cfad1fd",
     "kill_time": "2026-09-06T03:53:42Z",
@@ -49,6 +179,32 @@
       "corporation_name": "KarmaFleet",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Caracal"
+    }
+  },
+  {
+    "killmail_id": 138243132,
+    "killmail_hash": "a1c57fda5d4fd8e878e81a6240331bd15c04f75e",
+    "kill_time": "2026-09-06T03:18:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124654482,
+      "character_name": "SAKAKI1123",
+      "corporation_id": 98593091,
+      "corporation_name": "NACHO Jump Drivers",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138243132/",
+    "total_value": 1605139452.4,
+    "final_attacker": {
+      "character_name": "Painter Alt 16",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2597,110 +2753,6 @@
       "corporation_name": "Dreddit",
       "alliance_name": "Test Alliance Please Ignore",
       "ship_type_name": "Manticore"
-    }
-  },
-  {
-    "killmail_id": 138089145,
-    "killmail_hash": "f952f4a7bbcc5094d573df3ad941ff65cd513bee",
-    "kill_time": "2026-08-30T11:13:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002809,
-    "solar_system_name": "Sujarento",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93340939,
-      "character_name": "Eddie Indy",
-      "corporation_id": 98227378,
-      "corporation_name": "Comply Or Die",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138089145/",
-    "total_value": 1609353588.58,
-    "final_attacker": {
-      "character_name": "fattox4189",
-      "corporation_name": "Victory or Whatever",
-      "alliance_name": "Nourv Gate Security Commission",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 138085150,
-    "killmail_hash": "6ff85951fc3bff83a7f0ff5342974dcc608f70d7",
-    "kill_time": "2026-08-30T06:05:34Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2114121535,
-      "character_name": "Dazewar buggermate",
-      "corporation_id": 98480050,
-      "corporation_name": "Fancypants Inc",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138085150/",
-    "total_value": 9157929891.7,
-    "final_attacker": {
-      "character_name": "total0WNAG3",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138084493,
-    "killmail_hash": "1a8a0a9f029f240007bc5cf930b0991c4150c70e",
-    "kill_time": "2026-08-30T05:22:08Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118036371,
-      "character_name": "FUN TK",
-      "corporation_id": 98707431,
-      "corporation_name": "Serenity Moe University",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138084493/",
-    "total_value": 8689620995.36,
-    "final_attacker": {
-      "character_name": "Sinister Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 138084304,
-    "killmail_hash": "5b208a8ab5b3e779f01c22097ea8a194af6792c4",
-    "kill_time": "2026-08-30T05:06:32Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2118639155,
-      "character_name": "Insomniad252",
-      "corporation_id": 98798071,
-      "corporation_name": "ADFU Kum N Go Transport Group",
-      "alliance_id": 99008165,
-      "alliance_name": "Young Miners Christian Association"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138084304/",
-    "total_value": 7899032868.44,
-    "final_attacker": {
-      "character_name": "zLegion Z",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Tornado"
     }
   }
 ]
