@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138289668,
+    "killmail_hash": "d652a5c139cba0f500bfe202181cac156545d4cc",
+    "kill_time": "2026-09-07T18:44:35Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2122130318,
+      "character_name": "Loru's Henchman",
+      "corporation_id": 98767831,
+      "corporation_name": "Surefire Industries",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138289668/",
+    "total_value": 13346538311.03,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138286621,
+    "killmail_hash": "43bfcb7dd35547b898d7806a8724cb93889df129",
+    "kill_time": "2026-09-07T16:33:32Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96396096,
+      "character_name": "Magnat Ver",
+      "corporation_id": 98495577,
+      "corporation_name": "Ver Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138286621/",
+    "total_value": 8792169836.72,
+    "final_attacker": {
+      "character_name": "EVE Funeral Services",
+      "corporation_name": "Douchingtons",
+      "alliance_name": "Nourv Gate Security Commission",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 138284457,
+    "killmail_hash": "14c68bfb7106c8893b7550bafc36348ad86442cb",
+    "kill_time": "2026-09-07T14:39:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004833,
+    "solar_system_name": "KW-OAM",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2123129007,
+      "character_name": "CraigBanks",
+      "corporation_id": 98066577,
+      "corporation_name": "Shore Leave Inc.",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138284457/",
+    "total_value": 1852999350.65,
+    "final_attacker": {
+      "character_name": "EDXMON",
+      "corporation_name": "KheshigFleet",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 138281609,
     "killmail_hash": "00fa57325636521545ef5980fac62dc906251a85",
     "kill_time": "2026-09-07T11:50:35Z",
