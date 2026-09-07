@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138274884,
+    "killmail_hash": "e04e181c979f9553f51fd95c8f1f7364d23075f3",
+    "kill_time": "2026-09-07T03:39:46Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003800,
+    "solar_system_name": "Alperaute",
+    "region_name": "Placid",
+    "victim": {
+      "character_id": 2118059312,
+      "character_name": "Harper Enyx",
+      "corporation_id": 98738551,
+      "corporation_name": "Edge Exploration",
+      "alliance_id": 99010576,
+      "alliance_name": "Dreads Amongst Drifters"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138274884/",
+    "total_value": 11547982453.66,
+    "final_attacker": {
+      "character_name": "TIffany Odom",
+      "corporation_name": "The W.O.L.F",
+      "alliance_name": "What Could Possibly Go Wr0ng",
+      "ship_type_name": "Nestor"
+    }
+  },
+  {
+    "killmail_id": 138274185,
+    "killmail_hash": "2810df0ab9e5606c2e4ab4f8303494616e8053c6",
+    "kill_time": "2026-09-07T03:02:00Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 686505648,
+      "character_name": "Thor Kerrigan",
+      "corporation_id": 98048444,
+      "corporation_name": "Guardians of Asceticism",
+      "alliance_id": 99015107,
+      "alliance_name": "Suspiciously Well-Oiled Gamers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138274185/",
+    "total_value": 1625461155.3,
+    "final_attacker": {
+      "character_name": "Hypnosis31",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138273070,
+    "killmail_hash": "cd2c2026d2e44339bda688538187032e8678618b",
+    "kill_time": "2026-09-07T02:07:36Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002800,
+    "solar_system_name": "Haatomo",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1600287919,
+      "character_name": "YankeePilot",
+      "corporation_id": 98761471,
+      "corporation_name": "2 Days to Mine",
+      "alliance_id": 99013637,
+      "alliance_name": "The Worst Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138273070/",
+    "total_value": 6712684860.11,
+    "final_attacker": {
+      "character_name": "Jaiden Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 138268146,
     "killmail_hash": "4c14d64a2deff044a396ce6ab3ada8312a87dc2a",
     "kill_time": "2026-09-06T21:24:42Z",
@@ -2545,58 +2623,6 @@
       "corporation_name": "Tactical Raki",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Praxis"
-    }
-  },
-  {
-    "killmail_id": 138105946,
-    "killmail_hash": "73aa71145a3c6b27136a4538ec339fb2ce46f62f",
-    "kill_time": "2026-08-30T22:09:49Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002809,
-    "solar_system_name": "Sujarento",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120286582,
-      "character_name": "Fyre Dragon",
-      "corporation_id": 98720987,
-      "corporation_name": "420 Planetary Dragons",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138105946/",
-    "total_value": 5696464087.3,
-    "final_attacker": {
-      "character_name": "Yukiko Kanezaki",
-      "corporation_name": "Blank-Space",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138105843,
-    "killmail_hash": "5bf61afd39c3b91ceffc4abde92c4f6ea793d65e",
-    "kill_time": "2026-08-30T22:06:32Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 92285338,
-      "character_name": "Svartrotta",
-      "corporation_id": 98749161,
-      "corporation_name": "Thermal Resistance",
-      "alliance_id": 99014726,
-      "alliance_name": "Terminally Inept Traders and Scanners"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138105843/",
-    "total_value": 7264440983.16,
-    "final_attacker": {
-      "character_name": "Provoked Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
     }
   }
 ]
