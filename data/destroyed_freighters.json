@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138291641,
+    "killmail_hash": "b61ac58ddba267d67a3d684c1f3cbba19ecc50f1",
+    "kill_time": "2026-09-07T20:05:26Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000772,
+    "solar_system_name": "C-J6MT",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 96627395,
+      "character_name": "Old Cranberry",
+      "corporation_id": 98659319,
+      "corporation_name": "Suspicious Intentions",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138291641/",
+    "total_value": 2643607684.36,
+    "final_attacker": {
+      "character_name": "Andrzej Dupad",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Manticore"
+    }
+  },
+  {
     "killmail_id": 138289668,
     "killmail_hash": "d652a5c139cba0f500bfe202181cac156545d4cc",
     "kill_time": "2026-09-07T18:44:35Z",
@@ -595,6 +621,32 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138270717,
+    "killmail_hash": "7ebf6512813e1840832588a2a8c4f8302a4d612f",
+    "kill_time": "2026-09-06T23:12:17Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123016295,
+      "character_name": "Pickled Cucumber",
+      "corporation_id": 98820045,
+      "corporation_name": "Cucumber logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138270717/",
+    "total_value": 7439374638.01,
+    "final_attacker": {
+      "character_name": "Fury Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
     }
   },
   {
@@ -2961,32 +3013,6 @@
       "corporation_name": "SoT",
       "alliance_name": "DarkSide.",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 138127592,
-    "killmail_hash": "8d2d659714c75feb06d70bfb335d42b4ffd9cb54",
-    "kill_time": "2026-08-31T20:42:08Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003935,
-    "solar_system_name": "Irmalin",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2114752554,
-      "character_name": "Sven Vilks",
-      "corporation_id": 98754049,
-      "corporation_name": "El manto de Caronte",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138127592/",
-    "total_value": 1607713568.59,
-    "final_attacker": {
-      "character_name": "Bammax",
-      "corporation_name": "Best Kept Dunked",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
