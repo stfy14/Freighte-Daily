@@ -3170,57 +3170,5 @@
       "alliance_name": null,
       "ship_type_name": "Orthrus"
     }
-  },
-  {
-    "killmail_id": 138147490,
-    "killmail_hash": "6bfa0b07fd93be763d89d219699ac57d0ee806f9",
-    "kill_time": "2026-09-01T21:17:05Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 1033918245,
-      "character_name": "The Tailor",
-      "corporation_id": 145961687,
-      "corporation_name": "Solar Wind",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138147490/",
-    "total_value": 3252042030.88,
-    "final_attacker": {
-      "character_name": "Salt Machin3",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138147311,
-    "killmail_hash": "ce3dbfccb7d7a803b09bed8d034e4bea1ed85983",
-    "kill_time": "2026-09-01T21:02:22Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 96707746,
-      "character_name": "Pollot Mattyu",
-      "corporation_id": 98778639,
-      "corporation_name": "Firma Kasallek",
-      "alliance_id": 99013723,
-      "alliance_name": "Dienstleistungen Kasallek"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138147311/",
-    "total_value": 7453575237.52,
-    "final_attacker": {
-      "character_name": "Olan Draselac",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Leshak"
-    }
   }
 ]
