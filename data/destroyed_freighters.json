@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138307788,
+    "killmail_hash": "99425a37f1e7daacd2e8c5a6d3ec09202ff5244c",
+    "kill_time": "2026-09-08T17:22:36Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000243,
+    "solar_system_name": "PM-DWE",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96115273,
+      "character_name": "Money Mani",
+      "corporation_id": 98723262,
+      "corporation_name": "Logistik Trans Corp",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138307788/",
+    "total_value": 1699616247.95,
+    "final_attacker": {
+      "character_name": "Nova Nern",
+      "corporation_name": "REPC0.",
+      "alliance_name": "Doomsday Tactical Force",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 138305895,
+    "killmail_hash": "a26f54cedd146ffa82041c84913e33090c45c236",
+    "kill_time": "2026-09-08T15:23:29Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96865688,
+      "character_name": "Faire Play",
+      "corporation_id": 98482619,
+      "corporation_name": "Liminal",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138305895/",
+    "total_value": 1632758881.95,
+    "final_attacker": {
+      "character_name": "Jaihden",
+      "corporation_name": "Victory or Whatever",
+      "alliance_name": "Nourv Gate Security Commission",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 138305352,
+    "killmail_hash": "b0b7e7e6d5f4aa9d946387efcf805b1fe807c7db",
+    "kill_time": "2026-09-08T14:53:32Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002813,
+    "solar_system_name": "Tama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113877954,
+      "character_name": "Kando Zakkel",
+      "corporation_id": 98841155,
+      "corporation_name": "SVAROG PRIME",
+      "alliance_id": 99014495,
+      "alliance_name": "Umbrella Initiative Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138305352/",
+    "total_value": 7200226838.67,
+    "final_attacker": {
+      "character_name": "I7eveNl",
+      "corporation_name": "Douchingtons",
+      "alliance_name": "Nourv Gate Security Commission",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 138305217,
+    "killmail_hash": "6ebbf30efd6662403807b111507bf744902beff0",
+    "kill_time": "2026-09-08T14:45:02Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002536,
+    "solar_system_name": "Ebodold",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 1410195836,
+      "character_name": "Commander Spax",
+      "corporation_id": 98083213,
+      "corporation_name": "ISK REALLOCATION SERVICE",
+      "alliance_id": 99011137,
+      "alliance_name": "Nebula Industries And Frozen Assets"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138305217/",
+    "total_value": 9524309341.92,
+    "final_attacker": {
+      "character_name": "SinthEmortal",
+      "corporation_name": "Beyond Redemption Corp",
+      "alliance_name": "Beyond Redemption.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138303982,
+    "killmail_hash": "7e5456c3ac353230ad16e0476455e6f062eaeb94",
+    "kill_time": "2026-09-08T13:29:02Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2115259088,
+      "character_name": "e mmmmm",
+      "corporation_id": 98725089,
+      "corporation_name": "Arknights.",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138303982/",
+    "total_value": 1603657129.32,
+    "final_attacker": {
+      "character_name": "Harpy apple",
+      "corporation_name": "Arknights.",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Azariel"
+    }
+  },
+  {
     "killmail_id": 138302593,
     "killmail_hash": "bcab95edef9993e26c9d613f19b04fd204514726",
     "kill_time": "2026-09-08T11:59:12Z",
@@ -3091,32 +3221,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 138145332,
-    "killmail_hash": "0c5f17236b59602a59d69bdba139d86ef3870a9e",
-    "kill_time": "2026-09-01T19:17:13Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 2121526145,
-      "character_name": "Octavia71",
-      "corporation_id": 1167014990,
-      "corporation_name": "Zebra Corp",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138145332/",
-    "total_value": 8460766221.39,
-    "final_attacker": {
-      "character_name": "Coco Divan",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Purifier"
     }
   }
 ]
