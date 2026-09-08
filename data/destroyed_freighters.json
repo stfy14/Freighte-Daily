@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138297357,
+    "killmail_hash": "c923b97a09fd4b8bd0540cb22d3203ace69ae5e5",
+    "kill_time": "2026-09-08T02:46:10Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003930,
+    "solar_system_name": "Goudiyah",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 402800988,
+      "character_name": "Nitron Altec",
+      "corporation_id": 144534752,
+      "corporation_name": "Mercurialis Inc.",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138297357/",
+    "total_value": 9407430625.97,
+    "final_attacker": {
+      "character_name": "Katsuragi Mimiko",
+      "corporation_name": "Independent Chamber of Unstable Misfits",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 138291641,
     "killmail_hash": "b61ac58ddba267d67a3d684c1f3cbba19ecc50f1",
     "kill_time": "2026-09-07T20:05:26Z",
@@ -2935,84 +2961,6 @@
       "corporation_name": "Dishonorable Duel Disturbance",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Eris"
-    }
-  },
-  {
-    "killmail_id": 138133061,
-    "killmail_hash": "127d32f28b85d06ab67eb2651937941364a73711",
-    "kill_time": "2026-09-01T03:36:39Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003729,
-    "solar_system_name": "KBP7-G",
-    "region_name": "Providence",
-    "victim": {
-      "character_id": 2062177442,
-      "character_name": "capulis",
-      "corporation_id": 98839444,
-      "corporation_name": "Unscheduled Maintenance",
-      "alliance_id": 99014986,
-      "alliance_name": "Kinetic Diplomacy"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138133061/",
-    "total_value": 1489624608.95,
-    "final_attacker": {
-      "character_name": "shikoneko",
-      "corporation_name": "Anoikis Equilibrium",
-      "alliance_name": "Honorable Third Party",
-      "ship_type_name": "Hel"
-    }
-  },
-  {
-    "killmail_id": 138132129,
-    "killmail_hash": "e935ea5cf8995523ef19e4c54a31001148ce6524",
-    "kill_time": "2026-09-01T02:17:07Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 31001940,
-    "solar_system_name": "J114353",
-    "region_name": "E-R00024",
-    "victim": {
-      "character_id": 91111721,
-      "character_name": "Lorylke Legrand",
-      "corporation_id": 98782897,
-      "corporation_name": "Diamond Dogs.",
-      "alliance_id": 99013516,
-      "alliance_name": "Mercenaires Sans Frontieres."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138132129/",
-    "total_value": 12235009856.76,
-    "final_attacker": {
-      "character_name": "YoungStroker The BodySnatcher",
-      "corporation_name": "Hard Knocks Inc.",
-      "alliance_name": "Hard Knocks Citizens",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138132053,
-    "killmail_hash": "c41b124ca19eef40e8ce07341ff3050450c3a8d4",
-    "kill_time": "2026-09-01T02:13:12Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000163,
-    "solar_system_name": "Akora",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2122280936,
-      "character_name": "Menen Akiga",
-      "corporation_id": 98388312,
-      "corporation_name": "Pandemic Horde Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138132053/",
-    "total_value": 7114763958.02,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Leshak"
     }
   }
 ]
