@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138338187,
+    "killmail_hash": "6997e194809d05f8f3b5e055620aed0fb3c74060",
+    "kill_time": "2026-09-10T03:37:12Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30004977,
+    "solar_system_name": "Yvangier",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 90387045,
+      "character_name": "Agoni Amaris",
+      "corporation_id": 98277211,
+      "corporation_name": "Hotspur Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138338187/",
+    "total_value": 7252376508.3,
+    "final_attacker": {
+      "character_name": "Angel Cruz",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 138336435,
+    "killmail_hash": "b2047e80fb1b6d097c2f99c78fe0f554222d3796",
+    "kill_time": "2026-09-10T01:07:42Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005056,
+    "solar_system_name": "Kizama",
+    "region_name": "Kor-Azor",
+    "victim": {
+      "character_id": 122298729,
+      "character_name": "Jeffrey",
+      "corporation_id": 2000435808,
+      "corporation_name": "BioDragons",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138336435/",
+    "total_value": 9179276410.14,
+    "final_attacker": {
+      "character_name": "Tobia Askiras",
+      "corporation_name": "Omni dude",
+      "alliance_name": null,
+      "ship_type_name": "Raptor"
+    }
+  },
+  {
+    "killmail_id": 138335520,
+    "killmail_hash": "50f483c11098c8cfe5e79fd1bfd1e1f05ccab8fb",
+    "kill_time": "2026-09-09T23:48:47Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121726760,
+      "character_name": "Frank Frost",
+      "corporation_id": 98659412,
+      "corporation_name": "Close Encounters of the EVE Kind",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138335520/",
+    "total_value": 10926497961.47,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138335008,
+    "killmail_hash": "329f798faf063c4cd76fda8c11ee039b332fe1c2",
+    "kill_time": "2026-09-09T22:52:18Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124493888,
+      "character_name": "Irulan Corrino X",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138335008/",
+    "total_value": 3140234831.52,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138334980,
+    "killmail_hash": "3dbd3b55b36bff2d29a7ecee0373a1126e0474cf",
+    "kill_time": "2026-09-09T22:50:42Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30003886,
+    "solar_system_name": "Ashmarir",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 96382415,
+      "character_name": "Fredo Garcia",
+      "corporation_id": 98409330,
+      "corporation_name": "Ascendance",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138334980/",
+    "total_value": 8020759378.14,
+    "final_attacker": {
+      "character_name": "Vladimir Darko",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 138333952,
     "killmail_hash": "d7b3b5134e01c569bada81db056d1c3aa95fc66c",
     "kill_time": "2026-09-09T21:39:56Z",
