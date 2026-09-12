@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 138399186,
+    "killmail_hash": "6f1910cd3a5b6bb6b74f23462d1edf6adca9b261",
+    "kill_time": "2026-09-12T21:07:24Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2112009935,
+      "character_name": "LLIALLIJIbI4EK",
+      "corporation_id": 98681117,
+      "corporation_name": "MOONFIRE SERVICE PROVIDER",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138399186/",
+    "total_value": 13800480784.95,
+    "final_attacker": {
+      "character_name": "Blan",
+      "corporation_name": "Best Cool Stories",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138399066,
+    "killmail_hash": "f5647ebe08b67ef9d32df262477af64c23d82090",
+    "kill_time": "2026-09-12T21:01:49Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000015,
+    "solar_system_name": "Sendaya",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2115538619,
+      "character_name": "AltairTao Sirius",
+      "corporation_id": 98738865,
+      "corporation_name": "Zealous Zodiacs",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138399066/",
+    "total_value": 1613856951.72,
+    "final_attacker": {
+      "character_name": "awg1",
+      "corporation_name": "Cohortes Vigilum",
+      "alliance_name": "Curatores Veritatis Alliance",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138398884,
+    "killmail_hash": "b8362deb5f29e54da9334c65dd359870a1ba22e8",
+    "kill_time": "2026-09-12T20:54:23Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30045348,
+    "solar_system_name": "Notoras",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2115637517,
+      "character_name": "Nakita Makahari",
+      "corporation_id": 98843500,
+      "corporation_name": "New Eden Direct",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138398884/",
+    "total_value": 6704423842.8,
+    "final_attacker": {
+      "character_name": "Victoria Aldritch",
+      "corporation_name": "Blood Alcohol Content",
+      "alliance_name": null,
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 138397382,
+    "killmail_hash": "2b672d28156740f238bea0f2f59456d43c3a85bb",
+    "kill_time": "2026-09-12T20:14:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002156,
+    "solar_system_name": "FN-DSR",
+    "region_name": "Immensea",
+    "victim": {
+      "character_id": 2123361288,
+      "character_name": "Waxing Luna",
+      "corporation_id": 98782283,
+      "corporation_name": "Solidified Encounter",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138397382/",
+    "total_value": 1722820240.97,
+    "final_attacker": {
+      "character_name": "Innocenter Bystand",
+      "corporation_name": "Dishonorable Duel Disturbance",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 138393431,
     "killmail_hash": "7a227a434d79ec38f17fd42d63c9ecf48c382835",
     "kill_time": "2026-09-12T17:23:24Z",
@@ -23,6 +127,32 @@
       "corporation_name": "Dark-Rising",
       "alliance_name": "Wrecking Machine.",
       "ship_type_name": "Nightmare"
+    }
+  },
+  {
+    "killmail_id": 138393353,
+    "killmail_hash": "0addb70a688ee5d89da18342d412fdbb03b8cace",
+    "kill_time": "2026-09-12T17:21:05Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002634,
+    "solar_system_name": "Balle",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 1362577342,
+      "character_name": "Zodite",
+      "corporation_id": 436141771,
+      "corporation_name": "tR1VIUM",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138393353/",
+    "total_value": 2065950370.91,
+    "final_attacker": {
+      "character_name": "Minerva Xiomara",
+      "corporation_name": "Xiomara Ascendancy",
+      "alliance_name": "X I O M A R A",
+      "ship_type_name": "Coercer"
     }
   },
   {
@@ -2675,32 +2805,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 138234980,
-    "killmail_hash": "4cb85d926da40be46f2a0af2fd159845ec4bc5c1",
-    "kill_time": "2026-09-05T20:10:54Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002803,
-    "solar_system_name": "Juunigaishi",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112982859,
-      "character_name": "Drakiin Zateki",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138234980/",
-    "total_value": 6836401775.37,
-    "final_attacker": {
-      "character_name": "Jack Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
