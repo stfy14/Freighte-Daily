@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138393431,
+    "killmail_hash": "7a227a434d79ec38f17fd42d63c9ecf48c382835",
+    "kill_time": "2026-09-12T17:23:24Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002767,
+    "solar_system_name": "Kubinen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113068446,
+      "character_name": "Lunar Saturn",
+      "corporation_id": 98753753,
+      "corporation_name": "CygnusCorp Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138393431/",
+    "total_value": 1609690275.36,
+    "final_attacker": {
+      "character_name": "Judas II",
+      "corporation_name": "Dark-Rising",
+      "alliance_name": "Wrecking Machine.",
+      "ship_type_name": "Nightmare"
+    }
+  },
+  {
+    "killmail_id": 138392586,
+    "killmail_hash": "84efc39bfcdcadb7ee064a1e0c152a42a7625793",
+    "kill_time": "2026-09-12T16:42:35Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005195,
+    "solar_system_name": "Vecamia",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2123576456,
+      "character_name": "Ramiro Medina",
+      "corporation_id": 98782123,
+      "corporation_name": "Xpensive Mistake",
+      "alliance_id": 99013766,
+      "alliance_name": "Death Legion of Capybaras"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138392586/",
+    "total_value": 2290311664.46,
+    "final_attacker": {
+      "character_name": "Supercool",
+      "corporation_name": "Silence now",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 138389067,
+    "killmail_hash": "ca8ee2bd3135ab8d1d2e4240cabdff694afa6938",
+    "kill_time": "2026-09-12T13:59:37Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30003950,
+    "solar_system_name": "K7D-II",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 95722237,
+      "character_name": "Magnus Mentulas",
+      "corporation_id": 732773091,
+      "corporation_name": "Di-Tron Heavy Industries",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138389067/",
+    "total_value": 7197010108.3,
+    "final_attacker": {
+      "character_name": "AKKNO2",
+      "corporation_name": "ChuangShi",
+      "alliance_name": "Wings Freedom.",
+      "ship_type_name": "Thrasher"
+    }
+  },
+  {
     "killmail_id": 138385137,
     "killmail_hash": "159f752dba9ccddb9b93b551b4cdf254c9e183e8",
     "kill_time": "2026-09-12T11:31:29Z",
@@ -2623,32 +2701,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138229468,
-    "killmail_hash": "b1d488efbfaaaefb442d49947ee81dee6e439e26",
-    "kill_time": "2026-09-05T16:04:03Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002803,
-    "solar_system_name": "Juunigaishi",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121484078,
-      "character_name": "StaciaII",
-      "corporation_id": 98096929,
-      "corporation_name": "Reckless Entity Enterprises",
-      "alliance_id": 99014101,
-      "alliance_name": "Reckless Empire"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138229468/",
-    "total_value": 2715890151.25,
-    "final_attacker": {
-      "character_name": "Jason Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Talos"
     }
   }
 ]
