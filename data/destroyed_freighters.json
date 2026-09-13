@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138416929,
+    "killmail_hash": "b357ea213969205a006ad274bdc8c3d2dd5bf56f",
+    "kill_time": "2026-09-13T14:18:06Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003892,
+    "solar_system_name": "Efa",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2124055515,
+      "character_name": "Vakh wi datorik",
+      "corporation_id": 98638996,
+      "corporation_name": "Regiment Of Naga Association",
+      "alliance_id": 99012982,
+      "alliance_name": "OnlyFleets."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138416929/",
+    "total_value": 1614229198.27,
+    "final_attacker": {
+      "character_name": "SnyperAL",
+      "corporation_name": "Ape War III survivors",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 138414066,
     "killmail_hash": "e9be4c3428fddfee8e9f307a970b3ba608f44698",
     "kill_time": "2026-09-13T12:05:34Z",
@@ -2753,32 +2779,6 @@
       "corporation_name": "The Vendetta Mercenaries",
       "alliance_name": "Vendetta Mercenary Group",
       "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 138253886,
-    "killmail_hash": "7388d0be542ddf021c5272cbd25cf01e236a1183",
-    "kill_time": "2026-09-06T14:28:58Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002813,
-    "solar_system_name": "Tama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96841256,
-      "character_name": "Greenlight86",
-      "corporation_id": 98481426,
-      "corporation_name": "Ahalai Mahalai86",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138253886/",
-    "total_value": 7985905158.3,
-    "final_attacker": {
-      "character_name": "TheLastWarlord",
-      "corporation_name": "Victory or Whatever",
-      "alliance_name": "Nourv Gate Security Commission",
-      "ship_type_name": "Tornado"
     }
   }
 ]
