@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138472591,
+    "killmail_hash": "785c0f6fc6f0005a65fffd4261534c5edbc4d200",
+    "kill_time": "2026-09-16T03:05:51Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121495352,
+      "character_name": "Lu-kung",
+      "corporation_id": 1266832466,
+      "corporation_name": "Drunken Beaver Mining",
+      "alliance_id": 99015022,
+      "alliance_name": "Black Ribbit"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138472591/",
+    "total_value": 4081010730.99,
+    "final_attacker": {
+      "character_name": "Painter Alt 5",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138472281,
+    "killmail_hash": "973755b660e0158608e45e24eb9bd9858d54fa16",
+    "kill_time": "2026-09-16T02:48:06Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 90840820,
+      "character_name": "sirus kahn",
+      "corporation_id": 98127312,
+      "corporation_name": "Quad Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138472281/",
+    "total_value": 1889097567.06,
+    "final_attacker": {
+      "character_name": "Painter Alt 17",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138471872,
+    "killmail_hash": "a346c00869d0ab3b803ffbe895eda836ba33aef7",
+    "kill_time": "2026-09-16T02:27:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96703063,
+      "character_name": "Miner Leakage",
+      "corporation_id": 1000171,
+      "corporation_name": "Republic University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138471872/",
+    "total_value": 2167253242.09,
+    "final_attacker": {
+      "character_name": "Johnathan Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138467890,
     "killmail_hash": "f77e0f7d8122b4f459a2648cc3eb9254a9839298",
     "kill_time": "2026-09-15T20:34:05Z",
@@ -2311,32 +2389,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 138317226,
-    "killmail_hash": "1b4750556de299e9eff41ace5475e295fec21b4d",
-    "kill_time": "2026-09-09T03:25:54Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123185299,
-      "character_name": "Pink Exile",
-      "corporation_id": 98798777,
-      "corporation_name": "Bloody Bunny",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138317226/",
-    "total_value": 2526558242.31,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
     }
   }
 ]
