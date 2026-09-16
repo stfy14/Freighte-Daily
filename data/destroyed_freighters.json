@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138488266,
+    "killmail_hash": "c452942d25f4598fc23eee6b50dd02c54cbcc60b",
+    "kill_time": "2026-09-16T20:37:42Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121892302,
+      "character_name": "Snowby Grizzard",
+      "corporation_id": 98674885,
+      "corporation_name": "Warden Vanguard",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138488266/",
+    "total_value": 7947848845.42,
+    "final_attacker": {
+      "character_name": "Jack Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 138487538,
+    "killmail_hash": "e43cb220e51f81004e6d390830167dd21bc57d4f",
+    "kill_time": "2026-09-16T20:01:48Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95419209,
+      "character_name": "Sukome Enaka",
+      "corporation_id": 98686050,
+      "corporation_name": "Velesova Legie",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138487538/",
+    "total_value": 1747776252.46,
+    "final_attacker": {
+      "character_name": "MSN-06S Sinanju",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 138482456,
     "killmail_hash": "a25da2d3aa2f2473739011d649d6a93a27fe87e4",
     "kill_time": "2026-09-16T15:43:36Z",
@@ -2389,58 +2441,6 @@
       "corporation_name": "Best Kept Dunked",
       "alliance_name": "A P E X",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 138333952,
-    "killmail_hash": "d7b3b5134e01c569bada81db056d1c3aa95fc66c",
-    "kill_time": "2026-09-09T21:39:56Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 91008526,
-      "character_name": "Sweetbear Bloodbear",
-      "corporation_id": 98083089,
-      "corporation_name": "Redhogs",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138333952/",
-    "total_value": 6832998054.14,
-    "final_attacker": {
-      "character_name": "ectweak",
-      "corporation_name": "The Vendetta Mercenaries",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Proteus"
-    }
-  },
-  {
-    "killmail_id": 138331670,
-    "killmail_hash": "9627c50d9d7949ea0c20c2f99adfc8b62609de3f",
-    "kill_time": "2026-09-09T20:01:22Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002803,
-    "solar_system_name": "Juunigaishi",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119768815,
-      "character_name": "Nystx",
-      "corporation_id": 98798924,
-      "corporation_name": "guerrilla mafia",
-      "alliance_id": 99013766,
-      "alliance_name": "Death Legion of Capybaras"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138331670/",
-    "total_value": 14706636373.63,
-    "final_attacker": {
-      "character_name": "Timeloh Regho",
-      "corporation_name": "Reliables Inc",
-      "alliance_name": "Vendetta Mercenary Group",
-      "ship_type_name": "Talos"
     }
   }
 ]
