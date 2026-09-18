@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138524523,
+    "killmail_hash": "51e40ddb6dbaa23a9bfe22285375848eef80128a",
+    "kill_time": "2026-09-18T16:01:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121027495,
+      "character_name": "Lucky Bastrd",
+      "corporation_id": 98763473,
+      "corporation_name": "The Free Mining Alliance Refugees",
+      "alliance_id": 99013212,
+      "alliance_name": "Crimson Interstellar Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138524523/",
+    "total_value": 2603027133.35,
+    "final_attacker": {
+      "character_name": "Malvina Bukavitsky",
+      "corporation_name": "Science and Trade Institute",
+      "alliance_name": null,
+      "ship_type_name": "Brutix"
+    }
+  },
+  {
     "killmail_id": 138519223,
     "killmail_hash": "8a353d733345de8655869d04de5954bd9d8b3395",
     "kill_time": "2026-09-18T12:41:34Z",
@@ -2519,136 +2545,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138368735,
-    "killmail_hash": "8ae930dbe75e83704be2c7cfd29e47060313c138",
-    "kill_time": "2026-09-11T18:32:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115949760,
-      "character_name": "Waleria Pahineh",
-      "corporation_id": 98811680,
-      "corporation_name": "Geras Workshop",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138368735/",
-    "total_value": 3586433233.02,
-    "final_attacker": {
-      "character_name": "Frank Marken",
-      "corporation_name": "Shooting Blues Everyday",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138368328,
-    "killmail_hash": "6261a17187ea438af133f3d3f0f43d4cccacb771",
-    "kill_time": "2026-09-11T18:12:04Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003978,
-    "solar_system_name": "P-ZMZV",
-    "region_name": "Querious",
-    "victim": {
-      "character_id": 1412145941,
-      "character_name": "syclops",
-      "corporation_id": 98830673,
-      "corporation_name": "Cosmic Oopsie Coalition",
-      "alliance_id": 431502563,
-      "alliance_name": "Ministry of Inappropriate Footwork"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138368328/",
-    "total_value": 8233686854.08,
-    "final_attacker": {
-      "character_name": "Darth Rabban",
-      "corporation_name": "Bohemian Veterans",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Stabber Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 138368282,
-    "killmail_hash": "b7baa0c6057cd1cefaa6dc83423214403aadf6cf",
-    "kill_time": "2026-09-11T18:11:18Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113848821,
-      "character_name": "Glen Hakomairos",
-      "corporation_id": 98823137,
-      "corporation_name": "CONSUME PROTOCOL",
-      "alliance_id": 99013723,
-      "alliance_name": "Dienstleistungen Kasallek"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138368282/",
-    "total_value": 2296119817.23,
-    "final_attacker": {
-      "character_name": "Painter Alt 14",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138367742,
-    "killmail_hash": "8c41d751eba51fbf8a5bdaa89d47fc1d45a705b6",
-    "kill_time": "2026-09-11T17:49:08Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90025899,
-      "character_name": "ORDNUNGSAMTT",
-      "corporation_id": 98508549,
-      "corporation_name": "WEISSER LOTUS",
-      "alliance_id": 99015280,
-      "alliance_name": "Guardians of the Lotus"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138367742/",
-    "total_value": 1942778652.83,
-    "final_attacker": {
-      "character_name": "Bobby Boloskari",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138366362,
-    "killmail_hash": "cfa93defbff9ff6d150dd079efed905550cad578",
-    "kill_time": "2026-09-11T16:17:16Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004780,
-    "solar_system_name": "9O-8W1",
-    "region_name": "Delve",
-    "victim": {
-      "character_id": 2123879962,
-      "character_name": "Atlas Hebb",
-      "corporation_id": 98328437,
-      "corporation_name": "Applied Anarchy",
-      "alliance_id": 99015056,
-      "alliance_name": "Calculated Disorder"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138366362/",
-    "total_value": 3268745377.53,
-    "final_attacker": {
-      "character_name": "Dracarna Serpentine",
-      "corporation_name": "Tactical Grace.",
-      "alliance_name": "Vanguard.",
-      "ship_type_name": "Vedmak"
     }
   }
 ]
