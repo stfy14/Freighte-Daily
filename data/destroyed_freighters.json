@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 138519223,
+    "killmail_hash": "8a353d733345de8655869d04de5954bd9d8b3395",
+    "kill_time": "2026-09-18T12:41:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000887,
+    "solar_system_name": "GIH-ZG",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 2123075508,
+      "character_name": "Old hare",
+      "corporation_id": 98760689,
+      "corporation_name": "CACX mission",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138519223/",
+    "total_value": 7142435014.97,
+    "final_attacker": {
+      "character_name": "lovely Asques",
+      "corporation_name": "Stinky Shrimp and Rotten Fish",
+      "alliance_name": null,
+      "ship_type_name": "Osprey Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 138519189,
+    "killmail_hash": "b3e59a294e21c1ff52129489549a5aa267044802",
+    "kill_time": "2026-09-18T12:39:40Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000887,
+    "solar_system_name": "GIH-ZG",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 131165732,
+      "character_name": "Toma Imulgard",
+      "corporation_id": 98760689,
+      "corporation_name": "CACX mission",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138519189/",
+    "total_value": 9266806834.93,
+    "final_attacker": {
+      "character_name": "bulanbulan Dadunur",
+      "corporation_name": "Zijin Mining Group Company Limited",
+      "alliance_name": "Terminally Inept Traders and Scanners",
+      "ship_type_name": "Harbinger Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 138517775,
+    "killmail_hash": "ff31805fa95445c4637685976ba157c4a2eca171",
+    "kill_time": "2026-09-18T10:30:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123043129,
+      "character_name": "Wancy003",
+      "corporation_id": 98635373,
+      "corporation_name": "Maximus Corporation",
+      "alliance_id": 99013713,
+      "alliance_name": "MAXIMUS Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138517775/",
+    "total_value": 2525020170.15,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 138517184,
+    "killmail_hash": "bbe9155940d33e84e0d88735151f96d9935c621f",
+    "kill_time": "2026-09-18T09:43:39Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119620018,
+      "character_name": "TZ Trade",
+      "corporation_id": 98732893,
+      "corporation_name": "Singular Point.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138517184/",
+    "total_value": 1554804160.57,
+    "final_attacker": {
+      "character_name": "zLegion 22",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 138512102,
     "killmail_hash": "9614f8186501964786b5751f3a531cc029819055",
     "kill_time": "2026-09-18T01:48:09Z",
@@ -2545,32 +2649,6 @@
       "corporation_name": "Tactical Grace.",
       "alliance_name": "Vanguard.",
       "ship_type_name": "Vedmak"
-    }
-  },
-  {
-    "killmail_id": 138361035,
-    "killmail_hash": "6c5ac006e2e53254a4c91f1b8a932f64cbccd5c7",
-    "kill_time": "2026-09-11T10:59:23Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 96396096,
-      "character_name": "Magnat Ver",
-      "corporation_id": 98495577,
-      "corporation_name": "Ver Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138361035/",
-    "total_value": 10589718395.74,
-    "final_attacker": {
-      "character_name": "Franz Fizzleblade",
-      "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
     }
   }
 ]
