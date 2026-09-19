@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138538724,
+    "killmail_hash": "3c7f166ea114b11158aaa24a081dc708803a66f6",
+    "kill_time": "2026-09-19T03:28:26Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121884269,
+      "character_name": "Niitamaa Ishikela",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138538724/",
+    "total_value": 1639410108.65,
+    "final_attacker": {
+      "character_name": "Lilac Rising",
+      "corporation_name": "Nothing Comes To Mind",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138538050,
+    "killmail_hash": "892e54f1a00a85474da6cf2539c9b8fddb1712e7",
+    "kill_time": "2026-09-19T02:56:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120594469,
+      "character_name": "Hek Free Trader",
+      "corporation_id": 98840757,
+      "corporation_name": "The signs.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138538050/",
+    "total_value": 1596623784.45,
+    "final_attacker": {
+      "character_name": "zLegion 22",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 138530653,
     "killmail_hash": "28d5ef5ba581c2031cb7c00ae9e5050e14a5b50f",
     "kill_time": "2026-09-18T20:53:44Z",
