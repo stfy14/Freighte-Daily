@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 138585939,
+    "killmail_hash": "599bb7cb8fe8013d72d914a6a08f28a34600a89a",
+    "kill_time": "2026-09-20T18:13:32Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121884269,
+      "character_name": "Niitamaa Ishikela",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138585939/",
+    "total_value": 6659180833.84,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 138584946,
+    "killmail_hash": "5fc0c99b7c20db4f26346b6f5853e2007c746a8b",
+    "kill_time": "2026-09-20T17:35:16Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123784426,
+      "character_name": "T-27",
+      "corporation_id": 98815684,
+      "corporation_name": "CEP-INDUSTRIAL",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138584946/",
+    "total_value": 9747985169.98,
+    "final_attacker": {
+      "character_name": "Brutal Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 138582101,
+    "killmail_hash": "cc946bb49aff7b05f43ea36b7d8ff00ad59fd286",
+    "kill_time": "2026-09-20T15:44:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001350,
+    "solar_system_name": "L-IE41",
+    "region_name": "Venal",
+    "victim": {
+      "character_id": 91099059,
+      "character_name": "Anne Gross",
+      "corporation_id": 98470949,
+      "corporation_name": "Fehl Prime",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138582101/",
+    "total_value": 1843606552.77,
+    "final_attacker": {
+      "character_name": "Amaer Solette",
+      "corporation_name": "Chaos arbiter",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
+    "killmail_id": 138573168,
+    "killmail_hash": "8c5cf7b6e3e2218b3cd70b66f4575781dd4fef88",
+    "kill_time": "2026-09-20T07:04:47Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 587202421,
+      "character_name": "Katrine Lamont",
+      "corporation_id": 98729662,
+      "corporation_name": "Motherlands Hauling Service",
+      "alliance_id": 99003916,
+      "alliance_name": "Viral Society"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138573168/",
+    "total_value": 8015921985.61,
+    "final_attacker": {
+      "character_name": "Filch Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 138572391,
+    "killmail_hash": "59b4b95df2433cf1d2c768cc612909054bd27977",
+    "kill_time": "2026-09-20T06:01:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116228639,
+      "character_name": "Dexter Paaltomo",
+      "corporation_id": 98834932,
+      "corporation_name": "Corporation for contracts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138572391/",
+    "total_value": 5088008954.39,
+    "final_attacker": {
+      "character_name": "Zeolet Vulgarity",
+      "corporation_name": "SUNDERING",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 138571854,
+    "killmail_hash": "725cded98f6d48fc6f4190bba7989c8ceb708493",
+    "kill_time": "2026-09-20T05:23:25Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 105209159,
+      "character_name": "Santraginus IX",
+      "corporation_id": 98048013,
+      "corporation_name": "Ministry of Strange Walks",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138571854/",
+    "total_value": 9141808439.53,
+    "final_attacker": {
+      "character_name": "zLegion 13",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138571045,
     "killmail_hash": "7036fcb55f58b999385669759a3001328f5fcddf",
     "kill_time": "2026-09-20T04:24:20Z",
@@ -23,6 +179,32 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": "Ganklift Logistics",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138570745,
+    "killmail_hash": "313b5534a9df808fc132de0a4b51405c0b85561e",
+    "kill_time": "2026-09-20T04:03:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2123911338,
+      "character_name": "Natalie Zummo",
+      "corporation_id": 98825444,
+      "corporation_name": "The Dog Corps",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138570745/",
+    "total_value": 2508061601.41,
+    "final_attacker": {
+      "character_name": "Narg2",
+      "corporation_name": "Know-Nothings",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
     }
   },
   {
@@ -2545,32 +2727,6 @@
       "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Capsule"
-    }
-  },
-  {
-    "killmail_id": 138416929,
-    "killmail_hash": "b357ea213969205a006ad274bdc8c3d2dd5bf56f",
-    "kill_time": "2026-09-13T14:18:06Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003892,
-    "solar_system_name": "Efa",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 2124055515,
-      "character_name": "Vakh wi datorik",
-      "corporation_id": 98638996,
-      "corporation_name": "Regiment Of Naga Association",
-      "alliance_id": 99012982,
-      "alliance_name": "OnlyFleets."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138416929/",
-    "total_value": 1614229198.27,
-    "final_attacker": {
-      "character_name": "SnyperAL",
-      "corporation_name": "Ape War III survivors",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
     }
   }
 ]
