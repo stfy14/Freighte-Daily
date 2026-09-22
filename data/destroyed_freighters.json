@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138610426,
+    "killmail_hash": "acdb107fbb768a9c4561a594e2999f3709a70b0d",
+    "kill_time": "2026-09-21T21:54:03Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93833423,
+      "character_name": "Shady Farmer",
+      "corporation_id": 98838483,
+      "corporation_name": "NERD IS THE WORD",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138610426/",
+    "total_value": 7058095265.25,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 138606348,
     "killmail_hash": "ccea43a6a58e0f14223a046c230835071d658961",
     "kill_time": "2026-09-21T18:26:21Z",
@@ -2805,110 +2831,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 138450340,
-    "killmail_hash": "31a32a1b103e3be271b6f0a57e538848435d80e2",
-    "kill_time": "2026-09-15T00:16:43Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001389,
-    "solar_system_name": "Isanamo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 92246283,
-      "character_name": "DrdPrtRoberts",
-      "corporation_id": 98811229,
-      "corporation_name": "Cos a Setar",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138450340/",
-    "total_value": 2478029020.07,
-    "final_attacker": {
-      "character_name": "fcyno7",
-      "corporation_name": "Star Frontiers",
-      "alliance_name": "Brotherhood of Spacers",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138450268,
-    "killmail_hash": "e747313818eed16a7db4f1f1a71f57bf27cbdad0",
-    "kill_time": "2026-09-15T00:09:01Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001389,
-    "solar_system_name": "Isanamo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2124119547,
-      "character_name": "Abramus Reyan",
-      "corporation_id": 98651048,
-      "corporation_name": "Absolute Order XVI",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138450268/",
-    "total_value": 2145653964.95,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
-    }
-  },
-  {
-    "killmail_id": 138449636,
-    "killmail_hash": "5aa6d0bd2e0d92a73a195c01dd28322a11e7b3eb",
-    "kill_time": "2026-09-14T22:57:37Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30001426,
-    "solar_system_name": "Isinokka",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93862892,
-      "character_name": "Nesoi Rinun",
-      "corporation_id": 98651050,
-      "corporation_name": "Absolute Order XVIII",
-      "alliance_id": 99009758,
-      "alliance_name": "Absolute Will"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138449636/",
-    "total_value": 2619985507.51,
-    "final_attacker": {
-      "character_name": "Ran Cereya",
-      "corporation_name": "Tactical Feed.",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 138448666,
-    "killmail_hash": "182eb04d5db7d41b7c966fafad289aa125e8df09",
-    "kill_time": "2026-09-14T21:33:01Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000458,
-    "solar_system_name": "9N-0HF",
-    "region_name": "Detorid",
-    "victim": {
-      "character_id": 95439466,
-      "character_name": "Lulla By",
-      "corporation_id": 98057377,
-      "corporation_name": "Core Industry.",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138448666/",
-    "total_value": 7077048882.84,
-    "final_attacker": {
-      "character_name": "Derazer Derazer",
-      "corporation_name": "Evil Space Goblins",
-      "alliance_name": "BorderZone",
-      "ship_type_name": "Kikimora"
     }
   }
 ]
