@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138623086,
+    "killmail_hash": "dd204424b17dc05d79c6a1fcd483d9442a7b8756",
+    "kill_time": "2026-09-22T16:28:42Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 31002235,
+    "solar_system_name": "J234152",
+    "region_name": "E-R00028",
+    "victim": {
+      "character_id": 92241971,
+      "character_name": "Formusa Rabbit",
+      "corporation_id": 98422578,
+      "corporation_name": "Almost Dangerous",
+      "alliance_id": 99010787,
+      "alliance_name": "Wolves Amongst Strangers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138623086/",
+    "total_value": 1560854081.36,
+    "final_attacker": {
+      "character_name": "Felonious Jared",
+      "corporation_name": "J-Space Preservation Society",
+      "alliance_name": "Intended Behavior",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 138618350,
     "killmail_hash": "b786ac501ac8aa2d7e5cbb5a04812068e3d31d94",
     "kill_time": "2026-09-22T10:49:21Z",
@@ -2623,110 +2649,6 @@
       "corporation_name": "Stimulus",
       "alliance_name": "Rote Kapelle",
       "ship_type_name": "Sabre"
-    }
-  },
-  {
-    "killmail_id": 138463222,
-    "killmail_hash": "96b9c0c48e0da41a49e3e09b4ddd4bb0e7134fee",
-    "kill_time": "2026-09-15T16:20:45Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2118531773,
-      "character_name": "ZhengHe Lee",
-      "corporation_id": 98633066,
-      "corporation_name": "Galactic Logistics Co LTD",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138463222/",
-    "total_value": 7381726517.51,
-    "final_attacker": {
-      "character_name": "AlexKent",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138463101,
-    "killmail_hash": "22d994a1c2bc75066f5ccb7ac2b9600623107b14",
-    "kill_time": "2026-09-15T16:16:22Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2118531799,
-      "character_name": "Bill Lee",
-      "corporation_id": 98633066,
-      "corporation_name": "Galactic Logistics Co LTD",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138463101/",
-    "total_value": 7571735669.17,
-    "final_attacker": {
-      "character_name": "Alexingeras",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138462514,
-    "killmail_hash": "5f334a38c69fece652c27b774bf034304b751b1d",
-    "kill_time": "2026-09-15T15:39:21Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004949,
-    "solar_system_name": "48I1-X",
-    "region_name": "Period Basis",
-    "victim": {
-      "character_id": 2113779998,
-      "character_name": "Cloud RAN Pappotte",
-      "corporation_id": 98601548,
-      "corporation_name": "SummerHall",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138462514/",
-    "total_value": 7637533250.21,
-    "final_attacker": {
-      "character_name": "Nomaa Itaga Toralen",
-      "corporation_name": "Chinese Breeze Peace",
-      "alliance_name": "HuaXa",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 138462150,
-    "killmail_hash": "d67760f5848bac7c2f8d245a05d77a6c7aa0b744",
-    "kill_time": "2026-09-15T15:18:46Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2117770865,
-      "character_name": "NiDDDD",
-      "corporation_id": 98840848,
-      "corporation_name": "Commonwealth Of Man",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138462150/",
-    "total_value": 1815862938.61,
-    "final_attacker": {
-      "character_name": "Thorgril",
-      "corporation_name": "Aliastra",
-      "alliance_name": null,
-      "ship_type_name": "Machariel"
     }
   }
 ]
