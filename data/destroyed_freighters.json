@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138641805,
+    "killmail_hash": "9e65a94032c96ace906b9ff038f20c9de1207026",
+    "kill_time": "2026-09-23T15:00:28Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002556,
+    "solar_system_name": "Gusandall",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2122522668,
+      "character_name": "Meete Spinn",
+      "corporation_id": 98766032,
+      "corporation_name": "Uberalles.",
+      "alliance_id": 99013530,
+      "alliance_name": "Sentinels Amongst Warriors"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138641805/",
+    "total_value": 1929332766.94,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 138638123,
     "killmail_hash": "a6a5bbe73decb455f4fffdb5979434ad5f47c0cf",
     "kill_time": "2026-09-23T10:54:03Z",
@@ -2415,110 +2441,6 @@
       "corporation_name": "Kiddy Girl-and",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 138482456,
-    "killmail_hash": "a25da2d3aa2f2473739011d649d6a93a27fe87e4",
-    "kill_time": "2026-09-16T15:43:36Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119581354,
-      "character_name": "Jasmin Ark",
-      "corporation_id": 98663567,
-      "corporation_name": "The True Carebear Syndicate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138482456/",
-    "total_value": 8434040815.92,
-    "final_attacker": {
-      "character_name": "Josh Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138482054,
-    "killmail_hash": "517020dfc7378fac58f51a6d834ed973a411f8cc",
-    "kill_time": "2026-09-16T15:27:06Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122683573,
-      "character_name": "True Carebear Syndicate",
-      "corporation_id": 98663567,
-      "corporation_name": "The True Carebear Syndicate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138482054/",
-    "total_value": 8626395386.4,
-    "final_attacker": {
-      "character_name": "Inspector Implant",
-      "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138481670,
-    "killmail_hash": "1db22fce37d3e6c8a720f178748a71f25adade85",
-    "kill_time": "2026-09-16T15:10:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117329316,
-      "character_name": "Emilie Ark",
-      "corporation_id": 98663567,
-      "corporation_name": "The True Carebear Syndicate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138481670/",
-    "total_value": 8618728857.44,
-    "final_attacker": {
-      "character_name": "Woodroffe",
-      "corporation_name": "Thunderwaffe",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138481071,
-    "killmail_hash": "27c6fb508a5a8420eb7ab15a4f4beedbb2ae3166",
-    "kill_time": "2026-09-16T14:41:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1578972099,
-      "character_name": "Scipax",
-      "corporation_id": 98422578,
-      "corporation_name": "Almost Dangerous",
-      "alliance_id": 99010787,
-      "alliance_name": "Wolves Amongst Strangers"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138481071/",
-    "total_value": 32836499907.88,
-    "final_attacker": {
-      "character_name": "Painter Alt 18",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
