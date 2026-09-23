@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138631728,
+    "killmail_hash": "215455a1e40ff2e55bae45e291907e6359424ccc",
+    "kill_time": "2026-09-23T02:16:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122907732,
+      "character_name": "Balson Yachin",
+      "corporation_id": 98801828,
+      "corporation_name": "Kungfupa Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138631728/",
+    "total_value": 2586022680.68,
+    "final_attacker": {
+      "character_name": "Jonas Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138631311,
+    "killmail_hash": "455e004493736117bc8e8d64bb22287817cde9ad",
+    "kill_time": "2026-09-23T01:53:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96698513,
+      "character_name": "Evangeline Shimada",
+      "corporation_id": 98636089,
+      "corporation_name": "Hispanic Revolution",
+      "alliance_id": 99013766,
+      "alliance_name": "Death Legion of Capybaras"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138631311/",
+    "total_value": 4099078516.28,
+    "final_attacker": {
+      "character_name": "Jessie Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138623086,
     "killmail_hash": "dd204424b17dc05d79c6a1fcd483d9442a7b8756",
     "kill_time": "2026-09-22T16:28:42Z",
@@ -2441,188 +2493,6 @@
       "corporation_name": "F.A.M.I.L.Y",
       "alliance_name": "DarkSide.",
       "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 138472591,
-    "killmail_hash": "785c0f6fc6f0005a65fffd4261534c5edbc4d200",
-    "kill_time": "2026-09-16T03:05:51Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121495352,
-      "character_name": "Lu-kung",
-      "corporation_id": 1266832466,
-      "corporation_name": "Drunken Beaver Mining",
-      "alliance_id": 99015022,
-      "alliance_name": "Black Ribbit"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138472591/",
-    "total_value": 4081010730.99,
-    "final_attacker": {
-      "character_name": "Painter Alt 5",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138472281,
-    "killmail_hash": "973755b660e0158608e45e24eb9bd9858d54fa16",
-    "kill_time": "2026-09-16T02:48:06Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90840820,
-      "character_name": "sirus kahn",
-      "corporation_id": 98127312,
-      "corporation_name": "Quad Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138472281/",
-    "total_value": 1889097567.06,
-    "final_attacker": {
-      "character_name": "Painter Alt 17",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138471872,
-    "killmail_hash": "a346c00869d0ab3b803ffbe895eda836ba33aef7",
-    "kill_time": "2026-09-16T02:27:24Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96703063,
-      "character_name": "Miner Leakage",
-      "corporation_id": 1000171,
-      "corporation_name": "Republic University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138471872/",
-    "total_value": 2167253242.09,
-    "final_attacker": {
-      "character_name": "Johnathan Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138471291,
-    "killmail_hash": "873ca3d53224dd80932ef4aae41789b0e13d07cd",
-    "kill_time": "2026-09-16T01:31:06Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115883199,
-      "character_name": "sanroi KYS",
-      "corporation_id": 98653307,
-      "corporation_name": "No Prop",
-      "alliance_id": 99006941,
-      "alliance_name": "Siege Green."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138471291/",
-    "total_value": 7860941241.25,
-    "final_attacker": {
-      "character_name": "InEULAweTrust",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 138471290,
-    "killmail_hash": "560a06b3bc474f7a24bc1b4598e31b09ae3bf51d",
-    "kill_time": "2026-09-16T01:31:00Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117778431,
-      "character_name": "sanroi crow",
-      "corporation_id": 98653307,
-      "corporation_name": "No Prop",
-      "alliance_id": 99006941,
-      "alliance_name": "Siege Green."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138471290/",
-    "total_value": 7860941241.25,
-    "final_attacker": {
-      "character_name": "InEULAweTrust",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 138471288,
-    "killmail_hash": "fe08bece585006b5e195af003924185665c58b01",
-    "kill_time": "2026-09-16T01:30:31Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2119184812,
-      "character_name": "sanroi lark",
-      "corporation_id": 98653307,
-      "corporation_name": "No Prop",
-      "alliance_id": 99006941,
-      "alliance_name": "Siege Green."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138471288/",
-    "total_value": 7306618918.75,
-    "final_attacker": {
-      "character_name": "InEULAweTrust",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
-    }
-  },
-  {
-    "killmail_id": 138471287,
-    "killmail_hash": "fc1a3341aa3081e6d8c76a1738235b4531a79eae",
-    "kill_time": "2026-09-16T01:30:27Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2119448247,
-      "character_name": "sanroi Pelicana",
-      "corporation_id": 98653307,
-      "corporation_name": "No Prop",
-      "alliance_id": 99006941,
-      "alliance_name": "Siege Green."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138471287/",
-    "total_value": 7007541008.56,
-    "final_attacker": {
-      "character_name": "InEULAweTrust",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Nyx"
     }
   }
 ]
