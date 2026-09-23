@@ -2390,57 +2390,5 @@
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
-  },
-  {
-    "killmail_id": 138488266,
-    "killmail_hash": "c452942d25f4598fc23eee6b50dd02c54cbcc60b",
-    "kill_time": "2026-09-16T20:37:42Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121892302,
-      "character_name": "Snowby Grizzard",
-      "corporation_id": 98674885,
-      "corporation_name": "Warden Vanguard",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138488266/",
-    "total_value": 7947848845.42,
-    "final_attacker": {
-      "character_name": "Jack Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 138487538,
-    "killmail_hash": "e43cb220e51f81004e6d390830167dd21bc57d4f",
-    "kill_time": "2026-09-16T20:01:48Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95419209,
-      "character_name": "Sukome Enaka",
-      "corporation_id": 98686050,
-      "corporation_name": "Velesova Legie",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138487538/",
-    "total_value": 1747776252.46,
-    "final_attacker": {
-      "character_name": "MSN-06S Sinanju",
-      "corporation_name": "Kiddy Girl-and",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Leshak"
-    }
   }
 ]
