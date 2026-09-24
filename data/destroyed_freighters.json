@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138650592,
+    "killmail_hash": "65acaa28875d8ecca23ce6e9a31ec1f92dbfd6a9",
+    "kill_time": "2026-09-23T23:25:29Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002742,
+    "solar_system_name": "Erila",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96007387,
+      "character_name": "Crackerjack Attor",
+      "corporation_id": 98558686,
+      "corporation_name": "Edge Dancers",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138650592/",
+    "total_value": 7207307309.16,
+    "final_attacker": {
+      "character_name": "Isogen Investigator",
+      "corporation_name": "ROID CRACKERS",
+      "alliance_name": null,
+      "ship_type_name": "Enforcer"
+    }
+  },
+  {
+    "killmail_id": 138649523,
+    "killmail_hash": "e3d8a4b4deaeca0bfd57258f5b5ab8bdcbfd8ea1",
+    "kill_time": "2026-09-23T22:01:26Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1215287307,
+      "character_name": "Nales Pierce",
+      "corporation_id": 554438648,
+      "corporation_name": "M M Enterprise Inc",
+      "alliance_id": 1717045815,
+      "alliance_name": "The War Consultants"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138649523/",
+    "total_value": 2030439781.41,
+    "final_attacker": {
+      "character_name": "Jaiden Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138641805,
     "killmail_hash": "9e65a94032c96ace906b9ff038f20c9de1207026",
     "kill_time": "2026-09-23T15:00:28Z",
@@ -2362,32 +2414,6 @@
       "character_name": "zLegion 05",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138493559,
-    "killmail_hash": "53ae774759c3d2dd2bdff8cd54d6bd2a6050f389",
-    "kill_time": "2026-09-17T03:02:41Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124343232,
-      "character_name": "Kanama Anzomi",
-      "corporation_id": 98843817,
-      "corporation_name": "Hoka Oyate Transportation Industries LLC",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138493559/",
-    "total_value": 3197585910.2,
-    "final_attacker": {
-      "character_name": "001 DUNK",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
   }
