@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138668270,
+    "killmail_hash": "aaa40d8b2b24c161c7dba961cb6951457cd92069",
+    "kill_time": "2026-09-24T19:29:14Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004807,
+    "solar_system_name": "UALX-3",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 94071317,
+      "character_name": "Xiandron Ps",
+      "corporation_id": 98813867,
+      "corporation_name": "Impalers",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138668270/",
+    "total_value": 8256136476.3,
+    "final_attacker": {
+      "character_name": "Scoop EMP",
+      "corporation_name": "Bohemian Veterans",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138667496,
+    "killmail_hash": "2a874085a4f22a59e6e065585f447147328b20ed",
+    "kill_time": "2026-09-24T18:51:21Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000658,
+    "solar_system_name": "R-3FBU",
+    "region_name": "Scalding Pass",
+    "victim": {
+      "character_id": 1501853678,
+      "character_name": "3dgcmod",
+      "corporation_id": 98796399,
+      "corporation_name": "R3b3llium",
+      "alliance_id": 99010877,
+      "alliance_name": "Out of the Blue."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138667496/",
+    "total_value": 3058902042.31,
+    "final_attacker": {
+      "character_name": "Old Sosulka",
+      "corporation_name": "Don't Wake a sleeping bear",
+      "alliance_name": "TIME CRIT",
+      "ship_type_name": "Kikimora"
+    }
+  },
+  {
+    "killmail_id": 138663872,
+    "killmail_hash": "2ca03521f4128fba4790440326e9b432b0716fbd",
+    "kill_time": "2026-09-24T15:39:48Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30003525,
+    "solar_system_name": "Bagodan",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 90700523,
+      "character_name": "Zaatron",
+      "corporation_id": 98804620,
+      "corporation_name": "Ferengi Mercantile embassy of New Eden",
+      "alliance_id": 99012908,
+      "alliance_name": "Seker Academy"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138663872/",
+    "total_value": 1406532685.89,
+    "final_attacker": {
+      "character_name": "Icarius",
+      "corporation_name": "The Wings of Maak",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 138658736,
     "killmail_hash": "75b093e7655982daf6c909852ed980a2913a46ef",
     "kill_time": "2026-09-24T10:45:22Z",
@@ -2363,58 +2441,6 @@
       "corporation_name": "Doctors Orders",
       "alliance_name": "Red Orchestra Triangle Enthusiasts",
       "ship_type_name": "Deluge"
-    }
-  },
-  {
-    "killmail_id": 138504549,
-    "killmail_hash": "69c4e10e7137c02bc39c0030da588780bc10a04e",
-    "kill_time": "2026-09-17T17:37:42Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005032,
-    "solar_system_name": "Khabara",
-    "region_name": "Kor-Azor",
-    "victim": {
-      "character_id": 385667344,
-      "character_name": "Kebet",
-      "corporation_id": 98484901,
-      "corporation_name": "Illegal immigrants",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138504549/",
-    "total_value": 1683052046.78,
-    "final_attacker": {
-      "character_name": "Zlbldnia",
-      "corporation_name": "AirGuard",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 138504443,
-    "killmail_hash": "c7fe777ca90e1690d0c734b6dc4546ac4baa2269",
-    "kill_time": "2026-09-17T17:31:40Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2117831685,
-      "character_name": "Eghes Ovey Madullier",
-      "corporation_id": 98843405,
-      "corporation_name": "ARC Day Tippers",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138504443/",
-    "total_value": 3036740384.99,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
     }
   }
 ]
