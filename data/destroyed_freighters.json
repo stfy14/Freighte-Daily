@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138658736,
+    "killmail_hash": "75b093e7655982daf6c909852ed980a2913a46ef",
+    "kill_time": "2026-09-24T10:45:22Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112918286,
+      "character_name": "Eugene Lamouche",
+      "corporation_id": 98740495,
+      "corporation_name": "Next Frontier Peacekeeper",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138658736/",
+    "total_value": 2469481463.44,
+    "final_attacker": {
+      "character_name": "zLegion 23",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138658393,
+    "killmail_hash": "0353edeef5cad17fee87865a307b6e2fa8896b95",
+    "kill_time": "2026-09-24T10:20:45Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91527155,
+      "character_name": "Henry Scribner",
+      "corporation_id": 98844904,
+      "corporation_name": "Potential Preservation Trust",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138658393/",
+    "total_value": 2507980371.89,
+    "final_attacker": {
+      "character_name": "zLegion 24",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138658173,
+    "killmail_hash": "eac7a474e18ceccf2732c98c32b265dff3035a65",
+    "kill_time": "2026-09-24T09:56:36Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2120997844,
+      "character_name": "Sordt Cadelanne",
+      "corporation_id": 98713174,
+      "corporation_name": "Hole Nomades",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138658173/",
+    "total_value": 5680320071.79,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
+    "killmail_id": 138656485,
+    "killmail_hash": "fd0d18e57fc398ae354132198e8930a8269c3fcf",
+    "kill_time": "2026-09-24T07:39:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116211807,
+      "character_name": "Faded Found",
+      "corporation_id": 98779449,
+      "corporation_name": "Twilight Moon Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138656485/",
+    "total_value": 4693246425.37,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 138655746,
+    "killmail_hash": "60746690b8b81bd0c7e8cf48641904860e89b8b4",
+    "kill_time": "2026-09-24T06:43:24Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121373342,
+      "character_name": "Agsavan Gainkesh",
+      "corporation_id": 98795321,
+      "corporation_name": "Deep Space Hauling Express",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138655746/",
+    "total_value": 1549167864.72,
+    "final_attacker": {
+      "character_name": "zLegion 16",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138650592,
     "killmail_hash": "65acaa28875d8ecca23ce6e9a31ec1f92dbfd6a9",
     "kill_time": "2026-09-23T23:25:29Z",
@@ -2285,136 +2415,6 @@
       "corporation_name": "Sebiestor Tribe",
       "alliance_name": null,
       "ship_type_name": "Maelstrom"
-    }
-  },
-  {
-    "killmail_id": 138498595,
-    "killmail_hash": "50f4bb1817d96b612b586609bcf275d986346e6a",
-    "kill_time": "2026-09-17T10:58:18Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120192594,
-      "character_name": "Diego-M",
-      "corporation_id": 98703317,
-      "corporation_name": "Redone Division Junior",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138498595/",
-    "total_value": 3295084522.28,
-    "final_attacker": {
-      "character_name": "Hypnosis31",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138497905,
-    "killmail_hash": "3aef47315361a64dcedc7d9dd87901d767e4773a",
-    "kill_time": "2026-09-17T09:59:43Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122443537,
-      "character_name": "William00HAzbin",
-      "corporation_id": 98797987,
-      "corporation_name": "Arctic Wolf Ship Industry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138497905/",
-    "total_value": 1796446047.99,
-    "final_attacker": {
-      "character_name": "zLegion 18",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138497659,
-    "killmail_hash": "da59890b74560076cf8d609c4ae5a61921434a4c",
-    "kill_time": "2026-09-17T09:35:47Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121630009,
-      "character_name": "Jessica Khatun",
-      "corporation_id": 98452817,
-      "corporation_name": "The Diogenes Club",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138497659/",
-    "total_value": 1908841846.98,
-    "final_attacker": {
-      "character_name": "zLegion 04",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138496635,
-    "killmail_hash": "b5b55226ab8e8f0b08db56b4e0ed560e443c0452",
-    "kill_time": "2026-09-17T07:47:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124673564,
-      "character_name": "Aurora Finch",
-      "corporation_id": 98814331,
-      "corporation_name": "New Moon Enterprises",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138496635/",
-    "total_value": 3885788230.77,
-    "final_attacker": {
-      "character_name": "zLegion 09",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 138495806,
-    "killmail_hash": "8f2fb18414092ad5180449ead6f9e5ebad142079",
-    "kill_time": "2026-09-17T06:25:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94063991,
-      "character_name": "Vik World",
-      "corporation_id": 98292646,
-      "corporation_name": "Vik World Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138495806/",
-    "total_value": 8407662308.83,
-    "final_attacker": {
-      "character_name": "zLegion 05",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
