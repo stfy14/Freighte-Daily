@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138671381,
+    "killmail_hash": "7842700b82d5b0d803cf2e7180c8c4f4ca6cb1c6",
+    "kill_time": "2026-09-24T21:43:15Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 174426721,
+      "character_name": "Jotunheimen",
+      "corporation_id": 98422701,
+      "corporation_name": "Jostling Ambidextrous Warmongering Solo Players",
+      "alliance_id": 99009991,
+      "alliance_name": "Intaki-Business Logistics Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138671381/",
+    "total_value": 11166599370.39,
+    "final_attacker": {
+      "character_name": "Bluemelon",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
+    "killmail_id": 138671087,
+    "killmail_hash": "9c245201866bcbb152b70325dc32453f574650aa",
+    "kill_time": "2026-09-24T21:23:05Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002059,
+    "solar_system_name": "Auner",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 1783229260,
+      "character_name": "R'n'D Monkey",
+      "corporation_id": 1424081529,
+      "corporation_name": "1st. Pariah Malefactor corp.",
+      "alliance_id": 99012535,
+      "alliance_name": "New Eden Yacht Club Group"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138671087/",
+    "total_value": 1524652960.19,
+    "final_attacker": {
+      "character_name": "Xtra Squishy lol",
+      "corporation_name": "Jerkasaurus Wrecks Inc.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
     "killmail_id": 138668270,
     "killmail_hash": "aaa40d8b2b24c161c7dba961cb6951457cd92069",
     "kill_time": "2026-09-24T19:29:14Z",
@@ -2415,32 +2467,6 @@
       "corporation_name": "The Python Cartel.",
       "alliance_name": "Something Really Pretentious",
       "ship_type_name": "Khizriel"
-    }
-  },
-  {
-    "killmail_id": 138507962,
-    "killmail_hash": "f6fbda88147ffbfcb0a3ebc3c3ff37a187342a3b",
-    "kill_time": "2026-09-17T20:33:01Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002370,
-    "solar_system_name": "PX-IHN",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 2123511352,
-      "character_name": "Reivon Mordarion",
-      "corporation_id": 98812037,
-      "corporation_name": "Steel Legion Brotherhood",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138507962/",
-    "total_value": 7534574873.79,
-    "final_attacker": {
-      "character_name": "DrSpaceman",
-      "corporation_name": "Doctors Orders",
-      "alliance_name": "Red Orchestra Triangle Enthusiasts",
-      "ship_type_name": "Deluge"
     }
   }
 ]
