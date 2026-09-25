@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138675794,
+    "killmail_hash": "7e1d8cd6d08956406f93e6d0beb639c0970f42b0",
+    "kill_time": "2026-09-25T03:14:51Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2115561282,
+      "character_name": "Lord Hardwick",
+      "corporation_id": 98609315,
+      "corporation_name": "The Warpigs",
+      "alliance_id": 99005100,
+      "alliance_name": "All My Friends Are Ded"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138675794/",
+    "total_value": 11600256849.83,
+    "final_attacker": {
+      "character_name": "Rin sai",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138675353,
+    "killmail_hash": "5c8381be4060cabe1ff36585580f817d57052878",
+    "kill_time": "2026-09-25T02:49:40Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123983887,
+      "character_name": "Grimbarrick Ironflow",
+      "corporation_id": 98827617,
+      "corporation_name": "Steelwolf Indy Mining Manufactures",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138675353/",
+    "total_value": 1485495334.02,
+    "final_attacker": {
+      "character_name": "WUkong Arthie",
+      "corporation_name": "Family Guy.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 138672920,
+    "killmail_hash": "3f5a79398c150bd6134c46b38c5bc7103f8f12b9",
+    "kill_time": "2026-09-24T23:51:07Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004977,
+    "solar_system_name": "Yvangier",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 2123257343,
+      "character_name": "Julian Bjorn",
+      "corporation_id": 98818446,
+      "corporation_name": "Ancient Enterprise",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138672920/",
+    "total_value": 1524827230.19,
+    "final_attacker": {
+      "character_name": "Rin sai",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 138671381,
     "killmail_hash": "7842700b82d5b0d803cf2e7180c8c4f4ca6cb1c6",
     "kill_time": "2026-09-24T21:43:15Z",
@@ -2441,32 +2519,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 138512102,
-    "killmail_hash": "9614f8186501964786b5751f3a531cc029819055",
-    "kill_time": "2026-09-18T01:48:09Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119638702,
-      "character_name": "Reallies",
-      "corporation_id": 98789338,
-      "corporation_name": "The Anthem",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138512102/",
-    "total_value": 1869455610.64,
-    "final_attacker": {
-      "character_name": "Apoctasy",
-      "corporation_name": "The Python Cartel.",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Khizriel"
     }
   }
 ]
