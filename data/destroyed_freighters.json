@@ -1,5 +1,239 @@
 [
   {
+    "killmail_id": 138680613,
+    "killmail_hash": "f015d946702342183ef46e8796b839b46d56ea8d",
+    "kill_time": "2026-09-25T09:27:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116228639,
+      "character_name": "Dexter Paaltomo",
+      "corporation_id": 98834932,
+      "corporation_name": "Corporation for contracts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138680613/",
+    "total_value": 4228079269.95,
+    "final_attacker": {
+      "character_name": "zLegion 11",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 138680451,
+    "killmail_hash": "743c7961269ec161e0e796e7715931422b6f0aea",
+    "kill_time": "2026-09-25T09:12:01Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003067,
+    "solar_system_name": "Huola",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 2113597838,
+      "character_name": "Jack Ma-O-Ma",
+      "corporation_id": 98541894,
+      "corporation_name": "Chinese Sweatshop Factory Owners Union",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138680451/",
+    "total_value": 2722550044.12,
+    "final_attacker": {
+      "character_name": "Xtra Squishy lol",
+      "corporation_name": "Jerkasaurus Wrecks Inc.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Phoenix"
+    }
+  },
+  {
+    "killmail_id": 138680145,
+    "killmail_hash": "c158de87234999391c59fc88e3dd4914c2057972",
+    "kill_time": "2026-09-25T08:53:26Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 96407122,
+      "character_name": "stefnia Freir",
+      "corporation_id": 98457424,
+      "corporation_name": "the no fock given",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138680145/",
+    "total_value": 4547315111.8,
+    "final_attacker": {
+      "character_name": "zLegion 14",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138679800,
+    "killmail_hash": "092eab2b9fdfd2f865440ad50f96a815531baf87",
+    "kill_time": "2026-09-25T08:35:39Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2117415852,
+      "character_name": "Sebarial Oathkeeper",
+      "corporation_id": 98790991,
+      "corporation_name": "Fairy Tale Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138679800/",
+    "total_value": 3769818147.65,
+    "final_attacker": {
+      "character_name": "gik Nolen",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "STAKAN UNIVERSE",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138679629,
+    "killmail_hash": "955d6678abca392ced96adaada287b687d0f0017",
+    "kill_time": "2026-09-25T08:22:18Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121416372,
+      "character_name": "XiXi Luang",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138679629/",
+    "total_value": 8169581916.88,
+    "final_attacker": {
+      "character_name": "zLegion A",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138679603,
+    "killmail_hash": "a56c0e93df281763eaeb0667832e836040695ab9",
+    "kill_time": "2026-09-25T08:20:54Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2124338746,
+      "character_name": "Degretschow",
+      "corporation_id": 98812781,
+      "corporation_name": "JitaRun.com",
+      "alliance_id": 99013556,
+      "alliance_name": "Permadocked.net"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138679603/",
+    "total_value": 1984324200.63,
+    "final_attacker": {
+      "character_name": "Barotto XIII",
+      "corporation_name": "Th3 D3vil's Tears",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
+    "killmail_id": 138679417,
+    "killmail_hash": "c8b1da9c3265974671462e4f29a4574c4c3c6b26",
+    "kill_time": "2026-09-25T08:10:02Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003559,
+    "solar_system_name": "Mamet",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 95753034,
+      "character_name": "Mi Chekster1",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138679417/",
+    "total_value": 3540780822.56,
+    "final_attacker": {
+      "character_name": "Hawke Nolen",
+      "corporation_name": "Nash Equilibrium Fair Industrial Enterprise",
+      "alliance_name": "Domain Research and Mining Inst.",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 138679045,
+    "killmail_hash": "d8f04b1caccc67e67faff0e5483168dcf417bd57",
+    "kill_time": "2026-09-25T07:43:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94002027,
+      "character_name": "Babatock",
+      "corporation_id": 98506367,
+      "corporation_name": "Fart in Lifts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138679045/",
+    "total_value": 2138535992.44,
+    "final_attacker": {
+      "character_name": "zLegion 08",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138677448,
+    "killmail_hash": "774a6635cdba093214d197e7a22153a39a0e8b56",
+    "kill_time": "2026-09-25T05:07:33Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002086,
+    "solar_system_name": "Turnur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2113967345,
+      "character_name": "Doctorr TNT",
+      "corporation_id": 98754582,
+      "corporation_name": "Baba Yagas",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138677448/",
+    "total_value": 1505930082.8,
+    "final_attacker": {
+      "character_name": "knight114514",
+      "corporation_name": "Family Guy.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 138675794,
     "killmail_hash": "7e1d8cd6d08956406f93e6d0beb639c0970f42b0",
     "kill_time": "2026-09-25T03:14:51Z",
@@ -2415,110 +2649,6 @@
       "corporation_name": "Science and Trade Institute",
       "alliance_name": null,
       "ship_type_name": "Brutix"
-    }
-  },
-  {
-    "killmail_id": 138519223,
-    "killmail_hash": "8a353d733345de8655869d04de5954bd9d8b3395",
-    "kill_time": "2026-09-18T12:41:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000887,
-    "solar_system_name": "GIH-ZG",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 2123075508,
-      "character_name": "Old hare",
-      "corporation_id": 98760689,
-      "corporation_name": "CACX mission",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138519223/",
-    "total_value": 7142435014.97,
-    "final_attacker": {
-      "character_name": "lovely Asques",
-      "corporation_name": "Stinky Shrimp and Rotten Fish",
-      "alliance_name": null,
-      "ship_type_name": "Osprey Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 138519189,
-    "killmail_hash": "b3e59a294e21c1ff52129489549a5aa267044802",
-    "kill_time": "2026-09-18T12:39:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000887,
-    "solar_system_name": "GIH-ZG",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 131165732,
-      "character_name": "Toma Imulgard",
-      "corporation_id": 98760689,
-      "corporation_name": "CACX mission",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138519189/",
-    "total_value": 9266806834.93,
-    "final_attacker": {
-      "character_name": "bulanbulan Dadunur",
-      "corporation_name": "Zijin Mining Group Company Limited",
-      "alliance_name": "Terminally Inept Traders and Scanners",
-      "ship_type_name": "Harbinger Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 138517775,
-    "killmail_hash": "ff31805fa95445c4637685976ba157c4a2eca171",
-    "kill_time": "2026-09-18T10:30:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123043129,
-      "character_name": "Wancy003",
-      "corporation_id": 98635373,
-      "corporation_name": "Maximus Corporation",
-      "alliance_id": 99013713,
-      "alliance_name": "MAXIMUS Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138517775/",
-    "total_value": 2525020170.15,
-    "final_attacker": {
-      "character_name": "zLegion 17",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 138517184,
-    "killmail_hash": "bbe9155940d33e84e0d88735151f96d9935c621f",
-    "kill_time": "2026-09-18T09:43:39Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119620018,
-      "character_name": "TZ Trade",
-      "corporation_id": 98732893,
-      "corporation_name": "Singular Point.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138517184/",
-    "total_value": 1554804160.57,
-    "final_attacker": {
-      "character_name": "zLegion 22",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
     }
   }
 ]
