@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 138695159,
+    "killmail_hash": "622087d45cc83ccd0f5db430074b95ae87acc3c8",
+    "kill_time": "2026-09-25T22:01:29Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93733331,
+      "character_name": "Jack Boriele",
+      "corporation_id": 98747302,
+      "corporation_name": "Goblin Goods Consortium",
+      "alliance_id": 99014614,
+      "alliance_name": "InnerZone"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138695159/",
+    "total_value": 3250603182.09,
+    "final_attacker": {
+      "character_name": "20th Fox",
+      "corporation_name": "SKafan's Corporation",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138694004,
+    "killmail_hash": "eaf383ce40e3b933bed4b57ed696f25b7cc17def",
+    "kill_time": "2026-09-25T21:12:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115379515,
+      "character_name": "Adriana Sanpineli",
+      "corporation_id": 98422578,
+      "corporation_name": "Almost Dangerous",
+      "alliance_id": 99010787,
+      "alliance_name": "Wolves Amongst Strangers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138694004/",
+    "total_value": 12103609505.21,
+    "final_attacker": {
+      "character_name": "bindevent",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138693285,
+    "killmail_hash": "c6a51e12da36fb7cf76eae69e73712a0edf278d7",
+    "kill_time": "2026-09-25T20:48:38Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121102787,
+      "character_name": "Puksen Otsada",
+      "corporation_id": 98750909,
+      "corporation_name": "Voidbringer Logistics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138693285/",
+    "total_value": 3270783055.04,
+    "final_attacker": {
+      "character_name": "Sidewalk Enforcer",
+      "corporation_name": "Mine 'N' Refine",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138692696,
+    "killmail_hash": "c1400e8f90ce30b73af58582f5304224bacb0105",
+    "kill_time": "2026-09-25T20:31:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115476748,
+      "character_name": "First Son HouseBanere",
+      "corporation_id": 98805174,
+      "corporation_name": "The Laughing Dragon",
+      "alliance_id": 99011193,
+      "alliance_name": "Pewgilism."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138692696/",
+    "total_value": 1581250913.75,
+    "final_attacker": {
+      "character_name": "bindevent",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 138691706,
+    "killmail_hash": "fd6d9f0ae78d1e480bc1fe9d2fb590b740b943e0",
+    "kill_time": "2026-09-25T19:55:06Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91259832,
+      "character_name": "Devosik",
+      "corporation_id": 98084418,
+      "corporation_name": "CBC FORGE",
+      "alliance_id": 99007855,
+      "alliance_name": "Mostly Newbies"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138691706/",
+    "total_value": 8158866699.22,
+    "final_attacker": {
+      "character_name": "bindevent",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 138690397,
+    "killmail_hash": "6d089688834aa77ef45257400bec8addf20bfe7d",
+    "kill_time": "2026-09-25T19:07:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122612965,
+      "character_name": "ThirtyTwo RedGeese",
+      "corporation_id": 98031743,
+      "corporation_name": "Mong's Marauders",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138690397/",
+    "total_value": 1620326753.5,
+    "final_attacker": {
+      "character_name": "VenusX",
+      "corporation_name": "KarmaFleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138688886,
     "killmail_hash": "caaca1daf64b1ced348e01d91eedd5e72c257832",
     "kill_time": "2026-09-25T18:00:36Z",
@@ -2623,32 +2779,6 @@
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 138530653,
-    "killmail_hash": "28d5ef5ba581c2031cb7c00ae9e5050e14a5b50f",
-    "kill_time": "2026-09-18T20:53:44Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 188530490,
-      "character_name": "Frikkin Genius",
-      "corporation_id": 98108188,
-      "corporation_name": "Virtucon Shipyards",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138530653/",
-    "total_value": 5070572678.27,
-    "final_attacker": {
-      "character_name": "GeassCC",
-      "corporation_name": "Nekogame",
-      "alliance_name": "COASTAL BROTHERHOOD",
-      "ship_type_name": "Sin"
     }
   }
 ]
