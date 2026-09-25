@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138688886,
+    "killmail_hash": "caaca1daf64b1ced348e01d91eedd5e72c257832",
+    "kill_time": "2026-09-25T18:00:36Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2114614906,
+      "character_name": "Commodore en Thielles",
+      "corporation_id": 98828332,
+      "corporation_name": "German Project Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138688886/",
+    "total_value": 9982516069.05,
+    "final_attacker": {
+      "character_name": "Rin sai",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 138680613,
     "killmail_hash": "f015d946702342183ef46e8796b839b46d56ea8d",
     "kill_time": "2026-09-25T09:27:54Z",
@@ -2623,32 +2649,6 @@
       "corporation_name": "Nekogame",
       "alliance_name": "COASTAL BROTHERHOOD",
       "ship_type_name": "Sin"
-    }
-  },
-  {
-    "killmail_id": 138524523,
-    "killmail_hash": "51e40ddb6dbaa23a9bfe22285375848eef80128a",
-    "kill_time": "2026-09-18T16:01:19Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121027495,
-      "character_name": "Lucky Bastrd",
-      "corporation_id": 98763473,
-      "corporation_name": "The Free Mining Alliance Refugees",
-      "alliance_id": 99013212,
-      "alliance_name": "Crimson Interstellar Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138524523/",
-    "total_value": 2603027133.35,
-    "final_attacker": {
-      "character_name": "Malvina Bukavitsky",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
     }
   }
 ]
