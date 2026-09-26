@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 138699681,
+    "killmail_hash": "22897e533c77f3d2508a40f0d1280b11fccdb871",
+    "kill_time": "2026-09-26T02:59:56Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002538,
+    "solar_system_name": "Vard",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2124473228,
+      "character_name": "Marasi The Constable",
+      "corporation_id": 1000172,
+      "corporation_name": "Pator Tech School",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138699681/",
+    "total_value": 1534333009.35,
+    "final_attacker": {
+      "character_name": "MtnDew Baja Blast",
+      "corporation_name": "Insane Buffer And Resists Mate",
+      "alliance_name": null,
+      "ship_type_name": "Ragnarok"
+    }
+  },
+  {
+    "killmail_id": 138698209,
+    "killmail_hash": "68ae134b42c8141b2c4de9b46249fe53629cd5a0",
+    "kill_time": "2026-09-26T01:34:05Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 91888778,
+      "character_name": "Jhon poopsmear",
+      "corporation_id": 98811330,
+      "corporation_name": "Stellar Nexus",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138698209/",
+    "total_value": 6921171899.88,
+    "final_attacker": {
+      "character_name": "zLegion B",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138698155,
+    "killmail_hash": "dd9b801077ca1ccbeb4488f8bdd2df217c4ed815",
+    "kill_time": "2026-09-26T01:30:53Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30004977,
+    "solar_system_name": "Yvangier",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 92476865,
+      "character_name": "Johnathan Ormand",
+      "corporation_id": 98708094,
+      "corporation_name": "Blue Donuts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138698155/",
+    "total_value": 1563557019.68,
+    "final_attacker": {
+      "character_name": "Megoste",
+      "corporation_name": "Stay Frosty.",
+      "alliance_name": "A Band Apart.",
+      "ship_type_name": "Orthrus"
+    }
+  },
+  {
     "killmail_id": 138695159,
     "killmail_hash": "622087d45cc83ccd0f5db430074b95ae87acc3c8",
     "kill_time": "2026-09-25T22:01:29Z",
@@ -2701,84 +2779,6 @@
       "corporation_name": "Hostile.",
       "alliance_name": "PURPLE HELMETED WARRIORS",
       "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 138538724,
-    "killmail_hash": "3c7f166ea114b11158aaa24a081dc708803a66f6",
-    "kill_time": "2026-09-19T03:28:26Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121884269,
-      "character_name": "Niitamaa Ishikela",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138538724/",
-    "total_value": 1639410108.65,
-    "final_attacker": {
-      "character_name": "Lilac Rising",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138538050,
-    "killmail_hash": "892e54f1a00a85474da6cf2539c9b8fddb1712e7",
-    "kill_time": "2026-09-19T02:56:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120594469,
-      "character_name": "Hek Free Trader",
-      "corporation_id": 98840757,
-      "corporation_name": "The signs.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138538050/",
-    "total_value": 1596623784.45,
-    "final_attacker": {
-      "character_name": "zLegion 22",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 138535111,
-    "killmail_hash": "324de52237ea01243bf52d81717ed71e534c942e",
-    "kill_time": "2026-09-19T00:19:36Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 406458366,
-      "character_name": "Dragul Zangor",
-      "corporation_id": 98089741,
-      "corporation_name": "Perca Resources",
-      "alliance_id": 1839636692,
-      "alliance_name": "Mad Scientists"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138535111/",
-    "total_value": 10243879835.54,
-    "final_attacker": {
-      "character_name": "Relentless Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
     }
   }
 ]
