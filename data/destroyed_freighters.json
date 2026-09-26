@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 138707881,
+    "killmail_hash": "a5c1ec47e701e25fed3032c1f5b3db45e4b239a7",
+    "kill_time": "2026-09-26T12:56:03Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004975,
+    "solar_system_name": "Mesybier",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 2120329131,
+      "character_name": "Drazer Lonestar",
+      "corporation_id": 98302952,
+      "corporation_name": "Malevelon Roe Industries",
+      "alliance_id": 99009693,
+      "alliance_name": "Convocation of Empyreans"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138707881/",
+    "total_value": 1581050213.75,
+    "final_attacker": {
+      "character_name": "Kasper Skov",
+      "corporation_name": "Constantine.",
+      "alliance_name": "Ninja Unicorns with Huge Horns",
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
     "killmail_id": 138704342,
     "killmail_hash": "b051632e678f67d05c1c47cabe6bbc732703dc49",
     "kill_time": "2026-09-26T08:22:45Z",
@@ -2441,110 +2467,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138555725,
-    "killmail_hash": "833f41ec218ac7227f8092b6041d19592930899d",
-    "kill_time": "2026-09-19T17:31:43Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2120681913,
-      "character_name": "kJIoH401",
-      "corporation_id": 98721110,
-      "corporation_name": "Nocte Vigilo",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138555725/",
-    "total_value": 7218316270.87,
-    "final_attacker": {
-      "character_name": "Hateful Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 138553629,
-    "killmail_hash": "b45965154fadb9293ca209bfc2a33f0c59a075b4",
-    "kill_time": "2026-09-19T16:09:02Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123623302,
-      "character_name": "Mu Zhi",
-      "corporation_id": 98841341,
-      "corporation_name": "Astral Tide",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138553629/",
-    "total_value": 2989929699.47,
-    "final_attacker": {
-      "character_name": "Gregor Bruch",
-      "corporation_name": "Skyward Transit",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138552792,
-    "killmail_hash": "46bcf06160cd3a4d3d84894164c495d7bdc4be64",
-    "kill_time": "2026-09-19T15:34:03Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2122505450,
-      "character_name": "Soradi Askulf",
-      "corporation_id": 98751569,
-      "corporation_name": "La Flota Carmesi",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138552792/",
-    "total_value": 7484785120.87,
-    "final_attacker": {
-      "character_name": "Matux Aldeland",
-      "corporation_name": "Dishonorable Duel Disturbance",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 138549603,
-    "killmail_hash": "9ec691761801893e2cf242a766436bab06b6721e",
-    "kill_time": "2026-09-19T13:46:01Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 95193031,
-      "character_name": "TachAnte InterNoTes",
-      "corporation_id": 98368258,
-      "corporation_name": "TachAnte InterNoTes Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138549603/",
-    "total_value": 8829693161.24,
-    "final_attacker": {
-      "character_name": "Jackie Moonpire",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "STAKAN UNIVERSE",
-      "ship_type_name": "Coercer"
     }
   }
 ]
