@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138753373,
+    "killmail_hash": "74270895f2c07ed55cfe00d35b41131c51dd776a",
+    "kill_time": "2026-09-27T21:51:40Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123257343,
+      "character_name": "Julian Bjorn",
+      "corporation_id": 98818446,
+      "corporation_name": "Ancient Enterprise",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138753373/",
+    "total_value": 4988322932.01,
+    "final_attacker": {
+      "character_name": "Painter Alt 14",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138752810,
+    "killmail_hash": "1a572d98a8755b58b28327d9e3a2089ce40bd247",
+    "kill_time": "2026-09-27T21:34:13Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1944325668,
+      "character_name": "gas guzzler",
+      "corporation_id": 98213025,
+      "corporation_name": "i'm from the government and i'm here to help",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138752810/",
+    "total_value": 3487393426.98,
+    "final_attacker": {
+      "character_name": "Jeremy Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138751840,
+    "killmail_hash": "75581c182b58bc98c721a5fc7ceece1d8675357b",
+    "kill_time": "2026-09-27T20:58:37Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118282667,
+      "character_name": "SirDoc",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138751840/",
+    "total_value": 2793766993.1,
+    "final_attacker": {
+      "character_name": "Josh Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138749918,
+    "killmail_hash": "842b28feb263531f3b58f8070a0b7efda0bd3ce6",
+    "kill_time": "2026-09-27T20:05:28Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96643448,
+      "character_name": "Thyron Mythec",
+      "corporation_id": 98495668,
+      "corporation_name": "Interstellar Logistic Operations",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138749918/",
+    "total_value": 2241730154.68,
+    "final_attacker": {
+      "character_name": "Justin Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138749160,
+    "killmail_hash": "1d4d728dfe924e5e15577cd8cd01513e70d252df",
+    "kill_time": "2026-09-27T19:43:25Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94857631,
+      "character_name": "Elon Hughes",
+      "corporation_id": 98375997,
+      "corporation_name": "Hughes Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138749160/",
+    "total_value": 2372559398.11,
+    "final_attacker": {
+      "character_name": "Painter Alt 15",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138748274,
     "killmail_hash": "64641a48861ba26248ebe74ee182e2642966716b",
     "kill_time": "2026-09-27T19:11:04Z",
@@ -23,6 +153,32 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138747967,
+    "killmail_hash": "28c229ae02f71b6a089757f9ac7f59885610fbb1",
+    "kill_time": "2026-09-27T19:04:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94243946,
+      "character_name": "Motoko Nakashi",
+      "corporation_id": 1291012137,
+      "corporation_name": "Platoon Alpha",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138747967/",
+    "total_value": 5352909286.82,
+    "final_attacker": {
+      "character_name": "Johnathan Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2025,32 +2181,6 @@
       "corporation_name": "DemonicAncestory.",
       "alliance_name": "Howitzers and Champagne",
       "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 138590498,
-    "killmail_hash": "6f34bd7fe3c4151d9601b9527aed047c6345cf7a",
-    "kill_time": "2026-09-20T21:18:05Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2115637517,
-      "character_name": "Nakita Makahari",
-      "corporation_id": 98843500,
-      "corporation_name": "New Eden Direct",
-      "alliance_id": 99015301,
-      "alliance_name": "Rust Syndicate"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138590498/",
-    "total_value": 22599089568.3,
-    "final_attacker": {
-      "character_name": "Hellscream81",
-      "corporation_name": "DemonicAncestory.",
-      "alliance_name": "Howitzers and Champagne",
-      "ship_type_name": "Phoenix Navy Issue"
     }
   }
 ]
