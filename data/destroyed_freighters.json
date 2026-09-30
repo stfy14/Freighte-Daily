@@ -2676,57 +2676,5 @@
       "alliance_name": null,
       "ship_type_name": "Tengu"
     }
-  },
-  {
-    "killmail_id": 138631728,
-    "killmail_hash": "215455a1e40ff2e55bae45e291907e6359424ccc",
-    "kill_time": "2026-09-23T02:16:38Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122907732,
-      "character_name": "Balson Yachin",
-      "corporation_id": 98801828,
-      "corporation_name": "Kungfupa Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138631728/",
-    "total_value": 2586022680.68,
-    "final_attacker": {
-      "character_name": "Jonas Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138631311,
-    "killmail_hash": "455e004493736117bc8e8d64bb22287817cde9ad",
-    "kill_time": "2026-09-23T01:53:58Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96698513,
-      "character_name": "Evangeline Shimada",
-      "corporation_id": 98636089,
-      "corporation_name": "Hispanic Revolution",
-      "alliance_id": 99013766,
-      "alliance_name": "Death Legion of Capybaras"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138631311/",
-    "total_value": 4099078516.28,
-    "final_attacker": {
-      "character_name": "Jessie Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
   }
 ]
