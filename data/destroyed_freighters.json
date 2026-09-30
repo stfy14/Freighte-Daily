@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 138805500,
+    "killmail_hash": "0f0311fec2a2b0db9acea1f5f42643458b127b4e",
+    "kill_time": "2026-09-30T12:02:22Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 91430013,
+      "character_name": "mainindu",
+      "corporation_id": 98012337,
+      "corporation_name": "Avatar Heavy Industries",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138805500/",
+    "total_value": 3062178463.17,
+    "final_attacker": {
+      "character_name": "xXsambookaXx",
+      "corporation_name": "TEMPLAR.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 138804985,
+    "killmail_hash": "ab30f150f2900d6d1c0dbb690c101adb5f986bf3",
+    "kill_time": "2026-09-30T10:53:30Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 96818113,
+      "character_name": "Konstantin Basmir",
+      "corporation_id": 98595110,
+      "corporation_name": "Absolute Order",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138804985/",
+    "total_value": 2420469722.95,
+    "final_attacker": {
+      "character_name": "zLegion 23",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138804701,
+    "killmail_hash": "b80bb5c2f023594fc9c79b40a4d6ec674fdc87c4",
+    "kill_time": "2026-09-30T10:31:52Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123634086,
+      "character_name": "Rie Batoh",
+      "corporation_id": 98770813,
+      "corporation_name": "Lunar Echoes",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138804701/",
+    "total_value": 2056495487.42,
+    "final_attacker": {
+      "character_name": "Strom Cohenberg",
+      "corporation_name": "Cohenberg's Ethical Capital Production",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138804395,
+    "killmail_hash": "fb7262d09f31bdb6146c273937989af574a58027",
+    "kill_time": "2026-09-30T10:13:34Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124536039,
+      "character_name": "Rumpe1stilzchen",
+      "corporation_id": 1000077,
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138804395/",
+    "total_value": 1588985403.85,
+    "final_attacker": {
+      "character_name": "google-was-my-idea",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138803912,
+    "killmail_hash": "6e20581c86b7f553eaa8b0328b9b0cde61f0f003",
+    "kill_time": "2026-09-30T09:34:24Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 971006026,
+      "character_name": "Bramling",
+      "corporation_id": 98699553,
+      "corporation_name": "Astral Acquisitions Inc.",
+      "alliance_id": 99014849,
+      "alliance_name": "Astral Ascendancy Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138803912/",
+    "total_value": 3001727332.52,
+    "final_attacker": {
+      "character_name": "zLegion 15",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138803290,
+    "killmail_hash": "248e9467d3d80dd846452e86c5ab0c398251c282",
+    "kill_time": "2026-09-30T08:35:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1370351319,
+      "character_name": "Sammi Jane",
+      "corporation_id": 576045097,
+      "corporation_name": "Shadowtech Emporium",
+      "alliance_id": 99009116,
+      "alliance_name": "Post Nord"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138803290/",
+    "total_value": 5274373954.58,
+    "final_attacker": {
+      "character_name": "zLegion 23",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 138797629,
     "killmail_hash": "b950a29e0c27ace7b5eb4572f14f524292a391f8",
     "kill_time": "2026-09-29T23:02:07Z",
@@ -23,6 +179,32 @@
       "corporation_name": "Dead and Delirious",
       "alliance_name": "BBQ BOIS",
       "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138797425,
+    "killmail_hash": "2c5a060f9062dab800b724ec5c8d1a9b7b93f2d0",
+    "kill_time": "2026-09-29T22:42:54Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1001293627,
+      "character_name": "Isathra",
+      "corporation_id": 98120514,
+      "corporation_name": "PRL Ind. Division",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138797425/",
+    "total_value": 8034285262.32,
+    "final_attacker": {
+      "character_name": "Straight Up Dominated",
+      "corporation_name": "Cohenberg's Ethical Capital Production",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2441,240 +2623,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138638123,
-    "killmail_hash": "a6a5bbe73decb455f4fffdb5979434ad5f47c0cf",
-    "kill_time": "2026-09-23T10:54:03Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1366157090,
-      "character_name": "Zquqqlavinussin Thyharma",
-      "corporation_id": 98463744,
-      "corporation_name": "Viel-Vieles-Allerlei oHG",
-      "alliance_id": 99014810,
-      "alliance_name": "Industrial Maniacs"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138638123/",
-    "total_value": 3603113572.08,
-    "final_attacker": {
-      "character_name": "zLegion 13",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138637608,
-    "killmail_hash": "c33826bb996ba2413b1d44ea34ed43b16fe50fcf",
-    "kill_time": "2026-09-23T10:12:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2120083604,
-      "character_name": "Lucas Provos",
-      "corporation_id": 98651048,
-      "corporation_name": "Absolute Order XVI",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138637608/",
-    "total_value": 2330765602.79,
-    "final_attacker": {
-      "character_name": "zLegion 11",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138637309,
-    "killmail_hash": "23a39fd8b609f8be4335caedd6dfa4580b360d53",
-    "kill_time": "2026-09-23T09:53:10Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2124377262,
-      "character_name": "DuoDuoLin3",
-      "corporation_id": 98489111,
-      "corporation_name": "Temple of JIALAN",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138637309/",
-    "total_value": 6996537828.93,
-    "final_attacker": {
-      "character_name": "Andrew Sin",
-      "corporation_name": "Cohenberg's Ethical Capital Production",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138637046,
-    "killmail_hash": "8b5a86ecdc24777e64d13895024fe1e2003e857e",
-    "kill_time": "2026-09-23T09:35:24Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115521746,
-      "character_name": "Chantelle Nomad",
-      "corporation_id": 98609273,
-      "corporation_name": "Galactic White Haze",
-      "alliance_id": 99010827,
-      "alliance_name": "Sober By Tuesday. Yes Mum"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138637046/",
-    "total_value": 3359040192.68,
-    "final_attacker": {
-      "character_name": "Watchdog-1 MOONPIRE",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "STAKAN UNIVERSE",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138636835,
-    "killmail_hash": "4f63e5a81305d2cb9cec9503f20c58be7fbca61d",
-    "kill_time": "2026-09-23T09:18:14Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2116536199,
-      "character_name": "Ky6uk Trade",
-      "corporation_id": 98538616,
-      "corporation_name": "Pychick and sons",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138636835/",
-    "total_value": 4111068227.9,
-    "final_attacker": {
-      "character_name": "zLegion 16",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138636587,
-    "killmail_hash": "aba202739d1d9a97988d71beb6312cbcdf206291",
-    "kill_time": "2026-09-23T09:04:23Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2116351132,
-      "character_name": "Rename Me",
-      "corporation_id": 98594145,
-      "corporation_name": "Spy0815 Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138636587/",
-    "total_value": 8349768388.34,
-    "final_attacker": {
-      "character_name": "Prime Admiral",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138635911,
-    "killmail_hash": "1abb9dcf83ac320682e3e54919750b4fb51a9dfc",
-    "kill_time": "2026-09-23T08:16:22Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94751575,
-      "character_name": "Richard Grabowski",
-      "corporation_id": 98015869,
-      "corporation_name": "Total Freedom",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138635911/",
-    "total_value": 3193541438.89,
-    "final_attacker": {
-      "character_name": "Watchdog-4 MOONPIRE",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "STAKAN UNIVERSE",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138635551,
-    "killmail_hash": "9230d68fc125aaa35ddf0d12d2296e0df93910f9",
-    "kill_time": "2026-09-23T07:56:06Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113061796,
-      "character_name": "Milena Baumgarten",
-      "corporation_id": 98609926,
-      "corporation_name": "Toxic Storage",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138635551/",
-    "total_value": 2576049318.34,
-    "final_attacker": {
-      "character_name": "OogaBooga WhereDa FreighterAt",
-      "corporation_name": "Cohenberg's Ethical Capital Production",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138635199,
-    "killmail_hash": "914e5820aa6af56ff7269e81e59b4da7dd911bd8",
-    "kill_time": "2026-09-23T07:23:43Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001389,
-    "solar_system_name": "Isanamo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2113459319,
-      "character_name": "Foxys Tail",
-      "corporation_id": 98612000,
-      "corporation_name": "Vovkulaki",
-      "alliance_id": 99010522,
-      "alliance_name": "UA. Space"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138635199/",
-    "total_value": 2291742127.99,
-    "final_attacker": {
-      "character_name": "ChessKiller",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Tengu"
     }
   }
 ]
