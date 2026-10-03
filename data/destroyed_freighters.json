@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138887834,
+    "killmail_hash": "6f29378378e1b341877c3a8286c3a5a78cdddfdf",
+    "kill_time": "2026-10-03T22:03:57Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124732181,
+      "character_name": "AsahiKASEI",
+      "corporation_id": 98713511,
+      "corporation_name": "nihonium 113th Fleet",
+      "alliance_id": 99012697,
+      "alliance_name": "High Elements Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138887834/",
+    "total_value": 1554783514.13,
+    "final_attacker": {
+      "character_name": "Painter Alt 2",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138887377,
+    "killmail_hash": "151b962c6c42931f6397c27b1ec1208023d6a52f",
+    "kill_time": "2026-10-03T21:46:31Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1670695367,
+      "character_name": "Stu Mario",
+      "corporation_id": 98442732,
+      "corporation_name": "The Golden Reign",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138887377/",
+    "total_value": 3633371932.59,
+    "final_attacker": {
+      "character_name": "001 DUNK",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138886897,
+    "killmail_hash": "b499271ba30b8e2bcca2d882eae9426faebad4ee",
+    "kill_time": "2026-10-03T21:28:31Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123619248,
+      "character_name": "Acidgamer4125",
+      "corporation_id": 98807949,
+      "corporation_name": "Ganja Ice Gas Asteroid Gang",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138886897/",
+    "total_value": 1586196757.11,
+    "final_attacker": {
+      "character_name": "Mai Hantaka",
+      "corporation_name": "NED-Clan",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138885427,
+    "killmail_hash": "e5cc161b1a170dfcdb843d3cd4d84e91831d397e",
+    "kill_time": "2026-10-03T20:33:46Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002806,
+    "solar_system_name": "Hasmijaala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124701947,
+      "character_name": "Aretea",
+      "corporation_id": 98841829,
+      "corporation_name": "Anchorline",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138885427/",
+    "total_value": 2472209186.54,
+    "final_attacker": {
+      "character_name": "Daniel OHaleno",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 138882091,
+    "killmail_hash": "22ad1e9d7e3a3a5aa91fa305c283204ba52db722",
+    "kill_time": "2026-10-03T19:05:43Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003886,
+    "solar_system_name": "Ashmarir",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 1597633369,
+      "character_name": "Chaosstation",
+      "corporation_id": 98660292,
+      "corporation_name": "Jump 2 Beacon",
+      "alliance_id": 99015272,
+      "alliance_name": "Escalate."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138882091/",
+    "total_value": 13971129963.73,
+    "final_attacker": {
+      "character_name": "munsking",
+      "corporation_name": "Fat Dragon Pirate Co.",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 138874998,
     "killmail_hash": "761f804f0d659a2f122290196878ac6529236b3d",
     "kill_time": "2026-10-03T14:05:04Z",
