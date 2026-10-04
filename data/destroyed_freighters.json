@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 138905376,
+    "killmail_hash": "4b37fcbb9785b47babfd31f126ef8486894e2801",
+    "kill_time": "2026-10-04T15:00:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002764,
+    "solar_system_name": "Hatakani",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112854928,
+      "character_name": "Kaijlyne Nosha",
+      "corporation_id": 98756765,
+      "corporation_name": "Star.Men",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138905376/",
+    "total_value": 1548569687.85,
+    "final_attacker": {
+      "character_name": "Iliad D'jax",
+      "corporation_name": "GentIeman Bastards",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Cynabal"
+    }
+  },
+  {
+    "killmail_id": 138904201,
+    "killmail_hash": "642d997d36302c84e3a9691b7479f5e0f2d79300",
+    "kill_time": "2026-10-04T14:10:07Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30045347,
+    "solar_system_name": "Oinasiken",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2120623586,
+      "character_name": "Jokerschaos",
+      "corporation_id": 98801067,
+      "corporation_name": "Voidcharter Industries",
+      "alliance_id": 99015022,
+      "alliance_name": "Black Ribbit"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138904201/",
+    "total_value": 11286378508.34,
+    "final_attacker": {
+      "character_name": "Reaper JEO",
+      "corporation_name": "Abyssal Horizon",
+      "alliance_name": "Abyssal Booty Hunters",
+      "ship_type_name": "Caracal"
+    }
+  },
+  {
     "killmail_id": 138902129,
     "killmail_hash": "4d4dde3d94c99019ba8658ce08f900f5e5a05e14",
     "kill_time": "2026-10-04T12:48:23Z",
@@ -3455,110 +3507,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138748274,
-    "killmail_hash": "64641a48861ba26248ebe74ee182e2642966716b",
-    "kill_time": "2026-09-27T19:11:04Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124320671,
-      "character_name": "Aurelion Kane",
-      "corporation_id": 98742620,
-      "corporation_name": "DarkMatterEnterprises",
-      "alliance_id": 99015296,
-      "alliance_name": "Grudgeworks"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138748274/",
-    "total_value": 8369532321.22,
-    "final_attacker": {
-      "character_name": "total0WNAG3",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138747967,
-    "killmail_hash": "28c229ae02f71b6a089757f9ac7f59885610fbb1",
-    "kill_time": "2026-09-27T19:04:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94243946,
-      "character_name": "Motoko Nakashi",
-      "corporation_id": 1291012137,
-      "corporation_name": "Platoon Alpha",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138747967/",
-    "total_value": 5352909286.82,
-    "final_attacker": {
-      "character_name": "Johnathan Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138746725,
-    "killmail_hash": "26c7982a392c55d4a8c4d770156196b7ecf393e2",
-    "kill_time": "2026-09-27T18:22:02Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115416610,
-      "character_name": "Crash Deninard",
-      "corporation_id": 2036478771,
-      "corporation_name": "Ocean Eleven",
-      "alliance_id": 99013766,
-      "alliance_name": "Death Legion of Capybaras"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138746725/",
-    "total_value": 6610373121.91,
-    "final_attacker": {
-      "character_name": "Painter Alt 3",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 138745248,
-    "killmail_hash": "79dae626cbbbb2fcf39695434095c6001ad9f3d8",
-    "kill_time": "2026-09-27T17:30:06Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30003057,
-    "solar_system_name": "Groothese",
-    "region_name": "Everyshore",
-    "victim": {
-      "character_id": 96576977,
-      "character_name": "Weyland Smith",
-      "corporation_id": 98777747,
-      "corporation_name": "Zero Endeavors Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138745248/",
-    "total_value": 3141580362.73,
-    "final_attacker": {
-      "character_name": "Misty Dawn253",
-      "corporation_name": "Cozy Mischief",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Panther"
     }
   }
 ]
