@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138902129,
+    "killmail_hash": "4d4dde3d94c99019ba8658ce08f900f5e5a05e14",
+    "kill_time": "2026-10-04T12:48:23Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119744223,
+      "character_name": "Mr Haraball",
+      "corporation_id": 98723609,
+      "corporation_name": "Astrosphere",
+      "alliance_id": 99013041,
+      "alliance_name": "Fjordariket"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138902129/",
+    "total_value": 9439229507.54,
+    "final_attacker": {
+      "character_name": "Josh Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 138901705,
+    "killmail_hash": "e045227cb4e628f73ddf2cb8e338e6f44882b946",
+    "kill_time": "2026-10-04T12:29:31Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122435320,
+      "character_name": "Liang134",
+      "corporation_id": 98800613,
+      "corporation_name": "Emperor Scythes Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138901705/",
+    "total_value": 1586676007,
+    "final_attacker": {
+      "character_name": "Ylela Sala",
+      "corporation_name": "Emperor Scythes Academy",
+      "alliance_name": null,
+      "ship_type_name": "Paladin"
+    }
+  },
+  {
+    "killmail_id": 138898039,
+    "killmail_hash": "51c4fd6d66bd6886dea38f5a2fee0589ddfef344",
+    "kill_time": "2026-10-04T08:06:49Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000243,
+    "solar_system_name": "PM-DWE",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2119465132,
+      "character_name": "Greed F1",
+      "corporation_id": 98599770,
+      "corporation_name": "Fraternity Building Management",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138898039/",
+    "total_value": 16610823640.55,
+    "final_attacker": {
+      "character_name": "TaikoSG",
+      "corporation_name": "Splash Inc.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 138898012,
+    "killmail_hash": "361149017306d5d6c5b58251e0dc7a36531f6d38",
+    "kill_time": "2026-10-04T08:05:25Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000140,
+    "solar_system_name": "Maurasi",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116228639,
+      "character_name": "Dexter Paaltomo",
+      "corporation_id": 98834932,
+      "corporation_name": "Corporation for contracts",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138898012/",
+    "total_value": 47412423280.95,
+    "final_attacker": {
+      "character_name": "zLegion C",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138897245,
+    "killmail_hash": "dde5463d5f1a41d496671e9dc3958179bff28b56",
+    "kill_time": "2026-10-04T07:05:55Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002246,
+    "solar_system_name": "Neziel",
+    "region_name": "Domain",
+    "victim": {
+      "character_id": 2124717144,
+      "character_name": "SmirkyWig",
+      "corporation_id": 98840887,
+      "corporation_name": "Arbitrage Traders Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138897245/",
+    "total_value": 1578142667.93,
+    "final_attacker": {
+      "character_name": "Nana-Tsi",
+      "corporation_name": "Ad Exxitium",
+      "alliance_name": "Vel Ad Exxitium.",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 138895115,
     "killmail_hash": "184d57d6f1d31ac45e932e2d80625d041d895ec6",
     "kill_time": "2026-10-04T04:23:20Z",
@@ -3429,58 +3559,6 @@
       "corporation_name": "Cozy Mischief",
       "alliance_name": "Sedition.",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 138733816,
-    "killmail_hash": "53ee270cf99a7020660a0aabcc62f173dba806ec",
-    "kill_time": "2026-09-27T09:34:29Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003525,
-    "solar_system_name": "Bagodan",
-    "region_name": "Domain",
-    "victim": {
-      "character_id": 446762526,
-      "character_name": "Pisty1",
-      "corporation_id": 98833776,
-      "corporation_name": "Rapid Life In The Amarr",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138733816/",
-    "total_value": 1526992902.7,
-    "final_attacker": {
-      "character_name": "Hratan",
-      "corporation_name": "T.R.I.A.D",
-      "alliance_name": "Ushra'Khan",
-      "ship_type_name": "Typhoon Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 138730844,
-    "killmail_hash": "1394012d6d9d82a2df9560809456dccf434125ff",
-    "kill_time": "2026-09-27T06:41:22Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2119566634,
-      "character_name": "Scye Shomitzsu",
-      "corporation_id": 98785881,
-      "corporation_name": "Akitana Enterprises",
-      "alliance_id": 99013580,
-      "alliance_name": "High Bear Nation."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138730844/",
-    "total_value": 34073566742.08,
-    "final_attacker": {
-      "character_name": "Enraged Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Purifier"
     }
   }
 ]
