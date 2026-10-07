@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 138968369,
+    "killmail_hash": "192fe11576f2e0e9c00a2b9ea41df23490b7b1df",
+    "kill_time": "2026-10-07T05:31:30Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003715,
+    "solar_system_name": "T-RPFU",
+    "region_name": "Providence",
+    "victim": {
+      "character_id": 2123913238,
+      "character_name": "Isoma Ozono",
+      "corporation_id": 98651050,
+      "corporation_name": "Absolute Order XVIII",
+      "alliance_id": 99009758,
+      "alliance_name": "Absolute Will"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138968369/",
+    "total_value": 5403585898.83,
+    "final_attacker": {
+      "character_name": "Noreiran Nardieu",
+      "corporation_name": "Anoikis Equilibrium",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 138967691,
+    "killmail_hash": "473902fd034cd87d9a88524226b90eb59d92d70a",
+    "kill_time": "2026-10-07T04:47:49Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2114903570,
+      "character_name": "Pharolux Cyno Beacon",
+      "corporation_id": 384667640,
+      "corporation_name": "Black Frog Logistics",
+      "alliance_id": 1496500070,
+      "alliance_name": "Red-Frog"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138967691/",
+    "total_value": 1896127995.37,
+    "final_attacker": {
+      "character_name": "Painter Alt 16",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138967412,
+    "killmail_hash": "96e4ccf00119fc8eb2381b25a377a3b4b21388e2",
+    "kill_time": "2026-10-07T04:30:11Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122565443,
+      "character_name": "Tori Isim",
+      "corporation_id": 98779502,
+      "corporation_name": "I and M Mining and MFG Corporation",
+      "alliance_id": 99015045,
+      "alliance_name": "H O S T I L E"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138967412/",
+    "total_value": 2129501877.88,
+    "final_attacker": {
+      "character_name": "Mjolnir Rage Torpedo",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138966942,
+    "killmail_hash": "aecda1cac9c0aa1608a787eec6e9fbb44f9dbd3d",
+    "kill_time": "2026-10-07T04:02:03Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92094158,
+      "character_name": "CptBipto",
+      "corporation_id": 98693939,
+      "corporation_name": "Bare Minimum Bandits",
+      "alliance_id": 99012781,
+      "alliance_name": "I Showed You My Probes... Please Respond..."
+    },
+    "zkb_url": "https://zkillboard.com/kill/138966942/",
+    "total_value": 10256796742.85,
+    "final_attacker": {
+      "character_name": "Painter Alt 11",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 138960856,
+    "killmail_hash": "91b87a574e2371174da42ed5171d82e31bc96411",
+    "kill_time": "2026-10-06T22:22:07Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2114029468,
+      "character_name": "Rikad Talnulth",
+      "corporation_id": 709221692,
+      "corporation_name": "Blueprint Haus",
+      "alliance_id": 99005393,
+      "alliance_name": "Blades of Grass"
+    },
+    "zkb_url": "https://zkillboard.com/kill/138960856/",
+    "total_value": 7042272829.84,
+    "final_attacker": {
+      "character_name": "Schmiddi1994",
+      "corporation_name": "Save da Taxes",
+      "alliance_name": null,
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 138954513,
     "killmail_hash": "485b6d04a70bc98d4370b2da813dabc67930a293",
     "kill_time": "2026-10-06T18:03:52Z",
@@ -543,6 +673,32 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 138923627,
+    "killmail_hash": "1ab33b8ac8538165446e1667f0f8417019ef45f9",
+    "kill_time": "2026-10-05T08:15:11Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94428523,
+      "character_name": "Georg Schuwald",
+      "corporation_id": 1000066,
+      "corporation_name": "Viziam",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/138923627/",
+    "total_value": 2138074293.79,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
     }
   },
   {
