@@ -1,5 +1,187 @@
 [
   {
+    "killmail_id": 139006469,
+    "killmail_hash": "cb3cfb42fb9cc079e664c689642b2b4fd5c227e4",
+    "kill_time": "2026-10-08T19:49:34Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124198534,
+      "character_name": "Ayle en Welle",
+      "corporation_id": 98427812,
+      "corporation_name": "Siberian Squad",
+      "alliance_id": 99007203,
+      "alliance_name": "Siberian Squads"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139006469/",
+    "total_value": 1438381085.06,
+    "final_attacker": {
+      "character_name": "Rin sai",
+      "corporation_name": "Cracked Out",
+      "alliance_name": "Honkai Star Rail.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139005139,
+    "killmail_hash": "e15841c51dae41de2a4bb95e6977113ce444ed0f",
+    "kill_time": "2026-10-08T18:52:54Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 31000115,
+    "solar_system_name": "J114540",
+    "region_name": "A-R00001",
+    "victim": {
+      "character_id": 1483499636,
+      "character_name": "1 KRASOTKA",
+      "corporation_id": 656692394,
+      "corporation_name": "M 0 L D 0 V A",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139005139/",
+    "total_value": 12718509781.77,
+    "final_attacker": {
+      "character_name": "Alex Suvorov",
+      "corporation_name": "Raven eye Zerg wh",
+      "alliance_name": "ZERG REBORN",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 139004959,
+    "killmail_hash": "008b355f4030eb7f59cab47c55367a72d6ba0b60",
+    "kill_time": "2026-10-08T18:44:12Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 1496827758,
+      "character_name": "Fonti",
+      "corporation_id": 392095233,
+      "corporation_name": "Forty Two Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139004959/",
+    "total_value": 1621123264.53,
+    "final_attacker": {
+      "character_name": "EF Zeta",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 139004141,
+    "killmail_hash": "ffa3d7a9998e59c14659395bb264e7dc7f115b96",
+    "kill_time": "2026-10-08T18:08:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2118636364,
+      "character_name": "LadyDelakron",
+      "corporation_id": 98743960,
+      "corporation_name": "Caldari Industriess",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139004141/",
+    "total_value": 1549856043.07,
+    "final_attacker": {
+      "character_name": "zDropMeNot",
+      "corporation_name": "The Silver Wing",
+      "alliance_name": "The Curatores Veritatis Auxiliary",
+      "ship_type_name": "Tempest"
+    }
+  },
+  {
+    "killmail_id": 139003520,
+    "killmail_hash": "6b032240e324a11b905eb366f772f41d280fc520",
+    "kill_time": "2026-10-08T17:32:27Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123002880,
+      "character_name": "Segengiere en Tilavine",
+      "corporation_id": 98805127,
+      "corporation_name": "Straight to DVD",
+      "alliance_id": 99012862,
+      "alliance_name": "Influential Operations"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139003520/",
+    "total_value": 1536117597.21,
+    "final_attacker": {
+      "character_name": "D J",
+      "corporation_name": "Tactical Raki",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 139003315,
+    "killmail_hash": "152bc427e048d53f878b2408dda2fa5eb99d9270",
+    "kill_time": "2026-10-08T17:19:24Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30004691,
+    "solar_system_name": "O4T-Z5",
+    "region_name": "Paragon Soul",
+    "victim": {
+      "character_id": 2120568834,
+      "character_name": "Asuna Sakuri",
+      "corporation_id": 98817519,
+      "corporation_name": "Echoes of Null",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139003315/",
+    "total_value": 13821350660.43,
+    "final_attacker": {
+      "character_name": "RedMonky",
+      "corporation_name": "Ecliptic Control",
+      "alliance_name": "Ferrata Victrix",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139002831,
+    "killmail_hash": "0573b375385a1825a43d9fea63327ae8486f70f2",
+    "kill_time": "2026-10-08T16:54:16Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002507,
+    "solar_system_name": "Abudban",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2112854928,
+      "character_name": "Kaijlyne Nosha",
+      "corporation_id": 98765792,
+      "corporation_name": "Alma Mather",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139002831/",
+    "total_value": 1516506833.05,
+    "final_attacker": {
+      "character_name": "Antturas Von Kluge",
+      "corporation_name": "Civilized Negligence",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Thrasher Fleet Issue"
+    }
+  },
+  {
     "killmail_id": 139000706,
     "killmail_hash": "ccb702ce7eba9e274b9153c5ca6a0578738a8b1a",
     "kill_time": "2026-10-08T15:04:13Z",
@@ -3091,58 +3273,6 @@
       "corporation_name": "Lowlife.",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138834062,
-    "killmail_hash": "a1be78b11e54acc3c600285f7c1ba89ba653ec2b",
-    "kill_time": "2026-10-01T19:36:41Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 1155497947,
-      "character_name": "Sirqeul Maltidar",
-      "corporation_id": 98845380,
-      "corporation_name": "Planet. Express.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138834062/",
-    "total_value": 12630213351.87,
-    "final_attacker": {
-      "character_name": "Blanc Neige",
-      "corporation_name": "Shining Tears v2.0",
-      "alliance_name": null,
-      "ship_type_name": "Leshak"
-    }
-  },
-  {
-    "killmail_id": 138833927,
-    "killmail_hash": "bb5eab20eb150927aa27044321c66c9884d223c4",
-    "kill_time": "2026-10-01T19:32:40Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2115352407,
-      "character_name": "Caden Toralen",
-      "corporation_id": 98845380,
-      "corporation_name": "Planet. Express.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138833927/",
-    "total_value": 7185247300.02,
-    "final_attacker": {
-      "character_name": "Gundam Phenex",
-      "corporation_name": "Rita's choice",
-      "alliance_name": null,
-      "ship_type_name": "Arazu"
     }
   }
 ]
