@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139023465,
+    "killmail_hash": "37d1b348318fdc8b24450d9dc75a480476299fa5",
+    "kill_time": "2026-10-09T13:52:51Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004811,
+    "solar_system_name": "4-P4FE",
+    "region_name": "Tenerifis",
+    "victim": {
+      "character_id": 2119491506,
+      "character_name": "DisasterKuz",
+      "corporation_id": 98428777,
+      "corporation_name": "North Korean Nuclear Research",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139023465/",
+    "total_value": 1514949393.07,
+    "final_attacker": {
+      "character_name": "Nosi Umid",
+      "corporation_name": "STARCHASER Inc",
+      "alliance_name": "Fraternity.",
+      "ship_type_name": "Caracal Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 139018741,
+    "killmail_hash": "c2a718773e92c9cbb40a5d859e0ca755c1e61a6e",
+    "kill_time": "2026-10-09T08:16:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000886,
+    "solar_system_name": "S8-NSQ",
+    "region_name": "Tribute",
+    "victim": {
+      "character_id": 131165732,
+      "character_name": "Toma Imulgard",
+      "corporation_id": 98760689,
+      "corporation_name": "CACX mission",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139018741/",
+    "total_value": 3611197897.87,
+    "final_attacker": {
+      "character_name": "Iamfish fishfish",
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_name": null,
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
     "killmail_id": 139013781,
     "killmail_hash": "b7a565926789ccaa14fca945c4f70e6252616da8",
     "kill_time": "2026-10-09T02:12:11Z",
@@ -3221,110 +3273,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138845517,
-    "killmail_hash": "d6eae315e15a15774697aedf7379ce52afb4c974",
-    "kill_time": "2026-10-02T10:11:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122498411,
-      "character_name": "Burtsspfarm2C",
-      "corporation_id": 98582333,
-      "corporation_name": "Last Stand Enterprises",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138845517/",
-    "total_value": 3497011770.44,
-    "final_attacker": {
-      "character_name": "Cetanwakuwa",
-      "corporation_name": "Mine 'N' Refine",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138845084,
-    "killmail_hash": "65ce297e237d6c9e58307a78f2cd24c13524139a",
-    "kill_time": "2026-10-02T09:32:35Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2114714069,
-      "character_name": "Noemi Dod",
-      "corporation_id": 98582030,
-      "corporation_name": "WIB Industry",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138845084/",
-    "total_value": 4797084769.58,
-    "final_attacker": {
-      "character_name": "JINTSUU",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 138844870,
-    "killmail_hash": "6ee4a1d572bb9d3013b64c7062c5bb3ef721e6aa",
-    "kill_time": "2026-10-02T09:14:48Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2113796273,
-      "character_name": "Geostigma Libria",
-      "corporation_id": 98822992,
-      "corporation_name": "Geostigma Space",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138844870/",
-    "total_value": 2507140969.25,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 138844544,
-    "killmail_hash": "a3273183f6be8004e58e760c081b987e07ac4ec0",
-    "kill_time": "2026-10-02T08:48:52Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 462167259,
-      "character_name": "SADA00",
-      "corporation_id": 98675586,
-      "corporation_name": "Courier Agency",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138844544/",
-    "total_value": 5782791895.21,
-    "final_attacker": {
-      "character_name": "zLegion 03",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
