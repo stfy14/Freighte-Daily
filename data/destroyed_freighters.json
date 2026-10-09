@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 139032143,
+    "killmail_hash": "5d50492f1c43859c6ad9445222702f03eea797f7",
+    "kill_time": "2026-10-09T20:02:36Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002769,
+    "solar_system_name": "Enderailen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94621567,
+      "character_name": "Dikobraz Grey",
+      "corporation_id": 98807703,
+      "corporation_name": "Obsidian Flow",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139032143/",
+    "total_value": 6958246392.6,
+    "final_attacker": {
+      "character_name": "Dmitri Petroyovik",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 139031889,
+    "killmail_hash": "4052dffccf014379bc995d9cf3f7fee206bdf752",
+    "kill_time": "2026-10-09T19:53:23Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003905,
+    "solar_system_name": "Chamemi",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 90504656,
+      "character_name": "Dominic Ronuken",
+      "corporation_id": 98840717,
+      "corporation_name": "Geode Core Industries Limited Liability Company",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139031889/",
+    "total_value": 1723786314.67,
+    "final_attacker": {
+      "character_name": "Nahnil",
+      "corporation_name": "Zawa's Fan Club",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 139030104,
+    "killmail_hash": "4b848b9ba430e6d556fc9724ca0e9d12180ccdc2",
+    "kill_time": "2026-10-09T18:45:32Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2122274726,
+      "character_name": "Anjinho",
+      "corporation_id": 98633527,
+      "corporation_name": "Venomous Rebels Industries",
+      "alliance_id": 99013049,
+      "alliance_name": "The Rebels Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139030104/",
+    "total_value": 1534683134.65,
+    "final_attacker": {
+      "character_name": "Kira Sakken",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "STAKAN UNIVERSE",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 139027748,
+    "killmail_hash": "46f9741abdcd473e548a7636760a651476c7abf9",
+    "kill_time": "2026-10-09T17:09:19Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124557659,
+      "character_name": "Cassian Caelum",
+      "corporation_id": 98839588,
+      "corporation_name": "Caelum Alt. Corp",
+      "alliance_id": 99010193,
+      "alliance_name": "Ivy League Alt Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139027748/",
+    "total_value": 2906093613.52,
+    "final_attacker": {
+      "character_name": "Alexingeras",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139027390,
+    "killmail_hash": "03d04e31e72607aa0df99262086b725e8e78b083",
+    "kill_time": "2026-10-09T16:51:12Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30004991,
+    "solar_system_name": "Vitrauze",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 94773840,
+      "character_name": "Pomolopolis",
+      "corporation_id": 98840680,
+      "corporation_name": "Sanguinis Logistica",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139027390/",
+    "total_value": 1938142567.86,
+    "final_attacker": {
+      "character_name": "PolestarxQIQ",
+      "corporation_name": "Silent Sojourner",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139023465,
     "killmail_hash": "37d1b348318fdc8b24450d9dc75a480476299fa5",
     "kill_time": "2026-10-09T13:52:51Z",
@@ -3063,214 +3193,6 @@
     "final_attacker": {
       "character_name": "Heineke",
       "corporation_name": "Mine 'N' Refine",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138856861,
-    "killmail_hash": "e890e4b58329d7746c61b63bb76aa8cf1c82abaf",
-    "kill_time": "2026-10-02T20:40:23Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121102787,
-      "character_name": "Puksen Otsada",
-      "corporation_id": 98750909,
-      "corporation_name": "Voidbringer Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138856861/",
-    "total_value": 6312776530.88,
-    "final_attacker": {
-      "character_name": "Chikara Dzuyoi",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138856372,
-    "killmail_hash": "1c48cf32477681a59801ef25f675a60ca7fc8535",
-    "kill_time": "2026-10-02T20:21:53Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 977222360,
-      "character_name": "Black CrazyHawk",
-      "corporation_id": 1000006,
-      "corporation_name": "Deep Core Mining Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138856372/",
-    "total_value": 2428849003.71,
-    "final_attacker": {
-      "character_name": "Joshua Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138856233,
-    "killmail_hash": "f6dcb9c6e508aea695412a86b0e6ae8d7928a9d5",
-    "kill_time": "2026-10-02T20:17:00Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94452042,
-      "character_name": "Raoden Amatin",
-      "corporation_id": 98446190,
-      "corporation_name": "Haliax Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138856233/",
-    "total_value": 7971594985.66,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138855694,
-    "killmail_hash": "5484e431e30642a7c0d921be6037ba17c4b3db53",
-    "kill_time": "2026-10-02T19:58:36Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92328192,
-      "character_name": "Astreia Fox",
-      "corporation_id": 1000172,
-      "corporation_name": "Pator Tech School",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138855694/",
-    "total_value": 2547243813.97,
-    "final_attacker": {
-      "character_name": "Jared Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138854840,
-    "killmail_hash": "584e44a321b5a5c9d5f2cbd4c8e2d9b9cc3539ea",
-    "kill_time": "2026-10-02T19:26:31Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 896994093,
-      "character_name": "AshraZ",
-      "corporation_id": 98828906,
-      "corporation_name": "Wormhole Harvesting and Ore Recovery Enterprises",
-      "alliance_id": 99015138,
-      "alliance_name": "VoidForge"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138854840/",
-    "total_value": 7802950569.92,
-    "final_attacker": {
-      "character_name": "Joseph Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138854820,
-    "killmail_hash": "11d47e7a1f7078762e58d85a958a46292a71f648",
-    "kill_time": "2026-10-02T19:25:27Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 31001880,
-    "solar_system_name": "J152820",
-    "region_name": "E-R00024",
-    "victim": {
-      "character_id": 1658742790,
-      "character_name": "General Calarin",
-      "corporation_id": 98674534,
-      "corporation_name": "Voidlings",
-      "alliance_id": 99013513,
-      "alliance_name": "V0IDLINGS"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138854820/",
-    "total_value": 3355560451.47,
-    "final_attacker": {
-      "character_name": "Sam612 Charante",
-      "corporation_name": "Diamond Dogs.",
-      "alliance_name": "Mercenaires Sans Frontieres.",
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138853874,
-    "killmail_hash": "bc0b8922eedf5456c8daae9af466da5dcff8ff9f",
-    "kill_time": "2026-10-02T18:48:59Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123672489,
-      "character_name": "Vasuda Manaan",
-      "corporation_id": 98806804,
-      "corporation_name": "Scrapyard Artificer's",
-      "alliance_id": 99014431,
-      "alliance_name": "Just Lizard"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138853874/",
-    "total_value": 1417829591.8,
-    "final_attacker": {
-      "character_name": "Painter Alt 3",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138852821,
-    "killmail_hash": "cc913617b4ccc50e090e550a9fb2705c270e1a48",
-    "kill_time": "2026-10-02T18:00:55Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002800,
-    "solar_system_name": "Haatomo",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123262285,
-      "character_name": "Kenji Lee",
-      "corporation_id": 98795321,
-      "corporation_name": "Deep Space Hauling Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138852821/",
-    "total_value": 3335234275,
-    "final_attacker": {
-      "character_name": "Painter Alt 17",
-      "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
