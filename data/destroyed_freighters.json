@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 139013781,
+    "killmail_hash": "b7a565926789ccaa14fca945c4f70e6252616da8",
+    "kill_time": "2026-10-09T02:12:11Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30045333,
+    "solar_system_name": "Prism",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 126083127,
+      "character_name": "Vidam Maccx",
+      "corporation_id": 98792771,
+      "corporation_name": "Lai Dai Applied Innovations",
+      "alliance_id": 99011936,
+      "alliance_name": "Hatakani Trade Winds Combine"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139013781/",
+    "total_value": 23979593504.54,
+    "final_attacker": {
+      "character_name": "Dmitri Petroyovik",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 139011652,
+    "killmail_hash": "fb401299f8126cf32008de6f01dd324e7ca8a79c",
+    "kill_time": "2026-10-08T23:47:44Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003933,
+    "solar_system_name": "Ibani",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2123645190,
+      "character_name": "AstroCafe",
+      "corporation_id": 297029457,
+      "corporation_name": "Bison Industrial Inc",
+      "alliance_id": 99014362,
+      "alliance_name": "Paws n Claws Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139011652/",
+    "total_value": 10814145568.72,
+    "final_attacker": {
+      "character_name": "Dart Sabotaj",
+      "corporation_name": "HOT Freight",
+      "alliance_name": "BURJUVA...",
+      "ship_type_name": "Ishtar"
+    }
+  },
+  {
+    "killmail_id": 139011364,
+    "killmail_hash": "fcc8ac6f78eb3637874e5e645b4f0e746c91aac3",
+    "kill_time": "2026-10-08T23:30:12Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 95943766,
+      "character_name": "Gosejo Akatsuki",
+      "corporation_id": 98817637,
+      "corporation_name": "Tactical Withdrawal Team",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139011364/",
+    "total_value": 9836139929.67,
+    "final_attacker": {
+      "character_name": "MSN-06S Sinanju",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 139010973,
+    "killmail_hash": "4ce75d9c8f9f7a2d9af5233dba8b743e9f670b75",
+    "kill_time": "2026-10-08T23:04:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124685132,
+      "character_name": "zxcvasd",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139010973/",
+    "total_value": 2765972974.33,
+    "final_attacker": {
+      "character_name": "Joel Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139010621,
+    "killmail_hash": "f0d94bd4c1603f898f32d10a7f358a959fe85c0b",
+    "kill_time": "2026-10-08T22:45:19Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123192945,
+      "character_name": "Mereli",
+      "corporation_id": 98527751,
+      "corporation_name": "M.S.Gundam",
+      "alliance_id": 99013583,
+      "alliance_name": "Ore No More"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139010621/",
+    "total_value": 2530899784.65,
+    "final_attacker": {
+      "character_name": "Jimmy Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139010231,
+    "killmail_hash": "73d2dd292a36bd7aaf4e6077b0e06eecc6af4eab",
+    "kill_time": "2026-10-08T22:27:23Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123551096,
+      "character_name": "Bazaar Girl",
+      "corporation_id": 98752347,
+      "corporation_name": "Deep Space Coalition Inc.",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139010231/",
+    "total_value": 2530899784.65,
+    "final_attacker": {
+      "character_name": "Joel Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139006469,
     "killmail_hash": "cb3cfb42fb9cc079e664c689642b2b4fd5c227e4",
     "kill_time": "2026-10-08T19:49:34Z",
@@ -3169,110 +3325,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 138841066,
-    "killmail_hash": "cc26c9253c202ce8b4cac0c94d73eb3d11ad609f",
-    "kill_time": "2026-10-02T03:36:39Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004596,
-    "solar_system_name": "00GD-D",
-    "region_name": "Fountain",
-    "victim": {
-      "character_id": 2114896671,
-      "character_name": "Hannibal Jia",
-      "corporation_id": 98715582,
-      "corporation_name": "Emperor Scythes",
-      "alliance_id": 1900696668,
-      "alliance_name": "The Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138841066/",
-    "total_value": 2990261036.58,
-    "final_attacker": {
-      "character_name": "Sky Davis",
-      "corporation_name": "NOT HALF BAD",
-      "alliance_name": "Out of the Blue.",
-      "ship_type_name": "Vedmak"
-    }
-  },
-  {
-    "killmail_id": 138840411,
-    "killmail_hash": "95cebc418e881f0bb3eefe4d5a4b9247b67514ac",
-    "kill_time": "2026-10-02T02:40:30Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2119282338,
-      "character_name": "Asvokur Hilitari",
-      "corporation_id": 98798601,
-      "corporation_name": "316 Assault Team",
-      "alliance_id": 99013216,
-      "alliance_name": "Nomad Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138840411/",
-    "total_value": 2605052864.27,
-    "final_attacker": {
-      "character_name": "Rage Zombie",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 138839728,
-    "killmail_hash": "d320cd042da887fa21010ccc797207ed720fa753",
-    "kill_time": "2026-10-02T01:37:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121090190,
-      "character_name": "PAC1F1ST",
-      "corporation_id": 98794583,
-      "corporation_name": "Die Verval",
-      "alliance_id": 99014292,
-      "alliance_name": "Die Verval."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138839728/",
-    "total_value": 2865771200.25,
-    "final_attacker": {
-      "character_name": "Silendis Bheskagor",
-      "corporation_name": "Demaga Corporation",
-      "alliance_name": "Verlate",
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 138839195,
-    "killmail_hash": "d58bae2dc940b86737dfde8deca86f0c306316a8",
-    "kill_time": "2026-10-02T00:34:14Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 90554518,
-      "character_name": "Subdolus Unus",
-      "corporation_id": 98844575,
-      "corporation_name": "Forward to Death",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138839195/",
-    "total_value": 1629065104.75,
-    "final_attacker": {
-      "character_name": "Daniel OHaleno",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
