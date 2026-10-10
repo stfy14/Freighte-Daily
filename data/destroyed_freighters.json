@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139067248,
+    "killmail_hash": "176a60aed7052f4c9eb1498db0a8f4815f213c86",
+    "kill_time": "2026-10-10T22:03:29Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117756280,
+      "character_name": "Ashina Krore",
+      "corporation_id": 98663318,
+      "corporation_name": "ToproKopn",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139067248/",
+    "total_value": 1385253582.14,
+    "final_attacker": {
+      "character_name": "Jeremy Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139067042,
+    "killmail_hash": "b49fd858a71b888f45b39ec14ea06834006b0c39",
+    "kill_time": "2026-10-10T21:57:43Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 1712395823,
+      "character_name": "Kyros II",
+      "corporation_id": 635210548,
+      "corporation_name": "Fusion Enterprises Ltd",
+      "alliance_id": 498125261,
+      "alliance_name": "Test Alliance Please Ignore"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139067042/",
+    "total_value": 1955960402.14,
+    "final_attacker": {
+      "character_name": "Raven Chent-Shi",
+      "corporation_name": "Vertex Armada",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Nemesis"
+    }
+  },
+  {
+    "killmail_id": 139063026,
+    "killmail_hash": "1050f092514862b1a97967aba70471401c6b44f4",
+    "kill_time": "2026-10-10T19:57:24Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2122752259,
+      "character_name": "Kiki28928",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139063026/",
+    "total_value": 1531882988.49,
+    "final_attacker": {
+      "character_name": "Jayson Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139061966,
     "killmail_hash": "de5e42d09aa5fd5bf2a46dd6fdc4a20bb7a6d9f8",
     "kill_time": "2026-10-10T19:25:47Z",
@@ -78,6 +156,58 @@
     }
   },
   {
+    "killmail_id": 139055872,
+    "killmail_hash": "bd3f111ad10f45908d0e2422725d927773271b2f",
+    "kill_time": "2026-10-10T15:52:15Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002786,
+    "solar_system_name": "Ikao",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123295659,
+      "character_name": "Gomgarr",
+      "corporation_id": 98797553,
+      "corporation_name": "Umbrella Asset Management",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139055872/",
+    "total_value": 1837367429.27,
+    "final_attacker": {
+      "character_name": "Johnathan Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139054401,
+    "killmail_hash": "1ad1d5556fff6ba52c8058b3d54eb04bf6a84ecd",
+    "kill_time": "2026-10-10T15:07:14Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91389390,
+      "character_name": "Eligh Brandel",
+      "corporation_id": 98843288,
+      "corporation_name": "Frontiers Exploration",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139054401/",
+    "total_value": 10963787253.47,
+    "final_attacker": {
+      "character_name": "Jayson Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 139054064,
     "killmail_hash": "0746f5d808b58fdf8521af7875c82b51a5adf4df",
     "kill_time": "2026-10-10T14:54:38Z",
@@ -127,6 +257,32 @@
       "corporation_name": "Fourth District Sentinels",
       "alliance_name": "The Caldari Fourth District",
       "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 139052137,
+    "killmail_hash": "673da5b2f5fac92a9830dd7816321b676ed3f7bd",
+    "kill_time": "2026-10-10T13:50:27Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112177251,
+      "character_name": "PRIMAR2 Estemaire",
+      "corporation_id": 98564225,
+      "corporation_name": "Special operations forces SOF",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139052137/",
+    "total_value": 6595357258.53,
+    "final_attacker": {
+      "character_name": "Jared Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -205,6 +361,32 @@
       "corporation_name": "jUST DO It..",
       "alliance_name": null,
       "ship_type_name": "Hubris"
+    }
+  },
+  {
+    "killmail_id": 139050114,
+    "killmail_hash": "4fe6046c4ba63c4574294193fd91fd39c4a89183",
+    "kill_time": "2026-10-10T12:39:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 610759360,
+      "character_name": "morphsexy",
+      "corporation_id": 98046355,
+      "corporation_name": "MITHRIL HQ",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139050114/",
+    "total_value": 10070734718.3,
+    "final_attacker": {
+      "character_name": "Jax Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
     }
   },
   {
@@ -2724,188 +2906,6 @@
     "total_value": 1551678353.57,
     "final_attacker": {
       "character_name": "Johnathan Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138888405,
-    "killmail_hash": "8ec6ba1807972ffe473532797c730475cedf77f8",
-    "kill_time": "2026-10-03T22:26:52Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 96193917,
-      "character_name": "Chao Ploat",
-      "corporation_id": 1000115,
-      "corporation_name": "University of Caille",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138888405/",
-    "total_value": 1786686946.27,
-    "final_attacker": {
-      "character_name": "Inspector Implant",
-      "corporation_name": "Never Ignorant Gettin' Goals Accomplished",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138887834,
-    "killmail_hash": "6f29378378e1b341877c3a8286c3a5a78cdddfdf",
-    "kill_time": "2026-10-03T22:03:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124732181,
-      "character_name": "AsahiKASEI",
-      "corporation_id": 98713511,
-      "corporation_name": "nihonium 113th Fleet",
-      "alliance_id": 99012697,
-      "alliance_name": "High Elements Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138887834/",
-    "total_value": 1554783514.13,
-    "final_attacker": {
-      "character_name": "Painter Alt 2",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138887377,
-    "killmail_hash": "151b962c6c42931f6397c27b1ec1208023d6a52f",
-    "kill_time": "2026-10-03T21:46:31Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1670695367,
-      "character_name": "Stu Mario",
-      "corporation_id": 98442732,
-      "corporation_name": "The Golden Reign",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138887377/",
-    "total_value": 3633371932.59,
-    "final_attacker": {
-      "character_name": "001 DUNK",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138886897,
-    "killmail_hash": "b499271ba30b8e2bcca2d882eae9426faebad4ee",
-    "kill_time": "2026-10-03T21:28:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2123619248,
-      "character_name": "Acidgamer4125",
-      "corporation_id": 98807949,
-      "corporation_name": "Ganja Ice Gas Asteroid Gang",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138886897/",
-    "total_value": 1586196757.11,
-    "final_attacker": {
-      "character_name": "Mai Hantaka",
-      "corporation_name": "NED-Clan",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138885427,
-    "killmail_hash": "e5cc161b1a170dfcdb843d3cd4d84e91831d397e",
-    "kill_time": "2026-10-03T20:33:46Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002806,
-    "solar_system_name": "Hasmijaala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124701947,
-      "character_name": "Aretea",
-      "corporation_id": 98841829,
-      "corporation_name": "Anchorline",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138885427/",
-    "total_value": 2472209186.54,
-    "final_attacker": {
-      "character_name": "Daniel OHaleno",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138885297,
-    "killmail_hash": "2f6e6e200bd93a6cd52c8b8bf6aacbdfdc46d2c1",
-    "kill_time": "2026-10-03T20:30:30Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92315157,
-      "character_name": "Dranei Salinas",
-      "corporation_id": 1000165,
-      "corporation_name": "Hedion University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138885297/",
-    "total_value": 3908062497.71,
-    "final_attacker": {
-      "character_name": "Arshat Azaph",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138884614,
-    "killmail_hash": "922c724a3d4f9f59ed4e54b4debd4205f864cb3d",
-    "kill_time": "2026-10-03T20:13:23Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117047177,
-      "character_name": "Lenny Kansene",
-      "corporation_id": 1000169,
-      "corporation_name": "Center for Advanced Studies",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138884614/",
-    "total_value": 1597226312.28,
-    "final_attacker": {
-      "character_name": "Jack Kusion",
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
