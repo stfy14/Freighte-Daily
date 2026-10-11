@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139093469,
+    "killmail_hash": "b6e869d3345a0d0fa4c2eb5ca95927b1ddb506ad",
+    "kill_time": "2026-10-11T18:28:49Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 91427140,
+      "character_name": "Codex Oz",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139093469/",
+    "total_value": 12180920447.94,
+    "final_attacker": {
+      "character_name": "Hellscream81",
+      "corporation_name": "DemonicAncestory.",
+      "alliance_name": "Dreadnought Diplomacy.",
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 139092822,
+    "killmail_hash": "e59c2b4112063da11766f884b3fc539dc5bcd36d",
+    "kill_time": "2026-10-11T18:01:21Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003886,
+    "solar_system_name": "Ashmarir",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 703321211,
+      "character_name": "Eowarebin Ginen",
+      "corporation_id": 98345641,
+      "corporation_name": "Roid Traders Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139092822/",
+    "total_value": 16046643685.98,
+    "final_attacker": {
+      "character_name": "TheBroadcaster",
+      "corporation_name": "Dead and Delirious",
+      "alliance_name": "BBQ BOIS",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139090526,
+    "killmail_hash": "4f321b3126ccc2d491dcbb3bfccfa2584c5064c3",
+    "kill_time": "2026-10-11T16:19:34Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002056,
+    "solar_system_name": "Resbroko",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2124408236,
+      "character_name": "G3ARH3AD01",
+      "corporation_id": 98844730,
+      "corporation_name": "G3ARS Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139090526/",
+    "total_value": 1467427844.01,
+    "final_attacker": {
+      "character_name": "Saiper92",
+      "corporation_name": "x Never Regret x",
+      "alliance_name": "C A M E L O T",
+      "ship_type_name": "Muninn"
+    }
+  },
+  {
     "killmail_id": 139084098,
     "killmail_hash": "84ea62d8bcfd213168056a283f26be8e3dbeaa44",
     "kill_time": "2026-10-11T12:34:39Z",
@@ -2623,32 +2701,6 @@
       "corporation_name": "Hardcore Pleasure",
       "alliance_name": "Bright Side of Death",
       "ship_type_name": "Loki"
-    }
-  },
-  {
-    "killmail_id": 138905376,
-    "killmail_hash": "4b37fcbb9785b47babfd31f126ef8486894e2801",
-    "kill_time": "2026-10-04T15:00:55Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002764,
-    "solar_system_name": "Hatakani",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2112854928,
-      "character_name": "Kaijlyne Nosha",
-      "corporation_id": 98756765,
-      "corporation_name": "Star.Men",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138905376/",
-    "total_value": 1548569687.85,
-    "final_attacker": {
-      "character_name": "Iliad D'jax",
-      "corporation_name": "GentIeman Bastards",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Cynabal"
     }
   }
 ]
