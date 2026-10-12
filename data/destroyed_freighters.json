@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139109788,
+    "killmail_hash": "d4bbf454ef091f831d3b1194fd30b3c5b5743b75",
+    "kill_time": "2026-10-12T13:14:43Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000037,
+    "solar_system_name": "Uplingur",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2120648680,
+      "character_name": "Brain Force X",
+      "corporation_id": 2043331849,
+      "corporation_name": "Evermore Warriors",
+      "alliance_id": 99008788,
+      "alliance_name": "The Skeleton Crew"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139109788/",
+    "total_value": 1496189979.57,
+    "final_attacker": {
+      "character_name": "Kaye Swords",
+      "corporation_name": "Dominion Guild",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139106286,
+    "killmail_hash": "e2aae1266b1df69afb248a92d31b317b7ed4c13e",
+    "kill_time": "2026-10-12T08:15:09Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123925302,
+      "character_name": "xEdge Industrial HS",
+      "corporation_id": 98820125,
+      "corporation_name": "xEdge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139106286/",
+    "total_value": 9300132184.61,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
     "killmail_id": 139098405,
     "killmail_hash": "494cd0d8c985accf0b89ec96823a322a09b78ebf",
     "kill_time": "2026-10-11T21:50:16Z",
@@ -2571,136 +2623,6 @@
       "corporation_name": "University of Caille",
       "alliance_name": null,
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 138926229,
-    "killmail_hash": "5e275eda1b4d3bc0d1576a053fa7b22a40b2740b",
-    "kill_time": "2026-10-05T12:55:45Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123262285,
-      "character_name": "Kenji Lee",
-      "corporation_id": 98795321,
-      "corporation_name": "Deep Space Hauling Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138926229/",
-    "total_value": 1486558575.09,
-    "final_attacker": {
-      "character_name": "Namenys",
-      "corporation_name": "jUST DO It..",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138925270,
-    "killmail_hash": "4ff83af76ae861bedba851fa80f75d752f2f0379",
-    "kill_time": "2026-10-05T11:24:36Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30004339,
-    "solar_system_name": "R4O-I6",
-    "region_name": "Branch",
-    "victim": {
-      "character_id": 2115223751,
-      "character_name": "weiz IIIII SH",
-      "corporation_id": 98806403,
-      "corporation_name": "AOC Express",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138925270/",
-    "total_value": 1557599265.83,
-    "final_attacker": {
-      "character_name": "xxMads",
-      "corporation_name": "Malicious Intentions.",
-      "alliance_name": "Calculated Aggression",
-      "ship_type_name": "Caracal Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 138924623,
-    "killmail_hash": "df434e29ec327050962fe9ee357b0776d6d76b81",
-    "kill_time": "2026-10-05T09:46:04Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1285020617,
-      "character_name": "Mellde Delthar",
-      "corporation_id": 98063432,
-      "corporation_name": "Jacques of All Trades",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138924623/",
-    "total_value": 5221482478.03,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "N/A",
-      "alliance_name": null,
-      "ship_type_name": "Unknown Ship"
-    }
-  },
-  {
-    "killmail_id": 138923790,
-    "killmail_hash": "ca0f4edb3f4cbe1b48e4f323b70f47d468b5e22d",
-    "kill_time": "2026-10-05T08:29:11Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2122684369,
-      "character_name": "Tapas Pirkibo",
-      "corporation_id": 98835770,
-      "corporation_name": "Yellow scarf Humpback",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138923790/",
-    "total_value": 9363820494.22,
-    "final_attacker": {
-      "character_name": "zLegion C",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 138923627,
-    "killmail_hash": "1ab33b8ac8538165446e1667f0f8417019ef45f9",
-    "kill_time": "2026-10-05T08:15:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94428523,
-      "character_name": "Georg Schuwald",
-      "corporation_id": 1000066,
-      "corporation_name": "Viziam",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138923627/",
-    "total_value": 2138074293.79,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
     }
   }
 ]
