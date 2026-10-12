@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139098405,
+    "killmail_hash": "494cd0d8c985accf0b89ec96823a322a09b78ebf",
+    "kill_time": "2026-10-11T21:50:16Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30003067,
+    "solar_system_name": "Huola",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 947445142,
+      "character_name": "Lyley",
+      "corporation_id": 98387494,
+      "corporation_name": "The Road Not Taken",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139098405/",
+    "total_value": 10854864039.1,
+    "final_attacker": {
+      "character_name": "Malarkai Densuri",
+      "corporation_name": "Cozy Mischief",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139098375,
+    "killmail_hash": "eebc76a336d84193dc3af480dc94c5fd56e8869e",
+    "kill_time": "2026-10-11T21:48:47Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123191011,
+      "character_name": "Notso Frisky Fister",
+      "corporation_id": 98841040,
+      "corporation_name": "Knights of Vaylan",
+      "alliance_id": 99011990,
+      "alliance_name": "D3ad End"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139098375/",
+    "total_value": 3205569174.14,
+    "final_attacker": {
+      "character_name": "MSN-06S Sinanju",
+      "corporation_name": "Kiddy Girl-and",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
     "killmail_id": 139093469,
     "killmail_hash": "b6e869d3345a0d0fa4c2eb5ca95927b1ddb506ad",
     "kill_time": "2026-10-11T18:28:49Z",
@@ -2649,58 +2701,6 @@
       "corporation_name": "Sebiestor Tribe",
       "alliance_name": null,
       "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 138914853,
-    "killmail_hash": "fe16bd37be57c4bfcc1f8aea60e722a806a6365d",
-    "kill_time": "2026-10-04T20:46:34Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2124717144,
-      "character_name": "SmirkyWig",
-      "corporation_id": 98840887,
-      "corporation_name": "Arbitrage Traders Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138914853/",
-    "total_value": 1476178279.26,
-    "final_attacker": {
-      "character_name": "Coyote Benihime",
-      "corporation_name": "The Ruckus",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Nidhoggur"
-    }
-  },
-  {
-    "killmail_id": 138914528,
-    "killmail_hash": "d93db6c578bbf6ab16fde377c784c2e5c382bb18",
-    "kill_time": "2026-10-04T20:32:51Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30000566,
-    "solar_system_name": "0RI-OV",
-    "region_name": "Wicked Creek",
-    "victim": {
-      "character_id": 2113081047,
-      "character_name": "2ndClass SLave Ormand",
-      "corporation_id": 98624281,
-      "corporation_name": "Hundred Acre Wood",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138914528/",
-    "total_value": 7685547001.61,
-    "final_attacker": {
-      "character_name": "Miss Fitz",
-      "corporation_name": "Hardcore Pleasure",
-      "alliance_name": "Bright Side of Death",
-      "ship_type_name": "Loki"
     }
   }
 ]
