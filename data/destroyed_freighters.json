@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139137822,
+    "killmail_hash": "3c79e9a7c0ab6fe9ef5b81c99a290c5f3625a281",
+    "kill_time": "2026-10-13T17:58:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001361,
+    "solar_system_name": "Aurohunen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1428535837,
+      "character_name": "Shmores",
+      "corporation_id": 98814441,
+      "corporation_name": "Infinite Directive",
+      "alliance_id": 1042504553,
+      "alliance_name": "Solyaris Chtonium"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139137822/",
+    "total_value": 4176105938.66,
+    "final_attacker": {
+      "character_name": "Spodumain Slurper",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139136154,
+    "killmail_hash": "ddc5c6fa0bcd1af8198f0bc6d12d28402546d9a7",
+    "kill_time": "2026-10-13T16:19:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003081,
+    "solar_system_name": "Ronne",
+    "region_name": "The Bleak Lands",
+    "victim": {
+      "character_id": 1807459911,
+      "character_name": "acfun",
+      "corporation_id": 98817022,
+      "corporation_name": "Gaussian Inc.",
+      "alliance_id": 99014175,
+      "alliance_name": "Fairy Express Commercial Union"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139136154/",
+    "total_value": 1494545582,
+    "final_attacker": {
+      "character_name": "Dii minores",
+      "corporation_name": "STEEL EGG",
+      "alliance_name": null,
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 139132470,
+    "killmail_hash": "61cff37bf6f3820fbb90737625129411bec73bec",
+    "kill_time": "2026-10-13T12:30:12Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30004323,
+    "solar_system_name": "AH-B84",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 90228182,
+      "character_name": "Belthazor4012",
+      "corporation_id": 98419517,
+      "corporation_name": "Weasels in the Rabbithole",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139132470/",
+    "total_value": 8764076713.64,
+    "final_attacker": {
+      "character_name": "Stevenson Price",
+      "corporation_name": "Kriegsmarinewerft",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139131416,
     "killmail_hash": "ebd7e9e201c1e7347c2328db466062655d0305a1",
     "kill_time": "2026-10-13T11:21:41Z",
@@ -2337,84 +2415,6 @@
       "corporation_name": "Save da Taxes",
       "alliance_name": null,
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 138954513,
-    "killmail_hash": "485b6d04a70bc98d4370b2da813dabc67930a293",
-    "kill_time": "2026-10-06T18:03:52Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30001446,
-    "solar_system_name": "Otsasai",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120028214,
-      "character_name": "Jericoa",
-      "corporation_id": 98824507,
-      "corporation_name": "Fuxi Military Academy",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138954513/",
-    "total_value": 7122987963.7,
-    "final_attacker": {
-      "character_name": "Mellisa Cameltoe",
-      "corporation_name": "Incognito Mode",
-      "alliance_name": "Brotherhood of Spacers",
-      "ship_type_name": "Revelation"
-    }
-  },
-  {
-    "killmail_id": 138946577,
-    "killmail_hash": "2c711c96298e510a1f95e18306c36f9baf3f9d7e",
-    "kill_time": "2026-10-06T12:51:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 91893986,
-      "character_name": "Pahabis Alabel",
-      "corporation_id": 98672533,
-      "corporation_name": "BrainBox",
-      "alliance_id": 99005393,
-      "alliance_name": "Blades of Grass"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138946577/",
-    "total_value": 4382723114.88,
-    "final_attacker": {
-      "character_name": "Enki Rhodan",
-      "corporation_name": "Bikini Bottom Surfer",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 138945558,
-    "killmail_hash": "38ddfa1fa11885cd5902339203ac7172ab38e9dd",
-    "kill_time": "2026-10-06T11:43:10Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 95173690,
-      "character_name": "Cypher Dragonfist",
-      "corporation_id": 98221538,
-      "corporation_name": "C5 Flight",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138945558/",
-    "total_value": 1578905659.54,
-    "final_attacker": {
-      "character_name": "bitter gourd",
-      "corporation_name": "Kuan.Dai.Shan",
-      "alliance_name": "Dracarys.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
