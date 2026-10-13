@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139123376,
+    "killmail_hash": "d9a6197eb4d44cbdfe7052905784736895f67114",
+    "kill_time": "2026-10-13T00:16:31Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002641,
+    "solar_system_name": "Aufay",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2123028898,
+      "character_name": "Airatomon Yanumano",
+      "corporation_id": 98806690,
+      "corporation_name": "Cosmos Phoenix Reborn",
+      "alliance_id": 99011291,
+      "alliance_name": "Cosmos Origins"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139123376/",
+    "total_value": 2940282298.25,
+    "final_attacker": {
+      "character_name": "Littlefingerer",
+      "corporation_name": "Lot Lizzard Heavy Industries",
+      "alliance_name": "Ligma Grindset",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139121230,
+    "killmail_hash": "c56c86ef82fa2533b710bfd78e50515ef3a6387e",
+    "kill_time": "2026-10-12T21:43:24Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002507,
+    "solar_system_name": "Abudban",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2113132905,
+      "character_name": "Jori Ashmane",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139121230/",
+    "total_value": 1496766484.33,
+    "final_attacker": {
+      "character_name": "Amun Ra1",
+      "corporation_name": "Infamy Inc",
+      "alliance_name": "That Escalated Quickly.",
+      "ship_type_name": "Vedmak"
+    }
+  },
+  {
     "killmail_id": 139109788,
     "killmail_hash": "d4bbf454ef091f831d3b1194fd30b3c5b5743b75",
     "kill_time": "2026-10-12T13:14:43Z",
@@ -2519,110 +2571,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138937818,
-    "killmail_hash": "1c6d7fc80ad43f9c5b5ae8339e0cf7357c28c886",
-    "kill_time": "2026-10-06T00:06:12Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121416339,
-      "character_name": "kusomaru",
-      "corporation_id": 98740637,
-      "corporation_name": "Imperio Galactico",
-      "alliance_id": 99012717,
-      "alliance_name": "Imperio Galactico."
-    },
-    "zkb_url": "https://zkillboard.com/kill/138937818/",
-    "total_value": 3347529508.95,
-    "final_attacker": {
-      "character_name": "Painter Alt 6",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138937148,
-    "killmail_hash": "de4b4ab74403681fc458c84bae4adbe365795432",
-    "kill_time": "2026-10-05T23:18:30Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120793766,
-      "character_name": "Minor Leakage",
-      "corporation_id": 98582333,
-      "corporation_name": "Last Stand Enterprises",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138937148/",
-    "total_value": 4401231250.57,
-    "final_attacker": {
-      "character_name": "Jared Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 138936542,
-    "killmail_hash": "11c63bd0b0ecde84619f7f4e89320baeed60df58",
-    "kill_time": "2026-10-05T22:35:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1751073359,
-      "character_name": "GRRRvana",
-      "corporation_id": 98509833,
-      "corporation_name": "GRRRvana Corporation GAWA",
-      "alliance_id": 99002329,
-      "alliance_name": "CAStabouts"
-    },
-    "zkb_url": "https://zkillboard.com/kill/138936542/",
-    "total_value": 9833197981.33,
-    "final_attacker": {
-      "character_name": "Jeffery Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 138934632,
-    "killmail_hash": "6708a2b5bdc1a3dd1583822f0c238b6541dc49a0",
-    "kill_time": "2026-10-05T20:46:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003795,
-    "solar_system_name": "Covryn",
-    "region_name": "Placid",
-    "victim": {
-      "character_id": 96018065,
-      "character_name": "Mua Kurvora",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/138934632/",
-    "total_value": 1541562686.73,
-    "final_attacker": {
-      "character_name": "Haussel Preldent",
-      "corporation_name": "University of Caille",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
