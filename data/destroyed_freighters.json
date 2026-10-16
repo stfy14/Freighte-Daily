@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 139210191,
+    "killmail_hash": "12c58fd7b7c8121f69bef323b885ec5b2c2a7214",
+    "kill_time": "2026-10-16T21:58:35Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94660589,
+      "character_name": "Demeter ZetaReticuli",
+      "corporation_id": 1000006,
+      "corporation_name": "Deep Core Mining Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139210191/",
+    "total_value": 1960741375,
+    "final_attacker": {
+      "character_name": "Jonas Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139209709,
+    "killmail_hash": "18af91384cb822a6053fd3328972d71b114b7e37",
+    "kill_time": "2026-10-16T21:39:03Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2113271305,
+      "character_name": "Silvia Aragon",
+      "corporation_id": 98544653,
+      "corporation_name": "Type-9",
+      "alliance_id": 99005697,
+      "alliance_name": "Sixth Empire"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139209709/",
+    "total_value": 2655369639.98,
+    "final_attacker": {
+      "character_name": "lazy Gankbear",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139208989,
+    "killmail_hash": "f49589d65cb6efbd92718642494b23f2648a19fc",
+    "kill_time": "2026-10-16T21:16:27Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 225378670,
+      "character_name": "Malak7834",
+      "corporation_id": 98172551,
+      "corporation_name": "DTS.Trainingscamp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139208989/",
+    "total_value": 2267341714.33,
+    "final_attacker": {
+      "character_name": "Hypnosis31",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139208215,
+    "killmail_hash": "a406e15b79378dab657215447472045d56387f04",
+    "kill_time": "2026-10-16T20:48:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2119741449,
+      "character_name": "Tempest04",
+      "corporation_id": 98778105,
+      "corporation_name": "Galactic Industries SA",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139208215/",
+    "total_value": 11673076890.57,
+    "final_attacker": {
+      "character_name": "Jimmy Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139206379,
+    "killmail_hash": "247f243e7a9bbb1704ddc751e87ecedb2588aef4",
+    "kill_time": "2026-10-16T19:34:56Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30005227,
+    "solar_system_name": "Iderion",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 91199436,
+      "character_name": "Lani Noobani",
+      "corporation_id": 98808859,
+      "corporation_name": "Wrong Hole Transportation",
+      "alliance_id": 99008985,
+      "alliance_name": "Seker Matar"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139206379/",
+    "total_value": 6442484389.59,
+    "final_attacker": {
+      "character_name": "NPC/Structure",
+      "corporation_name": "Amarr Civil Service",
+      "alliance_name": null,
+      "ship_type_name": "Amarr Surveillance General Major"
+    }
+  },
+  {
     "killmail_id": 139198788,
     "killmail_hash": "8ab5bef729ad10f22c527257e8f2302d03ccb37c",
     "kill_time": "2026-10-16T13:14:24Z",
@@ -2285,84 +2415,6 @@
       "corporation_name": "Nothing Comes To Mind",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139033651,
-    "killmail_hash": "80d6d235ec1317ede5f92c9d7d9d215bc97c6ded",
-    "kill_time": "2026-10-09T20:49:18Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 95646709,
-      "character_name": "Francis Penha",
-      "corporation_id": 98558686,
-      "corporation_name": "Edge Dancers",
-      "alliance_id": 498125261,
-      "alliance_name": "Test Alliance Please Ignore"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139033651/",
-    "total_value": 6253987990.82,
-    "final_attacker": {
-      "character_name": "SinthEmortal",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139032143,
-    "killmail_hash": "5d50492f1c43859c6ad9445222702f03eea797f7",
-    "kill_time": "2026-10-09T20:02:36Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002769,
-    "solar_system_name": "Enderailen",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94621567,
-      "character_name": "Dikobraz Grey",
-      "corporation_id": 98807703,
-      "corporation_name": "Obsidian Flow",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139032143/",
-    "total_value": 6958246392.6,
-    "final_attacker": {
-      "character_name": "Dmitri Petroyovik",
-      "corporation_name": "Blank-Space",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 139031889,
-    "killmail_hash": "4052dffccf014379bc995d9cf3f7fee206bdf752",
-    "kill_time": "2026-10-09T19:53:23Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30003905,
-    "solar_system_name": "Chamemi",
-    "region_name": "Khanid",
-    "victim": {
-      "character_id": 90504656,
-      "character_name": "Dominic Ronuken",
-      "corporation_id": 98840717,
-      "corporation_name": "Geode Core Industries Limited Liability Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139031889/",
-    "total_value": 1723786314.67,
-    "final_attacker": {
-      "character_name": "Nahnil",
-      "corporation_name": "Zawa's Fan Club",
-      "alliance_name": "A P E X",
-      "ship_type_name": "Panther"
     }
   }
 ]
