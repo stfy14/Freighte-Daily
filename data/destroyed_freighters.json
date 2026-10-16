@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139195682,
+    "killmail_hash": "49cbb86f7ff1db630859cb607fee5f2a16496a5f",
+    "kill_time": "2026-10-16T08:36:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002800,
+    "solar_system_name": "Haatomo",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123271433,
+      "character_name": "Tikko Saken",
+      "corporation_id": 98385653,
+      "corporation_name": "Cohenberg's Ethical Hauling",
+      "alliance_id": 99008434,
+      "alliance_name": "Freighter Friends"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139195682/",
+    "total_value": 9602015097.82,
+    "final_attacker": {
+      "character_name": "Sasha Cohenberg",
+      "corporation_name": "Cohenberg's Ethical Hauling",
+      "alliance_name": "Freighter Friends",
+      "ship_type_name": "Brutix"
+    }
+  },
+  {
+    "killmail_id": 139193168,
+    "killmail_hash": "611c141f61fa009481c550eace6bda2a58a5ace0",
+    "kill_time": "2026-10-16T04:03:37Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124414892,
+      "character_name": "Our App Inc",
+      "corporation_id": 98840062,
+      "corporation_name": "Odin. Orbital. Holdings.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139193168/",
+    "total_value": 13305576436.96,
+    "final_attacker": {
+      "character_name": "total0WNAG3",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139192982,
     "killmail_hash": "110667416c8ca9b0035d4f3b0e88e799ad75381d",
     "kill_time": "2026-10-16T03:47:57Z",
@@ -621,6 +673,32 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139152545,
+    "killmail_hash": "860c7a736a64d06f684fb8e581c8f02edc238a35",
+    "kill_time": "2026-10-14T11:39:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 513004437,
+      "character_name": "Corbin Drux",
+      "corporation_id": 98550819,
+      "corporation_name": "Panoptic Trading And Transport",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139152545/",
+    "total_value": 2002671164.54,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
     }
   },
   {
@@ -2337,58 +2415,6 @@
       "corporation_name": "STARCHASER Inc",
       "alliance_name": "Fraternity.",
       "ship_type_name": "Caracal Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139019043,
-    "killmail_hash": "4247d0365e0023604add1de8e2e553778707007f",
-    "kill_time": "2026-10-09T08:46:37Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2117102923,
-      "character_name": "rousse",
-      "corporation_id": 98637512,
-      "corporation_name": "Lunaoink",
-      "alliance_id": 99008783,
-      "alliance_name": "Olde Guarde Historical Preservation Society"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139019043/",
-    "total_value": 6898993993.16,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 139018741,
-    "killmail_hash": "c2a718773e92c9cbb40a5d859e0ca755c1e61a6e",
-    "kill_time": "2026-10-09T08:16:59Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000886,
-    "solar_system_name": "S8-NSQ",
-    "region_name": "Tribute",
-    "victim": {
-      "character_id": 131165732,
-      "character_name": "Toma Imulgard",
-      "corporation_id": 98760689,
-      "corporation_name": "CACX mission",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139018741/",
-    "total_value": 3611197897.87,
-    "final_attacker": {
-      "character_name": "Iamfish fishfish",
-      "corporation_name": "Royal Amarr Institute",
-      "alliance_name": null,
-      "ship_type_name": "Vedmak"
     }
   }
 ]
