@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139198788,
+    "killmail_hash": "8ab5bef729ad10f22c527257e8f2302d03ccb37c",
+    "kill_time": "2026-10-16T13:14:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30001249,
+    "solar_system_name": "X4-WL0",
+    "region_name": "Catch",
+    "victim": {
+      "character_id": 2124748922,
+      "character_name": "Zii Arjad",
+      "corporation_id": 98746392,
+      "corporation_name": "North Shore Ghost Army",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139198788/",
+    "total_value": 3786859520.81,
+    "final_attacker": {
+      "character_name": "Tau Ra",
+      "corporation_name": "Alibaba Federation of Logistics and Purchasing",
+      "alliance_name": "Skuffed Out.",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 139198646,
+    "killmail_hash": "91c61c5aa4ed185bc95dad101bfebd08b39a896b",
+    "kill_time": "2026-10-16T13:05:32Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003892,
+    "solar_system_name": "Efa",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2115804498,
+      "character_name": "Doctor Indy",
+      "corporation_id": 98664584,
+      "corporation_name": "Interstellar Industrial Core",
+      "alliance_id": 99014221,
+      "alliance_name": "Weapons of Mass Logistics"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139198646/",
+    "total_value": 1401658281.98,
+    "final_attacker": {
+      "character_name": "rolfcopter",
+      "corporation_name": "HAMMER of TITAN",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139195682,
     "killmail_hash": "49cbb86f7ff1db630859cb607fee5f2a16496a5f",
     "kill_time": "2026-10-16T08:36:58Z",
@@ -2311,110 +2363,6 @@
       "corporation_name": "Zawa's Fan Club",
       "alliance_name": "A P E X",
       "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 139030104,
-    "killmail_hash": "4b848b9ba430e6d556fc9724ca0e9d12180ccdc2",
-    "kill_time": "2026-10-09T18:45:32Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122274726,
-      "character_name": "Anjinho",
-      "corporation_id": 98633527,
-      "corporation_name": "Venomous Rebels Industries",
-      "alliance_id": 99013049,
-      "alliance_name": "The Rebels Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139030104/",
-    "total_value": 1534683134.65,
-    "final_attacker": {
-      "character_name": "Kira Sakken",
-      "corporation_name": "Tuda Suda Technology",
-      "alliance_name": "STAKAN UNIVERSE",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 139027748,
-    "killmail_hash": "46f9741abdcd473e548a7636760a651476c7abf9",
-    "kill_time": "2026-10-09T17:09:19Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002686,
-    "solar_system_name": "Olettiers",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124557659,
-      "character_name": "Cassian Caelum",
-      "corporation_id": 98839588,
-      "corporation_name": "Caelum Alt. Corp",
-      "alliance_id": 99010193,
-      "alliance_name": "Ivy League Alt Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139027748/",
-    "total_value": 2906093613.52,
-    "final_attacker": {
-      "character_name": "Alexingeras",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139027390,
-    "killmail_hash": "03d04e31e72607aa0df99262086b725e8e78b083",
-    "kill_time": "2026-10-09T16:51:12Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30004991,
-    "solar_system_name": "Vitrauze",
-    "region_name": "Essence",
-    "victim": {
-      "character_id": 94773840,
-      "character_name": "Pomolopolis",
-      "corporation_id": 98840680,
-      "corporation_name": "Sanguinis Logistica",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139027390/",
-    "total_value": 1938142567.86,
-    "final_attacker": {
-      "character_name": "PolestarxQIQ",
-      "corporation_name": "Silent Sojourner",
-      "alliance_name": "Shadow Cartel",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139023465,
-    "killmail_hash": "37d1b348318fdc8b24450d9dc75a480476299fa5",
-    "kill_time": "2026-10-09T13:52:51Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004811,
-    "solar_system_name": "4-P4FE",
-    "region_name": "Tenerifis",
-    "victim": {
-      "character_id": 2119491506,
-      "character_name": "DisasterKuz",
-      "corporation_id": 98428777,
-      "corporation_name": "North Korean Nuclear Research",
-      "alliance_id": 99003214,
-      "alliance_name": "Brave Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139023465/",
-    "total_value": 1514949393.07,
-    "final_attacker": {
-      "character_name": "Nosi Umid",
-      "corporation_name": "STARCHASER Inc",
-      "alliance_name": "Fraternity.",
-      "ship_type_name": "Caracal Navy Issue"
     }
   }
 ]
