@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139212982,
+    "killmail_hash": "e23601dfee2da3938b205a49fa5cd2730294183a",
+    "kill_time": "2026-10-17T00:47:39Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 90401070,
+      "character_name": "Le Oumis",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139212982/",
+    "total_value": 11905777479.71,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139212836,
+    "killmail_hash": "69eb23b77965b2c2be9c35aaa19d84f1feb06eee",
+    "kill_time": "2026-10-17T00:37:08Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121704993,
+      "character_name": "Bojeck Third",
+      "corporation_id": 98748221,
+      "corporation_name": "Don't touch my wreck",
+      "alliance_id": 99012449,
+      "alliance_name": "TOXIC PLAYERS."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139212836/",
+    "total_value": 1523408007627.55,
+    "final_attacker": {
+      "character_name": "Bojeck hoursman",
+      "corporation_name": "Don't touch my wreck",
+      "alliance_name": "TOXIC PLAYERS.",
+      "ship_type_name": "Moreau YC128 Campaign Bus"
+    }
+  },
+  {
+    "killmail_id": 139212176,
+    "killmail_hash": "7df7c46f5e0133fed4971a5cffff1f215e2984e9",
+    "kill_time": "2026-10-16T23:54:43Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002642,
+    "solar_system_name": "Iyen-Oursta",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124471648,
+      "character_name": "Auro 05",
+      "corporation_id": 98809273,
+      "corporation_name": "Air Space Explorer Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139212176/",
+    "total_value": 8751111108.05,
+    "final_attacker": {
+      "character_name": "Peet-Seeeep Avar Shaman",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
     "killmail_id": 139210191,
     "killmail_hash": "12c58fd7b7c8121f69bef323b885ec5b2c2a7214",
     "kill_time": "2026-10-16T21:58:35Z",
@@ -2389,32 +2467,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139036780,
-    "killmail_hash": "32ade03c74fd15bbb951b15726cdb8d85801a14f",
-    "kill_time": "2026-10-09T23:14:01Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002742,
-    "solar_system_name": "Erila",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95076317,
-      "character_name": "Chuy Tazinas",
-      "corporation_id": 98322573,
-      "corporation_name": "Green Leaf Logistics",
-      "alliance_id": 99004108,
-      "alliance_name": "The Great Knights Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139036780/",
-    "total_value": 23083446646.01,
-    "final_attacker": {
-      "character_name": "Lilac Rising",
-      "corporation_name": "Nothing Comes To Mind",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
