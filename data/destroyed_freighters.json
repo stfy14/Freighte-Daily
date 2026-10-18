@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 139242670,
+    "killmail_hash": "2bad47ad27567b90f42d190e659a8bcc3901e932",
+    "kill_time": "2026-10-18T01:03:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117469875,
+      "character_name": "Bubba87",
+      "corporation_id": 1000115,
+      "corporation_name": "University of Caille",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139242670/",
+    "total_value": 14692500357.84,
+    "final_attacker": {
+      "character_name": "Jeremiah Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139241063,
+    "killmail_hash": "5e14d7b5f4501f508fd89e40ecd27265b0b0d95b",
+    "kill_time": "2026-10-17T23:40:26Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 336973486,
+      "character_name": "Nellz",
+      "corporation_id": 98582333,
+      "corporation_name": "Last Stand Enterprises",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139241063/",
+    "total_value": 2972934043.63,
+    "final_attacker": {
+      "character_name": "Josh Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139240311,
+    "killmail_hash": "e7b136315f355bdb921c103cfc505a45350fa206",
+    "kill_time": "2026-10-17T23:00:52Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30004740,
+    "solar_system_name": "6Q-R50",
+    "region_name": "Delve",
+    "victim": {
+      "character_id": 95467053,
+      "character_name": "Bethany Everest",
+      "corporation_id": 98842097,
+      "corporation_name": "Heartbeats Wanted",
+      "alliance_id": 99013941,
+      "alliance_name": "James Webb Space Telescope"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139240311/",
+    "total_value": 7090643251.62,
+    "final_attacker": {
+      "character_name": "Capitan Garik",
+      "corporation_name": "Red's Swashbucklers Corp",
+      "alliance_name": "Can i bring my Drake...",
+      "ship_type_name": "Hurricane"
+    }
+  },
+  {
+    "killmail_id": 139239757,
+    "killmail_hash": "31c458062b535ee1a4f3b08ced99f2cdb9398031",
+    "kill_time": "2026-10-17T22:49:48Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 94967722,
+      "character_name": "Rinzler Ghost",
+      "corporation_id": 98498768,
+      "corporation_name": "Project-Copernicus",
+      "alliance_id": 99014733,
+      "alliance_name": "Cursed Cartel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139239757/",
+    "total_value": 7970756644.13,
+    "final_attacker": {
+      "character_name": "Hibta Janau",
+      "corporation_name": "Shooting Blues Everyday",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139239493,
+    "killmail_hash": "c6a62c0ab169ac7cca4a7c438d6550d0f4493864",
+    "kill_time": "2026-10-17T22:41:52Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30000118,
+    "solar_system_name": "Uanzin",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 2124201847,
+      "character_name": "Melkor Elrond",
+      "corporation_id": 744976238,
+      "corporation_name": "Mine 'N' Refine",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139239493/",
+    "total_value": 7085704087.43,
+    "final_attacker": {
+      "character_name": "McSkooshkins",
+      "corporation_name": "Dominion Guild",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
     "killmail_id": 139230739,
     "killmail_hash": "c3f02b5caf5c898cf37e3ebbe1116ad32a83b203",
     "kill_time": "2026-10-17T17:15:16Z",
