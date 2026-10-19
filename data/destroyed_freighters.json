@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 139280227,
+    "killmail_hash": "607db0441285224aa1743b6b788805d1ef052363",
+    "kill_time": "2026-10-19T13:04:38Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002666,
+    "solar_system_name": "Basgerin",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2117854613,
+      "character_name": "Jack Myrka",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139280227/",
+    "total_value": 1481328397.3,
+    "final_attacker": {
+      "character_name": "Xtra Squishy lol",
+      "corporation_name": "Jerkasaurus Wrecks Inc.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Karura"
+    }
+  },
+  {
+    "killmail_id": 139279337,
+    "killmail_hash": "28532ab2f2fb3f7c8cef43d88f8b3cfd23ba8fdf",
+    "kill_time": "2026-10-19T12:14:53Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002666,
+    "solar_system_name": "Basgerin",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2116437693,
+      "character_name": "Jail Ostus",
+      "corporation_id": 98665044,
+      "corporation_name": "Xab Ibi Corporationhhh",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139279337/",
+    "total_value": 9346154622.73,
+    "final_attacker": {
+      "character_name": "Rotten Ralph",
+      "corporation_name": "Jerkasaurus Wrecks Inc.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 139277140,
+    "killmail_hash": "46e7a8f5cd86ad27e9e03d921b95664c25198279",
+    "kill_time": "2026-10-19T08:44:42Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124177417,
+      "character_name": "DGDMinerD",
+      "corporation_id": 98775577,
+      "corporation_name": "Exiliados",
+      "alliance_id": 99014894,
+      "alliance_name": "From Lost To The Wormhole."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139277140/",
+    "total_value": 1495102518.78,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139276828,
+    "killmail_hash": "b8e57fa238c8429c934bcb303a980151f049df5b",
+    "kill_time": "2026-10-19T08:06:40Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124514984,
+      "character_name": "Glorpo Schlorpo",
+      "corporation_id": 1000169,
+      "corporation_name": "Center for Advanced Studies",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139276828/",
+    "total_value": 1530962593.92,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 139276418,
+    "killmail_hash": "bd8d7c9ccc28daed6a8e516e056694cc0a8da98b",
+    "kill_time": "2026-10-19T07:22:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91733165,
+      "character_name": "MONGOL PSV",
+      "corporation_id": 98631060,
+      "corporation_name": "Russian Space Academy",
+      "alliance_id": 99012070,
+      "alliance_name": "PEPE SQUAD"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139276418/",
+    "total_value": 1522267611.92,
+    "final_attacker": {
+      "character_name": "zLegion 14",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139274373,
+    "killmail_hash": "203ec754773284c580ca92c1ffb7fe8e6bca804b",
+    "kill_time": "2026-10-19T03:35:05Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30001390,
+    "solar_system_name": "Pakkonen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93525549,
+      "character_name": "Sveta Markina",
+      "corporation_id": 98610412,
+      "corporation_name": "Princess Kidnapped Systems",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139274373/",
+    "total_value": 7072558791.2,
+    "final_attacker": {
+      "character_name": "Supreme Being1",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 139272966,
     "killmail_hash": "79690dea9bcc9de13c5a381df8b877a8083e2e1d",
     "kill_time": "2026-10-19T01:47:47Z",
@@ -257,6 +413,32 @@
       "corporation_name": "Shooting Blues Everyday",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139260799,
+    "killmail_hash": "1223f9c2188ca06225d0e3a47ee8dfb1a560920f",
+    "kill_time": "2026-10-18T16:46:25Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002647,
+    "solar_system_name": "Ignoitton",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2120413296,
+      "character_name": "Asurend",
+      "corporation_id": 98826250,
+      "corporation_name": "What is going on here",
+      "alliance_id": 99015200,
+      "alliance_name": "Siberian Holding Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139260799/",
+    "total_value": 8833957610.26,
+    "final_attacker": {
+      "character_name": "zefirchik",
+      "corporation_name": "BDSM History",
+      "alliance_name": null,
+      "ship_type_name": "Megathron"
     }
   },
   {
@@ -2727,84 +2909,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139109788,
-    "killmail_hash": "d4bbf454ef091f831d3b1194fd30b3c5b5743b75",
-    "kill_time": "2026-10-12T13:14:43Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000037,
-    "solar_system_name": "Uplingur",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2120648680,
-      "character_name": "Brain Force X",
-      "corporation_id": 2043331849,
-      "corporation_name": "Evermore Warriors",
-      "alliance_id": 99008788,
-      "alliance_name": "The Skeleton Crew"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139109788/",
-    "total_value": 1496189979.57,
-    "final_attacker": {
-      "character_name": "Kaye Swords",
-      "corporation_name": "Dominion Guild",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139106286,
-    "killmail_hash": "e2aae1266b1df69afb248a92d31b317b7ed4c13e",
-    "kill_time": "2026-10-12T08:15:09Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123925302,
-      "character_name": "xEdge Industrial HS",
-      "corporation_id": 98820125,
-      "corporation_name": "xEdge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139106286/",
-    "total_value": 9300132184.61,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
-    }
-  },
-  {
-    "killmail_id": 139104206,
-    "killmail_hash": "b558ac84a58fc525f445270b46ce97513a87a7ca",
-    "kill_time": "2026-10-12T04:24:22Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 94803045,
-      "character_name": "Padme Shayiskhun",
-      "corporation_id": 98822961,
-      "corporation_name": "Widget Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139104206/",
-    "total_value": 2291578176.97,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
     }
   }
 ]
