@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 139287768,
+    "killmail_hash": "a153cd212b8408fe2dc3cfceb2d50593895986a8",
+    "kill_time": "2026-10-19T19:59:39Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2123093818,
+      "character_name": "Kainkan Neya Kahoudi",
+      "corporation_id": 98794506,
+      "corporation_name": "Verdantine Dynamics",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139287768/",
+    "total_value": 3334621109.8,
+    "final_attacker": {
+      "character_name": "GeassCC",
+      "corporation_name": "Nekogame",
+      "alliance_name": "COASTAL BROTHERHOOD",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 139285193,
+    "killmail_hash": "309e3c757fafa3cf4d122a82421451bfea8bab5b",
+    "kill_time": "2026-10-19T17:45:33Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112364450,
+      "character_name": "Victor Pralinos",
+      "corporation_id": 98584491,
+      "corporation_name": "Pralinos Inc",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139285193/",
+    "total_value": 7056968917.46,
+    "final_attacker": {
+      "character_name": "Spodumain Slurper",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
+    "killmail_id": 139284998,
+    "killmail_hash": "da8aac52e749c183cadca219361114463c5b3224",
+    "kill_time": "2026-10-19T17:34:09Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 91446007,
+      "character_name": "SSmaN24",
+      "corporation_id": 98409330,
+      "corporation_name": "Ascendance",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139284998/",
+    "total_value": 2799449526.24,
+    "final_attacker": {
+      "character_name": "D3nn",
+      "corporation_name": "I Have a Plan",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Valravn"
+    }
+  },
+  {
+    "killmail_id": 139284997,
+    "killmail_hash": "518b2f1008d6f7047245be83ecc8d9e9289b5789",
+    "kill_time": "2026-10-19T17:34:03Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003935,
+    "solar_system_name": "Irmalin",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 93053845,
+      "character_name": "Igor Wodkowicz",
+      "corporation_id": 98409330,
+      "corporation_name": "Ascendance",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139284997/",
+    "total_value": 3245038927.08,
+    "final_attacker": {
+      "character_name": "munsking",
+      "corporation_name": "Fat Dragon Pirate Co.",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 139284145,
+    "killmail_hash": "60906d29a6aced600e0e4b060933bb42898761fe",
+    "kill_time": "2026-10-19T16:40:22Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30003892,
+    "solar_system_name": "Efa",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 94096940,
+      "character_name": "Abd-al-Aziz",
+      "corporation_id": 98492180,
+      "corporation_name": "Heavenly Armament Pavilion",
+      "alliance_id": 99010468,
+      "alliance_name": "Weapons Of Mass Production."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139284145/",
+    "total_value": 1439524834.51,
+    "final_attacker": {
+      "character_name": "Nahnil",
+      "corporation_name": "Zawa's Fan Club",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
     "killmail_id": 139280227,
     "killmail_hash": "607db0441285224aa1743b6b788805d1ef052363",
     "kill_time": "2026-10-19T13:04:38Z",
