@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139272966,
+    "killmail_hash": "79690dea9bcc9de13c5a381df8b877a8083e2e1d",
+    "kill_time": "2026-10-19T01:47:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1097759397,
+      "character_name": "DanRandolph",
+      "corporation_id": 554438648,
+      "corporation_name": "M M Enterprise Inc",
+      "alliance_id": 1717045815,
+      "alliance_name": "The War Consultants"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139272966/",
+    "total_value": 8365295529.05,
+    "final_attacker": {
+      "character_name": "13th Of Several",
+      "corporation_name": "Emergency Temporal Shift.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139272681,
+    "killmail_hash": "99396a01b6dc765b7651020f0c594642e2602333",
+    "kill_time": "2026-10-19T01:27:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115567273,
+      "character_name": "Fax Tekitsu",
+      "corporation_id": 1000167,
+      "corporation_name": "State War Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139272681/",
+    "total_value": 3838205031.56,
+    "final_attacker": {
+      "character_name": "Jax Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139268586,
     "killmail_hash": "ddf36324b6900d08e092f3f84716ef7d49d59e3a",
     "kill_time": "2026-10-18T21:09:35Z",
