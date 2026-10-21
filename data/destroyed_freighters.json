@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 139318530,
+    "killmail_hash": "f4ba2a50f7377b32773df81249951c70cac2cd40",
+    "kill_time": "2026-10-21T10:39:55Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93025835,
+      "character_name": "Junior Santiago",
+      "corporation_id": 1080283457,
+      "corporation_name": "Black Reign",
+      "alliance_id": 99005830,
+      "alliance_name": "Memento Moriendo"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139318530/",
+    "total_value": 7594638390.11,
+    "final_attacker": {
+      "character_name": "zLegion E",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
+    "killmail_id": 139316895,
+    "killmail_hash": "d43fc2aba6e9c125ba685f8ad3614427ce5a6cdb",
+    "kill_time": "2026-10-21T07:52:24Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96319514,
+      "character_name": "gadget grublet",
+      "corporation_id": 98286981,
+      "corporation_name": "Bluehogs",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139316895/",
+    "total_value": 3506296519.6,
+    "final_attacker": {
+      "character_name": "SugarMomma",
+      "corporation_name": "The Northerners",
+      "alliance_name": "Weapons Of Mass Production.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 139316893,
+    "killmail_hash": "251b47a705aabb8e67f0207e86a47da583ab84cf",
+    "kill_time": "2026-10-21T07:52:19Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 95959774,
+      "character_name": "Harley Edwards",
+      "corporation_id": 98083089,
+      "corporation_name": "Redhogs",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139316893/",
+    "total_value": 1940133843.6,
+    "final_attacker": {
+      "character_name": "Zariel Van",
+      "corporation_name": "CBC Interstellar",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 139316890,
+    "killmail_hash": "47f3e4234de838a3770a2d94e89e6fb547a78452",
+    "kill_time": "2026-10-21T07:52:07Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 96297956,
+      "character_name": "gizmoguy grublet",
+      "corporation_id": 98083089,
+      "corporation_name": "Redhogs",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139316890/",
+    "total_value": 1940133843.6,
+    "final_attacker": {
+      "character_name": "TaikoSG",
+      "corporation_name": "Splash Inc.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 139314063,
     "killmail_hash": "a81d176274ebb94982d92b015c97c995b6f7b595",
     "kill_time": "2026-10-21T03:23:32Z",
@@ -2779,32 +2883,6 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139152545,
-    "killmail_hash": "860c7a736a64d06f684fb8e581c8f02edc238a35",
-    "kill_time": "2026-10-14T11:39:09Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000144,
-    "solar_system_name": "Perimeter",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 513004437,
-      "character_name": "Corbin Drux",
-      "corporation_id": 98550819,
-      "corporation_name": "Panoptic Trading And Transport",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139152545/",
-    "total_value": 2002671164.54,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
     }
   }
 ]
