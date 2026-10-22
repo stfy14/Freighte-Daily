@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 139340584,
+    "killmail_hash": "5edbcaffb8722eb7ca095ee036adfd7730ec2eec",
+    "kill_time": "2026-10-22T12:42:25Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 93659512,
+      "character_name": "Loretta Lexis",
+      "corporation_id": 98542664,
+      "corporation_name": "Braindead Logistics",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139340584/",
+    "total_value": 36410252099.16,
+    "final_attacker": {
+      "character_name": "Prime Admiral",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
+    }
+  },
+  {
     "killmail_id": 139333068,
     "killmail_hash": "fd50ab1d060d9e9812ea4ba8170ba1607feb1142",
     "kill_time": "2026-10-22T01:36:42Z",
@@ -465,6 +491,32 @@
       "corporation_name": "Scarlet Crusade SC",
       "alliance_name": "Bio-Tentacle Labs",
       "ship_type_name": "Tempest"
+    }
+  },
+  {
+    "killmail_id": 139295661,
+    "killmail_hash": "935b7d22ac2cfc3b52f4599046d1d7e3196905a6",
+    "kill_time": "2026-10-20T07:02:03Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 1548033852,
+      "character_name": "glukzero3",
+      "corporation_id": 98840930,
+      "corporation_name": "TransGlobal Logistics",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139295661/",
+    "total_value": 9388609611.57,
+    "final_attacker": {
+      "character_name": "zLegion M",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Oracle"
     }
   },
   {
