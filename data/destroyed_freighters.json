@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139371378,
+    "killmail_hash": "50a5f2bf72de3c72949d6f04ded366ed357ac336",
+    "kill_time": "2026-10-23T19:02:12Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 92818279,
+      "character_name": "Sofia Malakhov",
+      "corporation_id": 98651048,
+      "corporation_name": "Absolute Order XVI",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139371378/",
+    "total_value": 5325881311.1,
+    "final_attacker": {
+      "character_name": "Justin Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139370018,
+    "killmail_hash": "4e74d40da7711892a062159315de574e33cca7b6",
+    "kill_time": "2026-10-23T18:26:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93719510,
+      "character_name": "Essen Scheric",
+      "corporation_id": 98299802,
+      "corporation_name": "Wicked Exiles",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139370018/",
+    "total_value": 1581702942.3,
+    "final_attacker": {
+      "character_name": "Jake Merlins",
+      "corporation_name": "Shooting Blues Everyday",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139368809,
+    "killmail_hash": "edb62f7081342bd96a8fe0e7b1eaae1fc8bdf436",
+    "kill_time": "2026-10-23T17:46:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118015035,
+      "character_name": "Sara Bauman",
+      "corporation_id": 98709229,
+      "corporation_name": "0111 1110 0110",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139368809/",
+    "total_value": 1483326030.71,
+    "final_attacker": {
+      "character_name": "Jack Merlins",
+      "corporation_name": "Shooting Blues Everyday",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139360747,
     "killmail_hash": "800425ad8a60fcdb830bd020c8eaf7227c4d1aaf",
     "kill_time": "2026-10-23T09:50:53Z",
@@ -2389,32 +2467,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139206379,
-    "killmail_hash": "247f243e7a9bbb1704ddc751e87ecedb2588aef4",
-    "kill_time": "2026-10-16T19:34:56Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30005227,
-    "solar_system_name": "Iderion",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 91199436,
-      "character_name": "Lani Noobani",
-      "corporation_id": 98808859,
-      "corporation_name": "Wrong Hole Transportation",
-      "alliance_id": 99008985,
-      "alliance_name": "Seker Matar"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139206379/",
-    "total_value": 6442484389.59,
-    "final_attacker": {
-      "character_name": "NPC/Structure",
-      "corporation_name": "Amarr Civil Service",
-      "alliance_name": null,
-      "ship_type_name": "Amarr Surveillance General Major"
     }
   }
 ]
