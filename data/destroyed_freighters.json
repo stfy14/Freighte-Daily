@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 139391011,
+    "killmail_hash": "425ea69230d48ad8824bb14848c88393f3808fd9",
+    "kill_time": "2026-10-24T12:41:15Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004333,
+    "solar_system_name": "BKG-Q2",
+    "region_name": "Branch",
+    "victim": {
+      "character_id": 139820181,
+      "character_name": "Myacese",
+      "corporation_id": 402487260,
+      "corporation_name": "FinFleet",
+      "alliance_id": 1727758877,
+      "alliance_name": "Northern Coalition."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139391011/",
+    "total_value": 1609928919.77,
+    "final_attacker": {
+      "character_name": "Stevenson Price",
+      "corporation_name": "Kriegsmarinewerft",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139389791,
     "killmail_hash": "1f702a1f094a5723a0e1d132248352d93719bf0a",
     "kill_time": "2026-10-24T11:36:34Z",
@@ -2597,58 +2623,6 @@
       "corporation_name": "Dominion Guild",
       "alliance_name": "Sedition.",
       "ship_type_name": "Gnosis"
-    }
-  },
-  {
-    "killmail_id": 139230739,
-    "killmail_hash": "c3f02b5caf5c898cf37e3ebbe1116ad32a83b203",
-    "kill_time": "2026-10-17T17:15:16Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002084,
-    "solar_system_name": "Aset",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2113965316,
-      "character_name": "Mainer Djons",
-      "corporation_id": 98141559,
-      "corporation_name": "Universal Prime Syndicate",
-      "alliance_id": 99005709,
-      "alliance_name": "Wild Souls"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139230739/",
-    "total_value": 2843306492.23,
-    "final_attacker": {
-      "character_name": "Alex Bytha",
-      "corporation_name": "Packasting Corp",
-      "alliance_name": "Really Power Blob. Alliance",
-      "ship_type_name": "Exequror Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139225993,
-    "killmail_hash": "2e7c137e49efa2f61a6a49538381ff8a67fd9a5e",
-    "kill_time": "2026-10-17T14:06:11Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001444,
-    "solar_system_name": "Oimmo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2115213449,
-      "character_name": "Neil Wait-Jita",
-      "corporation_id": 98507124,
-      "corporation_name": "S.F Express",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139225993/",
-    "total_value": 22317874196.59,
-    "final_attacker": {
-      "character_name": "zLegion R",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
