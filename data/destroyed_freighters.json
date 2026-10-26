@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139439869,
+    "killmail_hash": "695c8ac33a6029a12a0c2e8a0d2f42a07b5892dc",
+    "kill_time": "2026-10-26T02:11:59Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124795577,
+      "character_name": "MSC Commander",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139439869/",
+    "total_value": 4306947436.91,
+    "final_attacker": {
+      "character_name": "sueface",
+      "corporation_name": "Salted Fish Inc",
+      "alliance_name": "The Black Shores",
+      "ship_type_name": "Astarte"
+    }
+  },
+  {
+    "killmail_id": 139437873,
+    "killmail_hash": "8299d725a92f2871ea2dbe7f5a4fb98644e572c2",
+    "kill_time": "2026-10-25T23:57:14Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124795577,
+      "character_name": "MSC Commander",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139437873/",
+    "total_value": 3723015904.54,
+    "final_attacker": {
+      "character_name": "Justin Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139434091,
     "killmail_hash": "87c82397ecb09d1de98a48bf4c3a428837920cf4",
     "kill_time": "2026-10-25T20:43:34Z",
@@ -2336,84 +2388,6 @@
       "character_name": "zLegion 14",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139274373,
-    "killmail_hash": "203ec754773284c580ca92c1ffb7fe8e6bca804b",
-    "kill_time": "2026-10-19T03:35:05Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001390,
-    "solar_system_name": "Pakkonen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93525549,
-      "character_name": "Sveta Markina",
-      "corporation_id": 98610412,
-      "corporation_name": "Princess Kidnapped Systems",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139274373/",
-    "total_value": 7072558791.2,
-    "final_attacker": {
-      "character_name": "Supreme Being1",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 139272966,
-    "killmail_hash": "79690dea9bcc9de13c5a381df8b877a8083e2e1d",
-    "kill_time": "2026-10-19T01:47:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1097759397,
-      "character_name": "DanRandolph",
-      "corporation_id": 554438648,
-      "corporation_name": "M M Enterprise Inc",
-      "alliance_id": 1717045815,
-      "alliance_name": "The War Consultants"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139272966/",
-    "total_value": 8365295529.05,
-    "final_attacker": {
-      "character_name": "13th Of Several",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139272681,
-    "killmail_hash": "99396a01b6dc765b7651020f0c594642e2602333",
-    "kill_time": "2026-10-19T01:27:37Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115567273,
-      "character_name": "Fax Tekitsu",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139272681/",
-    "total_value": 3838205031.56,
-    "final_attacker": {
-      "character_name": "Jax Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
     }
   }
