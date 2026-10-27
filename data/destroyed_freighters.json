@@ -1,5 +1,135 @@
 [
   {
+    "killmail_id": 139463715,
+    "killmail_hash": "eaa348293d3865c2d85c112e3126252fac57e173",
+    "kill_time": "2026-10-27T03:24:52Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003460,
+    "solar_system_name": "Offikatlin",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119503125,
+      "character_name": "Azarok Aldain Mattersmith",
+      "corporation_id": 98704048,
+      "corporation_name": "Valhalla Vanguard of Vorta",
+      "alliance_id": 99011602,
+      "alliance_name": "Valkyries of Asgard"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139463715/",
+    "total_value": 8737070237.43,
+    "final_attacker": {
+      "character_name": "Rhubarb Pye",
+      "corporation_name": "Lazerhawks",
+      "alliance_name": "L A Z E R H A W K S",
+      "ship_type_name": "Tengu"
+    }
+  },
+  {
+    "killmail_id": 139463446,
+    "killmail_hash": "b4aaa8c35d9ed2076c99c4dc06c36580b0edd1cd",
+    "kill_time": "2026-10-27T03:08:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124732181,
+      "character_name": "AsahiKASEI",
+      "corporation_id": 98713511,
+      "corporation_name": "nihonium 113th Fleet",
+      "alliance_id": 99012697,
+      "alliance_name": "High Elements Alliance"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139463446/",
+    "total_value": 1455562428.95,
+    "final_attacker": {
+      "character_name": "Joel Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139462127,
+    "killmail_hash": "fe061ba76610412567f8d1d4dc0a54f26a21cbd7",
+    "kill_time": "2026-10-27T01:51:20Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002805,
+    "solar_system_name": "Anttiri",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 164191841,
+      "character_name": "Hazardous Mojo",
+      "corporation_id": 98074550,
+      "corporation_name": "Meus Frater Custodis",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139462127/",
+    "total_value": 11339865201,
+    "final_attacker": {
+      "character_name": "Sidewalk Enforcer",
+      "corporation_name": "Mine 'N' Refine",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139458702,
+    "killmail_hash": "5d2c2b3d0d7364aac1bd257ba90ab9c496a85c96",
+    "kill_time": "2026-10-26T22:18:01Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124189141,
+      "character_name": "Ryri Itige",
+      "corporation_id": 98799780,
+      "corporation_name": "Walkurja",
+      "alliance_id": 99012279,
+      "alliance_name": "Sportmodel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139458702/",
+    "total_value": 10858137100.05,
+    "final_attacker": {
+      "character_name": "Jack Munny",
+      "corporation_name": "Did he say Jump",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Vigilant"
+    }
+  },
+  {
+    "killmail_id": 139457832,
+    "killmail_hash": "848d6badd01be1a74bc32d5a3e5fc8870b4d28cd",
+    "kill_time": "2026-10-26T21:24:48Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1311524943,
+      "character_name": "Santehnik Potapych",
+      "corporation_id": 778409996,
+      "corporation_name": "The Dry Stout Society",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139457832/",
+    "total_value": 8109088125.31,
+    "final_attacker": {
+      "character_name": "Astra3a Nova",
+      "corporation_name": "Malakim Zealots",
+      "alliance_name": null,
+      "ship_type_name": "Devoter"
+    }
+  },
+  {
     "killmail_id": 139450400,
     "killmail_hash": "2b18b6d4c8c2ddd83b966747b733c1deab7aafbc",
     "kill_time": "2026-10-26T15:04:33Z",
@@ -2181,58 +2311,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 139292925,
-    "killmail_hash": "fa297329bdc73fbc7d054fc7116ad5d66cdb3e57",
-    "kill_time": "2026-10-20T02:20:42Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2123272702,
-      "character_name": "Urva Yanumano",
-      "corporation_id": 98839868,
-      "corporation_name": "Leviathan Stellar Foundry Latino",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139292925/",
-    "total_value": 14901573946.35,
-    "final_attacker": {
-      "character_name": "Dankguy",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139292134,
-    "killmail_hash": "e4cf23299291075d0ea7fb9d9b90d1e1ebcbc49b",
-    "kill_time": "2026-10-20T01:13:14Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002647,
-    "solar_system_name": "Ignoitton",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2122133286,
-      "character_name": "Potmidilain Ydier Tivianne",
-      "corporation_id": 98778576,
-      "corporation_name": "Smiley's People",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139292134/",
-    "total_value": 7025738544.97,
-    "final_attacker": {
-      "character_name": "Salt Machin3",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Widow"
     }
   }
 ]
