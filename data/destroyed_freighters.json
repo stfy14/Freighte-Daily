@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139498830,
+    "killmail_hash": "6295da7e903a48ae2fbbb7f2d66c39b7ea21023b",
+    "kill_time": "2026-10-28T18:36:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2114988623,
+      "character_name": "Pelotka E",
+      "corporation_id": 98678738,
+      "corporation_name": "Fractal Core",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139498830/",
+    "total_value": 4140394379.61,
+    "final_attacker": {
+      "character_name": "Rhoshan Ekkeli",
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 139496112,
+    "killmail_hash": "8544cac6c6d9bbb3e64f2925de9e9530dae66750",
+    "kill_time": "2026-10-28T15:46:48Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1384015409,
+      "character_name": "Nick Bison",
+      "corporation_id": 297029457,
+      "corporation_name": "Bison Industrial Inc",
+      "alliance_id": 99014362,
+      "alliance_name": "Paws n Claws Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139496112/",
+    "total_value": 6841776909.27,
+    "final_attacker": {
+      "character_name": "Malvina Bukavitsky",
+      "corporation_name": "Science and Trade Institute",
+      "alliance_name": null,
+      "ship_type_name": "Brutix"
+    }
+  },
+  {
     "killmail_id": 139492163,
     "killmail_hash": "89429418d404554d190352ec310347fecd685306",
     "kill_time": "2026-10-28T11:36:23Z",
