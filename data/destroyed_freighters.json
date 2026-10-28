@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139492163,
+    "killmail_hash": "89429418d404554d190352ec310347fecd685306",
+    "kill_time": "2026-10-28T11:36:23Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004019,
+    "solar_system_name": "3-FKCZ",
+    "region_name": "Querious",
+    "victim": {
+      "character_id": 2118223044,
+      "character_name": "DarkerDY",
+      "corporation_id": 98841123,
+      "corporation_name": "Deadspace Spearhead",
+      "alliance_id": 99010468,
+      "alliance_name": "Weapons Of Mass Production."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139492163/",
+    "total_value": 3040426363.04,
+    "final_attacker": {
+      "character_name": "Nahnil",
+      "corporation_name": "Zawa's Fan Club",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 139491887,
+    "killmail_hash": "80e95fe06453d628195598927622550d445cba67",
+    "kill_time": "2026-10-28T10:45:01Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001082,
+    "solar_system_name": "NIM-FY",
+    "region_name": "Malpais",
+    "victim": {
+      "character_id": 2113243422,
+      "character_name": "Anro Verrianis",
+      "corporation_id": 98530653,
+      "corporation_name": "Verrianis Mining Conglomerata",
+      "alliance_id": 99008788,
+      "alliance_name": "The Skeleton Crew"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139491887/",
+    "total_value": 7803444639.56,
+    "final_attacker": {
+      "character_name": "Agrippa Arkaral",
+      "corporation_name": "Blackwater USA Inc.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Leshak"
+    }
+  },
+  {
+    "killmail_id": 139490307,
+    "killmail_hash": "b7e45ed16420e0aecb0ab5d4ab869bb3b7d78dd3",
+    "kill_time": "2026-10-28T07:38:04Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2118109492,
+      "character_name": "Dragon-God",
+      "corporation_id": 98717126,
+      "corporation_name": "Dragon Commercial Bank",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139490307/",
+    "total_value": 1449784084.74,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 139487389,
     "killmail_hash": "a740ba8298b88fbb7eac66b3959ea6748b1897aa",
     "kill_time": "2026-10-28T02:55:52Z",
@@ -358,6 +436,32 @@
     "total_value": 2775321399.24,
     "final_attacker": {
       "character_name": "zLegion 08",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139467385,
+    "killmail_hash": "0dab731fbb01c671ec71a72b01e4b04713180a77",
+    "kill_time": "2026-10-27T08:53:30Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2112501783,
+      "character_name": "Talion Starzise",
+      "corporation_id": 98818601,
+      "corporation_name": "Cult of Magik",
+      "alliance_id": 99014712,
+      "alliance_name": "Congregation of Magiks"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139467385/",
+    "total_value": 3816698432.27,
+    "final_attacker": {
+      "character_name": "zLegion 02",
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
@@ -2259,110 +2363,6 @@
       "corporation_name": "Stimulus",
       "alliance_name": "Rote Kapelle",
       "ship_type_name": "Ikitursa"
-    }
-  },
-  {
-    "killmail_id": 139318530,
-    "killmail_hash": "f4ba2a50f7377b32773df81249951c70cac2cd40",
-    "kill_time": "2026-10-21T10:39:55Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001444,
-    "solar_system_name": "Oimmo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93025835,
-      "character_name": "Junior Santiago",
-      "corporation_id": 1080283457,
-      "corporation_name": "Black Reign",
-      "alliance_id": 99005830,
-      "alliance_name": "Memento Moriendo"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139318530/",
-    "total_value": 7594638390.11,
-    "final_attacker": {
-      "character_name": "zLegion E",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 139316895,
-    "killmail_hash": "d43fc2aba6e9c125ba685f8ad3614427ce5a6cdb",
-    "kill_time": "2026-10-21T07:52:24Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 96319514,
-      "character_name": "gadget grublet",
-      "corporation_id": 98286981,
-      "corporation_name": "Bluehogs",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139316895/",
-    "total_value": 3506296519.6,
-    "final_attacker": {
-      "character_name": "SugarMomma",
-      "corporation_name": "The Northerners",
-      "alliance_name": "Weapons Of Mass Production.",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 139316893,
-    "killmail_hash": "251b47a705aabb8e67f0207e86a47da583ab84cf",
-    "kill_time": "2026-10-21T07:52:19Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 95959774,
-      "character_name": "Harley Edwards",
-      "corporation_id": 98083089,
-      "corporation_name": "Redhogs",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139316893/",
-    "total_value": 1940133843.6,
-    "final_attacker": {
-      "character_name": "Zariel Van",
-      "corporation_name": "CBC Interstellar",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 139316890,
-    "killmail_hash": "47f3e4234de838a3770a2d94e89e6fb547a78452",
-    "kill_time": "2026-10-21T07:52:07Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 96297956,
-      "character_name": "gizmoguy grublet",
-      "corporation_id": 98083089,
-      "corporation_name": "Redhogs",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139316890/",
-    "total_value": 1940133843.6,
-    "final_attacker": {
-      "character_name": "TaikoSG",
-      "corporation_name": "Splash Inc.",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Widow"
     }
   }
 ]
