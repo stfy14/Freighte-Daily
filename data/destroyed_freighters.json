@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 139512953,
+    "killmail_hash": "c91cffb1ab1b2918a2d97beaf0a9d61f2327d299",
+    "kill_time": "2026-10-29T10:18:24Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116941566,
+      "character_name": "IndustryOnly Broekman",
+      "corporation_id": 98089258,
+      "corporation_name": "Game of Drones",
+      "alliance_id": 1900696668,
+      "alliance_name": "The Initiative."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139512953/",
+    "total_value": 2309746139.74,
+    "final_attacker": {
+      "character_name": "Turninen Ahishatsu",
+      "corporation_name": "letus gogogo",
+      "alliance_name": "letus gogogo Alliance",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 139512449,
+    "killmail_hash": "6c6f5a693678ca19a255b04ce085aecbb8ab991c",
+    "kill_time": "2026-10-29T09:37:36Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2116490080,
+      "character_name": "Ana Synk",
+      "corporation_id": 98821804,
+      "corporation_name": "Headmaga",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139512449/",
+    "total_value": 3325379759.59,
+    "final_attacker": {
+      "character_name": "zLegion 18",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139511953,
+    "killmail_hash": "ac36b712bc708b2048bb9e78b26812f1ed05ade4",
+    "kill_time": "2026-10-29T08:59:38Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1286932216,
+      "character_name": "Urizen88",
+      "corporation_id": 1000045,
+      "corporation_name": "Science and Trade Institute",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139511953/",
+    "total_value": 6722377375.47,
+    "final_attacker": {
+      "character_name": "Jackie Moonpire",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "STAKAN UNIVERSE",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139511479,
+    "killmail_hash": "756203bbe8d29e39d7082f9df9c366e1da450b79",
+    "kill_time": "2026-10-29T08:22:01Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2115165729,
+      "character_name": "Audry King",
+      "corporation_id": 98609229,
+      "corporation_name": "Miracle Stone",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139511479/",
+    "total_value": 11946522062.22,
+    "final_attacker": {
+      "character_name": "Watchdog-3 MOONPIRE",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "STAKAN UNIVERSE",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139511131,
+    "killmail_hash": "5dda3c741e70b4fee016d8607e4f5f0d8a27c15f",
+    "kill_time": "2026-10-29T07:56:29Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2113675377,
+      "character_name": "bumarag76",
+      "corporation_id": 98674029,
+      "corporation_name": "Parodocks",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139511131/",
+    "total_value": 3491734520.21,
+    "final_attacker": {
+      "character_name": "zLegion 02",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139510858,
+    "killmail_hash": "8526d3741dfb4641df30efe0f59f37782519a926",
+    "kill_time": "2026-10-29T07:39:27Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122188785,
+      "character_name": "Kilen Chai",
+      "corporation_id": 98791331,
+      "corporation_name": "KCh Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139510858/",
+    "total_value": 1711025997.81,
+    "final_attacker": {
+      "character_name": "MOONPIREs KGB Agent-9",
+      "corporation_name": "Tuda Suda Technology",
+      "alliance_name": "STAKAN UNIVERSE",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139507470,
     "killmail_hash": "492fc3f7eb45d46b38b6e486d4df045c90b88c16",
     "kill_time": "2026-10-29T03:05:26Z",
@@ -2441,58 +2597,6 @@
       "corporation_name": "Emergency Temporal Shift.",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139341872,
-    "killmail_hash": "d01237d72e3cc1b5c961e2abc6c30b9705a125f5",
-    "kill_time": "2026-10-22T13:53:13Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002642,
-    "solar_system_name": "Iyen-Oursta",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2119855335,
-      "character_name": "EsBro1001",
-      "corporation_id": 98704863,
-      "corporation_name": "Pinky and the Brain.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139341872/",
-    "total_value": 7666090480.58,
-    "final_attacker": {
-      "character_name": "Joffrey Barathe0n",
-      "corporation_name": "Undead Corporation",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 139340584,
-    "killmail_hash": "5edbcaffb8722eb7ca095ee036adfd7730ec2eec",
-    "kill_time": "2026-10-22T12:42:25Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001444,
-    "solar_system_name": "Oimmo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 93659512,
-      "character_name": "Loretta Lexis",
-      "corporation_id": 98542664,
-      "corporation_name": "Braindead Logistics",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139340584/",
-    "total_value": 36410252099.16,
-    "final_attacker": {
-      "character_name": "Prime Admiral",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Oracle"
     }
   }
 ]
