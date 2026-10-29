@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 139507470,
+    "killmail_hash": "492fc3f7eb45d46b38b6e486d4df045c90b88c16",
+    "kill_time": "2026-10-29T03:05:26Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30004977,
+    "solar_system_name": "Yvangier",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 90387045,
+      "character_name": "Agoni Amaris",
+      "corporation_id": 98277211,
+      "corporation_name": "Hotspur Syndicate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139507470/",
+    "total_value": 5344863793.07,
+    "final_attacker": {
+      "character_name": "Dmitri Petroyovik",
+      "corporation_name": "Blank-Space",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Panther"
+    }
+  },
+  {
+    "killmail_id": 139504541,
+    "killmail_hash": "8a191fc01558e54d71bd8eeb7d575e813b5c9851",
+    "kill_time": "2026-10-28T23:29:24Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124579912,
+      "character_name": "CrawMama",
+      "corporation_id": 98512118,
+      "corporation_name": "Suddenly Spaceless",
+      "alliance_id": 99007887,
+      "alliance_name": "Brotherhood of Spacers"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139504541/",
+    "total_value": 1476863228.4,
+    "final_attacker": {
+      "character_name": "Urpasen Suja Haginen",
+      "corporation_name": "letus gogogo",
+      "alliance_name": "letus gogogo Alliance",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 139503042,
+    "killmail_hash": "0ab2a59467c800990c66beff28238ca776c18d10",
+    "kill_time": "2026-10-28T21:51:56Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002691,
+    "solar_system_name": "Crielere",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2121851666,
+      "character_name": "Kristoff Kolumbus",
+      "corporation_id": 98372649,
+      "corporation_name": "Signal Cartel",
+      "alliance_id": 99005130,
+      "alliance_name": "EvE-Scout Enclave"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139503042/",
+    "total_value": 1549673192.19,
+    "final_attacker": {
+      "character_name": "Fatcley",
+      "corporation_name": "Wolverine Hive",
+      "alliance_name": null,
+      "ship_type_name": "Gnosis"
+    }
+  },
+  {
+    "killmail_id": 139502156,
+    "killmail_hash": "977baf17e617ab11599bae4cbb8ab1a6123d6d80",
+    "kill_time": "2026-10-28T21:03:54Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002686,
+    "solar_system_name": "Olettiers",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2119936901,
+      "character_name": "May Trance-Porter",
+      "corporation_id": 98833261,
+      "corporation_name": "Industrial feeling",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139502156/",
+    "total_value": 2932234439.52,
+    "final_attacker": {
+      "character_name": "Sterva 3",
+      "corporation_name": "KOCMO-LLIKoJIA - Cepn n MoJLom",
+      "alliance_name": "Alea jacta est.",
+      "ship_type_name": "Brutix Navy Issue"
+    }
+  },
+  {
     "killmail_id": 139498830,
     "killmail_hash": "6295da7e903a48ae2fbbb7f2d66c39b7ea21023b",
     "kill_time": "2026-10-28T18:36:47Z",
@@ -2389,32 +2493,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 139333068,
-    "killmail_hash": "fd50ab1d060d9e9812ea4ba8170ba1607feb1142",
-    "kill_time": "2026-10-22T01:36:42Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002370,
-    "solar_system_name": "PX-IHN",
-    "region_name": "Etherium Reach",
-    "victim": {
-      "character_id": 613739909,
-      "character_name": "Hoy Zhon",
-      "corporation_id": 944838017,
-      "corporation_name": "AWE Corporation",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139333068/",
-    "total_value": 13392137497.07,
-    "final_attacker": {
-      "character_name": "Iridescent klr",
-      "corporation_name": "Stimulus",
-      "alliance_name": "Rote Kapelle",
-      "ship_type_name": "Ikitursa"
     }
   }
 ]
