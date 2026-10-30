@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139543897,
+    "killmail_hash": "ed6f75609438c2a08a1de4bc8ab00ecd8c07e49d",
+    "kill_time": "2026-10-30T18:14:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95815777,
+      "character_name": "Aru Kira",
+      "corporation_id": 98460725,
+      "corporation_name": "Ineq Production",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139543897/",
+    "total_value": 2785364722.24,
+    "final_attacker": {
+      "character_name": "Painter Alt 18",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139542604,
+    "killmail_hash": "c7f19aecefdc6468066925e7c4badb87e418b0f3",
+    "kill_time": "2026-10-30T17:20:48Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 91250649,
+      "character_name": "Honoka Kawai",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139542604/",
+    "total_value": 1566765831.43,
+    "final_attacker": {
+      "character_name": "Adriana Albania",
+      "corporation_name": "Alliteration Fanclub.",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139542460,
+    "killmail_hash": "72e6b552db79809ce8d39b57deb5616d5c163f84",
+    "kill_time": "2026-10-30T17:13:38Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 90386530,
+      "character_name": "Durza Shruikan",
+      "corporation_id": 98099964,
+      "corporation_name": "Domia Blodhren",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139542460/",
+    "total_value": 6369410992.98,
+    "final_attacker": {
+      "character_name": "B0ZziLLa",
+      "corporation_name": "One Risky Click",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 139535212,
     "killmail_hash": "61332409caf908312c62fcbdf6ecee99d57b1142",
     "kill_time": "2026-10-30T10:05:21Z",
@@ -2415,188 +2493,6 @@
       "corporation_name": "KarmaFleet",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Caracal"
-    }
-  },
-  {
-    "killmail_id": 139373213,
-    "killmail_hash": "d8a7d4574b4ae52f53c438c9cc48d58536f8ae04",
-    "kill_time": "2026-10-23T20:00:15Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2120283249,
-      "character_name": "Utriken Kion",
-      "corporation_id": 98256892,
-      "corporation_name": "scrubdila",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139373213/",
-    "total_value": 2514645399.16,
-    "final_attacker": {
-      "character_name": "Jeremy Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139372251,
-    "killmail_hash": "14404dff66778f2a7b5e77431f3e45c592f9f807",
-    "kill_time": "2026-10-23T19:28:41Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 670809538,
-      "character_name": "InquistorEisenhorn",
-      "corporation_id": 98079881,
-      "corporation_name": "Bison Heavy Armaments",
-      "alliance_id": 99004314,
-      "alliance_name": "Pax Bisonica"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139372251/",
-    "total_value": 2170306677.52,
-    "final_attacker": {
-      "character_name": "Jax Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139371378,
-    "killmail_hash": "50a5f2bf72de3c72949d6f04ded366ed357ac336",
-    "kill_time": "2026-10-23T19:02:12Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92818279,
-      "character_name": "Sofia Malakhov",
-      "corporation_id": 98651048,
-      "corporation_name": "Absolute Order XVI",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139371378/",
-    "total_value": 5325881311.1,
-    "final_attacker": {
-      "character_name": "Justin Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139370731,
-    "killmail_hash": "ecfa628ab57380ffe1399ac81f69e4c6eb17b894",
-    "kill_time": "2026-10-23T18:44:35Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2117892024,
-      "character_name": "Tenbai yah",
-      "corporation_id": 98639064,
-      "corporation_name": "Cayos New Eden Chapter",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139370731/",
-    "total_value": 1519530882.35,
-    "final_attacker": {
-      "character_name": "Dictateur Imperator",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139370018,
-    "killmail_hash": "4e74d40da7711892a062159315de574e33cca7b6",
-    "kill_time": "2026-10-23T18:26:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93719510,
-      "character_name": "Essen Scheric",
-      "corporation_id": 98299802,
-      "corporation_name": "Wicked Exiles",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139370018/",
-    "total_value": 1581702942.3,
-    "final_attacker": {
-      "character_name": "Jake Merlins",
-      "corporation_name": "Shooting Blues Everyday",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139369469,
-    "killmail_hash": "b492e6c5585f9af2bc3629134cb4f540a80d27be",
-    "kill_time": "2026-10-23T18:09:13Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 94452042,
-      "character_name": "Raoden Amatin",
-      "corporation_id": 98446190,
-      "corporation_name": "Haliax Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139369469/",
-    "total_value": 2260232098.85,
-    "final_attacker": {
-      "character_name": "Joel Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139368809,
-    "killmail_hash": "edb62f7081342bd96a8fe0e7b1eaae1fc8bdf436",
-    "kill_time": "2026-10-23T17:46:53Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2118015035,
-      "character_name": "Sara Bauman",
-      "corporation_id": 98709229,
-      "corporation_name": "0111 1110 0110",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139368809/",
-    "total_value": 1483326030.71,
-    "final_attacker": {
-      "character_name": "Jack Merlins",
-      "corporation_name": "Shooting Blues Everyday",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
