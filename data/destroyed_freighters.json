@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139535212,
+    "killmail_hash": "61332409caf908312c62fcbdf6ecee99d57b1142",
+    "kill_time": "2026-10-30T10:05:21Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123003594,
+      "character_name": "WAr-ming-ore Tsutola PI",
+      "corporation_id": 98389204,
+      "corporation_name": "Newbie Friendly Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139535212/",
+    "total_value": 1442859401.73,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 139533656,
+    "killmail_hash": "0736151c8e29eb113ee726f3797d10411bc08f53",
+    "kill_time": "2026-10-30T07:38:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30045314,
+    "solar_system_name": "Kinakka",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 2113925568,
+      "character_name": "Jack TheStriper",
+      "corporation_id": 98707431,
+      "corporation_name": "Serenity Moe University",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139533656/",
+    "total_value": 6368962331.77,
+    "final_attacker": {
+      "character_name": "Salt Machin3",
+      "corporation_name": "Murder Hobos.",
+      "alliance_name": null,
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 139531451,
     "killmail_hash": "84787e8ba6e116bb509639d3f9981b0b3d2b00a7",
     "kill_time": "2026-10-30T03:52:48Z",
@@ -2545,32 +2597,6 @@
       "corporation_name": "Shooting Blues Everyday",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139360747,
-    "killmail_hash": "800425ad8a60fcdb830bd020c8eaf7227c4d1aaf",
-    "kill_time": "2026-10-23T09:50:53Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30000139,
-    "solar_system_name": "Urlen",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2113438329,
-      "character_name": "Heisenberg Trafalgar",
-      "corporation_id": 98775577,
-      "corporation_name": "Exiliados",
-      "alliance_id": 99014894,
-      "alliance_name": "From Lost To The Wormhole."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139360747/",
-    "total_value": 1379715247.05,
-    "final_attacker": {
-      "character_name": "Icarius",
-      "corporation_name": "The Wings of Maak",
-      "alliance_name": null,
-      "ship_type_name": "Cynabal"
     }
   }
 ]
