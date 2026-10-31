@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 139573421,
+    "killmail_hash": "e7355f5070db2bb81a7666ef8c5765f589599922",
+    "kill_time": "2026-10-31T17:18:01Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2114885467,
+      "character_name": "Eden Trade",
+      "corporation_id": 98588993,
+      "corporation_name": "New Eden Trade and Market",
+      "alliance_id": 99011416,
+      "alliance_name": "LinkNet"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139573421/",
+    "total_value": 1836533958.3,
+    "final_attacker": {
+      "character_name": "Mark Theosis",
+      "corporation_name": "Prime Directive.",
+      "alliance_name": "Slide On Contact",
+      "ship_type_name": "Catalyst Navy Issue"
+    }
+  },
+  {
     "killmail_id": 139564215,
     "killmail_hash": "787ef240f89d3f13489918c336b649a9b26f60bb",
     "kill_time": "2026-10-31T10:57:41Z",
@@ -75,6 +101,32 @@
       "corporation_name": "Alliteration Fanclub.",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139562060,
+    "killmail_hash": "554b7ceeec89374150c1c50141a42ff662ae44c1",
+    "kill_time": "2026-10-31T08:54:12Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2119558564,
+      "character_name": "Panda CC",
+      "corporation_id": 98633272,
+      "corporation_name": "Trisolaris Military Academy",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139562060/",
+    "total_value": 16388239376.93,
+    "final_attacker": {
+      "character_name": "Cute Gankbear",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Tornado"
     }
   },
   {
@@ -2207,32 +2259,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139399938,
-    "killmail_hash": "45f8884737fe5f8eac5592220aefd51e35672db6",
-    "kill_time": "2026-10-24T18:45:39Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001361,
-    "solar_system_name": "Aurohunen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120801899,
-      "character_name": "Proxy Call",
-      "corporation_id": 98817371,
-      "corporation_name": "R.A.A. High Sec Retreat",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139399938/",
-    "total_value": 6825456456.08,
-    "final_attacker": {
-      "character_name": "Bluemelon",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Marshal"
     }
   }
 ]
