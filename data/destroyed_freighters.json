@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139608725,
+    "killmail_hash": "b94e129912af9455ec2249673e735572a0e06e85",
+    "kill_time": "2026-11-01T19:45:34Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2122700593,
+      "character_name": "Asder Tuda Syuda",
+      "corporation_id": 98776771,
+      "corporation_name": "QAF Main",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139608725/",
+    "total_value": 3304002966.72,
+    "final_attacker": {
+      "character_name": "Skufidon Ivanovich",
+      "corporation_name": "PMC Pivzavod",
+      "alliance_name": "TOXIC PLAYERS.",
+      "ship_type_name": "Archon"
+    }
+  },
+  {
+    "killmail_id": 139604944,
+    "killmail_hash": "926b6be3412c74345d272a0317d6f3caa0c68eb9",
+    "kill_time": "2026-11-01T17:52:55Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000013,
+    "solar_system_name": "Onsooh",
+    "region_name": "Derelik",
+    "victim": {
+      "character_id": 95394333,
+      "character_name": "DragonStar Dragonriders",
+      "corporation_id": 1000168,
+      "corporation_name": "Federal Navy Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139604944/",
+    "total_value": 1822543344.76,
+    "final_attacker": {
+      "character_name": "NM1000",
+      "corporation_name": "Way So Mad",
+      "alliance_name": "Honorable Third Party",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 139599157,
     "killmail_hash": "fea914c17232bc7d282dbacbb96dd3c0ce46f2c1",
     "kill_time": "2026-11-01T14:29:36Z",
@@ -1947,110 +1999,6 @@
       "corporation_name": "Mine 'N' Refine",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139432929,
-    "killmail_hash": "b224af3b7f0d70ec06b30b0bfffddbf9ae0d1aa7",
-    "kill_time": "2026-10-25T20:05:23Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2122752259,
-      "character_name": "Kiki28928",
-      "corporation_id": 98385653,
-      "corporation_name": "Cohenberg's Ethical Hauling",
-      "alliance_id": 99008434,
-      "alliance_name": "Freighter Friends"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139432929/",
-    "total_value": 1483392460.42,
-    "final_attacker": {
-      "character_name": "Buffy Summer",
-      "corporation_name": "Cohenberg's Ethical Hauling",
-      "alliance_name": "Freighter Friends",
-      "ship_type_name": "Megathron"
-    }
-  },
-  {
-    "killmail_id": 139431489,
-    "killmail_hash": "96e44676ef29e9e4198193badf3d919d9e5685cc",
-    "kill_time": "2026-10-25T19:24:09Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 386245491,
-      "character_name": "Miku Goruama",
-      "corporation_id": 98052179,
-      "corporation_name": "Tactical Tea Baggers",
-      "alliance_id": 933731581,
-      "alliance_name": "Triumvirate."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139431489/",
-    "total_value": 6957391492.16,
-    "final_attacker": {
-      "character_name": "Painter Alt 3",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139431450,
-    "killmail_hash": "b9f294774567850eaa8734e5ba3bde23f3b718d1",
-    "kill_time": "2026-10-25T19:22:30Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123765577,
-      "character_name": "Aerin Hegirin",
-      "corporation_id": 1000180,
-      "corporation_name": "State Protectorate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139431450/",
-    "total_value": 1422076524.72,
-    "final_attacker": {
-      "character_name": "Gin Zeng",
-      "corporation_name": "Solid Ground",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 139428000,
-    "killmail_hash": "70d84f9033cded146faa5e1cbd5e1f09175c33e3",
-    "kill_time": "2026-10-25T17:10:08Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30004246,
-    "solar_system_name": "Vehan",
-    "region_name": "Aridia",
-    "victim": {
-      "character_id": 685811192,
-      "character_name": "sintarion",
-      "corporation_id": 98014018,
-      "corporation_name": "Enlightened Industries",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139428000/",
-    "total_value": 13350337985.22,
-    "final_attacker": {
-      "character_name": "Amba Karamba",
-      "corporation_name": "Renovatio Invaders",
-      "alliance_name": "LowSechnaya Sholupen",
-      "ship_type_name": "Valravn"
     }
   }
 ]
