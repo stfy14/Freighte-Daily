@@ -1,5 +1,109 @@
 [
   {
+    "killmail_id": 139599157,
+    "killmail_hash": "fea914c17232bc7d282dbacbb96dd3c0ce46f2c1",
+    "kill_time": "2026-11-01T14:29:36Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 31000411,
+    "solar_system_name": "J142306",
+    "region_name": "B-R00004",
+    "victim": {
+      "character_id": 92033221,
+      "character_name": "Jozef Petrik",
+      "corporation_id": 98389204,
+      "corporation_name": "Newbie Friendly Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139599157/",
+    "total_value": 1435021398.72,
+    "final_attacker": {
+      "character_name": "AirBoss78",
+      "corporation_name": "Project Apocalypse Corporation",
+      "alliance_name": null,
+      "ship_type_name": "Typhoon Fleet Issue"
+    }
+  },
+  {
+    "killmail_id": 139599042,
+    "killmail_hash": "ff4d2886d1c3b7052cb8f748fb7c28076779446b",
+    "kill_time": "2026-11-01T14:25:11Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 31000411,
+    "solar_system_name": "J142306",
+    "region_name": "B-R00004",
+    "victim": {
+      "character_id": 92033221,
+      "character_name": "Jozef Petrik",
+      "corporation_id": 98389204,
+      "corporation_name": "Newbie Friendly Industries",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139599042/",
+    "total_value": 1358364736.02,
+    "final_attacker": {
+      "character_name": "Pacifier Zorg",
+      "corporation_name": "Zorg Corp",
+      "alliance_name": null,
+      "ship_type_name": "Typhoon Fleet Issue"
+    }
+  },
+  {
+    "killmail_id": 139588527,
+    "killmail_hash": "3b629bf3835c75af2eb9ccfcebfda45313e27988",
+    "kill_time": "2026-11-01T04:55:50Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002803,
+    "solar_system_name": "Juunigaishi",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 93116117,
+      "character_name": "Aria Ferin",
+      "corporation_id": 1000009,
+      "corporation_name": "Caldari Provisions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139588527/",
+    "total_value": 3526766162.04,
+    "final_attacker": {
+      "character_name": "Jared Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139588061,
+    "killmail_hash": "60bfc2eb461823538debe2af7929958beade92c8",
+    "kill_time": "2026-11-01T04:28:12Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2124060241,
+      "character_name": "Someone's Dream",
+      "corporation_id": 98651048,
+      "corporation_name": "Absolute Order XVI",
+      "alliance_id": 99010386,
+      "alliance_name": "Absolute Honor"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139588061/",
+    "total_value": 2376814312.04,
+    "final_attacker": {
+      "character_name": "zLegion 17",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 139587693,
     "killmail_hash": "72b0700a0909fc3ffe92d7adceb1064509704590",
     "kill_time": "2026-11-01T04:10:01Z",
@@ -1947,110 +2051,6 @@
       "corporation_name": "Renovatio Invaders",
       "alliance_name": "LowSechnaya Sholupen",
       "ship_type_name": "Valravn"
-    }
-  },
-  {
-    "killmail_id": 139421717,
-    "killmail_hash": "8845004f25cf31ca69e27b4fa4367a011e91fe13",
-    "kill_time": "2026-10-25T13:04:16Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30003470,
-    "solar_system_name": "Odebeinn",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92284916,
-      "character_name": "Yanu6 Orneo",
-      "corporation_id": 1000045,
-      "corporation_name": "Science and Trade Institute",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139421717/",
-    "total_value": 21054112024.76,
-    "final_attacker": {
-      "character_name": "Lamenoire Toralen",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 139416993,
-    "killmail_hash": "cb2d13abdf73d1fdde35d887867532e65a4071c7",
-    "kill_time": "2026-10-25T09:11:08Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002666,
-    "solar_system_name": "Basgerin",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2113859922,
-      "character_name": "Adrian DEVOST",
-      "corporation_id": 98675798,
-      "corporation_name": "Institut Pinacle",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139416993/",
-    "total_value": 1481889850.41,
-    "final_attacker": {
-      "character_name": "Xtra Squishy lol",
-      "corporation_name": "Jerkasaurus Wrecks Inc.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Karura"
-    }
-  },
-  {
-    "killmail_id": 139416615,
-    "killmail_hash": "088bb372c93b9aaf235d20620aaa3ff6d30e3c61",
-    "kill_time": "2026-10-25T08:46:45Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2114714993,
-      "character_name": "AA-21",
-      "corporation_id": 1000171,
-      "corporation_name": "Republic University",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139416615/",
-    "total_value": 7043808131.71,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139414045,
-    "killmail_hash": "cc4f632331160b299b26215c67c89aca39c41f38",
-    "kill_time": "2026-10-25T06:01:57Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 112570880,
-      "character_name": "Hans Gustav",
-      "corporation_id": 1000167,
-      "corporation_name": "State War Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139414045/",
-    "total_value": 7885656928.1,
-    "final_attacker": {
-      "character_name": "zLegion 04",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
