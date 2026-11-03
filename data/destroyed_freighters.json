@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139637079,
+    "killmail_hash": "61ce17690a63d544545f8158346bfbf95ef38e85",
+    "kill_time": "2026-11-02T23:46:25Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124409252,
+      "character_name": "Olvin Melkan",
+      "corporation_id": 98817730,
+      "corporation_name": "709's South Side Systems",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139637079/",
+    "total_value": 2410756041.87,
+    "final_attacker": {
+      "character_name": "Bluemelon",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Sin"
+    }
+  },
+  {
+    "killmail_id": 139636280,
+    "killmail_hash": "c4d0ba4528fbd1dab9dd4c96800f7a2eb0165bda",
+    "kill_time": "2026-11-02T22:47:41Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002681,
+    "solar_system_name": "Deltole",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2124203653,
+      "character_name": "Aria Holler",
+      "corporation_id": 724997872,
+      "corporation_name": "EVE-RO",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139636280/",
+    "total_value": 1466552108.86,
+    "final_attacker": {
+      "character_name": "Dom Arkaral",
+      "corporation_name": "Bannheim",
+      "alliance_name": "Something Really Pretentious",
+      "ship_type_name": "Khizriel"
+    }
+  },
+  {
     "killmail_id": 139628554,
     "killmail_hash": "9a7d98ce1b4df9a2693b2f746d3a4782a31bdfb4",
     "kill_time": "2026-11-02T16:38:47Z",
@@ -2077,110 +2129,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139462127,
-    "killmail_hash": "fe061ba76610412567f8d1d4dc0a54f26a21cbd7",
-    "kill_time": "2026-10-27T01:51:20Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002805,
-    "solar_system_name": "Anttiri",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 164191841,
-      "character_name": "Hazardous Mojo",
-      "corporation_id": 98074550,
-      "corporation_name": "Meus Frater Custodis",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139462127/",
-    "total_value": 11339865201,
-    "final_attacker": {
-      "character_name": "Sidewalk Enforcer",
-      "corporation_name": "Mine 'N' Refine",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139459523,
-    "killmail_hash": "3d31302fc1c81fa6d95d77f87e79de65037dea72",
-    "kill_time": "2026-10-26T23:02:10Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1722353663,
-      "character_name": "Super IJsklontje",
-      "corporation_id": 98234847,
-      "corporation_name": "gaming is not a crime",
-      "alliance_id": 99003739,
-      "alliance_name": "AddictClan"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139459523/",
-    "total_value": 3656414706.54,
-    "final_attacker": {
-      "character_name": "Jonas Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139458702,
-    "killmail_hash": "5d2c2b3d0d7364aac1bd257ba90ab9c496a85c96",
-    "kill_time": "2026-10-26T22:18:01Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30002691,
-    "solar_system_name": "Crielere",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2124189141,
-      "character_name": "Ryri Itige",
-      "corporation_id": 98799780,
-      "corporation_name": "Walkurja",
-      "alliance_id": 99012279,
-      "alliance_name": "Sportmodel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139458702/",
-    "total_value": 10858137100.05,
-    "final_attacker": {
-      "character_name": "Jack Munny",
-      "corporation_name": "Did he say Jump",
-      "alliance_name": "Deepwater Hooligans",
-      "ship_type_name": "Vigilant"
-    }
-  },
-  {
-    "killmail_id": 139457832,
-    "killmail_hash": "848d6badd01be1a74bc32d5a3e5fc8870b4d28cd",
-    "kill_time": "2026-10-26T21:24:48Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1311524943,
-      "character_name": "Santehnik Potapych",
-      "corporation_id": 778409996,
-      "corporation_name": "The Dry Stout Society",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139457832/",
-    "total_value": 8109088125.31,
-    "final_attacker": {
-      "character_name": "Astra3a Nova",
-      "corporation_name": "Malakim Zealots",
-      "alliance_name": null,
-      "ship_type_name": "Devoter"
     }
   }
 ]
