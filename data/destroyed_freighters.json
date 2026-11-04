@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139678448,
+    "killmail_hash": "a2c684ab4e4615e11f4bf402c55853e532ec6565",
+    "kill_time": "2026-11-04T19:28:33Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005268,
+    "solar_system_name": "Gonditsa",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2116133976,
+      "character_name": "Javen Okaski",
+      "corporation_id": 98669523,
+      "corporation_name": "Airwolf incorporated",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139678448/",
+    "total_value": 1432861718.16,
+    "final_attacker": {
+      "character_name": "Alistair Kruger",
+      "corporation_name": "Voidhounds",
+      "alliance_name": "Pretenders",
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 139672375,
+    "killmail_hash": "0b71ccefe6f3ee821c7051aeaa3577334112fa37",
+    "kill_time": "2026-11-04T13:55:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000140,
+    "solar_system_name": "Maurasi",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2118636364,
+      "character_name": "LadyDelakron",
+      "corporation_id": 98743960,
+      "corporation_name": "Caldari Industriess",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139672375/",
+    "total_value": 3975743358.91,
+    "final_attacker": {
+      "character_name": "T Rocksy",
+      "corporation_name": "MegacorpoTD",
+      "alliance_name": null,
+      "ship_type_name": "Punisher"
+    }
+  },
+  {
+    "killmail_id": 139672231,
+    "killmail_hash": "16a501d30e3ba33e42f2f20f2b8fe8005581f695",
+    "kill_time": "2026-11-04T13:46:08Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000140,
+    "solar_system_name": "Maurasi",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 90816979,
+      "character_name": "Ledi lena",
+      "corporation_id": 98565410,
+      "corporation_name": "Ledi lena Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139672231/",
+    "total_value": 6303536664.85,
+    "final_attacker": {
+      "character_name": "Amahan Bheskagor",
+      "corporation_name": "Royal Amarr Institute",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 139669991,
     "killmail_hash": "320d6df9a264bb4791bfdefbbdc4bdbb9464bd7b",
     "kill_time": "2026-11-04T10:57:18Z",
@@ -2103,58 +2181,6 @@
       "corporation_name": "KOCMO-LLIKoJIA - Cepn n MoJLom",
       "alliance_name": "Alea jacta est.",
       "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139498830,
-    "killmail_hash": "6295da7e903a48ae2fbbb7f2d66c39b7ea21023b",
-    "kill_time": "2026-10-28T18:36:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2114988623,
-      "character_name": "Pelotka E",
-      "corporation_id": 98678738,
-      "corporation_name": "Fractal Core",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139498830/",
-    "total_value": 4140394379.61,
-    "final_attacker": {
-      "character_name": "Rhoshan Ekkeli",
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_name": null,
-      "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 139496112,
-    "killmail_hash": "8544cac6c6d9bbb3e64f2925de9e9530dae66750",
-    "kill_time": "2026-10-28T15:46:48Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1384015409,
-      "character_name": "Nick Bison",
-      "corporation_id": 297029457,
-      "corporation_name": "Bison Industrial Inc",
-      "alliance_id": 99014362,
-      "alliance_name": "Paws n Claws Collective"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139496112/",
-    "total_value": 6841776909.27,
-    "final_attacker": {
-      "character_name": "Malvina Bukavitsky",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
     }
   }
 ]
