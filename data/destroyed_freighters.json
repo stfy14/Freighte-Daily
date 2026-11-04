@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139660547,
+    "killmail_hash": "188c821185ab17b8f85af695b102a5e80c5bb699",
+    "kill_time": "2026-11-03T23:22:28Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30003447,
+    "solar_system_name": "Josekorn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2119420246,
+      "character_name": "Petrovich s Rostova",
+      "corporation_id": 98681646,
+      "corporation_name": "BELTRANS AG",
+      "alliance_id": 99014547,
+      "alliance_name": "IP-Org"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139660547/",
+    "total_value": 2816910035.7,
+    "final_attacker": {
+      "character_name": "Flora Xiomara",
+      "corporation_name": "Environmental Hazard.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
+    "killmail_id": 139659691,
+    "killmail_hash": "b8a9eea17b0405abf2b5f189904f1074241e892a",
+    "kill_time": "2026-11-03T22:36:32Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002539,
+    "solar_system_name": "Siseide",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 2121059842,
+      "character_name": "Yeetes",
+      "corporation_id": 98731075,
+      "corporation_name": "Fried Okra Freight and Trade",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139659691/",
+    "total_value": 8791560215.77,
+    "final_attacker": {
+      "character_name": "Kade Torvak",
+      "corporation_name": "Ascendance",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Typhoon"
+    }
+  },
+  {
     "killmail_id": 139653241,
     "killmail_hash": "3d6caf6a97e97aed2d0ca07cb9496458e5bc7209",
     "kill_time": "2026-11-03T18:30:17Z",
@@ -2025,58 +2077,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139483819,
-    "killmail_hash": "4ce780ae36535ec571354fcbeeb4e3edc0407652",
-    "kill_time": "2026-10-27T23:09:28Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123305919,
-      "character_name": "Bruised Ham",
-      "corporation_id": 98799459,
-      "corporation_name": "Sap Corp",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139483819/",
-    "total_value": 3093275150.24,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 139483371,
-    "killmail_hash": "6c460bc94e1d2dbc8d122ebdff1f36e40c4c9577",
-    "kill_time": "2026-10-27T22:41:17Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002765,
-    "solar_system_name": "Sivala",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 93041585,
-      "character_name": "Merdon Armstrong",
-      "corporation_id": 98699553,
-      "corporation_name": "Astral Acquisitions Inc.",
-      "alliance_id": 99014849,
-      "alliance_name": "Astral Ascendancy Initiative."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139483371/",
-    "total_value": 1998778395.12,
-    "final_attacker": {
-      "character_name": "Malvina Bukavitsky",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
     }
   }
 ]
