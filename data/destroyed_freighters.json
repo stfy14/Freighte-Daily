@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139713077,
+    "killmail_hash": "6a8c0e7fb8824e21f273697a79b43ffe912dfdd0",
+    "kill_time": "2026-11-06T13:18:02Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003931,
+    "solar_system_name": "Sassecho",
+    "region_name": "Khanid",
+    "victim": {
+      "character_id": 2123776432,
+      "character_name": "Mikox Long",
+      "corporation_id": 917701062,
+      "corporation_name": "EVE University",
+      "alliance_id": 937872513,
+      "alliance_name": "Ivy League"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139713077/",
+    "total_value": 1353168834.71,
+    "final_attacker": {
+      "character_name": "Mav'Lite",
+      "corporation_name": "Best Kept Dunked",
+      "alliance_name": "A P E X",
+      "ship_type_name": "Marshal"
+    }
+  },
+  {
+    "killmail_id": 139710376,
+    "killmail_hash": "6e9d9f31097c08b1067c793b42dfc6d16e55ba42",
+    "kill_time": "2026-11-06T08:55:13Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000144,
+    "solar_system_name": "Perimeter",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94930163,
+      "character_name": "6puk Panala",
+      "corporation_id": 98696261,
+      "corporation_name": "Trading and mining Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139710376/",
+    "total_value": 2598404255.81,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
     "killmail_id": 139706555,
     "killmail_hash": "6ffe6dc0b84e28284d40de7b63f19af58ed793aa",
     "kill_time": "2026-11-06T02:35:52Z",
@@ -1352,6 +1404,32 @@
     }
   },
   {
+    "killmail_id": 139614510,
+    "killmail_hash": "8bc2c0370baced61a3c821d95e94fb600f612f78",
+    "kill_time": "2026-11-02T00:23:07Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2121895155,
+      "character_name": "Tinker Tanner",
+      "corporation_id": 98686088,
+      "corporation_name": "Likedeeler4ever",
+      "alliance_id": 99014081,
+      "alliance_name": "Synergy of Support"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139614510/",
+    "total_value": 12216574063.45,
+    "final_attacker": {
+      "character_name": "small brain ideas",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
     "killmail_id": 139613873,
     "killmail_hash": "767f118c9ff41f165b817e9cee467223898acdd1",
     "kill_time": "2026-11-01T23:38:47Z",
@@ -2259,58 +2337,6 @@
       "corporation_name": "One Risky Click",
       "alliance_name": "Snuffed Out",
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 139535212,
-    "killmail_hash": "61332409caf908312c62fcbdf6ecee99d57b1142",
-    "kill_time": "2026-10-30T10:05:21Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123003594,
-      "character_name": "WAr-ming-ore Tsutola PI",
-      "corporation_id": 98389204,
-      "corporation_name": "Newbie Friendly Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139535212/",
-    "total_value": 1442859401.73,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 139533656,
-    "killmail_hash": "0736151c8e29eb113ee726f3797d10411bc08f53",
-    "kill_time": "2026-10-30T07:38:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30045314,
-    "solar_system_name": "Kinakka",
-    "region_name": "Black Rise",
-    "victim": {
-      "character_id": 2113925568,
-      "character_name": "Jack TheStriper",
-      "corporation_id": 98707431,
-      "corporation_name": "Serenity Moe University",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139533656/",
-    "total_value": 6368962331.77,
-    "final_attacker": {
-      "character_name": "Salt Machin3",
-      "corporation_name": "Murder Hobos.",
-      "alliance_name": null,
-      "ship_type_name": "Widow"
     }
   }
 ]
