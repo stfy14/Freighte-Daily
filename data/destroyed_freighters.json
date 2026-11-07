@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139742180,
+    "killmail_hash": "1b4e5efd4079b2b76ac80882aa78e8caf7a0a48a",
+    "kill_time": "2026-11-07T16:11:11Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95876859,
+      "character_name": "Minotourious",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139742180/",
+    "total_value": 1705899911.54,
+    "final_attacker": {
+      "character_name": "Jeremy Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139741008,
+    "killmail_hash": "3ecc338dcbd9c1c2a6e1d62ac9605940beaab805",
+    "kill_time": "2026-11-07T15:26:48Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2115129743,
+      "character_name": "Zar Sinak",
+      "corporation_id": 1000166,
+      "corporation_name": "Imperial Academy",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139741008/",
+    "total_value": 3267849507.76,
+    "final_attacker": {
+      "character_name": "Jeffery Kusion",
+      "corporation_name": "KUSION SPECIAL TEAM",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 139738109,
     "killmail_hash": "7f42c1223d692a390e35d54ecd4c14b07c6f6398",
     "kill_time": "2026-11-07T13:27:13Z",
@@ -2311,58 +2363,6 @@
       "corporation_name": "Hedion University",
       "alliance_name": null,
       "ship_type_name": "Cenotaph"
-    }
-  },
-  {
-    "killmail_id": 139575572,
-    "killmail_hash": "cb56f21b26105ee28af0c91c12cb831d4a02ffb6",
-    "kill_time": "2026-10-31T18:52:17Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002681,
-    "solar_system_name": "Deltole",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2121102787,
-      "character_name": "Puksen Otsada",
-      "corporation_id": 98750909,
-      "corporation_name": "Voidbringer Logistics",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139575572/",
-    "total_value": 1469578813.17,
-    "final_attacker": {
-      "character_name": "ErMahGerd DahLewt",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139573421,
-    "killmail_hash": "e7355f5070db2bb81a7666ef8c5765f589599922",
-    "kill_time": "2026-10-31T17:18:01Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002537,
-    "solar_system_name": "Amamake",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2114885467,
-      "character_name": "Eden Trade",
-      "corporation_id": 98588993,
-      "corporation_name": "New Eden Trade and Market",
-      "alliance_id": 99011416,
-      "alliance_name": "LinkNet"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139573421/",
-    "total_value": 1836533958.3,
-    "final_attacker": {
-      "character_name": "Mark Theosis",
-      "corporation_name": "Prime Directive.",
-      "alliance_name": "Slide On Contact",
-      "ship_type_name": "Catalyst Navy Issue"
     }
   }
 ]
