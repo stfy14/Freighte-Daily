@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139765948,
+    "killmail_hash": "4cf5fb89a607ee1928ec66104b1afedc4fa7d481",
+    "kill_time": "2026-11-08T13:51:21Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30001444,
+    "solar_system_name": "Oimmo",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2115615440,
+      "character_name": "Navigator6v91",
+      "corporation_id": 98716632,
+      "corporation_name": "Salamandras Prime",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139765948/",
+    "total_value": 13585223079.04,
+    "final_attacker": {
+      "character_name": "Cute Gankbear",
+      "corporation_name": "Uedama Logistics",
+      "alliance_name": "Ganklift Logistics",
+      "ship_type_name": "Tornado"
+    }
+  },
+  {
+    "killmail_id": 139761798,
+    "killmail_hash": "49538b7c279b326824b68d626f2bdda5c8d05326",
+    "kill_time": "2026-11-08T09:42:56Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30002656,
+    "solar_system_name": "Auvergne",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 2112013687,
+      "character_name": "Svetlania Black",
+      "corporation_id": 98370987,
+      "corporation_name": "Eagle Wing Industries",
+      "alliance_id": 495729389,
+      "alliance_name": "Shadow Cartel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139761798/",
+    "total_value": 1385307351.35,
+    "final_attacker": {
+      "character_name": "MINIHAMES",
+      "corporation_name": "Sons of Seyllin",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Hecate"
+    }
+  },
+  {
     "killmail_id": 139756727,
     "killmail_hash": "a6c619f74d5883451ff0b296934b92584a406a1c",
     "kill_time": "2026-11-08T03:41:31Z",
@@ -2233,84 +2285,6 @@
       "corporation_name": "KUSION SPECIAL TEAM",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139599157,
-    "killmail_hash": "fea914c17232bc7d282dbacbb96dd3c0ce46f2c1",
-    "kill_time": "2026-11-01T14:29:36Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 31000411,
-    "solar_system_name": "J142306",
-    "region_name": "B-R00004",
-    "victim": {
-      "character_id": 92033221,
-      "character_name": "Jozef Petrik",
-      "corporation_id": 98389204,
-      "corporation_name": "Newbie Friendly Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139599157/",
-    "total_value": 1435021398.72,
-    "final_attacker": {
-      "character_name": "AirBoss78",
-      "corporation_name": "Project Apocalypse Corporation",
-      "alliance_name": null,
-      "ship_type_name": "Typhoon Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 139599042,
-    "killmail_hash": "ff4d2886d1c3b7052cb8f748fb7c28076779446b",
-    "kill_time": "2026-11-01T14:25:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 31000411,
-    "solar_system_name": "J142306",
-    "region_name": "B-R00004",
-    "victim": {
-      "character_id": 92033221,
-      "character_name": "Jozef Petrik",
-      "corporation_id": 98389204,
-      "corporation_name": "Newbie Friendly Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139599042/",
-    "total_value": 1358364736.02,
-    "final_attacker": {
-      "character_name": "Pacifier Zorg",
-      "corporation_name": "Zorg Corp",
-      "alliance_name": null,
-      "ship_type_name": "Typhoon Fleet Issue"
-    }
-  },
-  {
-    "killmail_id": 139590858,
-    "killmail_hash": "1bda6981bb33f4d196f5f2b128919c6a5edb44cb",
-    "kill_time": "2026-11-01T07:43:11Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 1558438724,
-      "character_name": "Johnny Lamalfa",
-      "corporation_id": 98760102,
-      "corporation_name": "Lamalfa Family Construction and Money Laundering",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139590858/",
-    "total_value": 1557376094.16,
-    "final_attacker": {
-      "character_name": "Malvina Bukavitsky",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
     }
   }
 ]
