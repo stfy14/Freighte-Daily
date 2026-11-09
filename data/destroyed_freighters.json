@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139779229,
+    "killmail_hash": "124f9a3b1b8756d82c8625622fed8c0bd49aba55",
+    "kill_time": "2026-11-08T21:59:11Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122289108,
+      "character_name": "Jem03der030",
+      "corporation_id": 98652891,
+      "corporation_name": "Dutch Legions",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139779229/",
+    "total_value": 11538849261.37,
+    "final_attacker": {
+      "character_name": "Pinch Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
+    "killmail_id": 139777003,
+    "killmail_hash": "9e9ac25b3401505d4c1934b124a04b8971b0f3a4",
+    "kill_time": "2026-11-08T20:50:53Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 752146938,
+      "character_name": "daxces",
+      "corporation_id": 98297722,
+      "corporation_name": "Space Colony",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139777003/",
+    "total_value": 7543925834.66,
+    "final_attacker": {
+      "character_name": "SiDz3jSVK",
+      "corporation_name": "V0LTA",
+      "alliance_name": "WE FORM V0LTA",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
+    "killmail_id": 139776981,
+    "killmail_hash": "c9386d8e138b820f395a200fff1825eba9523695",
+    "kill_time": "2026-11-08T20:50:10Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30001385,
+    "solar_system_name": "Jan",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124203631,
+      "character_name": "Test-Dummy",
+      "corporation_id": 98297722,
+      "corporation_name": "Space Colony",
+      "alliance_id": 99002685,
+      "alliance_name": "Synergy of Steel"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139776981/",
+    "total_value": 6977028607.5,
+    "final_attacker": {
+      "character_name": "Dank WormholeIsk",
+      "corporation_name": "Vatican City Council",
+      "alliance_name": null,
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139765948,
     "killmail_hash": "4cf5fb89a607ee1928ec66104b1afedc4fa7d481",
     "kill_time": "2026-11-08T13:51:21Z",
@@ -1947,162 +2025,6 @@
       "corporation_name": "Sebiestor Tribe",
       "alliance_name": null,
       "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 139619216,
-    "killmail_hash": "b5e7c209e81dc131e5f3ff17372d40aa63a5d18d",
-    "kill_time": "2026-11-02T05:53:43Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 366178702,
-      "character_name": "Stelsnoc",
-      "corporation_id": 1123949438,
-      "corporation_name": "Tewbandr Speth",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139619216/",
-    "total_value": 5073547269.4,
-    "final_attacker": {
-      "character_name": "Malvina Bukavitsky",
-      "corporation_name": "Science and Trade Institute",
-      "alliance_name": null,
-      "ship_type_name": "Brutix"
-    }
-  },
-  {
-    "killmail_id": 139618430,
-    "killmail_hash": "cac9ee7a82228d6955c79f716fc192786aacfdbe",
-    "kill_time": "2026-11-02T04:41:16Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002764,
-    "solar_system_name": "Hatakani",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119111091,
-      "character_name": "Desidera",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139618430/",
-    "total_value": 1404296336.82,
-    "final_attacker": {
-      "character_name": "Iliad D'jax",
-      "corporation_name": "GentIeman Bastards",
-      "alliance_name": "Something Really Pretentious",
-      "ship_type_name": "Cynabal"
-    }
-  },
-  {
-    "killmail_id": 139616908,
-    "killmail_hash": "7a1775ebc524dd1f5bb08908c984d039631b1d70",
-    "kill_time": "2026-11-02T02:55:15Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002641,
-    "solar_system_name": "Aufay",
-    "region_name": "Sinq Laison",
-    "victim": {
-      "character_id": 2123973099,
-      "character_name": "Zifah Chipri",
-      "corporation_id": 98831675,
-      "corporation_name": "Sins of Thera",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139616908/",
-    "total_value": 3279442461.88,
-    "final_attacker": {
-      "character_name": "Bless This Drop",
-      "corporation_name": "In Search of The Marauders Map",
-      "alliance_name": "Sorority",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139614510,
-    "killmail_hash": "8bc2c0370baced61a3c821d95e94fb600f612f78",
-    "kill_time": "2026-11-02T00:23:07Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30001444,
-    "solar_system_name": "Oimmo",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2121895155,
-      "character_name": "Tinker Tanner",
-      "corporation_id": 98686088,
-      "corporation_name": "Likedeeler4ever",
-      "alliance_id": 99014081,
-      "alliance_name": "Synergy of Support"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139614510/",
-    "total_value": 12216574063.45,
-    "final_attacker": {
-      "character_name": "small brain ideas",
-      "corporation_name": "Uedama Logistics",
-      "alliance_name": "Ganklift Logistics",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 139613873,
-    "killmail_hash": "767f118c9ff41f165b817e9cee467223898acdd1",
-    "kill_time": "2026-11-01T23:38:47Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123215468,
-      "character_name": "Reyia Laduko",
-      "corporation_id": 98799283,
-      "corporation_name": "Crimson Vape Clouds",
-      "alliance_id": 99015281,
-      "alliance_name": "Prometheus Rising."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139613873/",
-    "total_value": 1854048604.39,
-    "final_attacker": {
-      "character_name": "Ming Bing FangFao",
-      "corporation_name": "Solid Ground",
-      "alliance_name": null,
-      "ship_type_name": "Vargur"
-    }
-  },
-  {
-    "killmail_id": 139609971,
-    "killmail_hash": "95e69ed9f7004517f285abb8677cf261e5fcf308",
-    "kill_time": "2026-11-01T20:28:04Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 92050073,
-      "character_name": "Cash Walker",
-      "corporation_id": 98664736,
-      "corporation_name": "Blue Ridge Runners",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139609971/",
-    "total_value": 1645481336.06,
-    "final_attacker": {
-      "character_name": "Cid Kagen0u",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
