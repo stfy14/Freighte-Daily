@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139864877,
+    "killmail_hash": "2c07455b0f621aecc9cecc2202cda1cfeac9a6cf",
+    "kill_time": "2026-11-12T19:51:37Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2117245470,
+      "character_name": "borodah",
+      "corporation_id": 98575483,
+      "corporation_name": "000 Russian Academy 000",
+      "alliance_id": 99010921,
+      "alliance_name": "000 Russian Concern 000"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139864877/",
+    "total_value": 1925084996.51,
+    "final_attacker": {
+      "character_name": "Dvan Setem",
+      "corporation_name": "KarmaFleet",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
+    "killmail_id": 139862385,
+    "killmail_hash": "1e547ef3f351987b1c2b5b131f02de84646faa02",
+    "kill_time": "2026-11-12T18:06:02Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124822270,
+      "character_name": "Fair Tissant",
+      "corporation_id": 1000180,
+      "corporation_name": "State Protectorate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139862385/",
+    "total_value": 1464068896.78,
+    "final_attacker": {
+      "character_name": "H5N1ONE",
+      "corporation_name": "Solid Ground",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
+    "killmail_id": 139858957,
+    "killmail_hash": "1e9f1d15190f62cb0c33fb682c9879b90ee53d43",
+    "kill_time": "2026-11-12T14:55:40Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2124596100,
+      "character_name": "Maryc8",
+      "corporation_id": 98842634,
+      "corporation_name": "SVoid Walker Division",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139858957/",
+    "total_value": 6662079190.36,
+    "final_attacker": {
+      "character_name": "jinpengFTD",
+      "corporation_name": "Temple of Tuvan Orth",
+      "alliance_name": "Guardians of Tranquility",
+      "ship_type_name": "Tempest"
+    }
+  },
+  {
     "killmail_id": 139855107,
     "killmail_hash": "c0d9972dc90212bf5cfce11d9633bf89bce2105f",
     "kill_time": "2026-11-12T10:54:41Z",
@@ -1144,6 +1222,32 @@
     }
   },
   {
+    "killmail_id": 139772057,
+    "killmail_hash": "4ef7382989f5c9695b883780ebc0dbd553465e36",
+    "kill_time": "2026-11-08T17:46:40Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 93549642,
+      "character_name": "Kristina Lenz",
+      "corporation_id": 98188481,
+      "corporation_name": "Undead Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139772057/",
+    "total_value": 11384042696.14,
+    "final_attacker": {
+      "character_name": "Irate Hawk",
+      "corporation_name": "Clipped Wingz",
+      "alliance_name": "Gimme Da Loot",
+      "ship_type_name": "Hound"
+    }
+  },
+  {
     "killmail_id": 139765948,
     "killmail_hash": "4cf5fb89a607ee1928ec66104b1afedc4fa7d481",
     "kill_time": "2026-11-08T13:51:21Z",
@@ -1973,84 +2077,6 @@
       "corporation_name": "Ministry of Offense",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Typhoon"
-    }
-  },
-  {
-    "killmail_id": 139696018,
-    "killmail_hash": "d7b3d048bc351985b7e3935ae9707c631f30fb98",
-    "kill_time": "2026-11-05T18:10:46Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000772,
-    "solar_system_name": "C-J6MT",
-    "region_name": "Insmother",
-    "victim": {
-      "character_id": 94406079,
-      "character_name": "Amoni Kopmo",
-      "corporation_id": 98366055,
-      "corporation_name": "Ministry of Offense",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139696018/",
-    "total_value": 6944819003.14,
-    "final_attacker": {
-      "character_name": "Ed Horgus",
-      "corporation_name": "People's Democratic Republic of Gatecamping",
-      "alliance_name": "SUS Holding",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 139695051,
-    "killmail_hash": "c344cabe1130b0b880d2b04ba289f249534b7afb",
-    "kill_time": "2026-11-05T17:00:18Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002754,
-    "solar_system_name": "Alikara",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124818263,
-      "character_name": "MarinGadzuk",
-      "corporation_id": 98212445,
-      "corporation_name": "Highway to Heaven",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139695051/",
-    "total_value": 1392385859.79,
-    "final_attacker": {
-      "character_name": "Black Hare",
-      "corporation_name": "Silence now",
-      "alliance_name": null,
-      "ship_type_name": "Hyperion"
-    }
-  },
-  {
-    "killmail_id": 139693579,
-    "killmail_hash": "ebf0519d62dcdf7522856d150a67e3fdff11921a",
-    "kill_time": "2026-11-05T15:23:41Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000241,
-    "solar_system_name": "YMJG-4",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2120000734,
-      "character_name": "znlttt",
-      "corporation_id": 98598862,
-      "corporation_name": "Chaos arbiter",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139693579/",
-    "total_value": 1649007023.3,
-    "final_attacker": {
-      "character_name": "Odyssey 2049",
-      "corporation_name": "Whiskers of Doom.",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
     }
   }
 ]
