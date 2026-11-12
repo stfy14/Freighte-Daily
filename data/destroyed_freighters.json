@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 139846416,
+    "killmail_hash": "8eb1b83124f839b8ed7fe2c3983c20f7a85a512a",
+    "kill_time": "2026-11-11T23:19:29Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004084,
+    "solar_system_name": "Ghesis",
+    "region_name": "Kador",
+    "victim": {
+      "character_id": 95876859,
+      "character_name": "Minotourious",
+      "corporation_id": 1000044,
+      "corporation_name": "School of Applied Knowledge",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139846416/",
+    "total_value": 1553097772.83,
+    "final_attacker": {
+      "character_name": "Aphrodite Xiomara",
+      "corporation_name": "Environmental Hazard.",
+      "alliance_name": "Sedition.",
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 139830945,
     "killmail_hash": "7603c73f4a84c5280960d058fe7a48f391bc7fc0",
     "kill_time": "2026-11-11T10:42:38Z",
@@ -1999,58 +2025,6 @@
       "corporation_name": "Murder Hobos.",
       "alliance_name": null,
       "ship_type_name": "Aeon"
-    }
-  },
-  {
-    "killmail_id": 139682175,
-    "killmail_hash": "2b83f2edda4b0a81c1d8a1989b9ef0479e091642",
-    "kill_time": "2026-11-04T22:41:13Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 155037314,
-      "character_name": "Jarmon Karlentis",
-      "corporation_id": 151608402,
-      "corporation_name": "Setenta Corp",
-      "alliance_id": 99009331,
-      "alliance_name": "Scumlords"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139682175/",
-    "total_value": 7247483609.86,
-    "final_attacker": {
-      "character_name": "Blan",
-      "corporation_name": "Best Cool Stories",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139678448,
-    "killmail_hash": "a2c684ab4e4615e11f4bf402c55853e532ec6565",
-    "kill_time": "2026-11-04T19:28:33Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005268,
-    "solar_system_name": "Gonditsa",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 2116133976,
-      "character_name": "Javen Okaski",
-      "corporation_id": 98669523,
-      "corporation_name": "Airwolf incorporated",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139678448/",
-    "total_value": 1432861718.16,
-    "final_attacker": {
-      "character_name": "Alistair Kruger",
-      "corporation_name": "Voidhounds",
-      "alliance_name": "Pretenders",
-      "ship_type_name": "Cenotaph"
     }
   }
 ]
