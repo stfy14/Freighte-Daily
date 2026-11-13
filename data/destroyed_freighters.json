@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139871571,
+    "killmail_hash": "fb4642dda864331b06c9eba691d929b55305f362",
+    "kill_time": "2026-11-13T02:37:49Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001398,
+    "solar_system_name": "Aunenen",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2115769935,
+      "character_name": "Neptune Wright",
+      "corporation_id": 98764120,
+      "corporation_name": "Eviction-Scout Inc.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139871571/",
+    "total_value": 1419553579.72,
+    "final_attacker": {
+      "character_name": "viceman",
+      "corporation_name": "Lowlife.",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Nidhoggur"
+    }
+  },
+  {
+    "killmail_id": 139869220,
+    "killmail_hash": "d483436c0f09beb032911e3ff27c9e0714f5f4ad",
+    "kill_time": "2026-11-12T23:27:50Z",
+    "ship_type_id": 28850,
+    "ship_type_name": "Ark",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2123537421,
+      "character_name": "EarlyPig",
+      "corporation_id": 98598862,
+      "corporation_name": "Chaos arbiter",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139869220/",
+    "total_value": 9304354130.97,
+    "final_attacker": {
+      "character_name": "HKzz",
+      "corporation_name": "Aurora.",
+      "alliance_name": null,
+      "ship_type_name": "Widow"
+    }
+  },
+  {
     "killmail_id": 139864877,
     "killmail_hash": "2c07455b0f621aecc9cecc2202cda1cfeac9a6cf",
     "kill_time": "2026-11-12T19:51:37Z",
@@ -1973,110 +2025,6 @@
       "corporation_name": "Sebiestor Tribe",
       "alliance_name": null,
       "ship_type_name": "Maelstrom"
-    }
-  },
-  {
-    "killmail_id": 139706555,
-    "killmail_hash": "6ffe6dc0b84e28284d40de7b63f19af58ed793aa",
-    "kill_time": "2026-11-06T02:35:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30003569,
-    "solar_system_name": "Cadelanne",
-    "region_name": "Solitude",
-    "victim": {
-      "character_id": 2123976665,
-      "character_name": "MY BLUEPRINT",
-      "corporation_id": 98821816,
-      "corporation_name": "Rightfully My Treasure",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139706555/",
-    "total_value": 2612549365.08,
-    "final_attacker": {
-      "character_name": "Xiao A Song",
-      "corporation_name": "Federal Navy Academy",
-      "alliance_name": null,
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 139705123,
-    "killmail_hash": "b6d1e039e0459779e8431223e8f0f2d44029c8fb",
-    "kill_time": "2026-11-06T01:20:11Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002086,
-    "solar_system_name": "Turnur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": null,
-      "character_name": "NPC/Structure",
-      "corporation_id": 98644869,
-      "corporation_name": "Old Bittervets",
-      "alliance_id": 99009927,
-      "alliance_name": "Deepwater Hooligans"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139705123/",
-    "total_value": 6806180555.56,
-    "final_attacker": {
-      "character_name": "Bloubs Kel-Rod",
-      "corporation_name": "Les chevaliers de l'ordre",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Typhoon"
-    }
-  },
-  {
-    "killmail_id": 139705122,
-    "killmail_hash": "1c7facddfd4d596d4afdb9a0e2246a03b301674a",
-    "kill_time": "2026-11-06T01:20:07Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30002086,
-    "solar_system_name": "Turnur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": null,
-      "character_name": "NPC/Structure",
-      "corporation_id": 98644869,
-      "corporation_name": "Old Bittervets",
-      "alliance_id": 99009927,
-      "alliance_name": "Deepwater Hooligans"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139705122/",
-    "total_value": 6806180555.56,
-    "final_attacker": {
-      "character_name": "Himmy 2000",
-      "corporation_name": "KarmaFleet",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Typhoon"
-    }
-  },
-  {
-    "killmail_id": 139705117,
-    "killmail_hash": "fc17ef949cf4c1936e2a8086452261f380837a43",
-    "kill_time": "2026-11-06T01:19:47Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002086,
-    "solar_system_name": "Turnur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 92126919,
-      "character_name": "La Pamplemousse",
-      "corporation_id": 98134066,
-      "corporation_name": "Department of Interstellar Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139705117/",
-    "total_value": 11391917182.89,
-    "final_attacker": {
-      "character_name": "Forbidden Hunter",
-      "corporation_name": "Ministry of Offense",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Typhoon"
     }
   }
 ]
