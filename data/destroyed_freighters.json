@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 139894338,
+    "killmail_hash": "ef543352220528c42908d4656586a14f5110368c",
+    "kill_time": "2026-11-13T23:53:47Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 94388787,
+      "character_name": "Moxie Minesforore",
+      "corporation_id": 98055531,
+      "corporation_name": "Epidemic.",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139894338/",
+    "total_value": 1419267696.39,
+    "final_attacker": {
+      "character_name": "Half Dead Already",
+      "corporation_name": "Violator The Clown",
+      "alliance_name": "Seker Matar",
+      "ship_type_name": "Widow"
+    }
+  },
+  {
+    "killmail_id": 139893295,
+    "killmail_hash": "a67d4c66f8464782893087b89be47f830ef2691c",
+    "kill_time": "2026-11-13T23:09:59Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30002765,
+    "solar_system_name": "Sivala",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1887269149,
+      "character_name": "Jait Aiya",
+      "corporation_id": 98045653,
+      "corporation_name": "The Riot Formation",
+      "alliance_id": 99015370,
+      "alliance_name": "New Eden Pub Company"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139893295/",
+    "total_value": 9696591460.8,
+    "final_attacker": {
+      "character_name": "zLegion 10",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139891544,
+    "killmail_hash": "c4504728adbbcf58c6f5e916c1db8ab58eb407bd",
+    "kill_time": "2026-11-13T22:20:21Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 1616993927,
+      "character_name": "Yob Moorhsum",
+      "corporation_id": 98335809,
+      "corporation_name": "The Northerners",
+      "alliance_id": 99010468,
+      "alliance_name": "Weapons Of Mass Production."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139891544/",
+    "total_value": 6792831651.1,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 139888556,
+    "killmail_hash": "a37d22b40b42211ac2aaa3237d56ea881b58330a",
+    "kill_time": "2026-11-13T20:19:15Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2121972929,
+      "character_name": "Sin Papinogo Druga",
+      "corporation_id": 98698983,
+      "corporation_name": "Scan Stakan",
+      "alliance_id": 99012122,
+      "alliance_name": "HOLD MY PROBS"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139888556/",
+    "total_value": 3732523493.14,
+    "final_attacker": {
+      "character_name": "Lexie Slutz",
+      "corporation_name": "Undock. Regret. Repeat.",
+      "alliance_name": null,
+      "ship_type_name": "Revelation"
+    }
+  },
+  {
+    "killmail_id": 139885189,
+    "killmail_hash": "b1b18303b87beae5415a077ba4aa748397775e9f",
+    "kill_time": "2026-11-13T17:52:24Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 31000756,
+    "solar_system_name": "J124749",
+    "region_name": "B-R00008",
+    "victim": {
+      "character_id": 2117982321,
+      "character_name": "Mietek",
+      "corporation_id": 98733942,
+      "corporation_name": "Jita Productions",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139885189/",
+    "total_value": 1438934508.59,
+    "final_attacker": {
+      "character_name": "DelakronPL",
+      "corporation_name": "SCREECHING GRASS",
+      "alliance_name": "Bully Brigade",
+      "ship_type_name": "Talos"
+    }
+  },
+  {
+    "killmail_id": 139883118,
+    "killmail_hash": "208679e15515b867357f036d0921f609c40f9a82",
+    "kill_time": "2026-11-13T16:01:01Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000240,
+    "solar_system_name": "4-HWWF",
+    "region_name": "Vale of the Silent",
+    "victim": {
+      "character_id": 2117594707,
+      "character_name": "longely eagle",
+      "corporation_id": 98538918,
+      "corporation_name": "Foredawn Business Corporation",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139883118/",
+    "total_value": 1353476388.08,
+    "final_attacker": {
+      "character_name": "FireAnt 2020",
+      "corporation_name": "ANGELGARD.",
+      "alliance_name": "The Initiative.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139880723,
     "killmail_hash": "50648bb01bfed9549ee960429134fbc69c6a4020",
     "kill_time": "2026-11-13T13:52:55Z",
@@ -1999,32 +2155,6 @@
       "corporation_name": "Blackwater USA Inc.",
       "alliance_name": "Deepwater Hooligans",
       "ship_type_name": "Ragnarok"
-    }
-  },
-  {
-    "killmail_id": 139723792,
-    "killmail_hash": "69c361d58a6f1d9203d675cf67afb0c8f1be9adf",
-    "kill_time": "2026-11-06T22:55:19Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30002050,
-    "solar_system_name": "Hagilur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2123778314,
-      "character_name": "golgoroth-orix",
-      "corporation_id": 98008663,
-      "corporation_name": "Angry Angels Constructions",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139723792/",
-    "total_value": 1392764758.62,
-    "final_attacker": {
-      "character_name": "Jakye Cealion",
-      "corporation_name": "Nisroc Logistics and Training",
-      "alliance_name": "Strange Alliance",
-      "ship_type_name": "Talos"
     }
   }
 ]
