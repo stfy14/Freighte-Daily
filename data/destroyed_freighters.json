@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139915842,
+    "killmail_hash": "c318ac3854bcc29962c6254702068d18adfe8fb4",
+    "kill_time": "2026-11-14T17:42:27Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30004299,
+    "solar_system_name": "Sakht",
+    "region_name": "Aridia",
+    "victim": {
+      "character_id": 210111610,
+      "character_name": "tsukasa6",
+      "corporation_id": 98755037,
+      "corporation_name": "Vogar Industrial",
+      "alliance_id": 99013537,
+      "alliance_name": "Insidious."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139915842/",
+    "total_value": 2299801747.18,
+    "final_attacker": {
+      "character_name": "Usui7",
+      "corporation_name": "Astral Projection Inc.",
+      "alliance_name": "Can i bring my Drake...",
+      "ship_type_name": "Loki"
+    }
+  },
+  {
+    "killmail_id": 139911238,
+    "killmail_hash": "4841ac7089f1a37760d6d808e0366df63a64ec4b",
+    "kill_time": "2026-11-14T14:29:10Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30005196,
+    "solar_system_name": "Ahbazon",
+    "region_name": "Genesis",
+    "victim": {
+      "character_id": 2113550182,
+      "character_name": "ArtfulBUG",
+      "corporation_id": 1000046,
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139911238/",
+    "total_value": 2467880362.42,
+    "final_attacker": {
+      "character_name": "EF Zeta",
+      "corporation_name": "Endless-Fury",
+      "alliance_name": "Ahbazon-Prime",
+      "ship_type_name": "Praxis"
+    }
+  },
+  {
     "killmail_id": 139905856,
     "killmail_hash": "ae14f6b44b52ed701590a79413da538ce61d8428",
     "kill_time": "2026-11-14T10:42:47Z",
@@ -2077,188 +2129,6 @@
       "corporation_name": "URSA PRIMUS",
       "alliance_name": "URSA.",
       "ship_type_name": "Naga"
-    }
-  },
-  {
-    "killmail_id": 139742180,
-    "killmail_hash": "1b4e5efd4079b2b76ac80882aa78e8caf7a0a48a",
-    "kill_time": "2026-11-07T16:11:11Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 95876859,
-      "character_name": "Minotourious",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139742180/",
-    "total_value": 1705899911.54,
-    "final_attacker": {
-      "character_name": "Jeremy Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139741008,
-    "killmail_hash": "3ecc338dcbd9c1c2a6e1d62ac9605940beaab805",
-    "kill_time": "2026-11-07T15:26:48Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115129743,
-      "character_name": "Zar Sinak",
-      "corporation_id": 1000166,
-      "corporation_name": "Imperial Academy",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139741008/",
-    "total_value": 3267849507.76,
-    "final_attacker": {
-      "character_name": "Jeffery Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Coercer"
-    }
-  },
-  {
-    "killmail_id": 139738109,
-    "killmail_hash": "7f42c1223d692a390e35d54ecd4c14b07c6f6398",
-    "kill_time": "2026-11-07T13:27:13Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 477574297,
-      "character_name": "mwanamke shetani",
-      "corporation_id": 1000046,
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139738109/",
-    "total_value": 1488975012.12,
-    "final_attacker": {
-      "character_name": "Jax Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139737603,
-    "killmail_hash": "55d65965b9de5a8ca804854ed5173244b5874c4b",
-    "kill_time": "2026-11-07T13:10:32Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2116290636,
-      "character_name": "Skynetpro",
-      "corporation_id": 98630296,
-      "corporation_name": "Skynetpro Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139737603/",
-    "total_value": 6092076497.45,
-    "final_attacker": {
-      "character_name": "Jake Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 139736491,
-    "killmail_hash": "e6ebf5c5b58427d6f3faeaa19d9a997342c31265",
-    "kill_time": "2026-11-07T12:27:56Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1038411673,
-      "character_name": "Xeleps",
-      "corporation_id": 98826835,
-      "corporation_name": "Imperial Capital Holdings",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139736491/",
-    "total_value": 1985741464.34,
-    "final_attacker": {
-      "character_name": "Jacob Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139735922,
-    "killmail_hash": "c6dcfac54d9a0035931a25814bd493606f2c17cd",
-    "kill_time": "2026-11-07T11:59:09Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115903453,
-      "character_name": "Haramir 03",
-      "corporation_id": 98838676,
-      "corporation_name": "Chimera Trade Company",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139735922/",
-    "total_value": 4536194183.8,
-    "final_attacker": {
-      "character_name": "Jeremiah Kusion",
-      "corporation_name": "KUSION SPECIAL TEAM",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139735585,
-    "killmail_hash": "dcdeafdfd03e2e7e5cb7792e40a74ee41358f770",
-    "kill_time": "2026-11-07T11:41:40Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 91040222,
-      "character_name": "Veronika Avada",
-      "corporation_id": 98186521,
-      "corporation_name": "Rovell Innovations",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139735585/",
-    "total_value": 5936776071.05,
-    "final_attacker": {
-      "character_name": "bindevent",
-      "corporation_name": "Emergency Temporal Shift.",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
     }
   }
 ]
