@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 139930900,
+    "killmail_hash": "b39d20ccbf645101ab5ae1d62d5d3256c41d5bc8",
+    "kill_time": "2026-11-15T03:58:43Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002539,
+    "solar_system_name": "Siseide",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 942354257,
+      "character_name": "Lauranna Jaedenn",
+      "corporation_id": 98847478,
+      "corporation_name": "Clown Swords Logistics.",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139930900/",
+    "total_value": 7004304852.06,
+    "final_attacker": {
+      "character_name": "Greg Trald",
+      "corporation_name": "Occasionally Accompanied",
+      "alliance_name": null,
+      "ship_type_name": "Revelation Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 139930893,
+    "killmail_hash": "f059ff75399be013884c35cde3c9d4a68ed57bf3",
+    "kill_time": "2026-11-15T03:58:26Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30002539,
+    "solar_system_name": "Siseide",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 514172449,
+      "character_name": "super jew",
+      "corporation_id": 98847478,
+      "corporation_name": "Clown Swords Logistics.",
+      "alliance_id": 99013541,
+      "alliance_name": "Fraternity Auxiliary"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139930893/",
+    "total_value": 7111696020.03,
+    "final_attacker": {
+      "character_name": "Greg Trald",
+      "corporation_name": "Occasionally Accompanied",
+      "alliance_name": null,
+      "ship_type_name": "Revelation Navy Issue"
+    }
+  },
+  {
     "killmail_id": 139925781,
     "killmail_hash": "280dc973b130d8874eddc8993e4e5ecb849fcd33",
     "kill_time": "2026-11-14T23:29:04Z",
@@ -2051,84 +2103,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": "Ganklift Logistics",
       "ship_type_name": "Oracle"
-    }
-  },
-  {
-    "killmail_id": 139756727,
-    "killmail_hash": "a6c619f74d5883451ff0b296934b92584a406a1c",
-    "kill_time": "2026-11-08T03:41:31Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119433453,
-      "character_name": "Definitely Not Ugly",
-      "corporation_id": 464849452,
-      "corporation_name": "Tom Clancyy's Rainbow Six",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139756727/",
-    "total_value": 1791696998.03,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139755551,
-    "killmail_hash": "adcb92add5ed5316deb8d45cfdcee798eefdc984",
-    "kill_time": "2026-11-08T02:39:50Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 90404123,
-      "character_name": "Smertyasha",
-      "corporation_id": 98182237,
-      "corporation_name": "Caladari CareBear Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139755551/",
-    "total_value": 1938900891.91,
-    "final_attacker": {
-      "character_name": "zLegion 06",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139753333,
-    "killmail_hash": "4b8a2837a152a58b7ab3842d8ac8950b194437fa",
-    "kill_time": "2026-11-08T00:22:57Z",
-    "ship_type_id": 28846,
-    "ship_type_name": "Nomad",
-    "solar_system_id": 30001390,
-    "solar_system_name": "Pakkonen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 417866766,
-      "character_name": "bitchio",
-      "corporation_id": 98695005,
-      "corporation_name": "Splintered Dreams",
-      "alliance_id": 1354830081,
-      "alliance_name": "Goonswarm Federation"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139753333/",
-    "total_value": 13251480019.12,
-    "final_attacker": {
-      "character_name": "K Vicemen",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Panther"
     }
   }
 ]
