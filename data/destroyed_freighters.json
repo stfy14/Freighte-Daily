@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 139950185,
+    "killmail_hash": "3c9593172cc4f94cff5f80621c89b1b348b327fd",
+    "kill_time": "2026-11-15T20:35:11Z",
+    "ship_type_id": 20189,
+    "ship_type_name": "Fenrir",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2124822270,
+      "character_name": "Fair Tissant",
+      "corporation_id": 1000180,
+      "corporation_name": "State Protectorate",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139950185/",
+    "total_value": 1469610016.75,
+    "final_attacker": {
+      "character_name": "Superschrauba",
+      "corporation_name": "Solid Ground",
+      "alliance_name": null,
+      "ship_type_name": "Armageddon"
+    }
+  },
+  {
+    "killmail_id": 139948665,
+    "killmail_hash": "d075933760f1884137b7e205eed44c7800f5a3ab",
+    "kill_time": "2026-11-15T19:23:58Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30004937,
+    "solar_system_name": "TCAG-3",
+    "region_name": "Period Basis",
+    "victim": {
+      "character_id": 2123511352,
+      "character_name": "Reivon Mordarion",
+      "corporation_id": 98812037,
+      "corporation_name": "Steel Legion Brotherhood",
+      "alliance_id": 99009163,
+      "alliance_name": "Dracarys."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139948665/",
+    "total_value": 6459108323.06,
+    "final_attacker": {
+      "character_name": "Lost Nubas",
+      "corporation_name": "Lost in dark space",
+      "alliance_name": null,
+      "ship_type_name": "Harbinger Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 139946091,
+    "killmail_hash": "71bd5b09c9a7994b2cdf4df7d3fac94ec6baf22c",
+    "kill_time": "2026-11-15T17:44:04Z",
+    "ship_type_id": 28844,
+    "ship_type_name": "Rhea",
+    "solar_system_id": 30000162,
+    "solar_system_name": "Maila",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 94556424,
+      "character_name": "Stictt Koraka",
+      "corporation_id": 98824360,
+      "corporation_name": "RBK Core Mining Corporation",
+      "alliance_id": 99014548,
+      "alliance_name": "Project Oasis"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139946091/",
+    "total_value": 8431007428.18,
+    "final_attacker": {
+      "character_name": "ThePiratEbay",
+      "corporation_name": "SoT",
+      "alliance_name": "DarkSide.",
+      "ship_type_name": "Redeemer"
+    }
+  },
+  {
     "killmail_id": 139941982,
     "killmail_hash": "efe437840d909d55d4b9d93ef99f846abe4c3fe4",
     "kill_time": "2026-11-15T14:48:44Z",
@@ -1944,84 +2022,6 @@
     "total_value": 11538849261.37,
     "final_attacker": {
       "character_name": "Pinch Hawk",
-      "corporation_name": "Clipped Wingz",
-      "alliance_name": "Gimme Da Loot",
-      "ship_type_name": "Hound"
-    }
-  },
-  {
-    "killmail_id": 139777003,
-    "killmail_hash": "9e9ac25b3401505d4c1934b124a04b8971b0f3a4",
-    "kill_time": "2026-11-08T20:50:53Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 752146938,
-      "character_name": "daxces",
-      "corporation_id": 98297722,
-      "corporation_name": "Space Colony",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139777003/",
-    "total_value": 7543925834.66,
-    "final_attacker": {
-      "character_name": "SiDz3jSVK",
-      "corporation_name": "V0LTA",
-      "alliance_name": "WE FORM V0LTA",
-      "ship_type_name": "Machariel"
-    }
-  },
-  {
-    "killmail_id": 139776981,
-    "killmail_hash": "c9386d8e138b820f395a200fff1825eba9523695",
-    "kill_time": "2026-11-08T20:50:10Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30001385,
-    "solar_system_name": "Jan",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2124203631,
-      "character_name": "Test-Dummy",
-      "corporation_id": 98297722,
-      "corporation_name": "Space Colony",
-      "alliance_id": 99002685,
-      "alliance_name": "Synergy of Steel"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139776981/",
-    "total_value": 6977028607.5,
-    "final_attacker": {
-      "character_name": "Dank WormholeIsk",
-      "corporation_name": "Vatican City Council",
-      "alliance_name": null,
-      "ship_type_name": "Redeemer"
-    }
-  },
-  {
-    "killmail_id": 139772057,
-    "killmail_hash": "4ef7382989f5c9695b883780ebc0dbd553465e36",
-    "kill_time": "2026-11-08T17:46:40Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 93549642,
-      "character_name": "Kristina Lenz",
-      "corporation_id": 98188481,
-      "corporation_name": "Undead Corporation",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139772057/",
-    "total_value": 11384042696.14,
-    "final_attacker": {
-      "character_name": "Irate Hawk",
       "corporation_name": "Clipped Wingz",
       "alliance_name": "Gimme Da Loot",
       "ship_type_name": "Hound"
