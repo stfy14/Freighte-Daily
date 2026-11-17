@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 139976719,
+    "killmail_hash": "8fda766cc2e9c0776809a4502e603a6328ad31c9",
+    "kill_time": "2026-11-17T01:02:53Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30001363,
+    "solar_system_name": "Sobaseki",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2120801899,
+      "character_name": "Proxy Call",
+      "corporation_id": 98817371,
+      "corporation_name": "R.A.A. High Sec Retreat",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139976719/",
+    "total_value": 27328292992.32,
+    "final_attacker": {
+      "character_name": "Painter Alt 17",
+      "corporation_name": "Painter Freight Services",
+      "alliance_name": "Goonswarm Federation",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
     "killmail_id": 139962465,
     "killmail_hash": "8188d451051d47ec5e75ace1c8cbd95fa97f18fd",
     "kill_time": "2026-11-16T10:47:41Z",
@@ -1999,58 +2025,6 @@
       "corporation_name": "The sky is falling apart",
       "alliance_name": "Fraternity Auxiliary",
       "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 139802381,
-    "killmail_hash": "183fc22927800d082b1814231f5086d7e5dc46ba",
-    "kill_time": "2026-11-10T00:28:21Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000046,
-    "solar_system_name": "Mifrata",
-    "region_name": "Derelik",
-    "victim": {
-      "character_id": 2123776432,
-      "character_name": "Mikox Long",
-      "corporation_id": 917701062,
-      "corporation_name": "EVE University",
-      "alliance_id": 937872513,
-      "alliance_name": "Ivy League"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139802381/",
-    "total_value": 1385452908.69,
-    "final_attacker": {
-      "character_name": "Zero Krieg Severasse",
-      "corporation_name": "Rotdhizon Logistics",
-      "alliance_name": "Desolate.",
-      "ship_type_name": "Brutix Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139796271,
-    "killmail_hash": "c01b5d03d20d4e44d9ef07a42b23857442dc07de",
-    "kill_time": "2026-11-09T18:47:22Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30002539,
-    "solar_system_name": "Siseide",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 2121888270,
-      "character_name": "Long Haul Paul",
-      "corporation_id": 98760616,
-      "corporation_name": "Brave Empire Inc.",
-      "alliance_id": 99010079,
-      "alliance_name": "Brave United"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139796271/",
-    "total_value": 2989219985.39,
-    "final_attacker": {
-      "character_name": "Alexandr Nedobryi",
-      "corporation_name": "x Never Regret x",
-      "alliance_name": "C A M E L O T",
-      "ship_type_name": "Caracal Navy Issue"
     }
   }
 ]
