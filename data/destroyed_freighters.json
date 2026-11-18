@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 139997339,
+    "killmail_hash": "b86bfeb7317e8244449feb537e6032f1bd751802",
+    "kill_time": "2026-11-18T00:22:15Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2123206852,
+      "character_name": "Kai d blood",
+      "corporation_id": 98824910,
+      "corporation_name": "Dragons Blood Brotherhood",
+      "alliance_id": 99013972,
+      "alliance_name": "Vikings."
+    },
+    "zkb_url": "https://zkillboard.com/kill/139997339/",
+    "total_value": 1590506586.33,
+    "final_attacker": {
+      "character_name": "zLegion 03",
+      "corporation_name": "L.E.G.I.O.N",
+      "alliance_name": null,
+      "ship_type_name": "Coercer"
+    }
+  },
+  {
     "killmail_id": 139996346,
     "killmail_hash": "4d02ee5469cd42b58feaa478cae59d9e5f8acb2c",
     "kill_time": "2026-11-17T22:57:45Z",
@@ -1869,58 +1895,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139827089,
-    "killmail_hash": "143fea3f40de77416563d714c434003e314308f5",
-    "kill_time": "2026-11-11T05:10:24Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2118702847,
-      "character_name": "Ryan Gooblin",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139827089/",
-    "total_value": 1815530283.97,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 139826309,
-    "killmail_hash": "6364092db1e68a4685bc893122c19e46a5ea24e8",
-    "kill_time": "2026-11-11T04:01:15Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 1968653099,
-      "character_name": "Satan's Tail",
-      "corporation_id": 98160882,
-      "corporation_name": "New Eden War Supply",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139826309/",
-    "total_value": 2511927403.49,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
     }
   }
 ]
