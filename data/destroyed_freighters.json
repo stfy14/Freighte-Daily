@@ -1,5 +1,83 @@
 [
   {
+    "killmail_id": 140017037,
+    "killmail_hash": "4c1affeeaf04d67f8061616568b7c8db7f7b2c22",
+    "kill_time": "2026-11-19T00:09:18Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 92220385,
+      "character_name": "Brigett Hackett",
+      "corporation_id": 98720109,
+      "corporation_name": "Aggravated Indentured Employees",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140017037/",
+    "total_value": 2908815148.27,
+    "final_attacker": {
+      "character_name": "XtacyIn360",
+      "corporation_name": "Blackwater USA Inc.",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Karura"
+    }
+  },
+  {
+    "killmail_id": 140010644,
+    "killmail_hash": "48a8e1e5a662eca2eab54f0c99a4dddd3752e563",
+    "kill_time": "2026-11-18T17:55:14Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002807,
+    "solar_system_name": "Nagamanen",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2121330143,
+      "character_name": "vrolghar d brenen",
+      "corporation_id": 98827845,
+      "corporation_name": "Equinaux",
+      "alliance_id": 99014989,
+      "alliance_name": "Planetside Infinite"
+    },
+    "zkb_url": "https://zkillboard.com/kill/140010644/",
+    "total_value": 2630379987.74,
+    "final_attacker": {
+      "character_name": "MONSTERA Mileghere",
+      "corporation_name": "The Particular of Murder",
+      "alliance_name": "Chaos Warbands",
+      "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 140010568,
+    "killmail_hash": "c8058efb4633b0b7c8f45fd0b64074a7c6a53ab0",
+    "kill_time": "2026-11-18T17:48:55Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30000774,
+    "solar_system_name": "MSG-BZ",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 92121922,
+      "character_name": "Celestia Centauri",
+      "corporation_id": 98370861,
+      "corporation_name": "KarmaFleet",
+      "alliance_id": 1354830081,
+      "alliance_name": "Goonswarm Federation"
+    },
+    "zkb_url": "https://zkillboard.com/kill/140010568/",
+    "total_value": 1389316211.99,
+    "final_attacker": {
+      "character_name": "unquale",
+      "corporation_name": "Kollective efforts",
+      "alliance_name": null,
+      "ship_type_name": "Oracle Navy Issue"
+    }
+  },
+  {
     "killmail_id": 140004851,
     "killmail_hash": "0707df384b6159977de6dc378176d842a80bd5f5",
     "kill_time": "2026-11-18T10:59:48Z",
@@ -179,6 +257,58 @@
       "corporation_name": "Beach Boys",
       "alliance_name": "The Minions.",
       "ship_type_name": "Zealot"
+    }
+  },
+  {
+    "killmail_id": 139994479,
+    "killmail_hash": "59c0702fcb388c5c4c999e77adfbeb96c1cf3881",
+    "kill_time": "2026-11-17T21:04:08Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000143,
+    "solar_system_name": "Niyabainen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2123694276,
+      "character_name": "Astinen Kumamato",
+      "corporation_id": 98816930,
+      "corporation_name": "ARC-Corporation",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139994479/",
+    "total_value": 1353249604.41,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
+    }
+  },
+  {
+    "killmail_id": 139992634,
+    "killmail_hash": "e83202bab5442e5507ad5cac28649da364ebcd89",
+    "kill_time": "2026-11-17T19:45:53Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1620097629,
+      "character_name": "Molina Wu",
+      "corporation_id": 98811680,
+      "corporation_name": "Geras Workshop",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/139992634/",
+    "total_value": 3703946386.81,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
     }
   },
   {
@@ -387,6 +517,32 @@
       "corporation_name": "Painter Freight Services",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Purifier"
+    }
+  },
+  {
+    "killmail_id": 139974109,
+    "killmail_hash": "095cbb569d6e32d7f23b288bc809d12a9b024b48",
+    "kill_time": "2026-11-16T21:50:38Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30000145,
+    "solar_system_name": "New Caldari",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2121181460,
+      "character_name": "Greifi",
+      "corporation_id": 98714189,
+      "corporation_name": "Fliegende Engel",
+      "alliance_id": 99011025,
+      "alliance_name": "New WorId Order"
+    },
+    "zkb_url": "https://zkillboard.com/kill/139974109/",
+    "total_value": 1182736974,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Maelstrom"
     }
   },
   {
@@ -1817,32 +1973,6 @@
       "corporation_name": "Uedama Logistics",
       "alliance_name": "Ganklift Logistics",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139846416,
-    "killmail_hash": "8eb1b83124f839b8ed7fe2c3983c20f7a85a512a",
-    "kill_time": "2026-11-11T23:19:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30004084,
-    "solar_system_name": "Ghesis",
-    "region_name": "Kador",
-    "victim": {
-      "character_id": 95876859,
-      "character_name": "Minotourious",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139846416/",
-    "total_value": 1553097772.83,
-    "final_attacker": {
-      "character_name": "Aphrodite Xiomara",
-      "corporation_name": "Environmental Hazard.",
-      "alliance_name": "Sedition.",
-      "ship_type_name": "Coercer"
     }
   }
 ]
