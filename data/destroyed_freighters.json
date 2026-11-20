@@ -1818,57 +1818,5 @@
       "alliance_name": null,
       "ship_type_name": "Hyperion"
     }
-  },
-  {
-    "killmail_id": 139871571,
-    "killmail_hash": "fb4642dda864331b06c9eba691d929b55305f362",
-    "kill_time": "2026-11-13T02:37:49Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001398,
-    "solar_system_name": "Aunenen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2115769935,
-      "character_name": "Neptune Wright",
-      "corporation_id": 98764120,
-      "corporation_name": "Eviction-Scout Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139871571/",
-    "total_value": 1419553579.72,
-    "final_attacker": {
-      "character_name": "viceman",
-      "corporation_name": "Lowlife.",
-      "alliance_name": "Snuffed Out",
-      "ship_type_name": "Nidhoggur"
-    }
-  },
-  {
-    "killmail_id": 139869220,
-    "killmail_hash": "d483436c0f09beb032911e3ff27c9e0714f5f4ad",
-    "kill_time": "2026-11-12T23:27:50Z",
-    "ship_type_id": 28850,
-    "ship_type_name": "Ark",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2123537421,
-      "character_name": "EarlyPig",
-      "corporation_id": 98598862,
-      "corporation_name": "Chaos arbiter",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139869220/",
-    "total_value": 9304354130.97,
-    "final_attacker": {
-      "character_name": "HKzz",
-      "corporation_name": "Aurora.",
-      "alliance_name": null,
-      "ship_type_name": "Widow"
-    }
   }
 ]
