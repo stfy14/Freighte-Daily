@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 140085968,
+    "killmail_hash": "54456faddcaf9e07593015348eec9c8cfe475d96",
+    "kill_time": "2026-11-22T01:38:40Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30003467,
+    "solar_system_name": "Frulegur",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2116680041,
+      "character_name": "Bob3 Tokila",
+      "corporation_id": 98655714,
+      "corporation_name": "HyaSundra Corp",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140085968/",
+    "total_value": 3209661881.26,
+    "final_attacker": {
+      "character_name": "Nasbashov Ibruin",
+      "corporation_name": "Jian Sheng",
+      "alliance_name": null,
+      "ship_type_name": "Vargur"
+    }
+  },
+  {
+    "killmail_id": 140083394,
+    "killmail_hash": "cfff37ec3e81ca9bca039d2666911a7d502d82cc",
+    "kill_time": "2026-11-21T22:42:09Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30000153,
+    "solar_system_name": "Poinen",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 1409713359,
+      "character_name": "Jesi James",
+      "corporation_id": 98407706,
+      "corporation_name": "Failcascade.",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140083394/",
+    "total_value": 2326550850.67,
+    "final_attacker": {
+      "character_name": "Little Miss Greedy",
+      "corporation_name": "Midget Mafia Contract Crew",
+      "alliance_name": "Novus Ordo.",
+      "ship_type_name": "Naga"
+    }
+  },
+  {
     "killmail_id": 140075221,
     "killmail_hash": "fa0f879df517d2a2d35054d94d91aa93a5179adf",
     "kill_time": "2026-11-21T17:03:46Z",
@@ -1531,84 +1583,6 @@
       "corporation_name": "RobinHood Dynasty",
       "alliance_name": null,
       "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 139930900,
-    "killmail_hash": "b39d20ccbf645101ab5ae1d62d5d3256c41d5bc8",
-    "kill_time": "2026-11-15T03:58:43Z",
-    "ship_type_id": 28848,
-    "ship_type_name": "Anshar",
-    "solar_system_id": 30002539,
-    "solar_system_name": "Siseide",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 942354257,
-      "character_name": "Lauranna Jaedenn",
-      "corporation_id": 98847478,
-      "corporation_name": "Clown Swords Logistics.",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139930900/",
-    "total_value": 7004304852.06,
-    "final_attacker": {
-      "character_name": "Greg Trald",
-      "corporation_name": "Occasionally Accompanied",
-      "alliance_name": null,
-      "ship_type_name": "Revelation Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139930893,
-    "killmail_hash": "f059ff75399be013884c35cde3c9d4a68ed57bf3",
-    "kill_time": "2026-11-15T03:58:26Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30002539,
-    "solar_system_name": "Siseide",
-    "region_name": "Heimatar",
-    "victim": {
-      "character_id": 514172449,
-      "character_name": "super jew",
-      "corporation_id": 98847478,
-      "corporation_name": "Clown Swords Logistics.",
-      "alliance_id": 99013541,
-      "alliance_name": "Fraternity Auxiliary"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139930893/",
-    "total_value": 7111696020.03,
-    "final_attacker": {
-      "character_name": "Greg Trald",
-      "corporation_name": "Occasionally Accompanied",
-      "alliance_name": null,
-      "ship_type_name": "Revelation Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139925781,
-    "killmail_hash": "280dc973b130d8874eddc8993e4e5ecb849fcd33",
-    "kill_time": "2026-11-14T23:29:04Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 92582346,
-      "character_name": "Clamydia Lozenge",
-      "corporation_id": 98438878,
-      "corporation_name": "The Nordic Associates",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139925781/",
-    "total_value": 1468182204.69,
-    "final_attacker": {
-      "character_name": "Void Weaver",
-      "corporation_name": "Commonwealth Mercenaries",
-      "alliance_name": "BLACKFLAG.",
-      "ship_type_name": "Akoman"
     }
   }
 ]
