@@ -1,5 +1,31 @@
 [
   {
+    "killmail_id": 140105479,
+    "killmail_hash": "16737151dd2ac132e50526c4f4acd3651bc67422",
+    "kill_time": "2026-11-22T19:38:42Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30045324,
+    "solar_system_name": "Onnamon",
+    "region_name": "Black Rise",
+    "victim": {
+      "character_id": 1794815303,
+      "character_name": "Scarlexis",
+      "corporation_id": 98188294,
+      "corporation_name": "Moonlight Crusaders",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140105479/",
+    "total_value": 1848483626.28,
+    "final_attacker": {
+      "character_name": "Argon Trime",
+      "corporation_name": "Instantaneous Detonation",
+      "alliance_name": null,
+      "ship_type_name": "Exequror Navy Issue"
+    }
+  },
+  {
     "killmail_id": 140099402,
     "killmail_hash": "1ba167b5be564c5f941583f5bd9c6a38b8e5d63b",
     "kill_time": "2026-11-22T15:21:12Z",
@@ -1531,162 +1557,6 @@
       "corporation_name": "Cohenberg's Ethical Capital Production",
       "alliance_name": "Goonswarm Federation",
       "ship_type_name": "Brutix"
-    }
-  },
-  {
-    "killmail_id": 139954265,
-    "killmail_hash": "44339b9c38b3c7ead4ec7670953fdab71403db7f",
-    "kill_time": "2026-11-16T00:08:06Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30003467,
-    "solar_system_name": "Frulegur",
-    "region_name": "Metropolis",
-    "victim": {
-      "character_id": 2124055902,
-      "character_name": "TheFallen666",
-      "corporation_id": 98764120,
-      "corporation_name": "Eviction-Scout Inc.",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139954265/",
-    "total_value": 1358712318.42,
-    "final_attacker": {
-      "character_name": "Diabolai Lionheart",
-      "corporation_name": "Beyond Redemption Corp",
-      "alliance_name": "Beyond Redemption.",
-      "ship_type_name": "Panther"
-    }
-  },
-  {
-    "killmail_id": 139953265,
-    "killmail_hash": "df2146c2a3401dc501dbd04d0ee3ef9d84156895",
-    "kill_time": "2026-11-15T23:06:52Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2123213127,
-      "character_name": "Puramaya Penken",
-      "corporation_id": 98285854,
-      "corporation_name": "Ember Inc.",
-      "alliance_id": 1988009451,
-      "alliance_name": "Curatores Veritatis Alliance"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139953265/",
-    "total_value": 2027998612.88,
-    "final_attacker": {
-      "character_name": "Emoh Manal Izia",
-      "corporation_name": "RobinHood Dynasty",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 139950442,
-    "killmail_hash": "479172967790ec0685eb3f47a546fad9a11ed314",
-    "kill_time": "2026-11-15T20:47:29Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2115747326,
-      "character_name": "Phobos Alabel",
-      "corporation_id": 98786144,
-      "corporation_name": "Hexaris Enterprises",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139950442/",
-    "total_value": 2711855331.04,
-    "final_attacker": {
-      "character_name": "Emoh Manal Izia",
-      "corporation_name": "RobinHood Dynasty",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
-    }
-  },
-  {
-    "killmail_id": 139950185,
-    "killmail_hash": "3c9593172cc4f94cff5f80621c89b1b348b327fd",
-    "kill_time": "2026-11-15T20:35:11Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30000142,
-    "solar_system_name": "Jita",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2124822270,
-      "character_name": "Fair Tissant",
-      "corporation_id": 1000180,
-      "corporation_name": "State Protectorate",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139950185/",
-    "total_value": 1469610016.75,
-    "final_attacker": {
-      "character_name": "Superschrauba",
-      "corporation_name": "Solid Ground",
-      "alliance_name": null,
-      "ship_type_name": "Armageddon"
-    }
-  },
-  {
-    "killmail_id": 139948665,
-    "killmail_hash": "d075933760f1884137b7e205eed44c7800f5a3ab",
-    "kill_time": "2026-11-15T19:23:58Z",
-    "ship_type_id": 81040,
-    "ship_type_name": "Avalanche",
-    "solar_system_id": 30004937,
-    "solar_system_name": "TCAG-3",
-    "region_name": "Period Basis",
-    "victim": {
-      "character_id": 2123511352,
-      "character_name": "Reivon Mordarion",
-      "corporation_id": 98812037,
-      "corporation_name": "Steel Legion Brotherhood",
-      "alliance_id": 99009163,
-      "alliance_name": "Dracarys."
-    },
-    "zkb_url": "https://zkillboard.com/kill/139948665/",
-    "total_value": 6459108323.06,
-    "final_attacker": {
-      "character_name": "Lost Nubas",
-      "corporation_name": "Lost in dark space",
-      "alliance_name": null,
-      "ship_type_name": "Harbinger Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 139946091,
-    "killmail_hash": "71bd5b09c9a7994b2cdf4df7d3fac94ec6baf22c",
-    "kill_time": "2026-11-15T17:44:04Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000162,
-    "solar_system_name": "Maila",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 94556424,
-      "character_name": "Stictt Koraka",
-      "corporation_id": 98824360,
-      "corporation_name": "RBK Core Mining Corporation",
-      "alliance_id": 99014548,
-      "alliance_name": "Project Oasis"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139946091/",
-    "total_value": 8431007428.18,
-    "final_attacker": {
-      "character_name": "ThePiratEbay",
-      "corporation_name": "SoT",
-      "alliance_name": "DarkSide.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
