@@ -1,5 +1,161 @@
 [
   {
+    "killmail_id": 140129517,
+    "killmail_hash": "54f347d42ebdf8afeaf0bb230428da90f2300709",
+    "kill_time": "2026-11-23T22:27:54Z",
+    "ship_type_id": 81040,
+    "ship_type_name": "Avalanche",
+    "solar_system_id": 30000142,
+    "solar_system_name": "Jita",
+    "region_name": "The Forge",
+    "victim": {
+      "character_id": 2122555084,
+      "character_name": "Kuras Hakoke",
+      "corporation_id": 98792068,
+      "corporation_name": "New Way Our Way",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140129517/",
+    "total_value": 7263566570.44,
+    "final_attacker": {
+      "character_name": "Amadeo Giannini",
+      "corporation_name": "Sebiestor Tribe",
+      "alliance_name": null,
+      "ship_type_name": "Kronos"
+    }
+  },
+  {
+    "killmail_id": 140127637,
+    "killmail_hash": "e8143c856f55ff446eb19405b7994e403f064b24",
+    "kill_time": "2026-11-23T20:48:13Z",
+    "ship_type_id": 34328,
+    "ship_type_name": "Bowhead",
+    "solar_system_id": 30005308,
+    "solar_system_name": "Jufvitte",
+    "region_name": "Verge Vendor",
+    "victim": {
+      "character_id": 158634209,
+      "character_name": "Jade Constantine",
+      "corporation_id": 176404671,
+      "corporation_name": "Jericho Fraction",
+      "alliance_id": 1439416485,
+      "alliance_name": "The Star Fraction"
+    },
+    "zkb_url": "https://zkillboard.com/kill/140127637/",
+    "total_value": 2091776644.88,
+    "final_attacker": {
+      "character_name": "WE DELIVER",
+      "corporation_name": "The Priesthood",
+      "alliance_name": "WeR4",
+      "ship_type_name": "Machariel"
+    }
+  },
+  {
+    "killmail_id": 140125223,
+    "killmail_hash": "340899a1d8aba94641336ca82a285e47380c01c7",
+    "kill_time": "2026-11-23T18:58:22Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30004203,
+    "solar_system_name": "L-Z9NB",
+    "region_name": "Cobalt Edge",
+    "victim": {
+      "character_id": 2118054753,
+      "character_name": "Sky-Recardo",
+      "corporation_id": 98702890,
+      "corporation_name": "Descendants of Shen Nong",
+      "alliance_id": 99003581,
+      "alliance_name": "Fraternity."
+    },
+    "zkb_url": "https://zkillboard.com/kill/140125223/",
+    "total_value": 4488285301.67,
+    "final_attacker": {
+      "character_name": "romanoz ge",
+      "corporation_name": "Wolframium",
+      "alliance_name": "Cold Horizon",
+      "ship_type_name": "Muninn"
+    }
+  },
+  {
+    "killmail_id": 140122235,
+    "killmail_hash": "4010d6ade34b69f163224112145444f99e2417f0",
+    "kill_time": "2026-11-23T15:51:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95624839,
+      "character_name": "Dr Elizabeth McNeil",
+      "corporation_id": 98744143,
+      "corporation_name": "Argus Logistics Support",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140122235/",
+    "total_value": 1452684334.85,
+    "final_attacker": {
+      "character_name": "Blueprint Research 8-2",
+      "corporation_name": "TOONII's Asset Management",
+      "alliance_name": "Synergy of Steel",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 140121481,
+    "killmail_hash": "749edb68445100ff2d69b73097e2d8de7a880002",
+    "kill_time": "2026-11-23T15:12:58Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 95843123,
+      "character_name": "Rufus Zufall",
+      "corporation_id": 1000072,
+      "corporation_name": "Imperial Shipment",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140121481/",
+    "total_value": 4834518391.92,
+    "final_attacker": {
+      "character_name": "Blueprint Research 4-2",
+      "corporation_name": "TOONII's Asset Management",
+      "alliance_name": "Synergy of Steel",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
+    "killmail_id": 140120492,
+    "killmail_hash": "4583286f4868e428ca978e7efee1c24249bc518c",
+    "kill_time": "2026-11-23T14:15:58Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30002768,
+    "solar_system_name": "Uedama",
+    "region_name": "The Citadel",
+    "victim": {
+      "character_id": 2116697762,
+      "character_name": "SuubWahay Sanwinch",
+      "corporation_id": 98220204,
+      "corporation_name": "AT Enterprises",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140120492/",
+    "total_value": 3329350680.41,
+    "final_attacker": {
+      "character_name": "Mining Mercenary 13",
+      "corporation_name": "TOONII's Asset Management",
+      "alliance_name": "Synergy of Steel",
+      "ship_type_name": "Catalyst"
+    }
+  },
+  {
     "killmail_id": 140116526,
     "killmail_hash": "3e9272ed965ddbe750531763307dba7d207c6389",
     "kill_time": "2026-11-23T08:40:25Z",
@@ -1375,84 +1531,6 @@
       "corporation_name": "L.E.G.I.O.N",
       "alliance_name": null,
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 139976719,
-    "killmail_hash": "8fda766cc2e9c0776809a4502e603a6328ad31c9",
-    "kill_time": "2026-11-17T01:02:53Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001363,
-    "solar_system_name": "Sobaseki",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2120801899,
-      "character_name": "Proxy Call",
-      "corporation_id": 98817371,
-      "corporation_name": "R.A.A. High Sec Retreat",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/139976719/",
-    "total_value": 27328292992.32,
-    "final_attacker": {
-      "character_name": "Painter Alt 17",
-      "corporation_name": "Painter Freight Services",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Purifier"
-    }
-  },
-  {
-    "killmail_id": 139974109,
-    "killmail_hash": "095cbb569d6e32d7f23b288bc809d12a9b024b48",
-    "kill_time": "2026-11-16T21:50:38Z",
-    "ship_type_id": 34328,
-    "ship_type_name": "Bowhead",
-    "solar_system_id": 30000145,
-    "solar_system_name": "New Caldari",
-    "region_name": "The Forge",
-    "victim": {
-      "character_id": 2121181460,
-      "character_name": "Greifi",
-      "corporation_id": 98714189,
-      "corporation_name": "Fliegende Engel",
-      "alliance_id": 99011025,
-      "alliance_name": "New WorId Order"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139974109/",
-    "total_value": 1182736974,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Maelstrom"
-    }
-  },
-  {
-    "killmail_id": 139972141,
-    "killmail_hash": "4b0a9302423d972e1f74a05ace9e075e40b631be",
-    "kill_time": "2026-11-16T20:21:29Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30001390,
-    "solar_system_name": "Pakkonen",
-    "region_name": "Lonetrek",
-    "victim": {
-      "character_id": 2124191830,
-      "character_name": "JackDaniel5",
-      "corporation_id": 98595110,
-      "corporation_name": "Absolute Order",
-      "alliance_id": 99010386,
-      "alliance_name": "Absolute Honor"
-    },
-    "zkb_url": "https://zkillboard.com/kill/139972141/",
-    "total_value": 1513583563.01,
-    "final_attacker": {
-      "character_name": "slave man",
-      "corporation_name": "The Ring Sting",
-      "alliance_name": "ur dunked",
-      "ship_type_name": "Widow"
     }
   }
 ]
