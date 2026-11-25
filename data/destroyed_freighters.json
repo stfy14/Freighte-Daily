@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 140156829,
+    "killmail_hash": "d2d86042ba7230fa6201fb0a07fb5468e4373dfc",
+    "kill_time": "2026-11-25T12:11:08Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30003470,
+    "solar_system_name": "Odebeinn",
+    "region_name": "Metropolis",
+    "victim": {
+      "character_id": 2115265579,
+      "character_name": "Kodakk Black",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140156829/",
+    "total_value": 1491571886.81,
+    "final_attacker": {
+      "character_name": "besh08085",
+      "corporation_name": "Infinity Avenger",
+      "alliance_name": "Snuffed Out",
+      "ship_type_name": "Karura"
+    }
+  },
+  {
+    "killmail_id": 140152388,
+    "killmail_hash": "0d1ff53b4fe3768ae0d2acf014f8a145fb9891c9",
+    "kill_time": "2026-11-25T03:41:48Z",
+    "ship_type_id": 28848,
+    "ship_type_name": "Anshar",
+    "solar_system_id": 30002537,
+    "solar_system_name": "Amamake",
+    "region_name": "Heimatar",
+    "victim": {
+      "character_id": 1944325668,
+      "character_name": "gas guzzler",
+      "corporation_id": 98213025,
+      "corporation_name": "i'm from the government and i'm here to help",
+      "alliance_id": 99012009,
+      "alliance_name": "Minmatar Fleet Associates"
+    },
+    "zkb_url": "https://zkillboard.com/kill/140152388/",
+    "total_value": 7399817856.27,
+    "final_attacker": {
+      "character_name": "M CaptainSarge",
+      "corporation_name": "The Terrifying League Of Dog Fort",
+      "alliance_name": "Deepwater Hooligans",
+      "ship_type_name": "Hel"
+    }
+  },
+  {
     "killmail_id": 140149861,
     "killmail_hash": "e979cd0546d5f58d55f55ef9bccb7e3ab43a5f66",
     "kill_time": "2026-11-24T23:57:48Z",
@@ -1297,110 +1349,6 @@
       "corporation_name": "Kollective efforts",
       "alliance_name": null,
       "ship_type_name": "Oracle Navy Issue"
-    }
-  },
-  {
-    "killmail_id": 140004851,
-    "killmail_hash": "0707df384b6159977de6dc378176d842a80bd5f5",
-    "kill_time": "2026-11-18T10:59:48Z",
-    "ship_type_id": 20183,
-    "ship_type_name": "Providence",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1877002210,
-      "character_name": "ylva mattson",
-      "corporation_id": 98639656,
-      "corporation_name": "Mattson Industries",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/140004851/",
-    "total_value": 5463116160.43,
-    "final_attacker": {
-      "character_name": "zLegion 22",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 140004435,
-    "killmail_hash": "5b56e59138d621bd318a58ed306e6b335d71d80d",
-    "kill_time": "2026-11-18T10:17:51Z",
-    "ship_type_id": 20187,
-    "ship_type_name": "Obelisk",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2119818351,
-      "character_name": "NaStY BoLoGnA",
-      "corporation_id": 98789094,
-      "corporation_name": "Rigged Solutions",
-      "alliance_id": 99014766,
-      "alliance_name": "Rigged Outcomes"
-    },
-    "zkb_url": "https://zkillboard.com/kill/140004435/",
-    "total_value": 4699677087.29,
-    "final_attacker": {
-      "character_name": "Amadeo Giannini",
-      "corporation_name": "Sebiestor Tribe",
-      "alliance_name": null,
-      "ship_type_name": "Kronos"
-    }
-  },
-  {
-    "killmail_id": 140003340,
-    "killmail_hash": "c4c943f848fd79937cfdfe56ae0f07c802bbf0fb",
-    "kill_time": "2026-11-18T08:44:00Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 1701443673,
-      "character_name": "Ganja Paxil",
-      "corporation_id": 2028783197,
-      "corporation_name": "Carebearly Legal",
-      "alliance_id": 99013719,
-      "alliance_name": "Keys Network"
-    },
-    "zkb_url": "https://zkillboard.com/kill/140003340/",
-    "total_value": 3580090437.36,
-    "final_attacker": {
-      "character_name": "zLegion 02",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 140002979,
-    "killmail_hash": "13ddcc924275b3b2d77d36aef34b65995c8de02c",
-    "kill_time": "2026-11-18T08:05:43Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002786,
-    "solar_system_name": "Ikao",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115736400,
-      "character_name": "Horscht Vollstitch",
-      "corporation_id": 98460531,
-      "corporation_name": "Ironman Inc.",
-      "alliance_id": 1042504553,
-      "alliance_name": "Solyaris Chtonium"
-    },
-    "zkb_url": "https://zkillboard.com/kill/140002979/",
-    "total_value": 8535263554.3,
-    "final_attacker": {
-      "character_name": "zLegion E",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Talos"
     }
   }
 ]
