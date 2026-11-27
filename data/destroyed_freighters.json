@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 140183698,
+    "killmail_hash": "bd74511e28cbafdb0aee8be5e2da648b48b78133",
+    "kill_time": "2026-11-26T21:09:21Z",
+    "ship_type_id": 20187,
+    "ship_type_name": "Obelisk",
+    "solar_system_id": 30000784,
+    "solar_system_name": "YPW-M4",
+    "region_name": "Insmother",
+    "victim": {
+      "character_id": 2124738176,
+      "character_name": "QAxel",
+      "corporation_id": 98169165,
+      "corporation_name": "Brave Newbies Inc.",
+      "alliance_id": 99003214,
+      "alliance_name": "Brave Collective"
+    },
+    "zkb_url": "https://zkillboard.com/kill/140183698/",
+    "total_value": 3044041872.26,
+    "final_attacker": {
+      "character_name": "Khamul Corleone",
+      "corporation_name": "The Holy Church of the Barghest",
+      "alliance_name": "The Excommunicati",
+      "ship_type_name": "Omen Navy Issue"
+    }
+  },
+  {
+    "killmail_id": 140182825,
+    "killmail_hash": "90ed6a1e22e52f7175ffc588ec528b0df4ca368f",
+    "kill_time": "2026-11-26T20:15:43Z",
+    "ship_type_id": 20183,
+    "ship_type_name": "Providence",
+    "solar_system_id": 30001379,
+    "solar_system_name": "Tunttaras",
+    "region_name": "Lonetrek",
+    "victim": {
+      "character_id": 2124042406,
+      "character_name": "Musclehead Luke",
+      "corporation_id": 98832108,
+      "corporation_name": "Fifth n Vine",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140182825/",
+    "total_value": 30241626180.26,
+    "final_attacker": {
+      "character_name": "Armian Doshu",
+      "corporation_name": "RobinHood Dynasty",
+      "alliance_name": null,
+      "ship_type_name": "Cenotaph"
+    }
+  },
+  {
     "killmail_id": 140167453,
     "killmail_hash": "e01bc979acc94f679006934575e08c476efda2ac",
     "kill_time": "2026-11-25T22:45:09Z",
@@ -1167,110 +1219,6 @@
       "corporation_name": "TOONII's Asset Management",
       "alliance_name": "Synergy of Steel",
       "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 140034279,
-    "killmail_hash": "26c22daf89e01fbea9f2a3aaf926f9f8421e87c5",
-    "kill_time": "2026-11-19T21:59:18Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000240,
-    "solar_system_name": "4-HWWF",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2113127332,
-      "character_name": "Justin Yeranus",
-      "corporation_id": 323998201,
-      "corporation_name": "Militaris Industries",
-      "alliance_id": 1727758877,
-      "alliance_name": "Northern Coalition."
-    },
-    "zkb_url": "https://zkillboard.com/kill/140034279/",
-    "total_value": 8175774541.33,
-    "final_attacker": {
-      "character_name": "Vanilla I",
-      "corporation_name": "Amok.",
-      "alliance_name": "Goonswarm Federation",
-      "ship_type_name": "Widow"
-    }
-  },
-  {
-    "killmail_id": 140034216,
-    "killmail_hash": "81f064c407488117070047811430bfbe6fa81908",
-    "kill_time": "2026-11-19T21:54:09Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30005196,
-    "solar_system_name": "Ahbazon",
-    "region_name": "Genesis",
-    "victim": {
-      "character_id": 95876859,
-      "character_name": "Minotourious",
-      "corporation_id": 1000044,
-      "corporation_name": "School of Applied Knowledge",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/140034216/",
-    "total_value": 2875840567.74,
-    "final_attacker": {
-      "character_name": "Phukwanto Destroyer",
-      "corporation_name": "Lestat's Clan",
-      "alliance_name": "Ligma Grindset",
-      "ship_type_name": "Tornado"
-    }
-  },
-  {
-    "killmail_id": 140029315,
-    "killmail_hash": "a98b9ab69169ecc183e8e1c959f2a55aed8a2c72",
-    "kill_time": "2026-11-19T17:03:57Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2115476748,
-      "character_name": "First Son HouseBanere",
-      "corporation_id": 98805174,
-      "corporation_name": "The Laughing Dragon",
-      "alliance_id": 99011193,
-      "alliance_name": "Pewgilism."
-    },
-    "zkb_url": "https://zkillboard.com/kill/140029315/",
-    "total_value": 5286349835.17,
-    "final_attacker": {
-      "character_name": "Mining Mercenary 17",
-      "corporation_name": "TOONII's Asset Management",
-      "alliance_name": "Synergy of Steel",
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 140027760,
-    "killmail_hash": "77bc2c85b509e2b506316b3c98fbf9ddc484e96f",
-    "kill_time": "2026-11-19T15:35:14Z",
-    "ship_type_id": 28844,
-    "ship_type_name": "Rhea",
-    "solar_system_id": 30000241,
-    "solar_system_name": "YMJG-4",
-    "region_name": "Vale of the Silent",
-    "victim": {
-      "character_id": 2113587378,
-      "character_name": "Greed Islanl",
-      "corporation_id": 98599770,
-      "corporation_name": "Fraternity Building Management",
-      "alliance_id": 99003581,
-      "alliance_name": "Fraternity."
-    },
-    "zkb_url": "https://zkillboard.com/kill/140027760/",
-    "total_value": 7684213883.18,
-    "final_attacker": {
-      "character_name": "Prime Uisen",
-      "corporation_name": "Extropic Industries",
-      "alliance_name": "The Initiative.",
-      "ship_type_name": "Redeemer"
     }
   }
 ]
