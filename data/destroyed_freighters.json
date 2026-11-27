@@ -1,5 +1,57 @@
 [
   {
+    "killmail_id": 140192355,
+    "killmail_hash": "7791f711db9d0583ce70fc2e82f293c85868b657",
+    "kill_time": "2026-11-27T11:00:01Z",
+    "ship_type_id": 28846,
+    "ship_type_name": "Nomad",
+    "solar_system_id": 30002645,
+    "solar_system_name": "Carrou",
+    "region_name": "Sinq Laison",
+    "victim": {
+      "character_id": 90871384,
+      "character_name": "Crynsos Cealion",
+      "corporation_id": 98696236,
+      "corporation_name": "Set Phasers To Malky",
+      "alliance_id": 99013187,
+      "alliance_name": "The Obsidian Front - Reborn"
+    },
+    "zkb_url": "https://zkillboard.com/kill/140192355/",
+    "total_value": 7714869554.09,
+    "final_attacker": {
+      "character_name": "Schantal",
+      "corporation_name": "it would have lived if it were a shield super",
+      "alliance_name": "ur dunked",
+      "ship_type_name": "Nyx"
+    }
+  },
+  {
+    "killmail_id": 140188764,
+    "killmail_hash": "d4876584d256163c97c2e83dd1ebc37950cb5447",
+    "kill_time": "2026-11-27T03:47:42Z",
+    "ship_type_id": 20185,
+    "ship_type_name": "Charon",
+    "solar_system_id": 30004980,
+    "solar_system_name": "Fliet",
+    "region_name": "Essence",
+    "victim": {
+      "character_id": 2123627563,
+      "character_name": "sr kiter",
+      "corporation_id": 1000165,
+      "corporation_name": "Hedion University",
+      "alliance_id": null,
+      "alliance_name": null
+    },
+    "zkb_url": "https://zkillboard.com/kill/140188764/",
+    "total_value": 1600816529.64,
+    "final_attacker": {
+      "character_name": "PolestarxOTO",
+      "corporation_name": "Silent Sojourner",
+      "alliance_name": "Shadow Cartel",
+      "ship_type_name": "Proteus"
+    }
+  },
+  {
     "killmail_id": 140183698,
     "killmail_hash": "bd74511e28cbafdb0aee8be5e2da648b48b78133",
     "kill_time": "2026-11-26T21:09:21Z",
@@ -1167,58 +1219,6 @@
       "corporation_name": "Critical Pressure",
       "alliance_name": "Sleeper Protocol",
       "ship_type_name": "Gila"
-    }
-  },
-  {
-    "killmail_id": 140041957,
-    "killmail_hash": "693831a6374a96e1d6957a0e629f573a2bfa93ab",
-    "kill_time": "2026-11-20T10:42:34Z",
-    "ship_type_id": 20185,
-    "ship_type_name": "Charon",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2121433846,
-      "character_name": "Duke X1",
-      "corporation_id": 98745576,
-      "corporation_name": "Euronext Brussels",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/140041957/",
-    "total_value": 1417452987.68,
-    "final_attacker": {
-      "character_name": "zLegion 20",
-      "corporation_name": "L.E.G.I.O.N",
-      "alliance_name": null,
-      "ship_type_name": "Catalyst"
-    }
-  },
-  {
-    "killmail_id": 140040834,
-    "killmail_hash": "d94b85e10e3eb765cba4b62a73b7c3c1c03db451",
-    "kill_time": "2026-11-20T08:40:40Z",
-    "ship_type_id": 20189,
-    "ship_type_name": "Fenrir",
-    "solar_system_id": 30002768,
-    "solar_system_name": "Uedama",
-    "region_name": "The Citadel",
-    "victim": {
-      "character_id": 2124098822,
-      "character_name": "Reggie Ashwell",
-      "corporation_id": 98827767,
-      "corporation_name": "Gas Rats Cloudworks",
-      "alliance_id": null,
-      "alliance_name": null
-    },
-    "zkb_url": "https://zkillboard.com/kill/140040834/",
-    "total_value": 2287068819.95,
-    "final_attacker": {
-      "character_name": "Mining Mercenary 25",
-      "corporation_name": "TOONII's Asset Management",
-      "alliance_name": "Synergy of Steel",
-      "ship_type_name": "Catalyst"
     }
   }
 ]
